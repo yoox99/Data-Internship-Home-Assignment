@@ -5,7 +5,7 @@ from etl_dag import extract, transform, load, clean_description, transform_schem
 
 def test_extract(tmpdir):
     # Create a temporary directory for test files
-    test_folder = tmpdir.mkdir("tests")
+    test_folder = tmpdir.mkdir("test_data")
     test_file = test_folder.join("jobs.csv")
     test_file.write("context\n{\"job\": {\"title\": \"Test Job\"}}")
 
@@ -13,7 +13,7 @@ def test_extract(tmpdir):
     extract(test_file, test_folder)
 
     # Check if the extracted file is created
-    extracted_file = test_folder.join("extracted.txt")
+    extracted_file = test_folder.join("extracted_0.txt")
     assert extracted_file.exists()
 
 def test_clean_description():
@@ -62,5 +62,5 @@ def test_etl_dag(tmpdir):
     load(transformed_data, staging_folder.join("jobs.db"))
 
     # Check if the transformed file is created
-    transformed_file = staging_folder.join("transformed", "transformed.txt")
+    transformed_file = staging_folder.join("transformed", "transformed_0.txt")
     assert transformed_file.exists()
