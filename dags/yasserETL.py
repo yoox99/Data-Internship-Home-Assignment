@@ -1,249 +1,29 @@
+# Importation of librairies
 from datetime import timedelta, datetime
-import pandas as pd
-import json
-import os
-from bs4 import BeautifulSoup
-from airflow.decorators import dag, task
+from airflow import DAG
 from airflow.providers.sqlite.hooks.sqlite import SqliteHook
 from airflow.providers.sqlite.operators.sqlite import SqliteOperator
-from sqlalchemy import create_engine, Column, Integer, String, Text, Date, ForeignKey
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy import create_engine
+from airflow.operators.python_operator import PythonOperator
+from bs4 import BeautifulSoup
+import pandas as pd
+import os
+import json
+import html
 
-Base = declarative_base()
+# Static paths
 
-class Job(Base):
-    __tablename__ = 'job'
-    id = Column(Integer, primary_key=True, autoincrement=True)
-    title = Column(String(225))
-    industry = Column(String(225))
-    description = Column(Text)
-    employment_type = Column(String(125))
-    date_posted = Column(Date)
+FILE_PATH = '/opt/airflow/source/jobs.csv'
+DESTINATION = '/opt/airflow/staging/extracted'
+TRANSF = '/opt/airflow/staging/transformed'
 
-class Company(Base):
-    __tablename__ = 'company'
-    id = Column(Integer, primary_key=True, autoincrement=True)
-    job_id = Column(Integer, ForeignKey('job.id'))
-    name = Column(String(225))
-    link = Column(String)
-
-class Education(Base):
-    __tablename__ = 'education'
-    id = Column(Integer, primary_key=True, autoincrement=True)
-    job_id = Column(Integer, ForeignKey('job.id'))
-    required_credential = Column(String(225))
-
-class Experience(Base):
-    __tablename__ = 'experience'
-    id = Column(Integer, primary_key=True, autoincrement=True)
-    job_id = Column(Integer, ForeignKey('job.id'))
-    months_of_experience = Column(Integer)
-    seniority_level = Column(String(25))
-
-class Salary(Base):
-    __tablename__ = 'salary'
-    id = Column(Integer, primary_key=True, autoincrement=True)
-    job_id = Column(Integer, ForeignKey('job.id'))
-    currency = Column(String(3))
-    min_value = Column(Numeric)
-    max_value = Column(Numeric)
-    unit = Column(String(12))
-
-class Location(Base):
-    __tablename__ = 'location'
-    id = Column(Integer, primary_key=True, autoincrement=True)
-    job_id = Column(Integer, ForeignKey('job.id'))
-    country = Column(String(60))
-    locality = Column(String(60))
-    region = Column(String(60))
-    postal_code = Column(String(25))
-    street_address = Column(String(225))
-    latitude = Column(Numeric)
-    longitude = Column(Numeric)
-
-@task()
-def extract(file_path, output_folder):
-    """Extract data from jobs.csv."""
-    df = pd.read_csv(file_path)
-    context_column = df['context']
-
-    for idx, context_data in enumerate(context_column):
-        output_file = os.path.join(output_folder, f"extracted_{idx}.txt")
-        save_text_to_file(output_file, str(context_data))
-
-@task()
-def transform(input_folder, output_folder):
-    """Clean and convert extracted elements to json."""
-    transformed_data_list = []
-
-    for filename in os.listdir(input_folder):
-        with open(os.path.join(input_folder, filename), 'r') as file:
-            context_data = json.load(file)
-
-            # Clean job description
-            cleaned_description = clean_description(context_data['job']['description'])
-            context_data['job']['description'] = cleaned_description
-
-            # Transform the schema
-            transformed_data = transform_schema(context_data)
-            transformed_data_list.append(transformed_data)
-
-            output_file = os.path.join(output_folder, f"transformed_{filename}")
-            save_json_to_file(output_file, transformed_data)
-
-    return transformed_data_list
-
-def clean_description(description):
-    # Your cleaning logic for job description
-    soup = BeautifulSoup(description, 'html.parser')
-    return soup.get_text()
-
-def transform(input_folder, output_folder):
-        """Clean and convert extracted elements to json."""
-        transformed_data_list = []
-
-        for filename in os.listdir(input_folder):
-            with open(os.path.join(input_folder, filename), 'r') as file:
-                context_data = json.load(file)
-
-                # Clean job description
-                cleaned_description = clean_description(context_data['job']['description'])
-                context_data['job']['description'] = cleaned_description
-
-                # Transform the schema
-                transformed_data = transform_schema(context_data)
-                transformed_data_list.append(transformed_data)
-
-                output_file = os.path.join(output_folder, f"transformed_{filename}")
-                save_json_to_file(output_file, transformed_data)
-
-        return transformed_data_list
-
-def clean_description(description):
-        # Your cleaning logic for job description
-        soup = BeautifulSoup(description, 'html.parser')
-        return soup.get_text()
-
-def transform_schema(data):
-        transformed_data = {
-            "job": {
-                "title": data['job']['title'],
-                "industry": data['job']['industry'],
-                "description": data['job']['description'],
-                "employment_type": data['job']['employment_type'],
-                "date_posted": data['job']['date_posted'],
-            },
-            "company": {
-                "name": data['company']['name'],
-                "link": data['company']['link'],
-            },
-            "education": {
-                "required_credential": data['education']['required_credential'],
-            },
-            "experience": {
-                "months_of_experience": data['experience']['months_of_experience'],
-                "seniority_level": data['experience']['seniority_level'],
-            },
-            "salary": {
-                "currency": data['salary']['currency'],
-                "min_value": data['salary']['min_value'],
-                "max_value": data['salary']['max_value'],
-                "unit": data['salary']['unit'],
-            },
-            "location": {
-                "country": data['location']['country'],
-                "locality": data['location']['locality'],
-                "region": data['location']['region'],
-                "postal_code": data['location']['postal_code'],
-                "street_address": data['location']['street_address'],
-                "latitude": data['location']['latitude'],
-                "longitude": data['location']['longitude'],
-            },
-        }
-        return transformed_data
+# function to extract the csv document
+def extract_data(file_path):
+    data_frame = pd.read_csv(file_path)
+    return data_frame
 
 
-@task()
-def load(input_folder, database_path):
-    """Load data to sqlite database."""
-    engine = create_engine(f'sqlite:///{database_path}')
-    Base.metadata.create_all(engine)
-    Session = sessionmaker(bind=engine)
-
-    with Session() as session:
-        for transformed_data in input_folder:
-            # Assuming 'transformed_data' follows the structure of your transformed data
-            job = Job(
-                title=transformed_data['job']['title'],
-                industry=transformed_data['job']['industry'],
-                description=transformed_data['job']['description'],
-                employment_type=transformed_data['job']['employment_type'],
-                date_posted=transformed_data['job']['date_posted']
-            )
-            session.add(job)
-
-            # Assuming there's a one-to-one relationship between Job and Company
-            company = Company(
-                job_id=job.id,
-                name=transformed_data['company']['name'],
-                link=transformed_data['company']['link']
-            )
-            session.add(company)
-
-            # Add logic for other tables (Education, Experience, Salary, Location)
-            education = Education(
-                job_id=job.id,
-                required_credential=transformed_data['education']['required_credential']
-            )
-            session.add(education)
-
-            experience = Experience(
-                job_id=job.id,
-                months_of_experience=transformed_data['experience']['months_of_experience'],
-                seniority_level=transformed_data['experience']['seniority_level']
-            )
-            session.add(experience)
-
-            salary = Salary(
-                job_id=job.id,
-                currency=transformed_data['salary']['currency'],
-                min_value=transformed_data['salary']['min_value'],
-                max_value=transformed_data['salary']['max_value'],
-                unit=transformed_data['salary']['unit']
-            )
-            session.add(salary)
-
-            location = Location(
-                job_id=job.id,
-                country=transformed_data['location']['country'],
-                locality=transformed_data['location']['locality'],
-                region=transformed_data['location']['region'],
-                postal_code=transformed_data['location']['postal_code'],
-                street_address=transformed_data['location']['street_address'],
-                latitude=transformed_data['location']['latitude'],
-                longitude=transformed_data['location']['longitude']
-            )
-            session.add(location)
-
-        session.commit()
-
-def save_text_to_file(file_path, text):
-    with open(file_path, 'w') as file:
-        file.write(text)
-
-def save_json_to_file(file_path, data):
-    with open(file_path, 'w') as file:
-        json.dump(data, file, indent=2)
-
-DAG_DEFAULT_ARGS = {
-    "depends_on_past": False,
-    "retries": 3,
-    "retry_delay": timedelta(minutes=15)
-}
-
-TABLES_CREATION_QUERY = """
-CREATE TABLE IF NOT EXISTS job (
+TABLES_CREATION_QUERY = """CREATE TABLE IF NOT EXISTS job (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     title VARCHAR(225),
     industry VARCHAR(225),
@@ -296,33 +76,270 @@ CREATE TABLE IF NOT EXISTS location (
     latitude NUMERIC,
     longitude NUMERIC,
     FOREIGN KEY (job_id) REFERENCES job(id)
-);
-"""
-
-@dag(
-    dag_id="etl_dag",
-    description="ETL LinkedIn job posts",
-    tags=["etl"],
-    schedule_interval="@daily",
-    start_date=datetime(2024, 1, 2),
-    catchup=False,
-    default_args=DAG_DEFAULT_ARGS
 )
-def etl_dag():
-    """ETL pipeline"""
+"""
+# task that contain the function to create tables
 
+def create_tables():
     create_tables = SqliteOperator(
         task_id="create_tables",
         sqlite_conn_id="sqlite_default",
         sql=TABLES_CREATION_QUERY
     )
 
-    extract_data = extract('source/jobs.csv', 'staging/extracted')
-    transform_data = transform('staging/extracted', 'staging/transformed')
-    load_data = load(transform_data, 'jobs.db')
 
-    create_tables >> extract_data
-    extract_data >> transform_data
-    transform_data >> load_data
+# task that contain the function to extract files from csv
+def extract():
+    """Extract data from jobs.csv."""
+    extracted_data = extract_data(FILE_PATH)
 
-etl_dag()
+    # Extraction de la colonne "contexte" specifié
+    context_column = extracted_data['context']
+
+    for index, context_item in enumerate(context_column):
+        file_path = os.path.join(DESTINATION, f'extracted_{index}.txt')
+        with open(file_path, 'w') as file:
+            file.write(str(context_item))
+    return os.listdir(DESTINATION)
+
+# task that contain the function to transform the extracted files
+def transform():
+    """Clean and convert extracted elements to json."""
+    extracted_dir = DESTINATION
+    transformed_dir = TRANSF
+    transformed_data = []
+
+    for file_name in os.listdir(extracted_dir):
+        file_path = os.path.join(extracted_dir, file_name)
+
+        with open(file_path, 'r', encoding='utf-8') as file:
+            file_content = file.read()
+
+            # Vérifier si le fichier n'est pas vide
+            if not file_content.strip():
+                print(f"Le fichier {file_name} est vide. Ignoré.")
+                continue
+
+            try:
+                
+                extracted_data = json.loads(file_content)
+                if "experienceRequirements" in extracted_data and "monthsOfExperience" in extracted_data["experienceRequirements"]:
+                    transformed_item = {
+                    "job": {
+                    "title": extracted_data.get("title", ""),
+                    "industry": extracted_data.get("industry", ""),
+                    "description":clean_description(extracted_data.get("description", " ")),
+                    "employment_type": extracted_data.get("employmentType", " "),
+                    "date_posted": extracted_data.get("datePosted", ""),
+                },
+                "company": {
+                    "name": extracted_data.get("hiringOrganization", {}).get("name", ""),
+                    "link": extracted_data.get("hiringOrganization", {}).get("sameAs", ""),
+                },
+                "education": {
+                    "required_credential": extracted_data.get("educationRequirements", {}).get("credentialCategory", ""),
+                },
+                "experience": {
+                    "months_of_experience": int(extracted_data.get("experienceRequirements", {}).get("monthsOfExperience", 0)),
+                    "seniority_level": extracted_data.get("experienceRequirements", {}).get("seniorityLevel", " "),
+                },
+                "salary": {
+                    "currency": extracted_data.get("estimatedSalary", {}).get("currency", " "),
+                    "min_value": int(extracted_data.get("estimatedSalary", {}).get("value", {}).get("minValue", 0)),
+                    "max_value":int(extracted_data.get("estimatedSalary", {}).get("value", {}).get("maxValue", 0)),
+                    "unit": extracted_data.get("estimatedSalary", {}).get("value", {}).get("unitText", " "),
+                },
+                "location": {
+                    "country": extracted_data.get("jobLocation", {}).get("address", {}).get("addressCountry", ""),
+                    "locality": extracted_data.get("jobLocation", {}).get("address", {}).get("addressLocality", ""),
+                    "region": extracted_data.get("jobLocation", {}).get("address", {}).get("addressRegion", ""),
+                    "postal_code": extracted_data.get("jobLocation", {}).get("address", {}).get("postalCode", ""),
+                    "street_address": extracted_data.get("jobLocation", {}).get("address", {}).get("streetAddress", ""),
+                    "latitude": extracted_data.get("jobLocation", {}).get("latitude", ""),
+                    "longitude": extracted_data.get("jobLocation", {}).get("longitude", ""),
+                },
+            } 
+                transformed_data.append(transformed_item)
+
+                transformed_file_path = os.path.join(transformed_dir, f"{file_name.replace('.txt', '.json')}")
+                with open(transformed_file_path, 'w', encoding='utf-8') as transformed_file:
+                    json.dump(transformed_item, transformed_file, ensure_ascii=False, indent=2)
+
+            except json.JSONDecodeError as e:
+                print(f"Erreur lors de la lecture du fichier {file_name} : {str(e)}")
+
+    return transformed_data
+
+# task that contain the function to clear the description part
+def clean_description(description):
+    decoded_description = html.unescape(description)
+    html_description = decoded_description.replace('<br>', ' ')
+    # Use BeautifulSoup to remove other HTML tags
+    soup = BeautifulSoup(html_description, 'html.parser')
+    
+    # Remove all HTML tags except for <br>
+    for tag in soup.find_all(True):
+        if tag.name != 'br':
+            tag.replace_with('')
+
+    # Get the cleaned description
+    cleaned_description = soup.get_text(separator=' ', strip=True)
+    return cleaned_description
+
+# task that contain the function to load the transformed json files in the sqlLite database
+def load():
+    """Load data to sqlite database."""
+    sqlite_hook = SqliteHook(sqlite_conn_id='sqlite_default')
+    data_to_db = TRANSF
+
+    # Connect to the SQLite database
+    engine = create_engine(sqlite_hook.get_uri(), future=True)
+    connection = engine.connect()
+
+    try:
+        
+        for file_name in os.listdir(data_to_db):
+            file_path = os.path.join(data_to_db, file_name)
+
+        if os.path.getsize(file_path) > 0:
+            with open(file_path, 'r', encoding='utf-8') as transformed_file:
+                transformed_data = json.load(transformed_file)
+
+                # Insert job data
+                job_data = transformed_data['job']
+                job_insert_query = """
+                    INSERT INTO job (title, industry, description, employment_type, date_posted)
+                    VALUES (?, ?, ?, ?, ?)
+                """
+                connection.execute(job_insert_query, (
+                    job_data['title'],
+                    job_data['industry'],
+                    job_data['description'],
+                    job_data['employment_type'],
+                    job_data['date_posted']
+                ))
+
+                # Get the last inserted job ID
+                job_id = connection.execute("SELECT last_insert_rowid()").fetchone()[0]
+
+                # Insert company data
+                company_data = transformed_data['company']
+                company_insert_query = """
+                    INSERT INTO company (job_id, name, link)
+                    VALUES (?, ?, ?)
+                """
+                connection.execute(company_insert_query, (
+                    job_id,
+                    company_data['name'],
+                    company_data['link']
+                ))
+
+                # Insert education data
+                education_data = transformed_data['education']
+                education_insert_query = """
+                    INSERT INTO education (job_id, required_credential)
+                    VALUES (?, ?)
+                """
+                connection.execute(education_insert_query, (
+                    job_id,
+                    education_data['required_credential']
+                ))
+
+                # Insert experience data
+                experience_data = transformed_data['experience']
+                experience_insert_query = """
+                    INSERT INTO experience (job_id, months_of_experience, seniority_level)
+                    VALUES (?, ?, ?)
+                """
+                connection.execute(experience_insert_query, (
+                    job_id,
+                    experience_data['months_of_experience'],
+                    experience_data['seniority_level']
+                ))
+
+                # Insert salary data
+                salary_data = transformed_data['salary']
+                salary_insert_query = """
+                    INSERT INTO salary (job_id, currency, min_value, max_value, unit)
+                    VALUES (?, ?, ?, ?, ?)
+                """
+                connection.execute(salary_insert_query, (
+                    job_id,
+                    salary_data['currency'],
+                    salary_data['min_value'],
+                    salary_data['max_value'],
+                    salary_data['unit']
+                ))
+
+                # Insert location data
+                location_data = transformed_data['location']
+                location_insert_query = """
+                    INSERT INTO location (job_id, country, locality, region, postal_code, street_address, latitude, longitude)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                """
+                connection.execute(location_insert_query, (
+                    job_id,
+                    location_data['country'],
+                    location_data['locality'],
+                    location_data['region'],
+                    location_data['postal_code'],
+                    location_data['street_address'],
+                    location_data['latitude'],
+                    location_data['longitude']
+                ))
+        else:
+            print(f"Le fichier {file_name} est vide. Ignoré.")
+
+    except Exception as e:
+        print(f"Erreur lors du chargement des données dans la base de données : {str(e)}")
+
+    finally:
+        connection.close()
+
+# DAG default arguments
+default_args = {
+    'owner': 'airflow',
+    'depends_on_past': False,
+    'start_date': datetime(2024, 1, 1),
+    'email_on_failure': False,
+    'email_on_retry': False,
+    'retries': 1,
+    'retry_delay': timedelta(minutes=5),
+}
+
+# Instantiate a DAG with the specified default_args
+dag = DAG(
+    'ETLl2',
+    default_args=default_args,
+    description='A simple DAG to print "Hello, Airflow!"'
+)
+
+
+create_tables_task = PythonOperator(
+    task_id='CREATE_TABLES',
+    python_callable=create_tables,
+    dag=dag,
+)
+
+extract_task = PythonOperator(
+    task_id='EXTRACTIONS',
+    python_callable=extract,
+    dag=dag,
+)
+transform_task = PythonOperator(
+    task_id='TRANSFORMATION',
+    python_callable=transform,
+    dag=dag,
+)
+
+load_task = PythonOperator(
+    task_id='LOADING',
+    python_callable=load,
+    dag=dag,
+)
+
+
+create_tables_task >> extract_task >> transform_task >> load_task
+
+if __name__ == "__main__":
+    dag.cli()
