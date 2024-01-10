@@ -1,66 +1,72 @@
+# tests/test_etl.py
 import os
 import json
-from datetime import datetime, timedelta
-from etl_dag import extract, transform, load, clean_description, transform_schema
+import html
+from bs4 import BeautifulSoup
+from sqlalchemy import create_engine
+from airflow.providers.sqlite.hooks.sqlite import SqliteHook
+from datetime import datetime
+import pytest
+import sys
 
-def test_extract(tmpdir):
-    # Create a temporary directory for test files
-    test_folder = tmpdir.mkdir("test_data")
-    test_file = test_folder.join("jobs.csv")
-    test_file.write("context\n{\"job\": {\"title\": \"Test Job\"}}")
+sys.path.append(r'C:/Users/Youcode/Desktop/Data-Internship-Home-Assignment-main/dags')
+from yasserETL import clean_description,extract, transform, load
 
-    # Call the extract function
-    extract(test_file, test_folder)
 
-    # Check if the extracted file is created
-    extracted_file = test_folder.join("extracted_0.txt")
-    assert extracted_file.exists()
+class TestETL:
 
-def test_clean_description():
-    # Test the clean_description function
-    dirty_description = "<p>Dirty description</p>"
-    cleaned_description = clean_description(dirty_description)
-    assert cleaned_description == "Dirty description"
+    @pytest.mark.parametrize("description", ["<p>This is a test<br>description</p>", "<br>Another<br>test<br>"])
+    def test_clean_description(self, description):
+        cleaned_description = clean_description(description)
+        assert '<' not in cleaned_description
+        assert '>' not in cleaned_description
+        assert 'br' not in cleaned_description
 
-def test_transform_schema():
-    # Test the transform_schema function
-    input_data = {
-        "job": {"title": "Test Job", "industry": "Test Industry"},
-        "company": {"name": "Test Company", "link": "https://test.com"},
-        "education": {"required_credential": "Test Credential"},
-        "experience": {"months_of_experience": 12, "seniority_level": "Mid"},
-        "salary": {"currency": "USD", "min_value": 50000, "max_value": 70000, "unit": "year"},
-        "location": {"country": "Test Country", "locality": "Test Locality", "region": "Test Region",
-                     "postal_code": "12345", "street_address": "Test Street", "latitude": 1.23, "longitude": 4.56}
-    }
+    def test_transformed_data_format(self):
+        # Run the extract and transform functions
+        extract_result = extract()
+        transform_result = transform()
 
-    expected_output = {
-        "job": {"title": "Test Job", "industry": "Test Industry"},
-        "company": {"name": "Test Company", "link": "https://test.com"},
-        "education": {"required_credential": "Test Credential"},
-        "experience": {"months_of_experience": 12, "seniority_level": "Mid"},
-        "salary": {"currency": "USD", "min_value": 50000, "max_value": 70000, "unit": "year"},
-        "location": {"country": "Test Country", "locality": "Test Locality", "region": "Test Region",
-                     "postal_code": "12345", "street_address": "Test Street", "latitude": 1.23, "longitude": 4.56}
-    }
+        for transformed_item in transform_result:
+            # Assertions for cleaned description
+            job_description = transformed_item['job']['description']
+            assert '<' not in job_description
+            assert '>' not in job_description
+            assert 'br' not in job_description
 
-    assert transform_schema(input_data) == expected_output
+            # Assertions for data format in the transformation
+            assert isinstance(transformed_item, dict)
 
-def test_etl_dag(tmpdir):
-    # Test the entire ETL DAG
-    # Create temporary directories for input and output
-    source_folder = tmpdir.mkdir("source")
-    staging_folder = tmpdir.mkdir("staging")
+            # Check if the expected keys are present in the transformed data
+            expected_keys = ['job', 'company', 'education', 'experience', 'salary', 'location']
+            assert all(key in transformed_item for key in expected_keys)
 
-    # Create a temporary jobs.csv file
-    test_file = source_folder.join("jobs.csv")
-    test_file.write("context\n{\"job\": {\"title\": \"Test Job\"}}")
+            # Check data format within 'job'
+            job_data = transformed_item['job']
+            assert isinstance(job_data, dict)
+            assert all(isinstance(job_data.get(key), str) for key in ['title', 'industry', 'description', 'employment_type', 'date_posted'])
 
-    # Run the entire ETL DAG
-    extract(test_file, staging_folder.join("extracted"))
-    transformed_data = transform(staging_folder.join("extracted"), staging_folder.join("transformed"))
-    load(transformed_data, staging_folder.join("jobs.db"))
+            # Check data format within 'company'
+            company_data = transformed_item['company']
+            assert isinstance(company_data, dict)
+            assert all(isinstance(company_data.get(key), str) for key in ['name', 'link'])
 
-    # Check if the transformed file is created
-    transformed_file = staging_folder.join("transformed", "transformed_0.txt")
-    assert transformed_file.exists()
+            # Check data format within 'education'
+            education_data = transformed_item['education']
+            assert isinstance(education_data, dict)
+            assert isinstance(education_data.get('required_credential'), str)
+
+            # Check data format within 'experience'
+            experience_data = transformed_item['experience']
+            assert isinstance(experience_data, dict)
+            assert all(isinstance(experience_data.get(key), (int, str)) for key in ['months_of_experience', 'seniority_level'])
+
+            # Check data format within 'salary'
+            salary_data = transformed_item['salary']
+            assert isinstance(salary_data, dict)
+            assert all(isinstance(salary_data.get(key), (str, int)) for key in ['currency', 'min_value', 'max_value', 'unit'])
+
+            # Check data format within 'location'
+            location_data = transformed_item['location']
+            assert isinstance(location_data, dict)
+            assert all(isinstance(location_data.get(key), (str, int, float)) for key in ['country', 'locality', 'region', 'postal_code', 'street_address', 'latitude', 'longitude'])
