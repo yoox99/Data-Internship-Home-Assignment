@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T15:13:13.000Z"
+  },
+  "company": {
+    "name": "HireTalent - Diversity Staffing &amp; Recruiting Firm",
+    "link": "https://www.linkedin.com/company/hiretalent_"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jersey City",
+    "region": "NJ",
+    "postal_code": "07306",
+    "street_address": null,
+    "latitude": 40.717495,
+    "longitude": -74.04411
+  }
+}

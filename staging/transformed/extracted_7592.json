@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - 100% Remote",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:39:17.000Z"
+  },
+  "company": {
+    "name": "Staffing Technologies",
+    "link": "https://www.linkedin.com/company/staffing-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

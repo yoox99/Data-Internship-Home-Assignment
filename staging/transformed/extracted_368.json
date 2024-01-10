@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Software Engineer (.NET)",
+    "industry": "Insurance",
+    "description": "1 Travelers is seeking an Associate Software Engineer to join our organization as we grow and transform our Technology landscape. Individual will work as part of a team to complete basic end to end software engineering tasks.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:04:21.000Z"
+  },
+  "company": {
+    "name": "Travelers",
+    "link": "https://www.linkedin.com/company/travelers"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Minneapolis–Saint Paul",
+    "region": "MN",
+    "postal_code": "56304",
+    "street_address": null,
+    "latitude": 44.95,
+    "longitude": -93.2
+  }
+}

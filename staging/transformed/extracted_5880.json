@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer II",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "If you’re passionate about building a better future for individuals, communities, and our country—and you’re committed to working hard to play your part in building that future—consider WGU as the next step in your career.  Driven by a mission to expand access to higher education through online, competency-based degree programs, WGU is also committed to being a great place to work for a diverse workforce of student-focused professionals. The university has pioneered a new way to learn in the 21st century, one that has received praise from academic, industry, government, and media leaders. Whatever your role, working for WGU gives you a part to play in helping students graduate, creating a better tomorrow for themselves and their families. Responsible for the research, design, development, analysis, testing, and implementation of software, environments and systems relating to the software delivery platform for WGU’s EdTech organization, along with servicing the entirety of WGU’s product and service teams. Maintains good working relationships with clients and staff. Writes and maintains complete documentation and performs organizational training on significant changes to offerings or tooling. Supports team members and ensures established goals and deadlines are met. Keeps management informed of status and significant problems. Participates in all Agile ceremonies, helping to identify and execute opportunities for process improvement and growth. This position will close internally on 8/11/21.  #D&I  As an equal opportunity employer, WGU recognizes that our strength lies in our people. We are committed to diversity.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:35:53.000Z"
+  },
+  "company": {
+    "name": "Western Governors University",
+    "link": "https://www.linkedin.com/company/western-governors-university"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

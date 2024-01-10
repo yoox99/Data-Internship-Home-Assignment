@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, International Payments",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Square builds common business tools in unconventional ways so more people can start, run, and grow their businesses. When Square started, it was difficult and expensive (or just plain impossible) for some businesses to take credit cards. Square made credit card payments possible for all by turning a mobile phone into a credit card reader. Since then Square has been building an entire business toolkit of both hardware and software products including Square Capital, Square Terminal, Square Payroll, and more. We’re working to find new and better ways to help businesses succeed on their own terms—and we’re looking for people like you to help shape tomorrow at Square. The Payments Product team manages Square's flagship product. We are stewards of Square's largest product, making it possible for any seller to easily take a credit card payments. Our product drives awareness of the Square brand, is Square's first touch-point with most of our sellers, and fuels the economics of the broader Square ecosystem. Our sellers have evolving needs and expectations, and it is our job to understand who they are and how we can best help them.  Payments Product's International Team will launch and grow our payments business in all international markets. We are focused on customizing and localizing our payments offering to tailor the needs and customs of each market. You will work with both our product and go-to-market (GTM) teams to help them make data-based decisions, while reporting into a Senior Manager on the Data Science team. You and your team will prioritize and set product and GTM road maps. Sound like you? Read on. We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Square is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.  We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.  Additionally, we consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. At Square, we want you to be well and thrive. Our global benefits package includes:",
+    "employment_type": "INTERN",
+    "date_posted": "2021-08-24T18:24:26.000Z"
+  },
+  "company": {
+    "name": "Square",
+    "link": "https://www.linkedin.com/company/joinsquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 116000,
+    "max_value": 198000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

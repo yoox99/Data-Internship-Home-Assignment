@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Dasera, Inc. is a seed-funded security start-up focusing on launching our MVP. Our mission is to help organizations enable flexible, safe internal use of sensitive data.  Dasera was recently selected as a Top 3 startup at RSAC Launch Pad 2020. Watch Noah Johnson, our CTO and co-founder, present at RSA here: We’re looking to hire full-stack software engineers who are excited to learn new technologies and comfortable diving in to different levels of our stack. Although we strongly prefer candidates possess some amount of related experience, we care less about specialized skills and more that you are able to learn quickly and willing to contribute wherever is needed. As an early team member, your work will have a lot of impact and you’ll help shape the culture of the company. We have ambitious goals but we need the right people to help us get there. We believe in working harding but not burning out. We value individuals but work together and share credit as a team. We avoid egos and office politics at all costs. We strive to build an open, supportive culture where everyone enjoys coming to work each day and feels their contributions are appreciated. We hire people who share these values. After you submit your CV we’ll send you a 60-minute online coding exercise to complete at your convenience. Then we’ll set up a phone call to get to know you better. Finally we’ll invite you to our office to meet with other team members.  Our “move fast” start-up mentality extends to our interview process: if your schedule permits, we can complete this process and provide a decision in less than a week.  Powered by JazzHR  wOrBnVc63p",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-09T07:09:20.000Z"
+  },
+  "company": {
+    "name": "Dasera",
+    "link": "https://www.linkedin.com/company/daserainc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

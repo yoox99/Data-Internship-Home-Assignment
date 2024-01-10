@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Pharmacy (Pharmacist) Manager",
+    "industry": "Construction,Retail,Hospital &amp; Health Care",
+    "description": "The primary purpose of this position is to oversee the daily activities of the Pharmacy department within a retail store. Additionally, to assist customers with their health care needs by filling prescriptions and providing excellent customer service. The incumbent is also required to perform all tasks in a safe manner consistent with corporate policies and state and federal laws. The associate is responsible for the functions below, in addition to other duties as assigned:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:27:49.000Z"
+  },
+  "company": {
+    "name": "RITE AID",
+    "link": "https://www.linkedin.com/company/riteaid"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

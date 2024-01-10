@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "Tesla aims to accelerate world’s transition to a sustainable energy by ensuring we provide a seamless and frictionless experience to our customers. To meet this goal, Tesla is constantly striving to innovate and provide best in class services through introduction of pioneering new products and services. To that end, Tesla is seeking hardworking and passionate software engineers as various levels. These engineers will be part of a startup team that is focused on delivering a highly scalable platform that enables growth of current and future products and services to our customers.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-28T09:45:24.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

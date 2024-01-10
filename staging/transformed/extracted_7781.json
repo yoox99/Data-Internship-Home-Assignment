@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Health, Wellness and Fitness",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T19:40:32.000Z"
+  },
+  "company": {
+    "name": "Scale Media",
+    "link": "https://www.linkedin.com/company/scalemedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles Metropolitan Area",
+    "region": null,
+    "postal_code": "90021",
+    "street_address": null,
+    "latitude": 34.073666,
+    "longitude": -118.23985
+  }
+}

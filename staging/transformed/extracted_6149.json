@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Hospital &amp; Health Care,Pharmaceuticals",
+    "description": "This role analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, or Internet-related computer programs. Code is used in applications that variously support Bioclinica’s radiologists, clinical data managers, operations staff, clients and partners. Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications. Completes documentation and procedures for installation and maintenance. May interact with users to define system requirements and/or necessary modifications. Ensures software applications are built with quality while conforming to corporate and regulatory processes and practices by Ensures software applications are built on schedule and on budget by Ensures software applications are effectively supported by Maintains quality service and departmental standards by Contributes to team effort by Maintains technical and industry knowledge by Travel: 0-5%  Lifting: 0-10lbs  Other: Computer work for long periods of time Bioclinica is an equal opportunity employer. Bioclinica evaluates qualified applicants without regard to race, color, religion, gender, national origin, age, sexual orientation, gender identity or expression, protected veteran status, disability/handicap status or any other legally protected characteristic.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:00:53.000Z"
+  },
+  "company": {
+    "name": "Bioclinica",
+    "link": "https://www.linkedin.com/company/bioclinica"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Princeton",
+    "region": "NJ",
+    "postal_code": "08540",
+    "street_address": null,
+    "latitude": 40.35198,
+    "longitude": -74.66074
+  }
+}

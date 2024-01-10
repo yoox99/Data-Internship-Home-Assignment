@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer - Web Applications II",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The ideal candidate would possess the following: The ideal candidate would have some experience or familiarity with the following front-end technologies: Powered by JazzHR  6PaMW6WOuV",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-20T07:02:55.000Z"
+  },
+  "company": {
+    "name": "Zealogics LLC",
+    "link": "https://www.linkedin.com/company/zealogics-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Montvale",
+    "region": "NJ",
+    "postal_code": "07645",
+    "street_address": null,
+    "latitude": 41.04014,
+    "longitude": -74.03271
+  }
+}

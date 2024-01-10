@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Broadcast Media,Entertainment,Media Production",
+    "description": "Want to be part of a dynamic, fun, and entertaining work environment?  Want to have access to the Entertainment Capital of L.A?  Look no further, at Universal Studios Hollywood our Business Analytics and Industrial Engineering Team lets you work with departments all across the park by supporting the improvement efforts currently scheduled, and creating new and more efficient methods, allowing you to encounter and experience the whole park with almost no restrictions.  You will have the opportunity to work with Team members of all levels including some of our Senior Vice Presidents. Providing you the opportunity to demonstrate your projects to all affected teams across the board and also allow you to develop a network with endless possibilities.  This role will deliver real improvements that positively impact the company’s financials and growth. The opportunities at USH are wide and always growing, and with parks all around the globe there’s no better place to start.  The question now is where will you fit in? How to improve processes across Universal Studios Hollywood by identifying areas of opportunity, defining scope and methodology, and executing action plans to completion. You will also help determine the most efficient ways to utilize data, people, machines, materials and information to provide world class service.  How to pull data from numerous sources and leverage Python, Minitab, Tableau and other data techniques to make sense of data, create insights, Formulate and apply advanced analytical approaches such as mathematical optimization, machine learning models, stochastic process methodologies, econometric methods and decision analysis in the development of predictive models to draw conclusions and make recommendations.  Use various IE tools and quantitative methods to impact company’s bottom-line across all business functions. USH Finance Experienced Universal City California United States Each day Universal Studios Hollywood creates unforgettable experiences for our guests from around the world. We bring to life the ultimate Hollywood experience with our real working movie studio and heart-pounding rides, shows and attractions that put you inside some of the world’s most popular movies and TV shows. USH offers something for everyone from thrill seekers to movie lovers to family fun for all ages. Our Team Members are passionate individuals who create memorable moments whether it’s on the studio lot, or in our conference rooms, theaters, or kitchens. We believe in the talent of our team members. It’s our passion and commitment to excellence that drives our business to succeed in everything we do across the park. We believe in a culture of family and fun, here you can make a difference and build your career!  NBCUniversal owns and operates over 20 different businesses across 30 countries including a valuable portfolio of news and entertainment television networks, a premier motion picture company, significant television production operations, a leading television stations group, world-renowned theme parks and a premium ad-supported streaming service.  Here you can be your authentic self. As a company uniquely positioned to educate, entertain and empower through our platforms, Comcast NBCUniversal stands for including everyone. We strive to foster a diverse and inclusive culture where our employees feel supported, embraced and heard. We believe that our workforce should represent the communities we live in, so that together, we can continue to create and deliver content that reflects the current and ever-changing face of the world. Click here to learn more about Comcast NBCUniversal’s commitment and how we are making an impact. NBCUniversal’s policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law. NBCUniversal will consider for employment qualified applicants with criminal histories in a manner consistent with relevant legal requirements, including the City of Los Angeles Fair Chance Initiative For Hiring Ordinance, where applicable.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T00:00:00.000Z"
+  },
+  "company": {
+    "name": "NBCUniversal",
+    "link": "https://www.linkedin.com/company/nbcuniversal-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 92500,
+    "max_value": 139000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Universal City",
+    "region": "CA",
+    "postal_code": "91608",
+    "street_address": null,
+    "latitude": 34.13889,
+    "longitude": -118.3525
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "LendingClub Corporation (NYSE: LC) is the parent company of LendingClub Bank, National Association, Member FDIC, and the only full-spectrum fintech marketplace bank. Members can gain access to a broad range of financial products and services through a technology-driven platform, designed to help them pay less when borrowing and earn more when saving. Since 2007, more than 3 million members have joined the Club to help reach their financial goals. We’re leading the governance of a new industry by developing ethical, responsible ways to bring greater value and better opportunities to our members. Everyone deserves a better financial future and our team is committed to making that a reality. Come join us! LendingClub is an equal opportunity employer and dedicated to diversity, equity, and inclusion in the workplace. We do not discriminate on the basis of race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), gender, gender identity, gender expression, sexual orientation, age, marital status, veteran status, disability status, political views or activity, or other applicable legally protected characteristics. We believe that a variety of perspectives will make our teams and business stronger as we work together to transform the traditional banking system.  We are committed to providing reasonable accommodations for qualified individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, please contact us at interviewaccommodations@lendingclub.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:22:07.000Z"
+  },
+  "company": {
+    "name": "LendingClub",
+    "link": "https://www.linkedin.com/company/lending-club"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 112000,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer/Python",
+    "industry": "Staffing and Recruiting",
+    "description": "A financial company that originally began in the NYC area has expanded their operations to the West Coast, specifically Irvine, CA. They’re looking for a Mid-level Machine Learning Engineer. The company itself helps to provide personalized financial services and options to small businesses. They have created a unique technology platform that is also offered to clients along with their notable customer service.  The candidate must have at least 2 years of experience in Machine Learning/Data Engineering. You will be an integral part of the team while working closely with the Director of Analytics as well as other members of the team. This candidate be local to the Orange County area and unfortunately cannot provide sponsorship at this time. What You Will Be Doing  Tech Breakdown Daily Responsibilities The Offer Applicants must be currently authorized to work in the United States on a full-time basis now and in the future Niki Strutzel",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T08:22:57.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

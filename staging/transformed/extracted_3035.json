@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "We are looking for a to devise and execute machine learning and data science strategies specific to our mission. This leads to the design, build and automation of data modeling processes and the creation/enhancement of algorithms and predictive models to extract and analyze insights for action by our clients and the ultimate improvement of healthcare outcomes and delivery. Working on our CARE and TEAM product suite, this person will work daily with the development, product, and delivery teams but will also collaborate with customers, company leadership, and sales and marketing. The position reports to the Chief Product Officer and is matrixed to the Chief Data Scientist.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T01:04:10.000Z"
+  },
+  "company": {
+    "name": "Conexess Group",
+    "link": "https://www.linkedin.com/company/conexess-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Franklin",
+    "region": "TN",
+    "postal_code": "37064",
+    "street_address": null,
+    "latitude": 35.923653,
+    "longitude": -86.86783
+  }
+}

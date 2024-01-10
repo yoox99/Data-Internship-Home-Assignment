@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "The Company  Miso Robotics is transforming the restaurant industry and making a real impact on the world.  Miso Robotics is writing an epic new story for the restaurant industry. We've developed a robotic kitchen assistant, Flippy, that can perform a variety of kitchen tasks including flipping burgers and running the deep fryer. Our product is a robotic arm on a rail that fits into existing kitchens along existing cook lines and is designed to work with existing equipment alongside kitchen workers. Under the hood, Flippy relies on our platform which combines deep learning and other computer vision technologies with optimization-based scheduling and nonlinear control to adapt quickly to a variety of kitchen workflows, while achieving graceful and efficient motion.  The challenge of bringing robotics into commercial kitchens requires many disciplines to come together. The compositions of teams at Miso Robotics reflect this multidisciplinary nature of our work. We have built a world-class team and we are looking for more exceptional people to join us. If you believe, like we do, that the future of the kitchen involves robotics and artificial intelligence (HINT: It definitely does) and if you want to count yourself among the handful of lucky people who've found themselves with the opportunity to solve this problem, then Miso Robotics might be the right place for you!  The Role  As a Senior Software Engineer, you will be responsible for designing and developing our kitchen automation framework and cloud-connected infrastructure which power our latest product, CookRight. If you enjoy coding, debugging, testing and troubleshooting throughout the development process, the Sr. Software Engineer role is the right role for you! This is a great opportunity for you to use your expertise in software engineering to own the design, prototype, and commercialization of core software for CookRight. You will work closely with robotics specialists in controls, machine learning, and computer vision to continuously evolve our architecture to support an ever-increasing diversity of kitchen environments and tasks, allowing CookRight to operate broadly throughout the restaurant industry. You will also work to make our internal framework easier and easier to use, requiring less and less training to use.  What You’ll Do What You Need in Order to Succeed in this Role  Technical Requirements",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:06:04.000Z"
+  },
+  "company": {
+    "name": "Miso Robotics",
+    "link": "https://www.linkedin.com/company/miso-robotics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pasadena",
+    "region": "CA",
+    "postal_code": "91122",
+    "street_address": null,
+    "latitude": 34.14955,
+    "longitude": -118.14145
+  }
+}

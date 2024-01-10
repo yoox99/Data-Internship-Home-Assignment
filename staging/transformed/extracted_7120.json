@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer- Olive Helps",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "Olive’s AI workforce is built to fix our broken healthcare system by addressing healthcare’s most burdensome issues -- delivering hospitals and health systems increased revenue, reduced costs, and increased capacity. People feel lost in the system today and healthcare employees are essentially working in the dark due to outdated technology that creates a lack of shared knowledge and siloed data. Olive is designed to drive connections, shining a new light on the broken healthcare processes that stand between providers and patient care. She uses AI to reveal life-changing insights that make healthcare more efficient, affordable and effective. Olive’s vision is to unleash a trillion dollars of hidden potential within healthcare by connecting its disconnected systems. Olive is improving healthcare operations today, so everyone can benefit from a healthier industry tomorrow.  Olive Helps is healthcare’s AI‑powered sidekick, making the healthcare ecosystem more efficient. Through a lightweight desktop application, Olive Helps delivers real-time information to healthcare workers, and she drives them directly to the task-specific intelligence they need. Olive Helps healthcare workers get the information they need via Loops in the Loop Library (think apps in an app store). And with more partners creating Loops every day, the impact she can have on our human workforce is endless. We are looking for a Staff Engineer to work with the teams that are changing the way every developer in the country can participate in fixing and improving healthcare. These teams build the Olive Helps marketplace (the Loop Library) including discovery and transactions, “Olive Original” Loops, the Loop Development Kit (our SDK for building on the open Olive Helps platform), and dev tools for our growing developer community. Work across these teams as an architect, work hands-on with projects across all the areas of the Loop ecosystem, and collaborate with other Helps staff engineers to chart the technical direction of Olive Helps as we deliver fast while building a secure, stable, resilient, scalable platform. At Olive, we're committed to growing and empowering an inclusive community within our company and industry. This is why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives across our organization. Research shows that oftentimes women and other minority groups only apply to open roles if they meet 100% of the listed criteria. Olive encourages everyone — including women, people of color, individuals with disabilities and those in the LGBTQIA+ community — to apply for our available positions, even if they don't necessarily check every box on the job description. We take the health and happiness of our employees seriously and consistently evaluate new ways to provide an amazing place to work. From retirement planning, to a wellness program designed to actively incorporate mental and physical wellness into daily interactions amongst fellow Olivians, we make sure to take care of our own.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T02:57:16.000Z"
+  },
+  "company": {
+    "name": "Olive",
+    "link": "https://www.linkedin.com/company/oliveai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

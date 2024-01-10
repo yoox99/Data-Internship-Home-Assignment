@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Remote)",
+    "industry": "",
+    "description": "We are looking for a full stack .NET Engineer to join the Broadlume team. You’ll take ownership for evolving and maintaining our C# ASP.NET codebase, including using best practices around style guides, frameworks, and automated unit and integration testing. You’ll work on applications used by our operations team and our customers to manage thousands of small businesses nationwide. Who We Are  Our mission at Broadlume is pretty simple simplify the complicated world of digital marketing for the flooring industry. The opportunity is massive, and we have the team to execute the vision…except, well, for you.  At Broadlume, we are committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please email us at careers@broadlume.com and let us know the nature of your request and your contact information.  Broadlume is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T20:06:18.000Z"
+  },
+  "company": {
+    "name": "Broadlume",
+    "link": "https://www.linkedin.com/company/broadlume"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

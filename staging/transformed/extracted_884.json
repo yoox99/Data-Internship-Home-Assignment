@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning/Data Science Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Products and Technology",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-30T00:44:26.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

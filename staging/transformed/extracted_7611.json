@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer- Circuit Simulation EDA",
+    "industry": "Electrical/Electronic Manufacturing",
+    "description": "At Siemens, we are always challenging ourselves to build a better future. We need the most innovative and diverse Digital Minds to develop tomorrow’s reality. Find out more about the Digital world of Siemens here: [1] www.siemens.com/careers/digitalminds  Siemens EDA is part of Siemens Digital Industries Software, a Siemens Group company and world leader in the global digitalization of companies. Siemens EDA, a world leader of Electronic Design Automation (EDA), develops and markets software products and hardware solutions (emulators) covering the entire design & verification flow. Siemens EDA counts among its customers the majority of the world's Top 50 in the fields of Semiconductors, Computing, Consumer, Automotive, Telecommunications and the Defense and Space sector.  At the Siemens EDA Fremont site, we develop disruptive semiconductor chip design CAD software, including the Analog Fast SPICE™ (AFS), the world’s fastest nanometer accurate circuit verification platform. AFS is used by over 150 semiconductor companies worldwide for their toughest circuit verification challenges while designing high-speed I/Os, PLLs, ADCs/DACs, CMOS image sensors, RFICs, and embedded memory.  This position will be part of the AFS R&D team, focused on circuit simulation. As a key member of a highly proficient, productive, and motivated R&D team, developing industry’s leading circuit simulator, using cutting edge software development techniques, you will be offered: As a member of AFS R&D team you will participate in the design and implementation of efficient algorithms using state of the art software engineering processes and development tools, with a strong emphasis on software quality; thus, adding to your industry level experience in solving tough computational complexity problems while participating in entire software development lifecycle. We are looking for a self-motivated and inspiring team player with outstanding problem-solving skills to maintain and grow the technical dominance of the AFS product.  Responsibilities: Desirable: Education and Experience: Digital Industries Siemens Industry Software Inc. Experienced Professional Full-time Siemens is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability unrelated to ability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, order of protection status, protected veteran or military status, or an unfavorable discharge from military service, and other categories protected by federal, state or local law. Applicants and employees are protected under Federal law from discrimination. To learn more, Click here. Siemens follows Executive Order 11246, including the Pay Transparency Nondiscrimination Provision. To learn more, Click here. California residents have the right to receive additional notices about their personal information. To learn more, click here. Siemens is an Equal Opportunity and Affirmative Action Employer encouraging diversity in the workplace. All qualified applicants will receive consideration for employment without regard to their race, color, creed, religion, national origin, citizenship status, ancestry, sex, age, physical or mental disability, marital status, family responsibilities, pregnancy, genetic information, sexual orientation, gender expression, gender identity, transgender, sex stereotyping, protected veteran or military status, and other categories protected by federal, state or local law. Applicants and employees are protected under Federal law from discrimination. To learn more, Click here. Siemens follows Executive Order 11246, including the Pay Transparency Nondiscrimination Provision. To learn more, Click here.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:41:23.000Z"
+  },
+  "company": {
+    "name": "Siemens Digital Industries Software",
+    "link": "https://www.linkedin.com/company/siemenssoftware"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "DC",
+    "postal_code": "20442",
+    "street_address": null,
+    "latitude": 38.81843,
+    "longitude": -77.014046
+  }
+}

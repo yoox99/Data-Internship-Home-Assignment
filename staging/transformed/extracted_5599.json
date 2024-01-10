@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T16:14:12.000Z"
+  },
+  "company": {
+    "name": "The Boulevard Consulting Group",
+    "link": "https://www.linkedin.com/company/the-boulevard-consulting-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alexandria",
+    "region": "VA",
+    "postal_code": "22320",
+    "street_address": null,
+    "latitude": 38.804745,
+    "longitude": -77.04699
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Staff Software Development Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Computer Hardware,Semiconductors",
+    "description": "Lattice Semiconductor (NASDAQ: LSCC) is the global leader in smart connectivity solutions, providing market leading intellectual property and low-power, small form-factor devices that enable more than 8,000 global customers to quickly deliver innovative and differentiated cost and power efficient products.  The Company's broad, end-market exposure solves customer problems across the network from the Edge to the Cloud for clients in consumer electronics, industrial equipment, communications infrastructure, computing and automotive. Our technology, long-standing relationships and commitment to world-class support enables our customers to quickly and easily unleash innovative solutions to create a smart, secure and connected world.  Our control, connect and compute solutions enable the Internet of Things to operate safely, easily and more autonomously at the edge of the network core. While you may not see our products, you are interacting with them all day, every day. We make your experience smarter and better-connected. Join Team Lattice…and help us continue to drive innovation that creates a smarter, better-connected world. Together, we enable what’s next. Lattice Semiconductor is an EEO/Affirmative Action Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other legally protected status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T04:05:32.000Z"
+  },
+  "company": {
+    "name": "Lattice Semiconductor",
+    "link": "https://www.linkedin.com/company/lattice-semiconductor"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

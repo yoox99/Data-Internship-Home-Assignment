@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Stealth Startups",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Rex is a billion-dollar technology, investment, and real estate company led by Executive Chairman Peter Rex. We're looking for world-class Senior Software Engineers with the character, skill, and backbone to build the next great technology business. This is a greenfield development effort and you will be a foundational engineer building from inception through to a production-ready product ready to scale.  We are launching a number of companies in our ecosystem focused on PropertyTech, FinTech, and InsuranceTech. You can learn more about each stealth startup by checking out our initiatives page. You will be a foundational engineer at one of these companies so we are looking for people passionate about building new technologies that can serve people and can effectively own development efforts. Our compensation & benefits package is designed to reward long-term career growth. Your total compensation can and should grow as you progress with the company. We evaluate performance and provide direct feedback to all teammates throughout the year and ensure that compensation matches the role and performance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:47:08.000Z"
+  },
+  "company": {
+    "name": "rex",
+    "link": "https://www.linkedin.com/company/rexteams"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

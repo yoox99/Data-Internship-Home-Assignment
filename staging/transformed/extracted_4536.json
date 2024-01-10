@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T15:59:54.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68700,
+    "max_value": 90700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

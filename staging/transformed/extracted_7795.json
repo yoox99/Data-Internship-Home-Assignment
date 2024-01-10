@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Accounting,Information Technology and Services,Management Consulting",
+    "description": "Are you an experienced, passionate pioneer in technology - a solutions builder, a roll-up-your-sleeves technologist who wants a daily collaborative environment, think-tank feel and share new ideas with your colleagues - without the extensive demands of travel? If so, consider an opportunity with our US Delivery Center - we are breaking the mold of a typical Delivery Center.  Our US Delivery Centers have been growing since 2014 with significant, continued growth on the horizon. Interested? Read more about our opportunity below ... Analytics & Cognitive  In this age of disruption, organizations need to navigate the future with confidence, embracing decision making with clear, data-driven choices that deliver enterprise value in a dynamic business environment.  The Analytics & Cognitive team leverages the power of data, analytics, robotics, science and cognitive technologies to uncover hidden relationships from vast troves of data, generate insights, and inform decision-making. Together with the Strategy practice, our Strategy & Analytics portfolio helps clients transform their business by architecting organizational intelligence programs and differentiated strategies to win in their chosen markets.  Analytics & Cognitive will work with our clients to: At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there's always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career. At Deloitte, we know that great people make a great organization. We value our people and offer employees a broad range of benefits. Our positive and supportive culture encourages our people to do their best work every day. We celebrate individuals by recognizing their uniqueness and offering them the flexibility to make daily choices that can help them to be healthy, centered, confident, and aware. We offer well-being programs and are continuously looking for new ways to maintain a culture where our people excel and lead healthy, happy lives.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-21T18:09:12.000Z"
+  },
+  "company": {
+    "name": "Deloitte",
+    "link": "https://www.linkedin.com/company/deloitte"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

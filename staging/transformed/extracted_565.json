@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer",
+    "industry": "Information Technology and Services,Financial Services,Hospital &amp; Health Care",
+    "description": "Weston, FL $50-$55 Hourly Our client is currently seeking a Software Test Engineer  We need a highly motivated and skilled Staff Software Test Engineer who is passionate about using modern software engineering and testing principles to deliver robust applications to our global users. The Staff Software Test Engineer will plan the schedule and manage test activities for features or projects as well as evaluate standards and special software.This is a role responsible for carrying out various tasks to ensure our test approaches are effectively and efficiently designed, implemented, and maintained for both legacy and new development. tfetter@judge.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-25T00:00:00.000Z"
+  },
+  "company": {
+    "name": "The Judge Group",
+    "link": "https://www.linkedin.com/company/the-judge-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83500,
+    "max_value": 142000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Weston",
+    "region": "FL",
+    "postal_code": "33004",
+    "street_address": null,
+    "latitude": 26.100613,
+    "longitude": -80.39994
+  }
+}

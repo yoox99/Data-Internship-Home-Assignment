@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Big Data/Machine Learning SQA Engineer",
+    "industry": "Semiconductors",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-29T17:47:52.000Z"
+  },
+  "company": {
+    "name": "Nova Measuring Instruments",
+    "link": "https://il.linkedin.com/company/nova-measuring-instruments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hillsboro",
+    "region": "OR",
+    "postal_code": "97124",
+    "street_address": null,
+    "latitude": 45.52395,
+    "longitude": -122.98974
+  }
+}

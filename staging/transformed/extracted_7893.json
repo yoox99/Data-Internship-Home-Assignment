@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Senior Site Reliability Engineer What does an outstanding Senior Site Reliability Engineer do?  You will be a key contributor in forming the team’s technical strategy and aligning the team and partners with it. You'll initiate large projects with sophisticated architecture, breaking them down to logical  modules so that other engineers can be utilized. Working frequently with other teams, you will coordinate significant changes to cross-system architectures, influencing upstream or downstream for the most efficient solutions. Do you have a systematic problem-solving approach, coupled with strong communications skills and a sense of ownership and drive? We want to hear from you! Join the Fintech and SaaS revolution that is helping small businesses grow faster and get the technology and insights previously available only to the “big guys.” At Clover, you will be part of an entrepreneurial team working in a fast-paced and rapidly growing environment, with the benefits of a parent company,  Fiserv, a global leader in Fintech and payments enabling innovative financial services experiences that are in step with the way people live and work today!  At Clover, we deliver the leading Point of Sale system with an elegant end-to-end solution that incorporates beautiful devices, cloud-based POS software, payments processing, platform API’s for third-party developers, and an ecosystem with over 220 apps. The Clover platform delivers solutions in a scalable and modular fashion that powers tiny merchants through large football stadiums, supporting millions of transactions daily. Our devices and platform form the backbone of millions of payment interactions between merchants and their customers daily. We are looking for self-starters with a passion  for technology who want to help us impact millions of merchant’s lives one transaction at a time. DDL / DML, Terraform, Encryption/certs/security, HAProxy, Nginx, TCP/IP, Telegraf/ DataDog/  Graphana ,YAML / XML, and ELK stack. At Clover we provide next-generation payment services via Fiserv (our parent company) - the world’s largest payment processor. Behind the scenes, we operate a cloud platform providing processing, storage and alliance for merchants, application developers, service providers and our merchant’s customers. Our machines and platform form the backbone of millions of payment interactions between merchants and their customers daily.  Fiserv (Our Parent Company)  Life moves fast. And as it does, we know most people aren’t thinking about “financial services”.... But we are. We’re Fiserv , a global leader in Fintech and payments enabling innovative financial services experiences that are in step with the way people live and work today. The company’s approximately 44,000 associates proudly serve clients in more than 100 countries, so their customers, members and consumers can move money when and where they need it, at the  point of thought.  We help people and businesses move money and information every minute of every day. Our solutions connect financial institutions, corporations, merchants and consumers to one another, millions of times a day, behind the scenes, reliably and securely. Our Aspiration is to move money and information in a way that moves the world. As a FORTUNE 500 company and one of FORTUNE Magazine World’s Most Admired Companies for the seventh consecutive year, we are committed to excellence and purposeful innovation.  We are an Equal Opportunity Employer  Fiserv is an Equal Employment Opportunity Employer (Disability/Vet/LGBTQ+), and it is the Company’s policy to make all employment decisions without regard to race, color, religion, creed, age, sex, national origin, veteran status, disability (as long as the individual is able to perform the essential functions of the job with or without reasonable accommodation), and any other characteristic protected by Law.  We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.  We welcome and encourage diversity in our workforce.  Applying for the position  Thank you for considering employment with Fiserv (Clover). Explore the possibilities of a career preferable).",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-30T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Clover Network, Inc.",
+    "link": "https://www.linkedin.com/company/clovernetwork"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 130000,
+    "max_value": 208000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

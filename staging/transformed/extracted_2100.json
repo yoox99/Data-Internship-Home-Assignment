@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote Java Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "A Software Engineer at O'Reilly Auto Parts develops and supports applications for internal and external systems including Inventory, Supply Chain, eCommerce, Retail Applications, Enterprise Search and more. Our teams are focused on the development, design and integration of various software systems, databases, and third-party packages utilizing tools and technologies including Java, Javafx, JavaScript, Spring, Hibernate, SOLR, and SQL. All full time team members are eligible for a benefits package that is designed to offer convenience and security to our team members and their families. Programs, resources and benefit eligibility varies based on employment status, average hours worked, location and length of service. For detailed benefits info, please click here or type http://bit.ly/ORLYBenefits in your browser. $65,000.00 - $115,000.00 annually, pay will be based upon applicable experience, training and skills This job is eligible for an annual cash bonus based on individual goal achievement.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:07:33.000Z"
+  },
+  "company": {
+    "name": "O'Reilly Auto Parts",
+    "link": "https://www.linkedin.com/company/o%27reilly-auto-parts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Springfield",
+    "region": "MO",
+    "postal_code": "65803",
+    "street_address": null,
+    "latitude": 37.215523,
+    "longitude": -93.29236
+  }
+}

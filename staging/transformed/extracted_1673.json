@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Goods",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T20:56:16.000Z"
+  },
+  "company": {
+    "name": "The Clorox Company",
+    "link": "https://www.linkedin.com/company/the-clorox-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 95400,
+    "max_value": 183000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

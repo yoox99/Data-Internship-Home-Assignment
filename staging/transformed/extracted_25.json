@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T14:10:17.000Z"
+  },
+  "company": {
+    "name": "Vertex Inc.",
+    "link": "https://www.linkedin.com/company/vertex-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "King of Prussia",
+    "region": "PA",
+    "postal_code": "19406",
+    "street_address": null,
+    "latitude": 40.08832,
+    "longitude": -75.382126
+  }
+}

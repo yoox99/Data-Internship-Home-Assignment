@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Engineer",
+    "industry": "Pharmaceuticals,Biotechnology",
+    "description": "In the past 6 years, over 90% of companies that received new drug approvals by the FDA used our software or services. Certara is a global team that fosters and nurtures a diverse and inclusive culture. We are proud to be an Equal Opportunity Employer. The collective sum of our individual differences, life experiences, knowledge, innovation, self-expression, and unique capabilities and talent represents a significant part of our culture, our reputation and our achievement. Certara bases all employment-related decision on merit, taking into consideration qualifications, skills, achievement, and performance. We treat all applicants and employees without regard to personal characteristics such as race, color, ethnicity, religion, sex, sexual orientation, age, nationality, marital status, pregnancy, physical or mental condition, genetic information, military service, or other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:37:25.000Z"
+  },
+  "company": {
+    "name": "Certara",
+    "link": "https://www.linkedin.com/company/certara"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

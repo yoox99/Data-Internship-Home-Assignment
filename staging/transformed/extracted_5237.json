@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer I",
+    "industry": "Financial Services,Information Technology and Services,Internet",
+    "description": "We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results. Software Development Engineer I Be part of the Operations & Technology Fraud Products team developing new capabilities for MasterCard's Decision Management Platform, which serves as the core for multiple business solutions to combat fraud and validate cardholder identity. Our patented Java-based platform processes billions of transactions per month in tens of milliseconds using a multi-tiered, message-oriented approach for high performance and availability. Role Due to COVID-19, most of our employees are working from home. We’ve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely. We value the safety of each member of our community because we know we’re all in this together.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:22:33.000Z"
+  },
+  "company": {
+    "name": "Mastercard",
+    "link": "https://www.linkedin.com/company/mastercard"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "O'Fallon",
+    "region": "MO",
+    "postal_code": "63304",
+    "street_address": null,
+    "latitude": 38.808643,
+    "longitude": -90.69996
+  }
+}

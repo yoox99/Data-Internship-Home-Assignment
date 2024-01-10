@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer, Storage",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "Tesla is currently looking for a seasoned Site Reliability Engineer (SRE) to join the Platform Storage team to build the Tesla's next gen object storage platform that will be the foundation of all the critical data and services we build.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T20:00:07.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

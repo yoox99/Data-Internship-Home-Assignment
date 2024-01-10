@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Engineer, Software - AWS, Java",
+    "industry": "Information Technology and Services,Computer Software,Telecommunications",
+    "description": "You will play a critical role in developing the billing application software that enables Intelsat Commercial Aviation to invoice our customers and generate revenue. You will drive the transformation of Intelsat’s billing systems from on-premise to AWS Cloud. Bring your passion for AWS application design and Data Engineering to this exciting opportunity where wireless and aerospace unite. World class AWS development and deployment. Imagine the future of cloud-based billing in the wireless aerospace segment. Deliver new concepts utilizing new tools and techniques to add value to the business. Intelsat is connecting the world and transforming the satellite landscape by reaching beyond the traditional satellite industry. We are defining new products that will open new, profitable markets. To help us reach this goal, you should be a bold thinker who will perform a key role in shaping Intelsat innovation for years to come. We’re Intelsat Inflight, the inflight internet company. We believe the internet should do everything it does on the ground, in the sky. Our worldwide inflight Wi-Fi services have made internet and video entertainment a regular part of flying. We are a diverse and mission-minded group of professionals all working together in extraordinary harmony. We connect the aviation industry and air travelers with innovative technology and applications, and we do it all in a high-energy environment that welcomes the next challenge. Be prepared to join a performance-obsessed team that is passionate about bringing the internet to every device, every flight, everywhere.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:47:54.000Z"
+  },
+  "company": {
+    "name": "Intelsat",
+    "link": "https://www.linkedin.com/company/intelsat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60606",
+    "street_address": null,
+    "latitude": 41.881664,
+    "longitude": -87.63681
+  }
+}

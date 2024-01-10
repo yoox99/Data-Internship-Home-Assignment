@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Computer Software,Consumer Services,Entertainment",
+    "description": "PlayStation isn’t just the Best Place to Play —it’s also the Best Place to Work. We’ve thrilled gamers since 1994, when we launched the original PlayStation. Today, we’re recognized as a global leader in interactive and digital entertainment. The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation. San Diego, CA OR Brussels, Belgium  Sony Interactive Entertainment’s (SIE) Global Payment and Fraud Management (GPFM) teams are the guardians of both customer trust and purchase success for PlayStation and the PlayStation Network (PSN). We provide innovative solutions to support every element of the network, various platform services, customer service teams, a diverse developer community, and more.  GPFM runs a next generation risk platform and machine learning framework that support the global, fast growing PlayStation Network customer base, world class PlayStation consoles, and network entertainment services such as PlayStation Plus and PlayStation Now. In doing so, the ability to extract information from data and drive action that help achieve business goals is essential. GPFM’s data science team is responsible for evaluating online user activity data for potential fraud and revenue optimization across this platform. We are looking for a Principal Software Engineer to join our GPFM team to support this data science platform.  The position is a hands-on engineering role with a wide range of responsibilities to evolve and support a machine learning pipeline, with a specific focus on the data preparation/movement part of the pipeline. You should be intimately familiar with running applications at scale on modern cloud architectures (such as AWS), using containerized and serverless workflows. You must be a self-motivated individual and take pride in delivering high-quality work within a fast-paced, dynamic environment.  You will contribute to the product roadmap, technology, and vision while creating a culture of quality and operational excellence in the group. Demonstrate strong technical leadership and leverage your years of hands-on technical engineering experience to hold the organization to a high standard of technical excellence. Share the expertise on products and technologies by mentoring other engineers and by providing insightful feedback in code reviews for changes made by other engineers. Investigate and resolve difficult problems and fix complex bugs; accept escalations of complex issues. Assist other engineers in designing solutions, prioritizing work items, estimating urgency and business impact, and balancing short-term and long-term results. Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to race, color, religion, gender, pregnancy, national origin, ancestry, citizenship, age, legally protected physical or mental disability, covered veteran status, status in the U.S. uniformed services, sexual orientation, marital status, genetic information or membership in any other legally protected category.  Reasonable Accommodation Notice Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.  We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.  We sincerely appreciate the time and effort you spent in contacting us and we thank you for your interest in PlayStation. This Privacy Notice explains what personal information we at Sony Interactive Entertainment LLC collect from you, and why we collect it and use it. This Notice covers our practices regarding the personal information of all applicants to our job positions. Please review it carefully. We collect personal information about you throughout the recruiting process, in particular the following categories.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:06:08.000Z"
+  },
+  "company": {
+    "name": "PlayStation",
+    "link": "https://www.linkedin.com/company/playstation-sony"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 180,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 115600,
+    "max_value": 246000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

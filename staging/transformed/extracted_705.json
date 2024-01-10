@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Operations Research (CPLEX/Gurobi)",
+    "industry": "Marketing and Advertising,Retail,Financial Services",
+    "description": "Data Scientist - Operations Research (CPLEX/Gurobi) Nordstrom is a fashion specialty retailer founded on a simple idea: offer each customer the best possible service, quality, value and selection. At Nordstrom, providing great customer service goes beyond the selling floor. It takes a team of individuals with different talents and skills to continuously improve service and our results. Our Advanced Analytics team works in partnership with other areas of the Company to develop insights, algorithms, and data products that support decision making, products, and technologies used throughout Nordstrom. When you join our team, you are welcomed into a family dedicated to creating memorable and rewarding shopping experiences for our customers.  As an integral part of the Operations Research/Supply Chain Analytics team, the data scientist role will focus on the area of Operations Research and Supply Chain Optimization. The ideal candidate is a creative and passionate problem-solver who thinks big, acts quickly, and is motivated to develop new approaches to optimize Nordstrom’s supply chain using quantitative and cutting-edge technology. Nordstrom is proud to offer a variety of benefits to support employees and their families, including  Our employees are our most important asset and that’s reflected in our benefits. A few more important points...  The job posting highlights the most critical responsibilities and requirements of the job. It’s not all-inclusive. There may be additional duties, responsibilities and qualifications for this job.  Nordstrom will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.  Applicants with disabilities who require assistance or accommodation should contact the nearest Nordstrom location, which can be identified at www.nordstrom.com .  Nordstrom Careers Privacy Policy: https://careers.nordstrom.com/#/contact-us/privacy  © 2021 Nordstrom  Current Nordstrom employees: To apply, log into Workday, click the Careers button and then click Find Jobs.  Hourly and salary pay ranges specific to Colorado are listed below, which is provided in compliance with Colorado law. Nordstrom continues to remain competitive with pay and benefits in all markets. Minimum - $12.55/hr  Maximum - $46.10/hr Minimum - $30,200/annual  Maximum - $289,200/annual",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-10T05:11:25.000Z"
+  },
+  "company": {
+    "name": "Nordstrom",
+    "link": "https://www.linkedin.com/company/nordstrom"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75700,
+    "max_value": 154000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "Responsible for developing machine learning solutions in Natural Language Processing (NLP), document classification, Named Entity Recognition (NER), topic modelling, document summarization, computational linguistics, advanced and semantic information search, extraction, induction, classification and exploration. Create ML models for Advanced OCR and Cognitive Data Extraction capability as well as its execution. Develop, maintain and deploy ML & NLP Pipeline and models. Create NLP/ML models with high performance, quality, and stability.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T02:46:41.000Z"
+  },
+  "company": {
+    "name": "Bank of America",
+    "link": "https://www.linkedin.com/company/bank-of-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, 2021-2022 New Grad",
+    "industry": "Internet",
+    "description": "We’d love to hear from you if you like: Jerry is building the first Super App to save car owners time and money on all their car expenses. Drivers deserve better. That’s why we’re committed to making shopping for insurance, financing, maintenance, repairs, parking and more just a few clicks, texts, or swipes away.  Jerry is taking processes that haven’t substantively changed in decades and reimagining and redesigning them. Using artificial intelligence, machine learning and bots, Jerry eliminates the need for long forms and phone calls while providing personalized services for all car-owners’ needs.  Today, Jerry is the #1 rated and most downloaded app in its category and the fastest way to compare and buy car insurance. We just passed our 1M customer mark in the car insurance category and we are just getting started. Jerry is replicating that frictionless experience in other car expense categories.  Join our team of curious and passionate people who love tackling real-world problems and be a part of building a revolutionary product that’s disrupting a massive market.  Jerry was founded in 2017 by serial entrepreneurs who previously built and scaled YourMechanic and has raised more than $130 million in financing.  A few examples of the exciting projects that we are working on:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T17:22:39.000Z"
+  },
+  "company": {
+    "name": "Jerry",
+    "link": "https://www.linkedin.com/company/jerryinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Security Staff Engineer",
+    "industry": "Semiconductors",
+    "description": "Samsung Semiconductor Inc. (SSI) is advancing the world’s technology. As a leader in Memory, System, LSI and LCD technologies, our US teams contribute to breakthroughs in 5G, SOC, memory and display. With our global perspective and diversity of thought, we proudly serve our customers around the world. We are looking for team members who share our commitment to learning and growth and excel when collaborating within and across teams.  SSI is headquartered in the heart of Silicon Valley and is a wholly-owned U.S. subsidiary of Samsung Electronics Co., Ltd. - the #1 employer in the world (Forbes, Oct 2020) and top patent-holder in the U.S. Want to advance the world’s technology with us? Software Security Staff Engineer : 40191 : San Jose The Memory Solutions Lab (MSL) mission is to develop innovative open system architectures and solutions that transform the performance of semiconductor memory in SSDs, mobile devices and data centers. Samsung Semiconductor, Inc. is a world leader in Memory, System LSI and LCD technologies. Samsung founded a new advanced research and development lab, MSL (Memory Solution Lab), at San Jose CA in 2012. The vision of MSL is to be the engine of technology inspiration and renovation for Samsung semiconductor. Especially, MSL is tackling a variety of challenging issues in data center, storage, new memory, server, and software infrastructure for cloud and enterprise storage systems. MSL is operated like a start-up under Samsung umbrella. We are looking for a most passionate R&D software security staff engineer who can share our visions and have a journey together.  Specifically, we are looking for a software and firmware security engineer of Datacenter Technology Group who can lead software security system and infrastructure architecture development that leverages Samsung intelligent storage technologies including near data processing technologies, new SSD architecture, new SSD interface, and so on. The software security staff engineer will lead development that covers a broad spectrum of software security including isolated running environment and is building technologies and ecosystems surrounding SSD, network, software, and services. The ideal candidate must have a strong understanding of software security, isolated running environment, storage system and SSD. Experience in software security framework architecture development and optimization of systems and software is required. Samsung Semiconductor Inc (SSI), an equal opportunity employer, is a world leader in Memory, System LSI, and LCD technologies. Headquartered in San Jose, California, SSI is a wholly-owned U.S. subsidiary of Samsung Electronics Co., Ltd.- one of the largest semiconductor manufacturer in the world and the industry's volume and technology leader in DRAM, NAND Flash, SSDs, mobile DRAM and graphics memory. It is one of the largest providers of system logic, imaging and LED lighting solutions, as well as providing advanced process design and manufacturing for fabless companies. Samsung Semiconductor, Inc. also has a research and innovation center with numerous labs providing product design and research in: logic, memory, image sensors, displays and mobile technologies. In addition, the company supports Samsung Display Company, the largest producer of LCD and OLED displays. SSI is an Equal Opportunity Employer. It is SSI’s policy to comply with all applicable national, state and local laws pertaining to nondiscrimination and equal opportunity, and hiring decisions are made accordingly.  Learn more about Samsung Semiconductor here.  A day in the life Samsung Video",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T05:49:21.000Z"
+  },
+  "company": {
+    "name": "Samsung Electronics America",
+    "link": "https://www.linkedin.com/company/samsung-electronics-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 180,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

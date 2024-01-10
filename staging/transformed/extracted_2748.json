@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (REMOTE)",
+    "industry": "Computer Software,Information Services,Information Technology and Services",
+    "description": "Logic20/20 is looking for an experienced Site Reliability Engineer to join our team to support the development and operations of a large-scale application, running in Kubernetes and using Angular 8, Node.JS, MS SQL, C#.  The work will include both ongoing operational support and technical dept reduction.  Within the team structure, you will be increasing the system’s reliability, scalability and operational efficiency through automation.  In this role, you will use a diverse set of technical expertise; including back-end/ front-end development, DevOps tooling, troubleshooting and debugging skills, cloud computing, coding/scripting. Beyond your technical qualification, you will also have a healthy combination of cross-group collaboration skills, communication and relationship building skills. Do you also have a demonstrated ability to learn new technical concepts, combined with a high degree of intellectual curiosity? Come join us... Logic20/20 is one of Seattle’s fastest-growing consulting firms. We hire remarkable people to create simple, efficient solutions for complex problems.  Although we make it look like magic, our success is due to our approach (methodical and structured) and the people we hire (smart, motivated, and team oriented). Together, these enable us to consistently exceed client expectations—and our reputation is growing.  For the past five years, we’ve placed in the top ten of Seattle Business magazine’s “Best Companies to Work For”. From engaged leadership and wide-ranging benefits to career mentorship and diverse internal opportunities, we pride ourselves on being one of the best companies to work with and work for.  We hire people that are self-motivated, comfortable conceiving strategies on the fly, and enjoy working individually and as part of a team. Our work is high-energy and demanding, but new hires will quickly feel at home among colleagues as friendly and focused as they are. We bring our best to every opportunity, driving change in industries across the West Coast. Join us and you can, too.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T04:20:35.000Z"
+  },
+  "company": {
+    "name": "Logic20/20, Inc.",
+    "link": "https://www.linkedin.com/company/logic20-20-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

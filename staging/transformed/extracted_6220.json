@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Supply Chain",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "A data engineering with knowledge of AWS, Automation using pyspark, and talend ETL is highlighted by the client to be ideal for this role. Other responsibilities include: Attend daily support meetings and manage support tickets Perform Incident/RITM review, perform basic RCA, and route tickets to Talend or Python/EMR developers Collaborate with developers to identify resolution approach and estimate efforts Provide inputs to scrum masters to create sprint and product backlog for production INCs/RITMs In future, more resources might be needed on the squad to manage incoming production INCs/RITMs  Bachelors Degree or Equivalent Experience  Minimum of 4 years of working experience as a Site Reliability Engineer Minimum of 2 years of working experience in the Products Industry $72,400 - $134,999",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:34:32.000Z"
+  },
+  "company": {
+    "name": "Accenture",
+    "link": "https://ie.linkedin.com/company/accenture"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati",
+    "region": "OH",
+    "postal_code": "45241",
+    "street_address": null,
+    "latitude": 39.1037,
+    "longitude": -84.51361
+  }
+}

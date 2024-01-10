@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "At Tremor Video, we help advertisers deliver impactful brand stories across all screens through the power of innovative video technology combined with advanced audience data and captivating creative content. As one of the largest and most innovative video advertising companies, our offerings span the rapidly evolving realms of Connected TV (CTV), cross-screen video and programmatic media. Tremor Video is a Tremor International Company. We're seeking a Data Scientist to join our Engineering team. As the Data Scientist, you have a passion for big data and enjoys applying a variety of data science skills such as statistical modeling, machine learning to real-world problems, and realizing practical products and features.  Currently our teams are working remotely, however once it is safe to do so this role will be based in the for some of the week. Preferred Qualifications: Here at Tremor, we like to think outside the box, so if you don't tick every one of these- don't worry! We would rather see your application than risk missing out on your potential. We also know our strength comes from our differences and varied life experiences, so we are committed to the value of diversity and inclusion in all its forms. All applications need to be submitted online, however to discuss any adjustments you may require ahead of submitting your application, please email atran@tremorinternational.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:14:19.000Z"
+  },
+  "company": {
+    "name": "Tremor Video",
+    "link": "https://www.linkedin.com/company/tremor-video"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 169000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

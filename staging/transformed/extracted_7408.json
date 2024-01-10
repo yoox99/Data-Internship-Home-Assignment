@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer",
+    "industry": "Hospital &amp; Health Care,Medical Devices,Pharmaceuticals",
+    "description": "The Site Reliability Engineer will be responsible for performance and availability of Compute and Network infrastructure consumed by all business segments. The Site Reliability teams are composed of highly talented individuals obsessively focused with availability through operational excellence. The ideal individual is relentlessly technical, passionate for automating everything and totally committed to delivering amazing customer experiences.GE Healthcare is a leading global medical technology and digital solutions innovator. Our mission is to improve lives in the moments that matter. Unlock your ambition, turn ideas into world-changing realities, and join an organization where every voice makes a difference, and every difference builds a healthier world. Our total rewards are designed to unlock your ambition by giving you the boost and flexibility you need to turn your ideas into world-changing realities. Our salary and benefits are everything you’d expect from an organization with global strength and scale, and you’ll be surrounded by career opportunities in a culture that fosters care, collaboration and support. GE offers a great work environment, professional development, challenging careers, and competitive compensation. GE is an    Equal Opportunity Employer    .  Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.    GE will only employ those who are legally authorized to work in the United States for this opening. Any offer of employment is conditioned upon the successful completion of a drug screen (as applicable). No",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T22:30:49.000Z"
+  },
+  "company": {
+    "name": "GE Healthcare",
+    "link": "https://www.linkedin.com/company/gehealthcare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Texas",
+    "region": "United States",
+    "postal_code": "76522",
+    "street_address": null,
+    "latitude": 31.463793,
+    "longitude": -99.333275
+  }
+}

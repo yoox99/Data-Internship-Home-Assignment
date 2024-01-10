@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T18:50:00.000Z"
+  },
+  "company": {
+    "name": "Enquero",
+    "link": "https://www.linkedin.com/company/enquero"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Milpitas",
+    "region": "CA",
+    "postal_code": "95035",
+    "street_address": null,
+    "latitude": 37.430763,
+    "longitude": -121.897514
+  }
+}

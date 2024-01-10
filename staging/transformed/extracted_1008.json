@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer, US",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "Powered by JazzHR  Hdr1701OQd",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T08:30:23.000Z"
+  },
+  "company": {
+    "name": "TriNetX",
+    "link": "https://www.linkedin.com/company/trinetx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Job Id: 21342737  We are looking to hire a specializing in data analysis to join the Citi Research Operations Team. The successful candidate will work with the team and perform data analysis on proprietary datasets highlighting trends and developing models to forecast behavior. The Data Scientist will be responsible for a wide range of analytical tasks including data exploration and visualization, trend forecasting on time series data, regression analysis, and machine learning tasks such as classification and clustering. The Data Scientist will be working with Senior Analysts based in different regions on requirements, building out project requirements and providing the results to the stake holders. The candidate will be part of a global team, strategically located in New York. This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.  ------------------------------------------------- Research  ------------------------------------------------- Research Product  ------------------------------------------------------ Full time  ------------------------------------------------------  Citi is an equal opportunity and affirmative action employer.  Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.  Citigroup Inc. and its subsidiaries (\"Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review .  View the \" \" poster. View the .  View the .  View the",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-02T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Citi",
+    "link": "https://www.linkedin.com/company/citi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 88100,
+    "max_value": 185000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

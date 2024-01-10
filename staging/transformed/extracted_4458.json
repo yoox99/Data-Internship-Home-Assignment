@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Organizations are embracing digital transformation with initiatives like mobility and the cloud for greater productivity, efficiency, and competitiveness. Delivering this digital transformation poses challenges for security, visibility and control. Our industry is rapidly coalescing around Secure Access Service Edge (SASE), a cloud-based security architecture. SASE combines networking and security-as-a-service capabilities into a single offering that greatly simplifies this transformation for our customers.  One of the fundamental concepts of SASE is the convergence of network services such as software-defined wide area networks (SD-WAN) with network security technologies such as secure web gateway (SWG), cloud access security broker (CASB), data loss prevention (DLP), browser isolation, zero trust network access (ZTNA), and SSL inspection.  Symantec Web Security Service (WSS) is the foundation of the Symantec SASE solution. It integrates multiple advanced security technologies and makes them available from the cloud. WSS runs on a high-performance, fully redundant cloud-native infrastructure. This network, among the largest and best connected in the world, is edge-optimized for remote employees working from home and on mobile devices. The team in Waterloo, Ontario plays a vital role in defining the next generation Symantec SASE architecture. We are looking for highly motivated and self-driven senior software developers that specialize in system design and development. This unique opportunity offers a chance to work in cutting edge cloud technologies and a highly competent environment.  In this role, the candidate is responsible for designing and developing next generation SASE components. A successful candidate will: We are looking for an energetic, results-oriented technical contributor with strong programming and software development skills. Prior experience in object-oriented design and development experience in C++ is required for this position.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:15:58.000Z"
+  },
+  "company": {
+    "name": "Broadcom Inc.",
+    "link": "https://www.linkedin.com/company/broadcom"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "CA",
+    "locality": "Waterloo",
+    "region": "ON",
+    "postal_code": "N2K2T9",
+    "street_address": null,
+    "latitude": 43.464947,
+    "longitude": -80.52391
+  }
+}

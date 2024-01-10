@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Internet",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-02T17:42:15.000Z"
+  },
+  "company": {
+    "name": "Facebook",
+    "link": "https://www.linkedin.com/company/facebook"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

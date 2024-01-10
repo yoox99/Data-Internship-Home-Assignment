@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Information Technology and Services,Computer &amp; Network Security",
+    "description": "Alert Logic has sparked change in the cybersecurity world. As the industry’s first MDR provider, we protect organizations 24/7 and ensure they have the most effective response to resolve whatever threats many come. Our customers are winning, our business is growing, and our employees are innovating as they expand their careers. Our journey requires more great people, so we are hiring across the company, what we call the “First Team.” If you are energized by a culture with a mission to eliminate the constant fear of impact from cyber threats and attacks , come join us at Alert Logic! Alert Logic: the industry’s first SaaS-enabled Managed Detection Response (MDR) provider, is continuing to expand our team and are looking for a Software Engineerto join the Platform Services team to design, develop, and deliver services and tools that enable the Alert Logic Security as a Service (SaaS) platform.  As a Software Engineer on the Platform Services team, you will be responsible for designing and engineering our advanced data processing platform of the future. You will be an integral part of a multi-talented team of engineers responsible for our distributed cloud data model of customer network assets, as well as authentication and authorization for all of our MDR platform services. This group is challenged to work closely with other engineers, security experts and technical leadership to re-think the modeling of all the varied pieces of customer environment data, which is used by every corner of our platform’s solutions and processing for Alert Logic’s security problem domain.  The ideal candidate will be highly motivated and possess a strong software development and automation background. You will have skills in high scalability, and distributed computing problem sets. You will be a polyglot programmer, moving between several languages as needed. Experience in Erlang, C/C++ or Python would be preferred. Familiarity with continuous integration, continuous deployment, and other dev-ops cultural aspects is highly desired. At Alert Logic, our greatness is achieved by the sum of our parts. We hire talented and ambitious people that volunteer their best every single day. We are inspired by our customers and being a leader in a booming industry that is regularly a trending topic. In addition to offering rewarding work and a career path gated only by an individual’s personal goals, we provide a work environment that is fun and cares for each employee. Alert Logic has a wide range of *benefits for each of our locations that aim to provide comprehensive health coverage, life insurance and retirement/pension plans for you and your family. In addition, we offer **Trusted Time Off (TTO) which provides our employees the flexibility to take time off as needed (no limits) for vacation and personal time. We are a remote friendly company that provides you the choice to either work from your home and/or one of our international hub locations. Our hubs are stocked with snacks and drinks as well as plenty of opportunity to have fun with the rest of the team through frequent social activities, such as happy hours, sports leagues, and community outreach!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T05:24:11.000Z"
+  },
+  "company": {
+    "name": "Alert Logic",
+    "link": "https://www.linkedin.com/company/alert-logic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66500,
+    "max_value": 144400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

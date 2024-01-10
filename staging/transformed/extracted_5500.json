@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Data Scientist",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "There is only one Data Cloud. Snowflake’s founders started from scratch and designed a data platform built for the cloud that is effective, affordable, and accessible to all data users. But it didn’t stop there. They engineered Snowflake to power the Data Cloud, where thousands of organizations unlock the value of their data with near-unlimited scale, concurrency, and performance. This is our vision: a world with endless insights to tackle the challenges and opportunities of today and reveal the possibilities of tomorrow. Snowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.  How do you want to make your impact?",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:10:46.000Z"
+  },
+  "company": {
+    "name": "Snowflake",
+    "link": "https://www.linkedin.com/company/snowflake-computing"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Mateo",
+    "region": "CA",
+    "postal_code": "94406",
+    "street_address": null,
+    "latitude": 37.54715,
+    "longitude": -122.3144
+  }
+}

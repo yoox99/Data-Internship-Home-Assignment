@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "At Workday, we help the world’s largest organizations adapt to what’s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we’re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. Inbox team has an excellent opportunity to rebuild and reinvent Inbox, including searching, tagging and new bespoke UI. The position presents the opportunity to work in a collaborative environment designing, developing, delivering, and maintaining Inbox used by 100% of Workday customers. Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:04:31.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 70100,
+    "max_value": 102000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

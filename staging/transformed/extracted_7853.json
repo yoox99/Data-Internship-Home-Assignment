@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services,Investment Management,Banking",
+    "description": "Important Note: During the application process, ensure your contact information (email and phone number) is up to date and upload your current resume when submitting your application for consideration. To participate in some selection activities you will need to respond to an invitation. The invitation can be sent by both email and text message. In order to receive text message invitations, your profile must include a mobile phone number designated as “Personal Cell” or “Cellular” in the contact information of your application.  At Wells Fargo, we are looking for talented people who will put our customers at the center of everything we do. We are seeking candidates who embrace diversity, equity and inclusion in a workplace where everyone feels valued and inspired.  Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.  Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure; provides information security; and enables Wells Fargo global customers to have 24 hours a day, 7 days a week banking access through in-branch, online, ATMs, and other channels.  Our mission is to deliver stable, secure, scalable, and innovative services at speeds that delight and satisfy our customers and unleash the skills potential of our employees.  We are looking for a Site Reliability Engineer (SRE) who enjoys and thrives on solving complex problems through innovation impacting change at scale. As a Site Reliability Engineer (SRE) you’ll be part of the new enterprise Site Reliability Engineering (SRE) practice within Technology Infrastructure (TI) and across Wells Fargo Technology. We believe that \"Hope is not a Strategy\" and we solve operational issues through code.  The Technology Infrastructure team is responsible for enterprise-wide infrastructure services across the global footprint, including networking, production services, storage, data centers, mainframe, midrange and Cloud-based systems, distributed systems, and international infrastructure. Our mission is to support and deliver enterprise infrastructure services that enable our Wells Fargo customers globally. 2600 S Price Rd - Chandler, AZ 255 2nd Ave S - Minneapolis, MN 150 E 42nd St - New York, NY All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.  Relevant military experience is considered for veterans and transitioning service men and women.  Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation. Visit https://www.wellsfargo.com/about/careers/benefits for benefits information. 5599756-2",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-01T21:14:24.000Z"
+  },
+  "company": {
+    "name": "Wells Fargo",
+    "link": "https://www.linkedin.com/company/wellsfargo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chandler",
+    "region": "AZ",
+    "postal_code": "85226",
+    "street_address": null,
+    "latitude": 33.302284,
+    "longitude": -111.8401
+  }
+}

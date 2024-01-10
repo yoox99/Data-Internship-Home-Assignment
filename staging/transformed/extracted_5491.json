@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Test Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "SENIOR SOFTWARE TEST ENGINEER  The Registration and Titling Solutions (RTS) Sr. Software Test Engineer is responsible for developing automated testing strategies and implementing automation test suites for the RTS On-Line registration and titling solutions. The RTS Sr. Software Test Engineer plays a role in providing advice and guidance and monitoring emerging automated testing technologies.  Key Responsibilities  Writes, debugs and executes code used in application testing efforts.  Plans approach and test strategy for automated application testing.  Maintains existing scripts for the purpose of reusability and regression testing.  Analyzes test results to identify issues, and works with architects and developers to suggest improvements and drive issues to resolution.  Conducts applications tests, analyses and presents test results, metrics and drives issues to resolution.  Builds repository of historical testing executions for the purpose of plotting trends over time.  Ability to Manage the strategy, design and execution of business process tests and usability evaluations Determine testing standards and influence others in best practices.  Manage all testing activities.  Manage and communicate all risks associated with the execution of testing as it relates to the quality and predictability of the encompassing program and takes mitigating action when any risks become unacceptable.  Assess and advise on the possibility of testing process alternatives, including automated testing.  Initiate improvements to test processes and contributes to their implementation.  Assess vendor's capabilities for supporting testing efforts.  Manage stakeholder relationships with respect to all testing matters. Design and implement test automation frameworks using industry best practices.  Evangelize and implement test frameworks across the software testing teams. Bachelor's degree in Computer Science or related field and 5+ working experience OR 9+ years equivalent combination of industry related professional experience and education  Working experience in software development and/or testing  Working experience in automated testing frameworks  Working experience with software test tools and processes, building and testing frameworks, and consumer-facing applications and databases  Working experience with regulatory standards testing processes  Working experience of scripting and configuration tools  Working knowledge of delivering products in an engineering, operations, or release role  Working knowledge of development lifecycle methodologies (e.g. waterfall, agile, iterative)  Working experience with performance and load testing tools and practices  Working experience with automated testing for modern java/javascript REST API driven web applications.  Working experience with both UI and API based automation testing  Working experience with test data mocking scenarios and tools a plus.  J  Top 5 Must Haves: work experience with writing, executing, and supporting automation scripts, API automation, UI automation, Parasoft, Robot, SQL",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-13T06:30:45.000Z"
+  },
+  "company": {
+    "name": "InfoPeople Corporation",
+    "link": "https://www.linkedin.com/company/info-people-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Groton",
+    "region": "CT",
+    "postal_code": "06349",
+    "street_address": null,
+    "latitude": 41.3408,
+    "longitude": -72.07131
+  }
+}

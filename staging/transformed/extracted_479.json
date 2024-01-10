@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Full Stack)",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Well, hello there 👋  We're Screencastify, the #1 screen recorder for Chrome. More than 12 million people use Screencastify every week (!!!) to record, edit and share all sorts of amazing videos. We like to think that we've democratized video creation by making it simpler and more affordable than ever before.  In K-12 classrooms around the world, teachers and students are using Screencastify to create instructional videos, record presentations, give better feedback, and much much more. Our free version is used in more than 70% of US school districts. We built the simplest and most reliable screen recorder in the world, but that’s only the beginning. Our near future is full of ambitious new goals, features, and products that will enable us to further improve how we provide service to our users and accelerate our already fast growth.  We prioritize fast iteration without compromising quality while maintaining an attention to detail that creates the kind of delightful interactions we’re known for. We’re looking for an experienced, compassionate, and thoughtful engineer to build effective tools for video in the classroom.  Why is this role special? What you’ll do You’re perfect for this role if you",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T10:54:13.000Z"
+  },
+  "company": {
+    "name": "Screencastify",
+    "link": "https://www.linkedin.com/company/screencastify"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

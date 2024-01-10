@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "100% REMOTE Lead Cloud Engineer, GCP",
+    "industry": "Staffing and Recruiting",
+    "description": "A large insurance company is looking for a 100% remote (within US) Lead Cloud Engineer and is offering up to $220,000. This engineer is someone with a start-up leadership mentality who can help build out their GCP environment, and can bring in DevOps best practices. Someone who works heavily with Terraform, is skilled with container orchestration (GKE, EKS, etc.), and is strong with at least one major scripting/programming language (Python, Golang, Java, etc.) who would like to lead Google Cloud architecture projects will fit in perfectly here. What You Will Be Doing  Tech Breakdown Daily Responsibilities The Offer Applicants must be currently authorized to work in the United States on a full-time basis now and in the future. Gavin Malloy",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:21:55.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

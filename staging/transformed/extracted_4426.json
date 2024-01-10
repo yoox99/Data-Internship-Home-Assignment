@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer Mobile (React)",
+    "industry": "Information Technology and Services,Financial Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:11:40.000Z"
+  },
+  "company": {
+    "name": "Talentpair",
+    "link": "https://www.linkedin.com/company/talentpair"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

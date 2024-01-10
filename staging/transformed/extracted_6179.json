@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Full-stack",
+    "industry": "Biotechnology,Hospital &amp; Health Care,Pharmaceuticals",
+    "description": "Senior Software Engineer - Full-stack  Locations: USA, Canada (possibility of working remotely)  At Genentech/Roche, we are passionate about transforming patients’ lives and we are fearless in both decision and action. We do this today to build a better tomorrow. However, to do so well, we need you! Your uniqueness is the only way we could transform to become more agile, better networked, and better equipped to deal with the challenges and opportunities of an increasingly complex world.  As a Full-stack Software Engineer you will work on an agile team developing and maintaining Python back-ends and Javascript front-ends. You will work closely with other Data and Software engineers to build and maintain analytics dashboards and apps. You will work closely with the data science team to build and maintain data science pipelines. To succeed in this role, you must have considerable experience writing production-ready code in Python and Javascript. You should be a Self-starter able to make progress without much direction. Genentech, a member of the Roche group and founder of the biotechnology industry, is dedicated to pursuing groundbreaking science to discover and develop medicines for people with serious and life-threatening diseases. To solve the world's most complex health challenges, we ask bigger questions that challenge our industry and the boundaries of science to transform society. Our transformational discoveries include the first targeted antibody for cancer and the first medicine for primary progressive multiple sclerosis.  Diversity and Inclusion (D&I) are critical to the success of our company and our impact on society. We believe that by championing diversity of background, thought and experience, we can foster a sense of belonging and provide an environment where every employee feels valued, included, and able to contribute their best for the patients we serve. We’re focused on attracting, retaining, developing and advancing our people to their full potential by rewarding bold ways of thinking and integrating inclusive behaviors into every aspect of our work.  The next step is yours. To apply today, click on the \"Apply for this job\" button.  Genentech is an equal opportunity employer & prohibits unlawful discrimination based on race, color, religion, gender, sexual orientation, gender identity/expression, national origin/ancestry, age, disability, marital & veteran status. For more information about equal employment opportunity, visit our Genentech Careers page . Full time Regular",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:24:25.000Z"
+  },
+  "company": {
+    "name": "Genentech",
+    "link": "https://www.linkedin.com/company/genentech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 124000,
+    "max_value": 173000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "South San Francisco",
+    "region": "CA",
+    "postal_code": "94083",
+    "street_address": null,
+    "latitude": 37.65568,
+    "longitude": -122.41248
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Marketing and Advertising,Internet,Retail",
+    "description": "Zulily is a retailer obsessed with bringing our customers something special every day. Unique products from up-and-coming brands are featured alongside favorites from top brands, including clothing, home decor, accessories, toys and gifts, giving customers something new to discover each morning at an incredible price. We are fast-paced, innovative and metric-driven, with a team passionate for delighting our customers. Whether you want to work with incredible product selection, develop smart marketing plans, help us in our pursuit of faster fulfillment, or do something else awesome in between, we have a place for you. With locations in Seattle, Reno, Columbus and Bethlehem, our team is excited to be changing the way people shop every day - and we are just getting started.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T20:02:03.000Z"
+  },
+  "company": {
+    "name": "Zulily",
+    "link": "https://www.linkedin.com/company/zulily"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

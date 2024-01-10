@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.  We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! The Adobe Analytics platform processes 20+ billion transactions daily and delivers reporting data to customers worldwide. Our team is seeking a dedicated and passionate Software Engineer with top-notch technical, design and development skills to join our Reporting Services team in Lehi, Utah. In this role, you will collaborate closely with engineers, QA and Ops developing and testing the next generation of reliable, high-performance, scalable solutions. You will have the opportunity to develop solutions handling Big Data for enterprise customers worldwide.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T10:00:57.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 84900,
+    "max_value": 122000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lehi",
+    "region": "UT",
+    "postal_code": "84043",
+    "street_address": null,
+    "latitude": 40.387875,
+    "longitude": -111.84917
+  }
+}

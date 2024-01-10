@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - 511794",
+    "industry": "Utilities",
+    "description": "Independently performs assignments with instructions as to general results expected. Works under the direction of a team leader or department manager and receives minimal technical guidance on unusual or complex problems. (May be job or organization specific)  Modern programming languages such as C#, .NET, ASP.NET, Java, JavaScript, HTML5, JQuery, Entity Framework, Team Foundation Server, MS SQL Server (table/query design, SSRS, SSIS, and SSAS), Oracle, Performance Analysis Tools, LINQ, Open Source DBs/Frameworks/Toolkits, Angular, Mulesoft, Python, Ruby  ERP Software Packages such as Oracle, PeopleSoft, Maximo, SAP, MS Dynamics  Third Party cloud hosting solutions like Amazon Web Services, Microsoft Azure.  Basic understanding of application systems from a business and technical perspective.  Collaboration and active participation on teams to achieve identified business objectives. A Bachelor’s degree in computer science, engineering, mathematics, business administration, or related field of study; or equivalent education, training & experience. Completion of approved TVA Progression Plan or 24-48 months of comparable and relevant work experience in applying the concepts, practices and procedures related to application development. Must have experience with one or more of the languages and one DBMS listed in “Skills and Proficiencies”. Must be able and willing to assume on-call rotational assignments which may include 24 hour on 7-day per week availability. Occasional travel may be needed for training, work assignments, or meetings.  May be required to obtain and maintain a security clearance based on position / access requirements and essential job functions. TVA values and embraces diversity. We encourage all individuals to apply regardless of race, color, national origin, ethnicity, gender, sex, abilities/disabilities, sexual orientation, religion, veteran status and age. We strive to be inclusive of all the people we serve across the Valley.  TVA is an Equal Opportunity employer and complies with all applicable laws and regulations regarding equal employment opportunities. Any applicant or employee who believes s/he has a discrimination claim (including harassment or retaliation) must contact TVA’s Equal Opportunity Compliance office within 45 calendar days of the event or action s/he believes to constitute discrimination, harassment, or retaliation. All TVA Non-Nuclear employees are covered by TVA's Federal Drug-Free Workplace Program Plan, in accordance with Executive Order 12564, Public Law 100-71 and the Mandatory Guidelines for Federal Workplace Drug Testing. Information regarding the Drug Free Workplace Program can be found at www.samhsa.gov/workplace . TVA Non-Nuclear employees in Testing Designated Positions, including those performing safety-sensitive duties are also subject to random drug testing. TVA Nuclear employees are subject to random alcohol and drug tests in accordance with 10 CFR Part 26 as mandated by the Nuclear Regulatory Commission (NRC). If you are a U.S. Military Veteran and would like to be considered a preference-eligible veteran for the purposes of your employment application to TVA, please take the necessary actions outlined in the application process. Please submit your military documents each time you apply for a position.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:08:33.000Z"
+  },
+  "company": {
+    "name": "Tennessee Valley Authority",
+    "link": "https://www.linkedin.com/company/tva"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

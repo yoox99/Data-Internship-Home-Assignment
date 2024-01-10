@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior DevOps Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "As the leading workforce management solution for the skilled trades, Workrise makes it easier for skilled laborers to find work, and for companies to find in-demand workers. Workrise currently operates in wind, solar, construction, oil and gas, and defense industries. We’re growing, and we’d love to learn what you can add to our team!  The Engineering team at Workrise leverages a variety of tools to enable and sustain a scalable and highly-resilient platform for delivering customer value. We are organized into agile, cross-functional product line teams consisting of engineering, product and design which allows us to develop deep expertise and rapidly deliver high-value features and functionality.  We are looking for a Cloud Engineer to help us build the next evolution of the Workrise cloud infrastructure (Google Cloud Platform, Terraform), developer tooling (CI/CD) and application infrastructure (Kubernetes, Istio Service Mesh) and monitoring (Open Telemetry, Sumo Logic) .  Sound like you? Keep reading. At Workrise you can feel good about your work and furthering our mission to serve those who do the hard work. We recognize that making an impact matters to you and we believe in providing an environment that fosters that ambition. We welcome you to develop relationships with coworkers by displaying our company values: Own the Mission, Learn and Grow, Solutions Over Ego, and Raise the Bar. In appreciation for your contributions, we support you with various health insurance plan options (including medical, dental, vision), flexible paid time off, and competitive 401k matching.  As a world-class employer, Workrise is committed to providing an environment where any and all people feel welcome, respected, and free to be their authentic selves. We welcome applicants of all gender identities, sexual orientation, educational background, religion, ethnicities, veteran status, and citizenships. We’d love to learn what you can add to our team! In 2014, we set out to create a better way to get work done in the oil & gas industry. The goal — to build the most reliable and cost-effective workforce solution, using technology to make it easier to manage and deploy workers at scale. And while our commitment hasn’t changed, our business has. What started in oil & gas has grown to include construction, wind, solar, and defense. So we believe it’s time our company’s name reflects that evolution. We’re excited to announce that RigUp is now Workrise— a full-stack workforce provider, powered by technology specifically built for the diverse industries we serve.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:54:47.000Z"
+  },
+  "company": {
+    "name": "Workrise",
+    "link": "https://www.linkedin.com/company/workrise"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Information Technology and Services,Medical Devices",
+    "description": "Digital Health Technology team powers digital experiences and engagement to enhance the lives of millions of people every day through connected care. We build, deliver and manage a portfolio of data management platforms and mobile offerings in support of our core businesses. We thrive on simple and elegant architecture and agility. You’ll be immersed in a dynamic high-growth environment and empowered to excel, take informed risks, and drive ingenuity across the enterprise. Joining us is more than saying “yes” to making the world a healthier place. It’s discovering a career that’s challenging, supportive and inspiring. Where a culture driven by excellence helps you not only meet your goals, but also create new ones. We focus on creating a diverse and inclusive culture, encouraging individual expression in the workplace and thrive on the innovative ideas this generates. If this sounds like the workplace for you, apply now!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T20:35:14.000Z"
+  },
+  "company": {
+    "name": "ResMed",
+    "link": "https://www.linkedin.com/company/resmed"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Field",
+    "region": "MN",
+    "postal_code": "55701",
+    "street_address": null,
+    "latitude": 47.862286,
+    "longitude": -92.76156
+  }
+}

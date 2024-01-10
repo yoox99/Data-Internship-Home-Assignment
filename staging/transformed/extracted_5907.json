@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Engineer - Azure/Microsoft 365",
+    "industry": "Entertainment",
+    "description": "If you are a Cloud Engineer with experience, please read on!  We are a fun organization that is moving our entire Data Center to Azure within a year, we will be 100% in the cloud. To make this happen we are looking for a Cloud Engineer as part of our new Cloud team!  What You Will Be Doing What You Need for this Position What's In It for You  We offer the opportunity to be on the ground floor our our biggest infrastructure initiative yet!  Local Candidates ONLY as we will have a Hybrid work week.  So, if you are a Cloud Engineer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Rhona.Kannon@CyberCoders.com Rhona Kannon - Principal Director - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:41:25.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Norwalk",
+    "region": "CT",
+    "postal_code": "06858",
+    "street_address": null,
+    "latitude": 41.11805,
+    "longitude": -73.4129
+  }
+}

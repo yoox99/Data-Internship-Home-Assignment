@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "This Jobot Job is hosted by Christina Finster  Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume. Our Infrastructure team sits at the core of the business and is responsible for the reliability and scalability of all the services that power the platforms and its developers. In only a few years, we have became the leading crypto-products trading platform worldwide, and handle ten of thousands low latency transactions per second, representing several billions of dollars traded every day. We specialize in systems, whether it be networking, the Linux kernel, or some more specific interest in scaling, algorithms, or distributed systems. Pioneer the future of financial technology  Fast-track your career and personal growth  Enjoy best-in-class perks and benefits  Expand your knowledge with our generous education allowance  Work with our global team on an international scale Design, build and maintain core infrastructure pieces that allow BitMEX scaling to quickly and as boringly as possible deploy new products and support hundreds of thousands of concurrent users - in several different geographies and infrastructure providers (e.g. AWS, GCP, bare-metal…), using Terraform, Kubernetes and Chef  Organize further planned failure scenario simulations and tabletops, and shepherd the organization into a culture of where chaos engineering is the norm  Unify, standardize and automate our incident response  Bring the firm to the next-level when it comes to incident response handling by crafting and evangelizing standardized procedures  Make cross-functional incident coordination, communication, investigation, and post-mortem tracking no-brainers through automation  Establish SLOs and Error Budgets standards for all public facing and internal services  Bring focus on how failures impact our global customer base by revamping our take on SLAs, and align teams within the new SLO framework  Implement a metric collection platform to automatically collect service level indicators for any service deployed to production to ease adoption  Debug production issues across services and levels of the stack  Make monitoring and alerting alert on symptoms and not on outages  Document every action so findings turn into repeatable actions–and then automation  Be on a Pager rotation to respond to the BitMEX platform availability incidents and provide support for Think about systems - edge cases, failure modes, behaviors, specific implementations.  Have experience with Nginx, HAProxy, Docker, Kubernetes, Terraform, or similar technologies  6+ years of professional experience, with a proven track record of designing, implementing, managing, and testing infrastructure at scale on AWS for high value environments,  Strong engineering skill set with a firm grasp of fundamental Computer Science principles and a modular, maintainable, agile & test-driven approach to software development  Capacity to multitask and give equal attention to a variety of functions while under pressure  Strong technical troubleshooting, diagnosing and problem solving skills  Ability to adapt to changing priorities within a fast moving industry and startup culture Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T21:45:09.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

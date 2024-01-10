@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Data Engineer - Analytics Platform",
+    "industry": "Retail",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:27:20.000Z"
+  },
+  "company": {
+    "name": "Gap Inc.",
+    "link": "https://www.linkedin.com/company/gap-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

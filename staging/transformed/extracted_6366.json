@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Health, Wellness and Fitness,Medical Practice,Hospital &amp; Health Care",
+    "description": "Orange, California Day – 08hrs (United States of America) At CHOC Children’s, we strive to be the leading destination of children’s health by providing exceptional and innovative care. We are responsible for the overall health of our community’s pediatric population in our hospitals, clinics, and practices. And because of our breadth of care, your career at CHOC Children’s can be as diverse and fulfilling as you determine. CHOC Children’s compensation structure, benefits offerings, and career development programs are geared to helping you achieve your professional and personal goals. Apply now to see where your career at CHOC Children’s can take you. The Senior Data Scientist will work closely with and report to the Chief Health Information Officer (CHIO) towards the development of an organization-wide predictive analytics program and team. Together with the CHIO, the SDS&S would lead advanced predictive analytics projects towards the development of data-driven support decision models for improving the quality of care and discovery of novel findings in pediatrics. The SDS&S will also work with the CHIO, Chief Information Officer (CIO), Business Intelligence team, the Research Institute, and the Medical Intelligence and Innovation Institute to facilitate the design, development and execution of an organization-wide analytics program with a focus on capturing, analyzing and leveraging critical patient and financial data that will be used to positively impact care outcomes, cost and value and support innovation and research activities.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T20:56:53.000Z"
+  },
+  "company": {
+    "name": "CHOC Children's",
+    "link": "https://www.linkedin.com/company/choc-childrens"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orange",
+    "region": "CA",
+    "postal_code": "92667",
+    "street_address": null,
+    "latitude": 33.79149,
+    "longitude": -117.853096
+  }
+}

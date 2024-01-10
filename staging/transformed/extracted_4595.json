@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Nonprofit Organization Management,Computer Software",
+    "description": "The Wikimedia Foundation is looking for a Site Reliability Engineer to join our team, reporting to the Engineering Manager of the Infrastructure Foundations team. As the Site Reliability Engineer, you will be responsible for ensuring our global top-15 web site, our public facing services, and underlying infrastructure are healthy and developing further in support of Wikimedia's mission.  We operate AS 14907 out of multiple data centers in the US, Europe, and Asia, with a global backhaul network and an open peering policy. We apply software engineering practices in our operations, and we publish all of our documentation, code and configuration as open source.  We are a globally distributed and diverse team of engineers with a drive to explore, experiment and embrace new technologies. If you find what we do interesting, if you are up to the challenge of improving the reliability and delivery of one of the Internet's top 15 websites, and you enjoy the idea of working in a remote-first role, we may just be the right place for you.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:11:17.000Z"
+  },
+  "company": {
+    "name": "Wikimedia Foundation",
+    "link": "https://www.linkedin.com/company/wikimedia-foundation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

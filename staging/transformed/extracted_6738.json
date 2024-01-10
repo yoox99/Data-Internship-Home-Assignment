@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer Intern",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Leidos is a Fortune 500™ company aimed at embracing and solving some of the world’s most pressing challenges. Through science and technology, Leidos makes the world safer, healthier and more efficient.  Our Civil Group offers an array of exciting career opportunities for the best IT, energy, logistics and engineering professionals.  Our delivers cutting-edge research in some of the most exciting technological fields and advances state-of-the-practice solutions in transportation safety. Anew era of mobilityrequiresspecialized expertise toaddressparadigm shifts inhowwe travel and move goods. Leidos is seeking an who will be a member of a dynamic team working on the Federal Aviation Administration’s En-Route Automation Modernization ERAM) technology, which is the heart of the Next Generation Air Transportation System and the pulse of the National Airspace System helping to advance our transition from a ground-based system of air traffic control to a satellite-based system of air traffic management. ERAM is vital to the future of air navigation, providing the foundational platform required for FAA to enable NextGen solutions, via modernization programs such as System Wide Information Management, Data Communications, and Automatic Dependent Surveillance- Broadcast.  ERAM will provide benefits for users and the flying public by increasing air traffic flow Flight Deck (FDK) functions include: Modernizing the AT control system by improving the availability and performance of the ERAM system. Supporting ERAM as it continues to migrate from legacy system using the AIX operating systems to HP Hardware running Linux (Red Hat).  Detailed knowledge of Linux OS and OS concepts desirable.  Developing and maintaining the FAA air traffic control software (primarily Ada95/C++) on a UNIX/Linux platform.  There are a number of support/maintenance functions that utilize PERL/PYTHON.  Performing software development as needed for the ERAM system including FlightDeck “middleware” capabilities, System Management Concepts, and CHI for the Maintenance and Control Position.  Coordinate Solutions with Systems Engineering Coordinate the development of new capabilities and upgrade to common services provided the applications via the FlightDeck API. CAS Integration Concepts ERAM Tools Development  Interns typically work with one of the ERAM SW teams getting exposure to the technical environment and people who support ERAM.  Internships typically serve as interviews for future internships and Full-time employment post-graduation. Candidates must be enrolled in a degree program or equivalent experience and less than 2 years prior relevant experience. (Computer Science or Computer Engineering Degree)  Your GPA needs to be included on your application and resume.  US Citizenship Requirements  Candidate must be able to obtain an SF-85P Public Trust clearance from the FAA customer. Excellent Verbal and Communication Skills  Strong interest in debugging and problem solving  A Strong Desire to Learn Work Experience in a Technical organization performing Software Engineering Tasks.  Excellent Verbal and Written Communication Skills Leidos is growing!Connect with us on LinkedIn and Facebook.  We value and support the well-being and mobility of our employees with competitive benefit packages, complementary e-learning training, work-life flexibility, an exciting External Referral Program, and a diverse, inclusive and ethical work place. In fact, in 2020, Leidos was ranked as one of the “World's Most Ethical Companies” by the Ethisphere Institute for the third consecutive year. Ineligible N/A No Public Trust No 40 Day Intern Intern Technical",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:23:49.000Z"
+  },
+  "company": {
+    "name": "Leidos",
+    "link": "https://www.linkedin.com/company/leidos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Gaithersburg",
+    "region": "MD",
+    "postal_code": "20884",
+    "street_address": null,
+    "latitude": 39.142185,
+    "longitude": -77.193405
+  }
+}

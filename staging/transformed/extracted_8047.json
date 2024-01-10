@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Financial Services,Hospital &amp; Health Care",
+    "description": "It’s a new day in health care!  Combining CVS Health and Aetna was a ground-breaking moment for our company and our industry, establishing CVS Health as the nation’s premier health innovation company. Through our health services, insurance plans and community pharmacists, we’re pioneering a bold new approach to total health.  Want to help drive the next level of growth at a leading national B2C healthcare brand, touching millions of prospects and members? We’re looking for go-to-market leaders to drive innovation and growth in Aetna Medicare, using consumer marketing, sales, and product design that leverages data science and consulting skills to help Aetna acquire new members and retain our existing members.  Our Growth Analytics team is integrated into all of CVS Health’s go-to-market activities, including overall growth strategies, business case development, customer segmentation, product design, lead gen marketing (including geo and media mix planning, customer targeting, and impact measurement), lead conversion and broker sales, and member retention. We infuse data science into all growth analytics, powered by a world-class Hadoop cluster, petabytes of data, and the latest machine learning techniques. During Open Enrollment, our industry-leading Medicare War Room uses analytics and data science to drive continuous innovation and real-time optimization of all in-flight activities. LOCATIONS:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-20T09:12:15.000Z"
+  },
+  "company": {
+    "name": "CVS Health",
+    "link": "https://www.linkedin.com/company/cvs-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

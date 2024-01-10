@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - U.S. Electricity Markets",
+    "industry": "Construction,Oil &amp; Energy,Financial Services",
+    "description": "Edison Energy is the expert independent advisor for commercial, industrial, and institutional energy users, delivering comprehensive, data driven and integrated global energy solutions. We provide a full-suite of sustainability-driven & energy management solutions including specialized delivery of renewables, supply, demand, engineering, portfolio advisory and analytics services, serving market leaders facing an increasingly complex energy environment.  As a wholly owned subsidiary of Edison International (NYSE: EIX), Edison Energy combines sophisticated, cloud-based analytics and focused energy advisory services with Edison International’s scale and stability to deliver high-quality services to our clients. Our goal is to leverage our years of experience in traditional power and gas markets, renewable energy and sustainability advisory, and engineering and implementation services to design solutions that empower our clients to build economically sustainable energy portfolios. The data scientist will provide insight and expert analysis of electricity markets across the U.S. The Market Insights and Analysis team provides market insights, price forecasts, and PPA cash flow evaluations to support client engagements. This role will help enhance the company’s electricity market modeling capabilities and integrate the modeling process into the company’s broader analytical process.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:04:27.000Z"
+  },
+  "company": {
+    "name": "Edison Energy",
+    "link": "https://www.linkedin.com/company/edison-energy-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

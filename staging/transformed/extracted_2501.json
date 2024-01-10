@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Locations: NY - New York, United States of America, New York, New York  Machine Learning Engineer  As a Capital One Machine Learning Engineer, you'll be part of an Agile team dedicated toproductionizing machine learning applications and systems at scale. You’ll participate in thedetailed technical design, development, and implementation of machine learning applicationsusing existing and emerging technology platforms. Working within an Agile environment, you’llfocus on machine learning architectural design, develop and review model and application code,and ensure high availability and performance of our machine learning applications. You'll havethe opportunity to continuously learn and apply the latest innovations and best practices inmachine learning engineering to keep Capital One at the cutting edge of technology.  We are seeking Software Engineers who are passionate about marrying data with emerging technologies to join our team. As a , you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One. Learn more about and our commitment to by jumping to on our Corporate Social Responsibility Report. This requisition is an advertisement for multiple opportunities within our Tech organization. By applying to this particular role, you'll also be considered for other roles within Capital One's Engineering Organization. At this time, Capital One will not sponsor a new applicant for employment authorization for this position.  Job Category - Information Technology, Engineering, Technology Explorers, Technology Explorers",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T05:17:45.000Z"
+  },
+  "company": {
+    "name": "Capital One",
+    "link": "https://www.linkedin.com/company/capital-one"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

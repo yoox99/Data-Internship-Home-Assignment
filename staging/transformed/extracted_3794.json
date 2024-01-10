@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "NCR Corporation (NYSE: NCR) is a leading software- and services-led enterprise provider in the financial, retail and hospitality industries. NCR is headquartered in Atlanta, Georgia, with 36,000 employees globally. NCR is a trademark of NCR Corporation in the United States and other countries. NCR Corporation is the global leader in consumer transaction technologies, turning everyday interactions with businesses into exceptional experiences. With its software, hardware, and portfolio of services, NCR enables nearly 700 million transactions daily across retail, financial, travel, hospitality, telecom and technology, and small business. NCR solutions run the everyday transactions that make your life easier. By continually learning about—and pioneering—how the world interacts and transacts, we’re helping companies not only reach their goals, but also change the way all of us shop, eat, travel, bank and connect. Together, we are shaping the future. NCR is headquartered in Atlanta, Georgia, with approximately 30,000 employees and conducts business in 180 countries. The Commercial Analytics Junior Data Scientist will help accelerate growth and advance NCR’s global competitiveness through advanced analytics and data science projects to continuously improve business processes and efficiency. The role is responsible for partnering with multiple internal stakeholders to implement, and validate data driven strategies, processes, and tools. You will be creating advanced analytical models to improve and drive customer success, revenue, and margin objectives. More specifically, this role will partner with many entities across the entirety of NCR’s business, to: Offers of employment are conditional upon passage of screening criteria applicable to the job. Integrated into our shared values is NCR's commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment without regard to sex, age, race, color, creed, religion, national origin, disability, sexual orientation, gender identity, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment. To ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T19:25:15.000Z"
+  },
+  "company": {
+    "name": "NCR Corporation",
+    "link": "https://www.linkedin.com/company/ncr-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 72800,
+    "max_value": 107000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

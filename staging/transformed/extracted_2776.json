@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Ops Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Financial Services",
+    "description": "Refer A Friend McDonald’s is proud to be one of the most recognized brands in the world, with restaurants in over 100 countries and billions of customers served each year. As the global leader in the food service industry, we have a legacy of innovation and hard work that continues to drive us. Today, we are growing with velocity and are focused on modernizing our experiences, not to make a different McDonald’s, but to build a better McDonald’s.  We are moving fast and are adding to our best-in-class team. Joining McDonald's means thinking big every day and preparing for a career that can have impact around the world. We are customer obsessed, committed to being leaders, and believe we are better when we work together. Over the last couple years, we’ve launched home delivery, modernized our restaurant experience through digital enhancements and have so much more to come.  We are dedicated to using our scale for good: good for people, our industry and the planet. From ambitious recycling initiatives and balanced sourcing efforts to our partnership with Ronald McDonald House Charities, we are constantly improving. We see every single day as a chance to have a genuine impact on our customers, our people and our partners.  Our new, state-of-the-art headquarters is located in the booming West Loop area in the heart of downtown Chicago. It's set up to be a global hub that cultivates innovation. Take a class at Hamburger University, sample future menu items in our Test Kitchen, and utilize the latest technology to communicate with your team around the globe! Our office helps us connect with each other like never before. Participate in monthly organized events, enjoy massive outdoor spaces, an 8000 square foot gym, and an onsite McDonald's serving international favorites.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T02:21:18.000Z"
+  },
+  "company": {
+    "name": "McDonald's",
+    "link": "https://www.linkedin.com/company/mcdonald%27s-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

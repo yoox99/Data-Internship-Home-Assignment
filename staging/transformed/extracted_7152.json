@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Backend Software Engineer (100% remote; Relo to San Francisco post-Covid)",
+    "industry": "Marketing and Advertising,Computer Software,Financial Services",
+    "description": "Founded in 2008, our Customer represents a global travel community that offers magical end-to-end trips, including where you stay, what you do, and the people you meet. They exist to create a world where anyone can belong anywhere, providing healthy travel that is local, authentic, diverse, inclusive, and sustainable. Their website and app uniquely leverage technology to economically empower millions of people around the world to unlock and monetize their spaces, passions, and talents to become hospitality entrepreneurs.  We are looking for a on a . This role will build critical functionality that saves us about (USD)X million annually and improves SMS reliability. In addition, this role will also help us improve our vendor operations work, like changing SMS shortcodes for certain countries, updating APIs based on vendor updates. Bachelors Degree. Standard M-F, 40 hours/week. This role will be remote while COVID restrictions are in place. The expectation is to be onsite at our Customer’s San Francisco, CA office once it is determined to do so. Health Benefits: Medical, Dental, Vision, 401k, FSA, Commuter Benefit Program",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:17:51.000Z"
+  },
+  "company": {
+    "name": "The Mom Project",
+    "link": "https://www.linkedin.com/company/the-mom-project"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

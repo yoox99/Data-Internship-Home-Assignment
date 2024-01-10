@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Mechanical or Industrial Engineering,Consumer Goods",
+    "description": "Brooks Instrument, a global manufacturer of flow and pressure measurement and control products for critical applications, and a division of ITW (A Fortune 200 Company) is seeking candidates for a Brooks maintains manufacturing, sales, and service center facilities around the world, and our products are used in laboratory and process applications in end markets such as: life sciences, petro-chemicals, semiconductor, analytical instrumentation, nuclear, and solar cells. Design, develop and implement software applications related to manufacturing flow and pressure instruments for both Sustaining and CBI engineering Qualifications Additional Information  Our employees enjoy competitive, merit-based salary plus excellent benefits including: The opportunity to join a well-established (70 + years in business) yet dynamically changing organization that works together as a team to meet the challenges of satisfying customers’ needs and managing rapid growth to better compete in a global marketplace.  Please visit our website: http://www.brooksinstrument.com/ ITW was built on innovation and the strength of new ideas. These values have helped us expand into multiple platforms in nearly 60 countries. But at each of our businesses, the independent entrepreneurial spirit and freedom to innovate remain strong. It’s the highly talented people at ITW businesses all over the world who drive our success through new products and customer driven solutions. Together, we are ITW—a Fortune 200 company that has prospered for 100 years, and changed the way people live and work, all over the world.  Brooks Instrument is an Equal Opportunity Employer / Affirmative Action employer. All qualified applicants will receive consideration for employment without required to race, color, religion, sex, national origin, disability, or protected Veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Brooks Instrument",
+    "link": "https://www.linkedin.com/company/brooks-instrument"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 42100,
+    "max_value": 82200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hatfield",
+    "region": "PA",
+    "postal_code": "19440",
+    "street_address": null,
+    "latitude": 40.27963,
+    "longitude": -75.299576
+  }
+}

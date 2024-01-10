@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Do you want to build solutions to help scientists do more, faster? Join us!  The Amazon GTM Science team is an innovative organization that exists to propel Amazon HR toward being the most scientific HR organization on earth. The mission of GTM Science is to use Science to assist and measurably improve every talent decision made at Amazon. GTM Science does this by discovering signals in workforce data, infusing intelligence into Amazon’s talent products, and guiding the broader GTM team to pursue high-impact opportunities with tangible returns. This multi-disciplinary approach spans capabilities, including: data engineering, reporting and analytics, research and behavioral sciences, and applied sciences such as economics and machine learning.  We are seeking a data scientist to help build the tools necessary for our multidisciplinary science teams to scale up their impact. The Research Operations and Services team works backwards from the problems our research face to introduce lightweight tools and processes that help our teams scale. In this role you will identify opportunities to develop tools which can help our science teams scale, enabling them to produce insights more rapidly. Job can be located in either Seattle, WA or Arlington, VA  Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age. - Amazon.com Services LLC Job ID: A1654298",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T01:11:00.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

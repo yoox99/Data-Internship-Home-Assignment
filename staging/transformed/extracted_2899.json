@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Slack is looking for Backend Engineers to build features, design and implement API methods, and improve the performance and reliability of our systems as we rapidly scale our product and organization.  We build our app using reliable tools that our team knows and trusts, including PHP/Hack, Java, MySQL, and Linux. Expertise in these areas is a huge plus, but having familiarity with other common web languages (such as Python or Ruby) and other relational databases are fine substitutes. We’re a collaborative team who genuinely enjoys working together with a cross-functional team of product managers, designers, frontend, iOS, Android, automation, and quality engineers to make Slack a better product. We are looking for engineers that understand that simplicity and reliability are aspects of a system to be carefully calculated with every decision made. Slack is registered as an employer in many, but not all, states. If you are not located in or able to work from a state where Slack is registered, you will not be eligible for employment. Visa sponsorship may not be available in certain remote locations.  Visa sponsorship is not available for candidates living outside the country of this position. At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.  Salesforce.com and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce.com and Salesforce.org will not pay any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org.  Salesforce welcomes all.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T21:44:15.000Z"
+  },
+  "company": {
+    "name": "Slack",
+    "link": "https://www.linkedin.com/company/tiny-spec-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

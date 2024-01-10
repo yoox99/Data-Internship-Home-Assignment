@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Telecommunications",
+    "description": "Description - Internal Xandr is a technology platform powering one of the largest global Advanced TV and Video advertising marketplaces in the industry. We scale our business as WarnerMedia people who independently build the Xandr platform and brand. For more than a decade, our data insights, premium content, powerful technology, and scaled direct-to-consumer distribution have given us a competitive edge — leading us to improving advertising for all brands, publishers, and consumers.  How do we do this? With talented, passionate people like you! We bring together people from diverse backgrounds and give them an opportunity to bring their ideas to life. Join our community to Make Advertising Better! This role entails the development, validation and communication of data methodologies and algorithms used in Xandr’s TV Platform. The TV platform enables buyers and sellers to transact advanced TV advertising campaigns, and the integrity of data and performance of optimization algorithms is an essential element of the platform’s value. Related, clearly communicating our methodologies to relevant stakeholders, building trust through transparency, is an important part of the role. The role is part of the TV Platform Research and Data Team and also involves collaboration with the broader Xandr Data Science organization and other Xandr teams on select projects. Xandr strives to foster a diverse, inclusive and engaging work environment. Our inclusivity in action includes: Xandr, its products and its executives have received several prestigious awards. In 2020 alone, Cablefax's annual The Faxies awards named Xandr’s EVP and GM Innovator of the Year and the Xandr technology organization Tech Team of the Year. In the same year, seven female executives were included in the Cynopsis list of Top Women in Media, and several of its products, innovations and client partnerships were recognized by esteemed outlets globally, including AdExchanger, Digiday, The Drum, ExchangeWire and Cynopsis. Concurrently, the company’s dedication to corporate social responsibility was recognized in Fast Company’s 2020 World Changing Ideas issue. Xandr was also included on Business Insider's Hottest AdTech Companies list in 2019 and 2018.  Xandr is an equal opportunity employer. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.  Xandr Twitter  Xandr Instagram  Xandr LinkedIn  &ZeroWidthSpace;&ZeroWidthSpace;&ZeroWidthSpace;&ZeroWidthSpace;&ZeroWidthSpace;&ZeroWidthSpace;&ZeroWidthSpace;  Job Posting: Sep 7, 2021, 8:07:50 PM  Schedule: Full-time  Job Level: Senior Associate/Second Level Manager",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:10:52.000Z"
+  },
+  "company": {
+    "name": "DIRECTV",
+    "link": "https://www.linkedin.com/company/directv"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 168000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

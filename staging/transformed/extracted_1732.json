@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Quality Assurance Engineer",
+    "industry": "Banking,Financial Services",
+    "description": "Elevations is in the process of taking the foundation of its software development practice to the next level. We are looking for an individual with a passion for best practices across the QA and Agile and a strong passion for delivering quality products.  The QA Engineer will be part of a growing QA organization. This position will be responsible for the design, development, and execution of test cases to ensure software products meet business needs. You will be responsible for catching bugs through manual testing processes. You will work closely with our Business, Product Managers and Developers to ensure that all code developed is properly tested. IT QA Manager This role does not have supervisory responsibility Decision Making, Quality Orientation, Planning and Organizing, Continuous Improvement, Influencing, Building Networks Elevations uses multi-factor authentication to keep our data safe. As such, a personal smart phone is a requirement for employment with us. This job operates in an office setting and routinely uses standard office equipment. Sitting frequently, walking occasionally, use of hands frequently, hearing constantly, talking frequently, exerting up to 10 lbs of force occasionally to lift, carry, push, pull, or move objects. Full time / 40 hours per week Exempt Elevations Basecamp Location (1 Environmental Way, Broomfield, CO 80021) The minimum point of the budgeted range is $91,040 + an annual incentive. The candidate's starting salary will be adjusted based upon his, her, or their experience. Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice. Elevations Credit Union is a member-owned not-for-profit financial institution serving Colorado’s Front Range. Founded in 1953, we’ve grown from 12 members and less than $100 in assets to an institution with 13 branches and more than 120,000 members that manages over $2 billion in assets and is the No. 1 credit union mortgage lender in Colorado. At Elevations, we’ve made a commitment to move away from a product-centered business model and focus instead on creating consumer solutions. Our objective is to provide our members, as well as the entire community, with unbiased consumer information. Elevations Credit Union is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs.  Candidates for certain positions may be required to submit to a credit history report in determining qualification for employment with Elevations Credit Union. If the position you are applying for requires a credit history report, any information received in such a report will not be the sole factor in making an employment decision. A history of personal financial irresponsibility may be reason for disqualification insofar as it relates to your potential job duties. Elevations Credit Union is aware that occasionally there are extenuating circumstances that may affect an individual's credit history. We comply with the Fair Credit Reporting Act and the Colorado Employment Opportunity Act.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:12:18.000Z"
+  },
+  "company": {
+    "name": "Elevations Credit Union",
+    "link": "https://www.linkedin.com/company/elevations-credit-union"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 54000,
+    "max_value": 109000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Broomfield",
+    "region": "CO",
+    "postal_code": "80020",
+    "street_address": null,
+    "latitude": 39.923985,
+    "longitude": -105.08166
+  }
+}

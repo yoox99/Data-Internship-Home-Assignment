@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer V",
+    "industry": "Internet",
+    "description": "Expected compensation: $82.00 - $101.00 per hour  HireArt is helping the world’s largest social network find a Software Engineer to join the build and testing infrastructure team for one of its high-level, flagship devices.  All candidates must be proficient with Python and Javascript.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T23:13:17.000Z"
+  },
+  "company": {
+    "name": "HireArt",
+    "link": "https://www.linkedin.com/company/hireart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlingame",
+    "region": "CA",
+    "postal_code": "94012",
+    "street_address": null,
+    "latitude": 37.584194,
+    "longitude": -122.366264
+  }
+}

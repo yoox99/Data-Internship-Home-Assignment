@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "We are an architecture R&D team at HP Inc chartered with developing forward-looking and innovative technology for human-centered design and applications to the PC ecosystem. As part of this team, you will be experimenting with new ideas in machine-learning and edge infrastructure to implement, optimizing and productize ML models and solutions for resource-constrained devices. You are a collaborator who learns from and enables others to mutually grow. You have the tenacity to visualize, develop and ship cutting edge solutions and enthusiastic to contribute to best in class products that impact the lives of people around the globe. You’re out to reimagine and reinvent what’s possible—in your career as well as the world around you.  So are we. We love taking on tough challenges, disrupting the status quo, and creating what’s next. We’re in search of talented people who are inspired by big challenges, driven to learn and grow, and dedicated to making a meaningful difference.  HP is a technology company that operates in more than 170 countries around the world united in creating technology that makes life better for everyone, everywhere.  Our history: HP’s commitment to diversity, equity and inclusion - it's just who we are.  From the boardroom to factory floor, we create a culture where everyone is respected and where people can be themselves, while being a part of something bigger than themselves. We celebrate the notion that you can belong at HP and bring your authentic self to work each and every day. When you do that, you’re more innovative and that helps grow our bottom line. Come to HP and thrive!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T14:07:26.000Z"
+  },
+  "company": {
+    "name": "HP",
+    "link": "https://www.linkedin.com/company/hp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Spring",
+    "region": "TX",
+    "postal_code": "77387",
+    "street_address": null,
+    "latitude": 30.079731,
+    "longitude": -95.41769
+  }
+}

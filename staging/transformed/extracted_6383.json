@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer - REMOTE",
+    "industry": "Internet",
+    "description": "Medable's mission is to get effective therapies to patients faster. We provide an end-to-end, cloud-based platform with a flexible suite of tools that allows patients, healthcare providers, clinical research organizations and pharmaceutical sponsors to work together as a team in clinical trials. Our solutions enable more efficient clinical research, more effective healthcare delivery, and more accurate precision and predictive medicine. Our target audiences are patients, providers, principal investigators, and innovators who work in healthcare and life sciences.  Our vision is to accelerate the path to human discovery and medical cures. We are passionate about driving innovation and empowering consumers. We are proactive, collaborative, self-motivated learners, committed, bold and tenacious. We are dedicated to making this world a healthier place. Additional Information  All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T04:01:23.000Z"
+  },
+  "company": {
+    "name": "Medable, Inc",
+    "link": "https://www.linkedin.com/company/medable-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

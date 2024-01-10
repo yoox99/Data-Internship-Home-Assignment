@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Consumer Electronics",
+    "description": "NVIDIA is looking for a Senior Site Reliability Engineer to work in IPP (Infrastructure, Planning and Process). IPP is a global organization within NVIDIA. This group works with various other groups within NVIDIA Software such as Graphics Processors, Mobile Processors, Deep Learning, Artificial Intelligence and Driverless Cars to cater to their infrastructure needs. These cloud services provide almost half a million automated jobs per day on thousands of servers helping with the productivity of thousands of NVIDIA's software engineers worldwide.  The cloud hosts heterogeneous mix of machines and devices with various operating systems (Windows/Linux/Android), multitude of hardware platforms both NVIDIA GPUs and Tegra Processors. Are you passionate about infrastructure and looking for sophisticated, relevant issues, ready to build the next generation of cloud services, design creative solutions, mine through data to uncover real problems and fix them? We are excited to have a fun-loving person like you. NVIDIA is leading the way in groundbreaking developments in Artificial Intelligence, High-Performance Computing and Visualization. The GPU, our invention, serves as the visual cortex of modern computers and is at the heart of our products and services. Our work opens new universes to explore, enables outstanding creativity and discovery, and powers what were once science fiction inventions from artificial intelligence to autonomous cars.  NVIDIA is looking for phenomenal people like you to help us accelerate the next wave of artificial intelligence. If you are creative and passionate about developing cloud services, we want to hear from you! Widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and passionate about developing cloud services we want you on our team!  NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:28:00.000Z"
+  },
+  "company": {
+    "name": "NVIDIA",
+    "link": "https://www.linkedin.com/company/nvidia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "The SSP team is looking for an exceptional software engineer to help foster a vibrant ecosystem for machine learning development tools. In this highly collaborative role, you will be at the center of multiple efforts to make machine learning an accessible and powerful tool for all developers.    We are looking for applied machine learning engineers with a passion for developing  the infrastructure to use ML algorithms seamlessly. You will create ML infrastructure used across Apple, that power magical experiences for millions of Apple users and developers. 2+ years of experience developing ML frameworks and software solutions in industry or academia.  Experience using modern machine learning frameworks like TensorFlow or PyTorch.   Experience with modern IR for ML workloads (MLIR).  Strong fundamentals in problem solving and algorithm design  Passion for software architecture, API and development tool design  Ability to write flawless, readable and maintainable code in C++  Strong communication skills, and ability to present deep technical ideas to audience with different skillsets.  Collaborative team player who can work well across multiple teams and organizations.  Understanding of compiler development   Understanding of hardware acceleration for ML workloads Responsibilities include:   Developing machine learning infrastructure that will be used by product teams for developing, evaluating and deploying machine learning models.    Develop and maintain large code base by writing readable, modular and well tested code.   Providing technical support to product and algorithm teams on the best practices for developing efficient machine learning models, and analyzing failure cases.  Interacting with high level ML framework such as CoreML.  Interacting with the compiler for Apple proprietary Neural Engine Accelerator to expose / enable new features of the Neural Engine Accelerator. Masters's degree or higher in Computer Science or equivalent field.    Role Number: 200257391",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T14:24:35.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 116000,
+    "max_value": 155000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

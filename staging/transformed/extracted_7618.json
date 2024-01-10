@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (Full-Stack)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "RStudio is seeking a candidate for a Senior Software Engineer (Full-Stack) to join the RStudio Cloud team. RStudio Cloud is a software as a service product designed to help professionals, hobbyists, trainers, teachers, and students to more easily do, share, teach, and learn data science using RStudio’s best in class IDE, with the convenience of cloud computing. In this position you will be an instrumental member of a cross-functional team working to build the RStudio’s next generation data science platform: RStudio Cloud. You will have the opportunity to take ownership and drive the development and delivery of major product enhancements up-and-down the software stack. You will be asked to share your expertise in building high quality, user-focused, software through mentorship and leadership opportunities. As a full-stack engineer, we anticipate your focus to be a mix of front-end (70%) and back-end (30%) work. You will be responsible for: You are user-focused and driven by our mission to facilitate science and education for everyone. You share our commitment to building great software by striving for elegant design, clean, well-tested code, and delightful user experiences. You accel at breaking down complex problems into bite-size tasks and driving them to completion. You love to learn and to help others succeed through code review and other forms of mentorship. You are humble, pragmatic, deliberate, and you have a keen sense of empathy for your co-workers and users. You also have: We are a fun-loving and diverse group who share a passion for building high-quality software and delivering a great user experience. Our team members live in various locations across the United States (and occasionally elsewhere!) and work together via Slack, holding regularly scheduled and ad-hoc video calls, and communicating our ideas through documents, images, and code (and code reviews). RStudio is committed to being a diverse and inclusive workplace. We encourage applicants of different backgrounds, cultures, genders, experiences, abilities, and perspectives to apply. All qualified applicants will receive consideration for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, physical disability, or length of time spent unemployed.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:42:31.000Z"
+  },
+  "company": {
+    "name": "RStudio PBC",
+    "link": "https://www.linkedin.com/company/rstudio-pbc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "MSP Network Engineer",
+    "industry": "Internet",
+    "description": "Description: .  Requirements:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:53:52.000Z"
+  },
+  "company": {
+    "name": "Intermax Networks",
+    "link": "https://www.linkedin.com/company/intermaxnetworks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Coeur d'Alene",
+    "region": "ID",
+    "postal_code": "83814",
+    "street_address": null,
+    "latitude": 47.673344,
+    "longitude": -116.77382
+  }
+}

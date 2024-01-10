@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote .Net Software Engineer - Remote - .NET, JSON, Rest",
+    "industry": "Computer Software",
+    "description": "We have been in business for 45 yrs! Our portfolio consists of 12,000 global brands & 1,750 global retailers & distributors. We are widely profitable and make 3-4 acquisitions a year! We have 30% year over year growth.  Despite our rapid growth, we have kept a people first & employee first culture. In fact, our Engineering organization is led by an industry leader who has had ZERO attrition. We did not lay off ONE PERSON in 2020 or 2021 and we paid bonuses to our staff before our executives got any! We are a fast paced environment and looking for people who want to scale, build long term careers and RETIRE with us!!  What You Will Be Doing  \"3-5 years professional experience developing software using relevant technologies: C#/.NET core, JSON, XML \" Professional experience with REST API development/integration/maintenance through C# and .NET core \" Ability to develop and maintain Import/Export feeds through C#/.NET core \" Experience developing Microservices/Web services \" Experience in data transmission through messages, FTP file transfer \" Experience with development in cloud environment Azure \" Experience with Azure, durable messaging, App Insights, service bus \" Experience with Git.Gitlab  What You Need for this Position What's In It for You So, if you are a strong .Net Software Engineer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Dylan.Rogelstad@CyberCoders.com Dylan Rogelstad - Lead Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:42:34.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

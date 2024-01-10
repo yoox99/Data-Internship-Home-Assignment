@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Mobile",
+    "industry": "Computer Software,Health, Wellness and Fitness,Hospital &amp; Health Care",
+    "description": "Virgin Pulse, founded as part of Sir Richard Branson’s famed Virgin Group, helps organizations build employee health and wellbeing into the DNA of their corporate cultures. As the only company to deliver a powerful, mobile-first digital platform infused with live services, including coaching and biometric screenings, Virgin Pulse’s takes a high-tech-meets-high-touch-approach to engage employees in improving across all aspects of their health and wellbeing, every day – from prevention and building a healthy lifestyle to condition and disease management;all while engaging users daily in building and sustaining healthy habits and behaviors. A global leader in health and wellbeing, Virgin Pulse is committed to helping change lives and businesses around the world for good so that people and organizations can thrive, together. Today, more than 3100 organizations across the globe are using Virgin Pulse’s solutions to improve health, employee wellbeing and engagement, reduce costs and create strong workplace cultures. At Virgin Pulse we’re passionate about changing lives for good. We want to make a difference in the world by helping people be healthy so they can perform at their best, every day, at work and home. Our award-winning solutions support leading employers in improving and simplifying the employee health and wellbeing journey and engaging people in all aspects of their health. But our world-class products and programs are nothing without our people – the employees who design, build, promote, sell, test and perfect the latest innovations in workplace health and wellbeing. Our people are our top priority and we invest in their health and happiness. At Virgin Pulse, we have so much more than a strong, supportive company culture – have a shared vision for a healthier, happier world.  Virgin Pulse values and celebrates diversity and is committed to creating an inclusive environment for all employees. We believe in creating teams made up of individuals with various backgrounds, experiences, and perspectives. Why? Because diversity inspires innovation, collaboration, and challenges us to produce better solutions. But more than this, diversity is our strength, and a catalyst in our ability to #changelivesforgood. As a Senior Software Engineer at Virgin Pulse, you will work on a scrum team. You bring to the table a base understanding of many modern open-source web technologies and are dedicated to learning more. Each day you will be collaborating with Tech Leads, Product Managers, UX Designers, and other talented Engineers to deliver great solutions on an exponentially growing application. Our next generation SAAS platform is using an exciting mixture of technologies: Large scale, highly available, public-facing applications built in Angular for web and native Android/iOS for mobile. Our backend is composed of many different micro-services built using Spring Boot Rest APIs and Apache Storm, backed by a combination of technologies to fit our scaling needs like PostgreSQL, Cassandra/ScyllaDB, Kafka, Redis, and Elasticsearch allowing us to process billions of events using an event-based architecture. All of this is hosted on AWS utilizing tools like Terraform and Ansible to manage our infrastructure.  At Virgin Pulse we are a big believer in teams owning their features and we have instilled a motto of “build, deploy, run”. This means teams don’t just develop features, but they are also responsible for deploying and supporting their features in Production. To support this, we practice CI/CD, allowing each team to deliver value to our customers in as short amount of time as possible, while also giving our teams a continuous feedback loop by using tools like New Relic, ELK, and CloudWatch to monitor application health and performance. The times of weekly, bi-weekly, or even quarterly releases are a thing of the past. No candidate will meet every single desired qualification. If you may be a good fit, we encourage you to apply. Virgin Pulse is an equal opportunity organization and is committed to principles of social justice, equity, diversity and inclusion. As we are committed to diversifying our company, we make a particular effort to recruit and encourage candidates that are historically from underrepresented communities to apply for open positions. Work to maintain system and data security at a high standard, ensuring the confidentiality, integrity and availability of the Virgin Pulse application is not compromised. Adhere to industry best practice coding standards and verify all code developed at Virgin Pulse is free from bugs and security vulnerabilities such as those defined and published by OWASP.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:39:51.000Z"
+  },
+  "company": {
+    "name": "Virgin Pulse",
+    "link": "https://www.linkedin.com/company/virgin-pulse"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 100000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Providence",
+    "region": "RI",
+    "postal_code": "02903",
+    "street_address": null,
+    "latitude": 41.824463,
+    "longitude": -71.41275
+  }
+}

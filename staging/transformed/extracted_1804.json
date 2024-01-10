@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Are you passionate about working on products that make a difference for your customers? Do you enjoy building large scale applications that are powered by huge data sets? Do you value working in an environment where you're empowered to make key technical decisions across a full stack of technologies? If so, a role on Splunk Security Analytics team would be a great fit for you.  Splunk Enterprise Security is a sophisticated SIEM built atop Splunk’s data platform with lots of moving parts. We help thousands of clients as they identify and protect their assets from cyber threats, all over the world. On any given day, our software needs to handle thousands of users, petabytes of data, and unique usage patterns across different deployment topologies.  Splunk ES is at the forefront of data processing. As we take the product to address the next anvil of data challenges that include real-time streaming data processing, integration of disparate and distributed data sources, we need strong engineers to help lead us from the front. That’s where you come in.  We are a passionate team who care deeply about our customers and our teammates. In this role, you will work directly with Product Management, our Design and other engineering teams to help derive the best experience for the customer. We have a lean process that focuses on empowering and serving our engineers as opposed to just directing them.  If staying technically challenged and learning from others is meaningful to you, you'll love our internal technical seminars and company-wide hackathons. We value diversity at our company. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.  For job positions in San Francisco, CA, and other locations where required, we will consider for employment qualified applicants with arrest and conviction records",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:04:39.000Z"
+  },
+  "company": {
+    "name": "Splunk",
+    "link": "https://www.linkedin.com/company/splunk"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 172000,
+    "max_value": 257000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

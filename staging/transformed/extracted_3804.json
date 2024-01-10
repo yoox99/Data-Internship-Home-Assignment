@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist 1",
+    "industry": "Computer Software,Financial Services,Internet",
+    "description": "Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal’s 392 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies. Simility, a PayPal Service, is an end-to-end fraud management platform helping large merchants, banks, and other Fortune 1000 companies manage fraud and risk. Our systems help enterprises detect fraudulent events real time and help protect these enterprises from online threats. We do so by creatively harnessing the power of data, machine learning and humans and be on the cutting edge of fraud detection techniques and algorithms. Simility welcomes big thinkers and passionate team players, who are ready to take their career to the next level. Simility’s Data Scientists are comprehensive product experts who collaborate with customers and internal teams to ensure that their customers are successful in their deployments. They continually build upon and apply their technical knowledge and skills across the product suite at every level of the customer engagement. A successful Data Scientist will strategize and consult with clients on implementing Simility to handle their fraud problems. Dat Scientists also spend their time collating feedback from clients and working with engineering and product team to develop new product features We're a purpose-driven company whose beliefs are the foundation for how we conduct business every day. We hold ourselves to our One Team Behaviors which demand that we hold the highest ethical standards, to empower an open and diverse workplace, and strive to treat everyone who is touched by our business with dignity and respect. Our employees challenge the status quo, ask questions, and find solutions. We want to break down barriers to financial empowerment. Join us as we change the way the world defines financial freedom.  PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.  REQ ID R0076732",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T00:41:45.000Z"
+  },
+  "company": {
+    "name": "PayPal",
+    "link": "https://www.linkedin.com/company/paypal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Full Stack Engineer",
+    "industry": "Apparel &amp; Fashion,Internet,Retail",
+    "description": "MultiThreaded Engineering, UX and Design at Stitch Fix  At Stitch Fix, our goal is to help our customers look great and feel great about themselves by revolutionizing how people shop. In a time-starved world where shopping often feels overwhelming, our business connects customers to clothes they love. Whether it’s helping someone dress for success at a new job or taking the stress out of packing for a family vacation, we fix clients’ closets – and they love us for it!  We’ve built unique, innovative software for merchandising, warehouse and inventory management, remote styling, and logistics. We leverage vast amounts of client data to make decisions throughout the company. All of this results in a simple, powerful offering to our clients and a very successful business. We believe we are only scratching the surface of our opportunity, and we’re looking for incredible people to contribute! Stitch Fix has thrived by correctly guessing what items match the wants and needs of our millions of clients using our “fix” subscription service. We are now investing in bringing our personalization power to build a better online shopping experience. With this Personalized Shop product offering, clients can leverage our data and recommendations to browse our available inventory and purchase items with confidence.  The Personalized Shop team is looking for a Lead Full Stack Engineer in our San Francisco office or remotely. As one of our lead engineers at Stitch Fix, you will work with product and technical stakeholders and other Personalized Shop engineers to design, break down, implement and ship user-facing features that empowers clients to purchase items they love directly from Stitch Fix, based on our personalized recommendations. You will help lead technical decision making, guiding the architecture of how we build new client experiences at Stitch Fix as well as provide thoughtful and careful feedback to other engineers on their implementations. We are a distributed team that operates in an agile-inspired manner; collaborating across 4 time zones. Stitch Fix is an online personal style service for men and women combining art and science to disrupt and redefine the retail industry. We’re the first fashion retailer to blend expert styling, proprietary technology, and unique product to deliver a refined and deeply personalized shopping experience. We leverage vast amounts of client data to make decisions throughout the company. All of this results in a simple, powerful offering to our customers and a successful, growing business. We believe we are only scratching the surface of our opportunity, and we’re looking for incredible people to contribute! We’d love for you to help us carry on the trend. https://www.stitchfix.com/privacy/usrecruitingprivacy",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:19:06.000Z"
+  },
+  "company": {
+    "name": "Stitch Fix",
+    "link": "https://www.linkedin.com/company/stitch-fix"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

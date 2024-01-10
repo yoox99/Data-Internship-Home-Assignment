@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "",
+    "description": "Position: ETL Data Engineer with PostgreSQL Experience Duration: Long Term Location: NYC, NY | Lake Mary, FL (Remote work till COVID) No. of positions: 1  12 -15 years’ experience working with data (data engineering, Design lead , Building Framework and Solutions etc.)  Experience analyzing and working with large datasets and designing solution a must Strong experience in building/designing reusable solution and framework  Proficiency with SQL – 10+ years’ experience  Strong experience in PostgreSQL, Redshift DB Strong experience in working Cloud framework  Strong experience of ETL tools like Informatica PowerCenter -10+ years’ experience Strong experience in IICS . Minimum 2+ years’ experience Strong experience in AWS different components . Must be proficient  in Athena, Redshift, S3,Lamda,Glue etc. Experience using GitHub Must be able to both read & understand code as well as feel comfortable using code as a tool for data analysis  Experience using tools like Alteryx Demonstrated Critical thinking ability including the ability to define a problem, frame it for a broad audience and collaborate with others to formulate solutions  Excellent communication skills.  Ability to work independently and as part of a team with proven ability to influence with impact across functions and disciplines.  Must be detail oriented  Must be familiar working in agile environment",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-14T17:14:42.000Z"
+  },
+  "company": {
+    "name": "Confidential",
+    "link": "https://www.linkedin.com/company/confidentialcompany"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

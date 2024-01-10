@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Marketing y publicidad,Servicios y tecnologías de la información ,Recursos humanos",
+    "description": "Kavak is a modern, data-driven platform that has helped tens of thousands of customers buy and sell cars. We are the top e-commerce platform for cars in Mexico and one of the fastest growing and most highly-rated companies in Latin America. We have also been selected as by Expansión Magazine and the #LinkedInTopStartup 2019 ranked Kavak as the .  We are looking for a creative, results-driven solution builder to fill an role as a member of the team. You will create value for customers by optimizing decisions, automating processes, and personalizing the user experience using machine learning algorithms. If you are motivated to be part of this mission and help us build the rest of this story,",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T11:48:26.000Z"
+  },
+  "company": {
+    "name": "Kavak.com",
+    "link": "https://mx.linkedin.com/company/kavakcom"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "MX",
+    "locality": "Cervantes",
+    "region": null,
+    "postal_code": "98460",
+    "street_address": null,
+    "latitude": 23.390266,
+    "longitude": -102.01451
+  }
+}

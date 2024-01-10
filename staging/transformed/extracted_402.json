@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - AI Labs",
+    "industry": "Financial Services",
+    "description": "At BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are saving for retirement, paying for their children’s educations, buying homes and starting businesses. Their investments also help to strengthen the global economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.  This mission would not be possible without our smartest investment – the one we make in our employees. It’s why we’re dedicated to creating an environment where our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive. To help you stay energized, engaged and encouraged, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about. The AI Labs team works collaboratively; and is a multi-disciplinary team with the following skills and capabilities: optimization, machine learning, statistical modeling, exploratory data analysis, natural language processing, data visualization, network/graph modeling, ETL, data pipelines, data architecture, communication, project / product management and strategy. We work with data from a wide variety of sources including text, news feeds, financial reports, time series transactions, user behavior logs, imagery, and real-time data.  AI Labs has offices in New York, Palo Alto, and Edinburgh. The team has several Stanford professors as senior advisors with world-class expertise in machine learning, statistics, optimization and stochastic control. These advisors include Emanuel Candes, Trevor Hastie, Robert Tibshirani, and Mykel Kochenderfer who dedicate time in our Palo Alto office and provide advice and mentorship for all members of the distributed team. To help you stay energized, engaged and inspired, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about. At BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are saving for retirement, paying for their children’s educations, buying homes and starting businesses. Their investments also help to strengthen the global economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.  This mission would not be possible without our smartest investment – the one we make in our employees. It’s why we’re dedicated to creating an environment where our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.  For additional information on BlackRock, please visit careers.blackrock.com | www.blackrock.com/corporate | Instagram: @blackrock | Twitter: @blackrock | LinkedIn: www.linkedin.com/company/blackrock  BlackRock is proud to be an Equal Opportunity and Affirmative Action Employer. We evaluate qualified applicants without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, disability, protected veteran status, and other statuses protected by law.  BlackRock will consider for employment qualified applicants with arrest or conviction records in a manner consistent with the requirements of the law, including any applicable fair chance law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:20:23.000Z"
+  },
+  "company": {
+    "name": "BlackRock",
+    "link": "https://www.linkedin.com/company/blackrock"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82500,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Backend)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Make healthcare the gold standard in customer service. WELL™ Health is a SaaS digital health leader in patient communications and the 2021 Best in KLAS winner in Patient Outreach. WELL Health's intelligent communications hub is the only two-way digital health solution engaging patients throughout their entire care experience. WELL Health enables conversations between patients and their providers through secure, multilingual messaging in the patient's preferred communications channel: texting, email, telephone, and live chat. By unifying and automating disjointed communications, WELL Health helps healthcare organizations drive more patient visits, build exceptional patient loyalty, and reduce staffing costs, frustration and turnover. WELL Health helps 200k+ healthcare providers facilitate more than 1 billion messages for 30+ million patients annually. In 2021, WELL Health was named No.10 on the Forbes list of America's Best Startup Employers and was also recognized as one of the Best Midsize Companies to Work for in Los Angeles by Built In LA. In 2020, WELL Health was named among the Best Places to Work by Modern Healthcare and ranked #170 on the Inc. 5000 list of fastest growing private companies. WELL is looking for a talented, experienced backend developer to join our fast-paced, growing engineering department. As a Backend Engineer at WELL, you will work under the guidance of our Engineering Director in either a dedicated backend team, or in a cross functional team of backend and frontend engineers.  You will work with the rest of the team to maintain and grow features in the backend code base. This will include supporting Node.js web facing APIs, writing SQL queries, automating interactions with partner APIs, and enhancing the core infrastructure that underlies our scheduled and realtime patient-provider communications capability.  In addition to being a strong developer, you will have a keen interest in how software and modern communication channels can improve the patient experience. You will also have the attention to detail and quality needed to meet high Service Level Agreements (SLAs) in a product that serves roughly 30+ million patients annually. You will also be flexible and adaptable enough to thrive in a fluid startup environment. Node, Typescript, Express, Nest, Postgres, Mongo, AWS, Hasura, Temporal.io, React and Redux WELL is headquartered in Santa Barbara, CA and is opening a second office in Los Angeles, CA. Today, all WELL positions are remote, and we are looking forward to when our company returns to in-office work. We are open to candidates that are looking for a permanently remote role depending on their level of experience. Historically, remote team members visit the Santa Barbara office regularly, and we've found that works best when they are on the West Coast, specifically in Southern California. Please visit our LinkedIn page or our Life at WELL Instagram profile to hear from our employees about working at WELL. WELL Health Inc. is an Equal Opportunity Employer and is committed to fair and equitable hiring practices. All hiring decisions at WELL are based on strategic business needs, job requirements and individual qualifications. All candidates are considered without regard to race, color, religion, gender, sexuality, national origin, age, disability, genetics or any other protected status.  We're dedicated to creating an inclusive, equitable, and diverse workplace, where everyone feels safe to be themselves and diversity is a strength. WELL is committed to providing employees with a work environment free of discrimination and harassment; WELL will not tolerate discrimination or harassment of any kind.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:12:20.000Z"
+  },
+  "company": {
+    "name": "Well Health Inc.",
+    "link": "https://www.linkedin.com/company/well-health-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78200,
+    "max_value": 170200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

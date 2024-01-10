@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "DigiCert is the world’s premier provider of high-assurance digital certificates. Since our founding in 2003, we’ve been driven by the idea of finding a better way. A better way to provide authentication on the internet. A better way to tailor solutions to our customers’ needs. A better way to enrich our employees’ lives with opportunities to create the unexpected. Some people just want a job – others want to transform themselves and the connected world we live in. If you’re the latter, join us in finding better ways to help people believe in their digital interactions. DigiCert offers a competitive benefits package for all of our full-time employees. If you want to know more about them, please reach out to us at Life@digicert.com.  DigiCert is an Equal Opportunity employer and is committed to diversity in its workforce. In compliance with applicable federal and state laws, DigiCert prohibits discrimination on the basis of race or ethnicity, religion, color, national origin, sex, age, sexual orientation, gender identity/expression, veteran’s status, status as a qualified person with a disability, or genetic information. Individuals from historically underrepresented groups, such as minorities, women, qualified person with disabilities, and protected veterans are strongly encouraged to apply.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T00:54:28.000Z"
+  },
+  "company": {
+    "name": "DigiCert, Inc.",
+    "link": "https://www.linkedin.com/company/digicert-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Utah",
+    "region": "United States",
+    "postal_code": "84655",
+    "street_address": null,
+    "latitude": 39.323776,
+    "longitude": -111.67822
+  }
+}

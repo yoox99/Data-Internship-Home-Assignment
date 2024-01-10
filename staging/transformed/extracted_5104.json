@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "As an enthusiastic and curious data professional, you’ll have the opportunity to apply your statistics and technical skills to help Garmin Product Support provide superior customer support, and aid in our attempt to eliminate customer disruptions entirely!  You’ll regularly teach leaders about how data might be better leveraged as well as advise decision makers on strategically important issues.  All the while, you’ll be able to work with a talented, driven and close-knit team based in our Support Center in Olathe, KS—come join the fun!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T20:45:50.000Z"
+  },
+  "company": {
+    "name": "Garmin",
+    "link": "https://www.linkedin.com/company/garmin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Olathe",
+    "region": "KS",
+    "postal_code": "66063",
+    "street_address": null,
+    "latitude": 38.883526,
+    "longitude": -94.81824
+  }
+}

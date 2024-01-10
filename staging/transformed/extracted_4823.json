@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Want to help everyday Americans invest and build wealth? Financial inequality is increasing, and too many people are getting left behind. At Stash, we are passionate about democratizing wealth creation through education, advice, and products that help customers achieve greater financial freedom.  Stash is looking for a Data Scientist with a passion for building reliable, scalable, and performant data systems and software. We look for strategic thinkers and creative problem solvers with a bias for execution and we’ll expect you to contribute code as well as product/feature ideas from the get-go. If you are looking for a culture that encourages ownership, taking calculated risks, being data-driven and that values evidence over ego, this may be the role for you. At Stash it is our mission to help everyday Americans invest and build wealth. That includes people of all races, genders, and abilities, so it is important to us to acknowledge and address the issues of inequality in financial services head on.  Diversity and inclusion are essential to living our values, promoting innovation, and building the best products. Our success is directly related to our employees and we believe that our team should reflect the diversity of the customers that we serve. As an Equal Opportunity Employer, Stash is committed to building an inclusive environment for people of all backgrounds.  If you require any reasonable accommodations to make your application process more accessible please reach out to recruiting@Stash.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Stash",
+    "link": "https://www.linkedin.com/company/stashfinancial"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

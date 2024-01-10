@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Market Research Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Automotive,Mechanical or Industrial Engineering",
+    "description": "This position is responsible for helping develop strategic marketing plans for key market sectors across all AVX products, i.e. Automotive, Medical, Military/Aerospace, Industrial, etc. Plans will include AVX value proposition for each market and specific targeting strategies. This person will also work to help incorporate acquired companies into the AVX marketing strategy. Market Research Manager",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:27:47.000Z"
+  },
+  "company": {
+    "name": "AVX Corporation",
+    "link": "https://www.linkedin.com/company/avxcorp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 63400,
+    "max_value": 96200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greenville",
+    "region": "SC",
+    "postal_code": "29601",
+    "street_address": null,
+    "latitude": 34.850746,
+    "longitude": -82.398964
+  }
+}

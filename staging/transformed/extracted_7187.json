@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Network Support Engineer (Japanese)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Do you take pride in excellent and quality customer success? Then this could be an exciting opportunity for you. For many of our customers, our Support Centers are the first port of call when facing an IT crisis. In 2017, F5 Networks support centers fielded over 2,600 cases per week and over 130,000 cases annually.  This hub of fast and reliable F5 specialist help us keep our customer satisfaction scores consistently above 9.0 (and higher!) out of 10.  We are seeking a dynamic Sr Network Support Engineer (Sr NSE) who prides themselves as a credible and knowledgeable Enterprise Support professional. You will be providing remote technical assistance on F5 solutions to both internal and external customers and F5 partners. You'll be handling multiple active cases of diverse scope where analysis of customer network environments and customer specific data requires a review of identifiable factors, arrive at a conclusion which can either be a workaround, restore or resolve the customer’s problem with keeping customers satisfied.  You'll exercise excellent judgment within an ISO certified quality management system set of defined procedures in order to select the best approach among several possible methods and techniques, to build a plan of action and take appropriate action. The Job Description is intended to be a general representation of the responsibilities and requirements of the job. However, the description may not be all-inclusive, and responsibilities and requirements are subject to change. Please note that F5 only contacts candidates through F5 email address (ending with @f5.com) or auto email notification from Yello/Workday (ending with f5.com or @myworkday.com). It is the policy of F5 to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or mental disability,marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws.This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination. Reasonable accommodation is available for qualified individuals with disabilities, upon request.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:29:24.000Z"
+  },
+  "company": {
+    "name": "F5",
+    "link": "https://www.linkedin.com/company/f5"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

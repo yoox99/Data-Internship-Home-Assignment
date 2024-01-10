@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Cloud Engineer, Mid",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "Data Cloud Engineer, Mid Are you looking for an opportunity to develop a data platform that will have an impact on rapid exploitation and sharing of multi-INT information across the intelligence community? Solid platform development is a critical part of any program’s success and you know how to do it right – scalable design with baked in security. That’s why we need you, a developer with the skills to build a platform that will transform the integrated intelligence mission.  As a data platform developer on our team, you’ll design and develop the core data integration platform for our project from end to end. You’ll work with customers and end-users to understand their mission, current architecture, and security requirements. With a focus on the customer’s goals, you’ll build a design that will scale to meet their evolving needs. Your technical expertise will be vital as you recommend tools and capabilities based on your research of the current environment and new technology. Your design will set the standard for future development, so you’ll craft an architecture that smoothly works with existing infrastructure without compromising security. As a technical leader, you’ll identify new opportunities to build platform-based solutions to help your customers meet their toughest challenges. This is a chance to use your deep OS knowledge and broaden your skill set into areas like Cloud computing, large-scale data ingestion and processing, multiple data store types, including graph data, time series, spatial, and other NoSQL, high performance data streaming, data science, and supporting the integration of novel mission applications and analytics. Join us as we develop software-based solutions to make a difference for the integrated intelligence mission.  Empower change with us. Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; Top Secret clearance is required. The proposed salary range for this position in Colorado is 115,000 to 120,000. Final salary will be determined based on various factors. At Booz Allen, we celebrate your contributions, provide you with opportunities and choice, and support your total well-being. Our comprehensive benefit offerings include healthcare, retirement plan, insurance programs, commuter program, employee assistance program, paid and unpaid leave programs, education assistance, and childcare benefits. A challenging and dynamic work environment isn’t all we have to offer. When you join Booz Allen, you’ll have access to: You’ll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and tech from our in-house experts. Pursuing certifications that directly impact your role? You may be able to take advantage of our tuition assistance, onsite boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want as you chart your own course for success.  We’re an EOE that empowers our people—no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic—to fearlessly drive change.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:11:13.000Z"
+  },
+  "company": {
+    "name": "Booz Allen Hamilton",
+    "link": "https://www.linkedin.com/company/booz-allen-hamilton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Aurora",
+    "region": "CO",
+    "postal_code": "80018",
+    "street_address": null,
+    "latitude": 39.712933,
+    "longitude": -104.81936
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Operations Engineer, Contractor Private Cloud (VMware) ",
+    "industry": "Computer Software,Internet,Computer &amp; Network Security",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T00:13:04.000Z"
+  },
+  "company": {
+    "name": "Cypress HCM",
+    "link": "https://www.linkedin.com/company/cypress-hcm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.691315,
+    "longitude": -121.89736
+  }
+}

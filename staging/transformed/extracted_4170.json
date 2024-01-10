@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Reliability Engineer-JB0015658-JN",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "ServiceNow is making the world of work, work better for people. Our cloud‑based platform and solutions deliver digital workflows that create great experiences and unlock productivity for employees and the enterprise. We're growing fast, innovating faster, and making an impact on our customers' and employees' lives in significant and important ways. With over 6,900 customers, we serve approximately 80% of the Fortune 500, and we're on the 2020 list of FORTUNE World's Most Admired Companies.®  We’re looking for people who are ready to jump right in and help us build on our incredible momentum, our diverse, engaged workforce, and our purpose to make the world of work, work better.  Learn more on Life at Now blog and hear from our employees about their experiences working at ServiceNow. Work matters. It’s where we spend a third of our lives. And the workplace of the future is going to be a great place. We’re dedicated to bringing that to life for people everywhere. That’s why we put people at the heart of everything we do.  People matter. Our people have a passion for learning, building, and innovating. Our roles aim to provide each person with meaningful impact and plenty of space to grow.  Teams will depend on our product to keep their critical environments and operations up and running, requiring us to always be highly available and resilient. We are looking for a Site Reliability Engineer who can help us achieve production stability that our customers can count on. In this role, you will be responsible for both the operations and the processes that help us achieve resilience our customers expect.  ServiceNow is a customer-first company. We're big enough to have resources and scale but small enough that a single person has a surprising amount of ownership and can make a meaningful impact. We're curious, fun, a little intense, and kind of obsessed with helping our users and customers thrive. Does that sound like an exciting place to work? ServiceNow Platform Experience  JV20 ServiceNow is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.  If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at +1 (408) 501-8550, or talent.acquisition@servicenow.com for assistance.  For positions requiring access to technical data subject to export control regulations, including Export Administration Regulations (EAR), ServiceNow may have to obtain export licensing approval from the U.S. Government for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by the U.S. Government.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:40:24.000Z"
+  },
+  "company": {
+    "name": "ServiceNow",
+    "link": "https://www.linkedin.com/company/servicenow"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

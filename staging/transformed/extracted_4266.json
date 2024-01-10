@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Hardware,Computer Software,Computer Networking",
+    "description": "Cisco is funding a small, agile, product development team to innovate and build a new product offering in the SDN controller space. The team will operate in an agile development model to rapidly bring a new product offering to market, reacting very quickly to initial customer feedback and market needs. Over time as customer adoption increases, the platform will be further utilized as the basis for many network applications. Cisco is looking to hire a Software Engineer to contribute to the team and team culture, the product, and the process to bring it to market. He/she must have experience in building new software offerings with agility and urgency. Responsibilities * Be part of a team of engineers involved in the development and testing of software for our next generation campus networking architecture. Bachelors + 7 years of related experience, or Masters + 5 years of related experience #WeAreCisco, where each person is unique, but we bring our talents to work as a team and make a difference powering an inclusive future for all.  We embrace digital, and help our customers implement change in their digital businesses. Some may think we’re “old” (36 years strong) and only about hardware, but we’re also a software company. And a security company. We even invented an intuitive network that adapts, predicts, learns and protects. No other company can do what we do – you can’t put us in a box!  But “Digital Transformation” is an empty buzz phrase without a culture that allows for innovation, creativity, and yes, even failure (if you learn from it.)  Day to day, we focus on the give and take. We give our best, give our egos a break, and give of ourselves (because giving back is built into our DNA.) We take accountability, bold steps, and take difference to heart. Because without diversity of thought and a dedication to equality for all, there is no moving forward.  So, you have colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool. Pop culture geek? Many of us are. Passion for technology and world changing? Be you, with us!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:20:10.000Z"
+  },
+  "company": {
+    "name": "Cisco",
+    "link": "https://www.linkedin.com/company/cisco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 100000,
+    "max_value": 148000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

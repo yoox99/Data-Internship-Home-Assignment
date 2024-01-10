@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Biotechnology,Research,Medical Devices",
+    "description": "Illumina’s Clinical Bioinformatics group are looking for an enthusiastic and highly numerate data scientist to join their team based in San Diego, CA to support the development of new Illumina products and help maintain on-market solutions.  Members of the team collaborate closely with lab scientists to support assay development and with software engineers to support software development. The team is responsible for experimental design, data management, data analysis, algorithm development and bioinformatics software development. The ideal candidate will be able to work in a cross-functional team, translating the challenges faced by the group into bioinformatics solutions. At Illumina, we strive to foster a diverse and inclusive workplace by cultivating an environment in which everyone contributes to our mission. Built on a strong foundation, Illumina has always been rooted in openness, collaboration, and seeking alternative views and perspectives to propel innovation in genomics. We are proud to confirm a zero-net gap in pay, regardless of gender, ethnicity, or race. We also have several Employee Resource Groups (ERG) that deliver career development experiences, increase cultural awareness, and demonstrate our collective commitment to diversity and inclusion in the communities we live and work. We are proud to be an equal opportunity employer committed to providing employment opportunity regardless of sex, race, creed, color, gender, religion, marital status, domestic partner status, age, national origin or ancestry, physical or mental disability, medical condition, sexual orientation, pregnancy, military or veteran status, citizenship status, and genetic information. If you require accommodation to complete the application or interview process, please contact accommodations@illumina.com. To learn more, visit: https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T00:59:08.000Z"
+  },
+  "company": {
+    "name": "Illumina",
+    "link": "https://www.linkedin.com/company/illumina"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76600,
+    "max_value": 135000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

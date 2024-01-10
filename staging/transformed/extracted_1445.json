@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "Cohere Health is illuminating healthcare for patients, their doctors, and all those who are important in a patient’s healthcare experience, both in and out of the doctors office. Founded in August, 2019, we are obsessed with eliminating wasteful friction patients and doctors experience in areas that have nothing to do with health and treatment, particularly for diagnoses that require expensive procedures or medications. To that end, we build software that is expressly designed to ensure the appropriate plan of care is understood and expeditiously approved, so that patients and doctors can focus on health, rather than payment or administrative hassles.  In this role, you’ll join our growing team of world-class engineers, statisticians, and clinical experts to deploy machine learning algorithms that help automate burdensome administrative clinical practices. You will be tasked with finding the most promising opportunities for impact and then delivering on them.  This is a unique opportunity to join a high caliber engineering team that is growing quickly. You will build impactful healthcare technology on a modern tech stack. Cohere Health is an Equal Opportunity Employer. We are committed to fostering an environment of mutual respect where equal employment opportunities are available to all. To us, it’s personal.  We can’t wait to learn more about you and meet you at Cohere Health!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T04:20:05.000Z"
+  },
+  "company": {
+    "name": "Cohere Health",
+    "link": "https://www.linkedin.com/company/coherehealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

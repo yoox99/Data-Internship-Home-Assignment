@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+    "description": "Imperva’s Infrastructure and Cloud team is looking for a highly technical Site Reliability Engineer to drive innovation, scale, and create operational excellence for the Imperva globally distributed network. As an SRE in the ICO organization, you approach solving, supporting, and optimizing the infrastructure programmatically. You will work to improve the overall availability, reliability, performance, and security of the infrastructure for Imperva’s customers. Imperva is the cybersecurity leader whose mission is to help organizations protect their data and all paths to it. Customers around the world trust Imperva to protect their applications, data and websites from cyber attacks. With an integrated approach combining edge, application security and data security, Imperva protects companies through all stages of their digital journey. Imperva Research Labs and our global intelligence community enable Imperva to stay ahead of the threat landscape and seamlessly integrate the latest security, privacy and compliance expertise into our solutions. Learn more on the Imperva website or company blog , and follow Imperva on LinkedIn and Twitter . IImperva offers a competitive compensation package that includes base salary, medical, flexible time off and more. It’s an exciting time to work in cybersecurity. Learn about Imperva products and services at www.imperva.com and career opportunities at www.imperva.com/careers Imperva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, ancestry, pregnancy, age, sexual orientation, gender identity, marital status, protected veteran status, medical condition or disability, or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T21:52:04.000Z"
+  },
+  "company": {
+    "name": "Imperva",
+    "link": "https://www.linkedin.com/company/imperva"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Newark",
+    "region": "NJ",
+    "postal_code": "07112",
+    "street_address": null,
+    "latitude": 40.731506,
+    "longitude": -74.174385
+  }
+}

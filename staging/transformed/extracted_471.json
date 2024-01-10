@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer | MLOps",
+    "industry": "",
+    "description": "Lucd is a growing Enterprise AI software company that is passionate about democratizing AI. We are building our team to solve the biggest challenges which are slowing the adoption of artificial intelligence for government and industry across the globe. Enterprise AI stakeholders need robust capabilities for enforcing AI governance in accordance with their specific business needs; for example, defining policies for identifying biased datasets or AI models, and assessing “degree of fitness” of a model for production deployment.  We are looking for a Machine Learning Engineer with a passion for Machine Learning Operations (MLOps) to support the development of a well-architected, highly performant, and intuitively configurable AI lifecycle management system as a core part of Lucd’s product strategy. The primary responsibilities for this Machine Learning Engineer position will focus on developing machine learning operations (ML Ops) capabilities for the Lucd platform in support of the needs stated above. SDL2019-1032",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T16:31:58.000Z"
+  },
+  "company": {
+    "name": "Lucd",
+    "link": "https://www.linkedin.com/company/lucd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

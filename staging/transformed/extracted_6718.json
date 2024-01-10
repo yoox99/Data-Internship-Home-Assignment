@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Network Engineer (Data Center) Arista",
+    "industry": "Staffing and Recruiting,Banking,Financial Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:30:35.000Z"
+  },
+  "company": {
+    "name": "Wilmington Trust",
+    "link": "https://www.linkedin.com/company/wilmington-trust"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Buffalo",
+    "region": "NY",
+    "postal_code": "14218",
+    "street_address": null,
+    "latitude": 42.88769,
+    "longitude": -78.87937
+  }
+}

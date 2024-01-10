@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Backend (Junior to Senior)",
+    "industry": "Computer Software",
+    "description": "We have the benefits of large company revenue but operate like a nimble startup with very little Engineering attrition (and over the course of a decade no less)! We have offices in Los Angeles, Seattle & NYC should you want to be onsite post covid but are 100% HAPPY to hire REMOTE! Currently, we are working with top brands in the world to evolve online marketing engagements. With more of a direct communication platform, we are creating a stronger consumer experience in hot industries such as music, sports, and gaming.  What You Will Be Doing  In This Job, You Will Ï Develop the state of the art, scalable technology Ï Be an active and engaged owner of the product and customer experience, collaborating effectively with Product Management, Data Engineering, Data Science, and other disciplines Ï Maintain high standards of code quality, including tests and documentation, and encourage the same by providing constructive code reviews to collaborators Ï Work closely with other engineers to investigate design approaches, prototype new technology and evaluate technical feasibility of new features Ï Manage multiple competing priorities in a fast-paced, exciting environment Ï Troubleshoot and resolve issues, problems, and errors encountered across our various endpoints  What You Need for this Position Ï Bachelors Degree in Computer Science or equivalent experience in the software development field Ï 5+ years of complete software lifecycle experience Ï Proven experience with Ruby, Scala, Rust, Golang or NodeJS and/or other modern languages Ï Prior experience delivering highly resilient, distributed services on cloud infrastructures Ï Experience working with AWS services like EC2, Kinesis, DynamoDB, S3, etc. Ï Experience working in Agile teams Ï Great team player with can do attitude and sterling sense of ownership  What's In It for You Annual professional development stipend  So, if you are a Senior Software Engineer with Backend experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Rajeev.Peterson@CyberCoders.com Rajeev Peterson - Sr. Executive Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.  CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:42:54.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

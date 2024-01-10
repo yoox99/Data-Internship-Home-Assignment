@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T22:35:01.000Z"
+  },
+  "company": {
+    "name": "[24]7.ai",
+    "link": "https://www.linkedin.com/company/24-7-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68200,
+    "max_value": 145000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

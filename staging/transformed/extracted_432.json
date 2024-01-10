@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "We're looking for a for our client, a startup company in Silicon Valley, with an amazing opportunity to design, develop, and deliver our data platform from the ground up.  Duration: Work Location: Thank you!  FocusKPI Hiring Team  Founded in 2010, FocusKPI, Inc. (FocusKPI) is a data science and technology firm specializing in predictive analytics practice and methodologies. FocusKPI is a US company headquartered in Santa Clara, California, with an East Coast office in Waltham, Massachusetts.  Powered by JazzHR  onxqxESx2O",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T07:36:09.000Z"
+  },
+  "company": {
+    "name": "FocusKPI, Inc.",
+    "link": "https://www.linkedin.com/company/focuskpi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99700,
+    "max_value": 174000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

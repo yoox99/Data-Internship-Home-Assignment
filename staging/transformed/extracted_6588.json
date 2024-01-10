@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Back End Software Engineer",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "In this development role, you will architect, design and develop mission-critical services and applications that require high availability, concurrency, multi-tenancy, and high scalability for a large global user base. The individual in this role will work intimately with various aspect of developing backend services and data storage and retrieval.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T09:44:45.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

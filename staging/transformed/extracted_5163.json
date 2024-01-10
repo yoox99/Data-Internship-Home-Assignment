@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data &amp; Applied Scientist",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Microsoft’s mission is to empower every person and every organization on the planet to achieve more. We are building the Developer Relations, Content & Learning dream team! Our global team is maniacal about making the world amazing for developers, admins, citizen developers, students, and other technical roles coming from all backgrounds. We're excited to support and contribute to open-source platforms, tools, events, and processes. We’re spreading awareness of Microsoft technology and enabling our current and future customers to do what they love: write, code, and learn. This is the heart and soul of reinventing Microsoft’s relationship with our technical communities.  We are looking for a motivated data scientist to join our data science team / insights and intelligence team. In this role, you will have ownership of high-visibility initiatives across our portfolio and will lead the generation of insights that drive our business. Expect to work with a host of engaged stakeholders who value your skills and consider you thought partners in driving the business!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T02:33:55.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

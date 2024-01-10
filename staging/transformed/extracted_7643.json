@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "We are looking for an experienced and self-motivated Machine Learning Engineer to join the Data Services team at Anvyl. You will collaborate with skilled designers, data scientists and data engineers to deliver machine learning products for modern supply chains managed on Anvyl. You should demonstrate a deep understanding of statistics and applied Machine Learning, curiosity, data fluency, and a collaborative work ethic.  What You'll Do This is a remote position. What We’d Love to See: Example projects you could work on at Anvyl: What we value: We are a team that believes in cooperation, learning, quality, and putting our people and customers up front. We are a small company offering large company benefits - health, dental, and vision offerings, 401k availability, and many more perks. We are a remote company and want to make sure our employees have the flexibility to do their work where they feel best, and know that they can step away to recharge with our unlimited paid time away.  We are a diverse team spanning all professions, cultures, races, gender, and orientations. Our teammates are located across the country as well as in China, giving us a truly global footprint. We enjoy spending time together in person when - especially if there is Korean BBQ - or having a group brain-storming session on the next product innovation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T00:52:21.000Z"
+  },
+  "company": {
+    "name": "Delbi Promotions",
+    "link": "https://za.linkedin.com/company/delbi-promotions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

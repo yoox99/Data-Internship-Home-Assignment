@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "Urjanet is an Atlanta-based technology company that has built the worlds first and largest platform to aggregate utility data. Through this platform, our customers use utility data to support a variety of applications and use cases, including energy management, sustainability reporting, bill payment, credit decisioning, and address verification. Our platform, which has won numerous awards, is available in forty-seven countries around the world and expanding rapidly.  Urjanet has positive impacts on climate change, financial inclusion, and data privacy. Were looking for top talent to join our team and help shape the future of our business.  Urjanet seeks a Site Reliability Engineer to be part of our team in Atlanta, Georgia. This individual will be part of the global team that provides 24/7 support for our production operations in the cloud. They will also be responsible for contributing to the maintenance and improvement of our infrastructure. The successful candidate will have experience in AWS, a solid understanding of continuous deployment, automation, production alarming and operations, and some scripting and coding experience. Powered by JazzHR",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T17:46:29.000Z"
+  },
+  "company": {
+    "name": "Urjanet",
+    "link": "https://www.linkedin.com/company/urjanet-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

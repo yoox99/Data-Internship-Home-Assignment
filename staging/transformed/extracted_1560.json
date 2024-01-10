@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Machine Learning Data Engineer",
+    "industry": "Information Technology and Services,Staffing and Recruiting,Financial Services",
+    "description": "The Data Science & Platform Engineering Department leads the development of The Client’s crop design platform, which combines machine learning and big data with genome editing and plant biology to accelerate and simplify the product development process. The team partners with the Research & Development teams on the development of a portfolio of offerings (commercial, product, or platform related) that meet the needs of The Client’s business units. The successful candidate has prior Machine Learning and Data Engineering experience (building & productionizing models) experience with exposure to multiple programming languages and technical platforms. Write, test, debug, and maintain software based on the requirements provided and with direction or guidance from more senior members of the team. Generate code adhering to standards as defined by the software team, document action items for development, participate in effective code reviews, and actively participating in team meetings. Follow standard and effective software development methodologies and release processes. HS/ GED Whether it’s a quick call or email, coffee or lunch, our check-ins support as much or as little interaction as you’d prefer. We’re here if you need us. Neteffects participates in a number of events each year and hosts some employee-only social gatherings. When your project is nearing completion, we’ll partner with you to get you ready to engage in your next consulting opportunity through Neteffects. From resume review, to interview preparation and offer negotiation; we’ll work hard to help you excel. Neteffects is about celebrating technology and the pro's that come with it. We offer a very competitive benefits package, which includes Medical, Dental, Vision, Life, 401k, and more.  We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-06-19T04:50:14.000Z"
+  },
+  "company": {
+    "name": "inSync Staffing",
+    "link": "https://www.linkedin.com/company/insync-staffing"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Creve Coeur",
+    "region": "MO",
+    "postal_code": "65064",
+    "street_address": null,
+    "latitude": 38.661064,
+    "longitude": -90.42915
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Health ML",
+    "industry": "Internet",
+    "description": "The Health ML engineering team is responsible for building scalable detection systems that keep spam, manipulation, and abuse at bay. We use ML and relevance techniques to make Twitter safer and to limit the spread of misinformation on the platform. Our team works across the product to detect abusive and spammy users and content, increase action on bad actors, drive changes in user behavior, and detect and remediate accounts that are violating the terms of service on Twitter. Aiming to stop adversarial efforts to manipulate our platform & mitigate attempts to artificially amplify or suppress information or manipulate people’s experience on Twitter. Protect and promote the health of public conversation on Twitter, as it relates to a specific civic event or broader civic engagement. Ensuring Twitter is a safe space for public conversation (safe from severe abusive interactions) to enable users’ healthy participation. Reducing creation and remediate consumption of misleading information in order to eliminate its potential harm to Twitter users. Although you will work on cutting-edge problems, this position is not a pure research position. You will participate in the engineering life-cycle at Twitter, including designing distributed systems, writing production code and data pipelines, conducting code reviews and working alongside our infrastructure and reliability teams. You’ll apply data science, machine learning, and/or graph analysis techniques to a variety of modeling and relevance problems involving users, their social graph, their tweets, and their behavior. You’re a relevance engineer, applied data scientist, or machine-learning engineer who wants to work on exciting algorithmic and deep infrastructure issues to improve the health of the public conversation on Twitter. You’re experienced at solving large scale relevance problems and comfortable doing incremental quality work while building brand new systems to enable future improvements.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T05:21:43.000Z"
+  },
+  "company": {
+    "name": "Twitter",
+    "link": "https://www.linkedin.com/company/twitter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 130000,
+    "max_value": 253000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

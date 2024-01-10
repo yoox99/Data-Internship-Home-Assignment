@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "Extended Care Pro is a market-leading software solution that enables long-term care facilities to better care for their residents. Already used in over 2,000 facilities across the United States, Extended Care Pro is looking to further expand by increasing the number of customers that use our software and increasing the scope of how we serve our customers by developing and releasing new modules.  This role will join our software engineering team on projects in React, Node.js, and TypeScript. They will contribute to both brand new projects, ike building a customer-facing billing product, and updates to our existing products. Long-term we are planning to replace all our existing code with this new tech stack.  We expect you to be able to hit the ground running and be able to take the lead on small to medium-sized projects within six months. This full-stack software engineer will report to the head of technology and have access to the rest of the leadership team. Powered by JazzHR  FX4qRzujvV",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T07:16:05.000Z"
+  },
+  "company": {
+    "name": "ECP ",
+    "link": "https://www.linkedin.com/company/extended-care-professional"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66100,
+    "max_value": 131000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Milwaukee",
+    "region": "WI",
+    "postal_code": "53215",
+    "street_address": null,
+    "latitude": 43.041073,
+    "longitude": -87.909424
+  }
+}

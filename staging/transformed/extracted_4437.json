@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "REMOTE Senior Software Engineer - Web/Mobile",
+    "industry": "Insurance",
+    "description": "Our Fortune 500 company is driving a digital transformation and looking for forward-thinking innovators to disrupt how our industry thinks about and uses technology. As one of the world's leading employee benefits providers, we help millions of people gain affordable access to benefits that help them protect their families, their finances and their futures.  Are you an asker of questions, a solver of problems, and a challenger of the status quo? Our mission is to provide a differentiated customer experience and exceed the expectations people have of technology at any company — not just insurers.  We are seeking individuals to join our team of talented IT professionals who share never-ending passion and an unwavering focus on our customer experience. Team members comfortable working in an agile, fast-paced, and delivery-focused environment thrive in our environment where we value an entrepreneurial spirit and those who challenge the status-quo.  Unum is changing, and we’re excited about what’s next. Join us. Unum is hiring for a Senior Software Engineer! The senior software engineer is a key member of the Agile team and works with Technical Product Owner and/or Principal Software Engineer to ensure the delivery of the agile team meets agreed upon architecture standards. They participate in the conceptualization, design, development and delivery of solutions within their business portfolio in conjunction with business area architects. May research third party/cloud solutions to ensure successful integration of the technology. They will be deep application and technology skillset subject matter experts. The Senior Software Engineer plays a critical role in mentoring Software Engineers and Associate Software Engineers to ensure we are growing future talent within the agile teams. ~IN1  Our company is built on helping individuals and families, and this starts with our employees. We want employees to maintain a positive balance, which is why we provide access to the benefits and resources they need to invest in themselves. From our onsite fitness facilities and generous paid time off to employee professional development programs, we are committed to helping employees live and work their best – both inside and outside the office.  Unum is an equal opportunity employer, considering all qualified applicants and employees for hiring, placement, and advancement, without regard to a person's race, color, religion, national origin, age, genetic information, military status, gender, sexual orientation, gender identity or expression, disability, or protected veteran status. Unum",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:13:07.000Z"
+  },
+  "company": {
+    "name": "Unum",
+    "link": "https://www.linkedin.com/company/unum"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chattanooga",
+    "region": "TN",
+    "postal_code": "37419",
+    "street_address": null,
+    "latitude": 35.045757,
+    "longitude": -85.30829
+  }
+}

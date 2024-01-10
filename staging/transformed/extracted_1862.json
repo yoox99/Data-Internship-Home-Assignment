@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer",
+    "industry": "Automotive",
+    "description": "If you are an Embedded Software Engineer with experience, please read on!  What You Will Be Doing  Perform as a Software Design engineer working independently to achieve high-quality software design per customer requirements.  What You Need for this Position  Minimum Bachelors Degree in Electrical Engineering or Computer Engineering  \" Proficient in C programming  \" Proficient in System and Software Design  \" At least 3 years of embedded software experience including the ability to work independently and participate in peer reviews.  \" Familiarity with CMMI or ASPICE software development process  \" Excellent communication skills including the ability to communicate technical details and document software design.  \" At least 5 years of embedded software experience  \" Automotive Experience with Tier-1 Supplier or OEM (CAN, LIN, Diagnostics)  \" Experience in AUTOSAR software development  What's In It for You  This position is on a contract basis for 12-24 months  So, if you are a Automotive Engineer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Wendy.Alvarado@CyberCoders.com Wendy Alvarado - Sr. Executive Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:15:35.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Southfield",
+    "region": "MI",
+    "postal_code": "48037",
+    "street_address": null,
+    "latitude": 42.480198,
+    "longitude": -83.241
+  }
+}

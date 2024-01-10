@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:19:33.000Z"
+  },
+  "company": {
+    "name": "Bose Corporation",
+    "link": "https://www.linkedin.com/company/bose-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81000,
+    "max_value": 151000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Framingham",
+    "region": "MA",
+    "postal_code": "01703",
+    "street_address": null,
+    "latitude": 42.28156,
+    "longitude": -71.41882
+  }
+}

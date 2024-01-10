@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Wireless Software Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software,Automotive",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:44:52.000Z"
+  },
+  "company": {
+    "name": "Hyundai Mobis North America",
+    "link": "https://www.linkedin.com/company/mobis-north-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plymouth",
+    "region": "MI",
+    "postal_code": "48170",
+    "street_address": null,
+    "latitude": 42.370724,
+    "longitude": -83.46905
+  }
+}

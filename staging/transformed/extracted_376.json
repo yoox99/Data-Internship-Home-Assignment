@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Marketing Sr Data Scientist",
+    "industry": "Financial Services",
+    "description": "Shape a brighter financial future with us.  Together with our members, we’re changing the way people think about and interact with personal finance.  We’re a next-generation fintech company using innovative, mobile-first technology to help our 2+ million members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront.  We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. As a Marketing Data Scientist @ SoFi, you will be subject matter expert on the user journeys and flows as part of the onboarding experience in becoming a SoFi member, our internal data pipelines as well as our marketing datasets. You will also contribute to building machine learning (ML) models and solutions that touch on attribution, forecasting, and budget allocation across our marketing channels such as Programmatic, Social, Search, Lifecycle, Television and Out of Home that enable SoFi to grow at scale efficiently. #IB-1 SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.  Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:01:21.000Z"
+  },
+  "company": {
+    "name": "SoFi",
+    "link": "https://www.linkedin.com/company/sofi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software,Automotive",
+    "description": "ISEE is seeking a full-time Machine Learning Engineer to join our team. The ideal candidate has several years of work experience.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T11:34:21.000Z"
+  },
+  "company": {
+    "name": "ISEE AI",
+    "link": "https://www.linkedin.com/company/isee-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

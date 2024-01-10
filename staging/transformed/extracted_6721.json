@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Android",
+    "industry": "Information Technology and Services,Internet,Marketing and Advertising",
+    "description": "At realtor.com®, we believe that everyone deserves a home of their own. We’re a community of nearly 2,000 employees who work hard to ensure that from the moment someone starts dreaming about a new home, to the moment they walk in the door and beyond, we’re there to lend a helping hand. Every month, over 85 million people trust us with their journey home by visiting our site and mobile apps, and we’d love to have you join our team to help.  You will join a diverse team of talented engineers building out our Android apps – the apps that guide millions of home buyers through their most important purchase.  We have highly collaborative, cross-functional teams that consistently deliver an outstanding user experience. If you like the sound of us, then please throw your hat in the ring. While we take a look at your application, we encourage you to get to know us a bit more through our site and social channels – such as our tech blog, our many awards & recognition, the ways we give back to the community and more on the realtor.com blog.  We’ve got great offices in the U.S. and Canada with lots of sweet jobs to choose from, so we’re hoping you’ll join us on our journey to make buying, selling, renting, and living in homes easier and more rewarding for everyone.  Let’s make a difference, together. For Real.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:29:41.000Z"
+  },
+  "company": {
+    "name": "Realtor.com",
+    "link": "https://www.linkedin.com/company/realtor-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

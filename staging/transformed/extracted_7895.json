@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Opportunity for Working Remotely",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Our Site Reliability Engineering team is tackling problems of and at scale, in a challenging and demanding production environment. You’ll design, build, and maintain internally critical systems in the cloud enabling the successful scale and management of systems by supporting teams, while ensuring uptime, scale, and performance is maintained appropriate to our end users’ needs. Here, the engineering opportunities are endless. With this fast-paced, collaborative group, you’ll be working together and across the organization to ensure customer success through enablement of teams within VMWare CarbonBlack. This position is eligible for CarbonBlackUSA referral campaign Engineering and Technology Site Reliability Manager and Professional Full Time 2021-09-22  VMware Company Overview: At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what’s possible today at http://careers.vmware.com.  Equal Employment Opportunity Statement: VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-23T00:01:57.000Z"
+  },
+  "company": {
+    "name": "VMware",
+    "link": "https://www.linkedin.com/company/vmware"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

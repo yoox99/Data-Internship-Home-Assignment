@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Restaurants",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T20:09:32.000Z"
+  },
+  "company": {
+    "name": "McDonald's",
+    "link": "https://www.linkedin.com/company/mcdonald%27s-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78000,
+    "max_value": 99200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

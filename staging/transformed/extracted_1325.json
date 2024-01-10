@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Front-End Software Engineer (Open to Remote)",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "Olive’s AI workforce is built to fix our broken healthcare system by addressing healthcare’s most burdensome issues -- delivering hospitals and health systems increased revenue, reduced costs, and increased capacity. People feel lost in the system today and healthcare employees are essentially working in the dark due to outdated technology that creates a lack of shared knowledge and siloed data. Olive is designed to drive connections, shining a new light on the broken healthcare processes that stand between providers and patient care. She uses AI to reveal life-changing insights that make healthcare more efficient, affordable and effective. Olive’s vision is to unleash a trillion dollars of hidden potential within healthcare by connecting its disconnected systems. Olive is improving healthcare operations today, so everyone can benefit from a healthier industry tomorrow.  Olive is made possible by a technology platform which makes bot training repeatable and fast. Software Engineers work with the Olive Product Management team to deliver features utilized by automation teams to improve their ability to train Olive fast and reliably. Our team gives Software Engineers the ability to own independent small-to-medium features all the way from technical design to launch. A successful Software Engineer will possess strong analytical as well as technical skills, and have the ability to communicate the logic behind technical decisions to non-technical stakeholders. At Olive, we're committed to growing and empowering an inclusive community within our company and industry. This is why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives across our organization. Research shows that oftentimes women and other minority groups only apply to open roles if they meet 100% of the listed criteria. Olive encourages everyone — including women, people of color, individuals with disabilities and those in the LGBTQIA+ community — to apply for our available positions, even if they don't necessarily check every box on the job description.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T00:16:33.000Z"
+  },
+  "company": {
+    "name": "Olive",
+    "link": "https://www.linkedin.com/company/oliveai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 55800,
+    "max_value": 121200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32889",
+    "street_address": null,
+    "latitude": 28.53833,
+    "longitude": -81.378876
+  }
+}

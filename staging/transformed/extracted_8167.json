@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Do you dream about creating a more sustainable future? At Uplight, we are motivating energy users and providers to accelerate the clean energy ecosystem. Working with over 90 of the world’s leading electric and gas utilities,Uplight provides an end-to-end customer energy experience. Uplight delivers personalized experiences that customers have now come to expect–improving satisfaction, increasing revenue, reducing the cost to serve, and contributing to carbon reduction goals. We are B Corp certified, enabling us to put our values into action by not only making decisions for the benefit of our shareholders, but also for our customers, environment, employees, and community.  We are seeking a Software Engineer to join our team and help us achieve our ambitious goals for our business and the planet. In addition to all the standard medical and dental benefits, that kick in Day 1, we are: Salary Range: $100,000 to $110,000  In accordance with the Colorado Equal Pay for Equal Work Act, the approximate annual base compensation range is listed above. The actual offer, reflecting the total compensation package and benefits, will be determined by a number of factors including the applicant's experience, knowledge, skills, and abilities, as well as internal equity among our team.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T03:17:35.000Z"
+  },
+  "company": {
+    "name": "Uplight",
+    "link": "https://www.linkedin.com/company/uplightenergy"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boulder",
+    "region": "CO",
+    "postal_code": "80310",
+    "street_address": null,
+    "latitude": 40.016872,
+    "longitude": -105.279625
+  }
+}

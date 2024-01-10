@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Management Consulting,Information Technology and Services,Biotechnology",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T12:39:35.000Z"
+  },
+  "company": {
+    "name": "Career Techniques Inc.",
+    "link": "https://www.linkedin.com/company/career-techniques-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

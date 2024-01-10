@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Amazon Science gives you insight into the company’s approach to customer-obsessed scientific innovation. Amazon fundamentally believes that scientific innovation is essential to being the most customer-centric company in the world. It’s the company’s ability to have an impact at scale that allows us to attract some of the brightest minds in artificial intelligence and related fields. Our scientists continue to publish, teach, and engage with the academic community, in addition to utilizing our working backwards method to enrich the way we live and work.  Please visit https://www.amazon.science for more information.  Amazon has built a reputation for excellence with recent examples of being named the #1 most trusted company for customers. To deliver on this reputation for trust, the Seller Partner Abuse team is tasked with identifying and preventing abuse for our customers and brand owners worldwide.  Seller Partner Abuse is seeking an innovative, results-oriented, customer-centric data scientist to drive expansion of innovative ML products globally in the Risk space. As a Data Scientist, you will be responsible for modeling complex problems, discovering insights and identifying opportunities through the use of statistical, machine learning, algorithmic, data mining and visualization techniques. You will need to collaborate effectively with internal stakeholders and cross-functional teams to solve problems, create operational efficiencies, and deliver successfully against high organizational standards. The candidate should be able to apply a breadth of tools, data sources and analytical techniques to answer a wide range of high-impact business questions and present the insights in concise and effective manner. Additionally, the candidate should be an effective communicator capable of independently driving issues to resolution and communicating insights to non-technical audiences. This is a high impact role with goals that directly impacts the bottom line of the business. Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation. - Amazon.com Services LLC  Job ID: A1739673",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T12:04:47.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

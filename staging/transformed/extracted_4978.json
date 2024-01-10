@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Digital - Senior Salesforce Developer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The Lead-to-Cash organization aims to create a \"Digital Foundation\" of data-driven applications and automated workflows that are disciplined yet flexible enough to support multiple sales channels at FactSet. The primary responsibilities of this group are to provide best in breed solutions that are scalable and advance with the growing demands of our Sales and Consulting stakeholders.  As a Senior Software Engineer, you will be joining a team that is part of a growing transformation on top of Salesforce technologies and servicing over 2,500 users. FactSet is an Equal Opportunity Employer – M/F/Veteran/Disability/Sexual Orientation/Gender Identity",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:54:57.000Z"
+  },
+  "company": {
+    "name": "FactSet",
+    "link": "https://www.linkedin.com/company/factset"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Norwalk",
+    "region": "CT",
+    "postal_code": "06858",
+    "street_address": null,
+    "latitude": 41.11805,
+    "longitude": -73.4129
+  }
+}

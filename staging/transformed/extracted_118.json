@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Information Technology and Services,Entertainment",
+    "description": "Hi, we’re the parent organization to the Atlanta Falcons, Atlanta United FC, and Mercedes Benz Stadium.  If working for one of the best organizations in the Southeast that supports two amazing sports clubs along with the most cutting-edge stadium in the world sounds like something your interested in, read on. Few organizations have the tremendous reach and assets that AMBSE does to make impact on our community. We live and breathe the city of Atlanta, and we believe in empowering the citizens of our community whenever possible. Further, we’re a values driven organization, and we use these core values as a compass to guide our decisions as a North Star.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:12:22.000Z"
+  },
+  "company": {
+    "name": "AMB Sports + Entertainment",
+    "link": "https://www.linkedin.com/company/amb-sports-entertainment"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

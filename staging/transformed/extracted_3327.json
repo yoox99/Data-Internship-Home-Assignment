@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "👋🏼 We're Nagarro.  We are a Digital Product Engineering company that is scaling engineering in 2021 in a big way! We build products and experiences that inspire, excite, and delight. We work at scale — across all devices and digital mediums, and our people exist everywhere in the world (in 26 countries, to be exact). We’re looking for a full-time Senior Product Engineer to join our Digital Ventures business unit that brings our incredible software product experience to larger companies like Verizon, Google, Twitter, Sony, L’Oréal — and we do this all with a fully remote team. That’s where you come in. We are growing our team of Product engineering experts, and we’re looking for people who share our passion for building software people love. We are seeking a colleague with",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T04:05:52.000Z"
+  },
+  "company": {
+    "name": "Mokriya",
+    "link": "https://www.linkedin.com/company/mokriya.com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 180,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

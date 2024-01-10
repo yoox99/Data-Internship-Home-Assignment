@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Remote",
+    "industry": "Logistics and Supply Chain,Financial Services,Transportation/Trucking/Railroad",
+    "description": "Do you love being a part of developing business operations and practices, and applying specific methods, models, and analysis to create something amazing? We are looking for a Data Scientist to help design, build, and maintain next generation analytics solutions. The focus of this position is in developing practical solutions that help our customers meet their objectives. With a knowledge of statistics modeling, solution techniques and tools, you'll be able to grow your technical skills while working on impactful and challenging analytics problems. If this sounds exciting to you, review the information below and apply today. As an associate you will enjoy a strong work/life balance that includes paid vacation and holidays along with paid personal time off. You will also have access to medical, dental, and vision insurance and enjoy our company-paid life insurance and 401(k) savings with a company funded retirement plan. Schneider values individual development and offers a wide variety of opportunities through company-paid training and more than 170 personal development courses. What are you waiting for? You will love it here. Schneider is a premier provider of transportation and logistics services. Our legacy started in 1935 with one man, one truck and one dream. Since then, we’ve grown and evolved to become a nearly $5 billion company (2019 revenue) with one of the broadest portfolios of services in the industry delivering superior customer experiences. Rise to the challenge and become a part of the Schneider family. Be the difference with a leader in an industry that impacts the world. Apply today at http://www.schneiderjobs.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T10:39:57.000Z"
+  },
+  "company": {
+    "name": "Schneider",
+    "link": "https://www.linkedin.com/company/schneider"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Green Bay",
+    "region": "WI",
+    "postal_code": "54304",
+    "street_address": null,
+    "latitude": 44.513287,
+    "longitude": -88.01326
+  }
+}

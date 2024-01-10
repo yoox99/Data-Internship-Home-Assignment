@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full-Stack Software Engineer",
+    "industry": "Computer Software",
+    "description": "walrus.ai is a new approach to testing and ensuring confidence in complex web applications. Through a combination of human intelligence and computer execution, we offer quick and reliable monitoring and testing from simple, plain-English instructions. Our goal is to eliminate time wasted on writing and maintaining tests across the entire stack, allowing engineers instead to focus on building products.  We are backed by great investors, and are making our first hire. This is a great opportunity to shape a company in a massive market from the ground up. There are 3 of us, and we are based in San Francisco. This position is also remote-friendly. Listen First  We believe in empowering and delighting our customers. The biggest part of that is listening to them, when they’re happy, and when they’re frustrated. Before making any hard decision, listen to different points of view, collect as much insight as possible, and move forward with conviction. Don’t bring the ego in the building.  Always learn  Failure is embraced, as long as you learn something from it.  We believe in curiosity, and first-principles reasoning. All ideas are welcome, and debate is embraced. We aim for clarity of thought, and collecting diverse points of view, from our team, and our customers.  Keep it simple  “Stock is the backbone of good cooking, just roast some bones, roast some vegetables, put them in a big pot with water, and reduce and reduce and reduce.” - Anthony Bourdain  Whether cooking, writing a book, or managing your workload, boiling ideas down to their essence, and bringing elegant simplicity to complex systems are the backbones of operational excellence. The salary range for this position is $120,000 - $180,000",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T05:06:38.000Z"
+  },
+  "company": {
+    "name": "walrus.ai",
+    "link": "https://www.linkedin.com/company/walrus-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

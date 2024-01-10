@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Internet,Financial Services",
+    "description": "Join our team as a in Los Angeles, CA.  Magnite (NASDAQ: MGNI) is the world’s largest independent sell-side advertising platform. Publishers use our technology to monetize their content across all screens and formats including CTV, online video, display, and audio. The world's leading agencies and brands trust our platform to access brand-safe, high-quality ad inventory and execute billions of advertising transactions each month. In April 2021 we acquired SpotX to further enhance our CTV business and better help our clients in this rapidly growing market. Anchored in sunny Los Angeles, bustling New York City, mile high Denver, historic London, and down under in Sydney, Magnite has offices across North America, EMEA, LATAM, and APAC. We are looking for a highly talented and motivated . We are looking for someone who is versatile, methodical, excited by modern technology and enjoys focusing on tackling software challenges. Does that sound like you?",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Magnite",
+    "link": "https://www.linkedin.com/company/magnite"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

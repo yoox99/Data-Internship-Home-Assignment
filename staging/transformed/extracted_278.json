@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer – Compilers",
+    "industry": "Computer Software,Semiconductors,Wireless",
+    "description": "Qualcomm Technologies, Inc. Engineering Group, Engineering Group > Machine Learning Engineering Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.  AI is moving from cloud to the edge devices. QUALCOMM, as the world's leading mobile computing platform provider, is committed to enable the wide deployment of intelligent solutions on all possible devices. Be a part of our Deep Learning research project in Corporate R&D, where you will be involved and participate in building best-in-class solutions and tools needed to enable state-of-the-art technologies for next generation mobile/embedded machine learning platforms for smart phones, autonomous vehicles, robotics and IOT devices. In this role, you will work in a dynamic research environment, be part of a multi-disciplinary team of researchers and software developers, collaborate with internal teams, work with popular neural network frameworks, and understand the architecture of Qualcomms SOC compute and ML HW accelerators. You will design, develop & test software for machine learning compilers, tools and frameworks that enable models to efficiently run on all edge devices. The successful applicant should have a strong software background, and passion to work on neural network frameworks/libraries. : If you are an individual with a disability and need an accommodation during the application/hiring process, please call Qualcomm’s toll-free number found here for assistance. Qualcomm will provide reasonable accommodations, upon request, to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. Qualcomm is an equal opportunity employer and supports workforce diversity. :Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications. If you would like more information about this role, please contact Qualcomm Careers .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-02T18:14:31.000Z"
+  },
+  "company": {
+    "name": "Qualcomm",
+    "link": "https://www.linkedin.com/company/qualcomm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

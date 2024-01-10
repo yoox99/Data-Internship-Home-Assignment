@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Developer III - Data Engineer, IS Core Services",
+    "industry": "Logistics and Supply Chain,Human Resources,Financial Services",
+    "description": "“We’re not in the shipping business; we’re in the information business” -Peter Rose, Expeditors Founder  Global supply chain management is what we do, but at the heart of Expeditors you will find professionalism, leadership, and a friendly environment, all of which foster an innovative, customer service-based approach to logistics. Job Description  “Velocity, Variety, and Volume” - those are three ‘V’s of the Big Data that our global logistics company, Expeditors, is handling daily while moving freight from all over the world. We invite you to an exciting opportunity to become part of a Big Data development team to help build a data lake environment and to support users through ingesting, analyzing, and visualizing Expeditors’ Big Data. You will be working with highly skilled software development engineers using Event-Driven Architecture, Domain Driven Design, and Event Sourcing. If you are a data geek and excited about big data related technologies, we would like to talk to you about this great opportunity. Additional Information",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Expeditors",
+    "link": "https://www.linkedin.com/company/expeditors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78400,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

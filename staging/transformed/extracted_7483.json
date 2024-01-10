@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Platform Operations Engineer",
+    "industry": "Broadcast Media,Entertainment,Media Production",
+    "description": "SportsEngine, Inc., an NBC Sports Group company and leading provider of Sport Relationship Management (SRM) software, is hiring a Senior Platform Operations Engineer to join our Platform Operations Team. This role is a unique opportunity to join a team that builds and supports the core infrastructure that runs the SportsEngine Platform services and products. This position spans multiple skill sets, from Software Developer to Web Operations. Our platform-driven approach means defining and standardizing organizational best practices, and then building them into our Kubernetes-based infrastructure platform. This role is open to remote applicants. Applicants in the Minneapolis area have the option of working out of our Minneapolis office space. We strive to have a remote and hybrid friendly work environment, giving our employees the flexibility to choose what works best for them.  The key responsibilities of the Senior Platform Operations Engineer include; ○ Operating web applications in a Site Reliability Engineering, Web Operations, or Cloud Engineering capacity.  ○ Building web applications as a Software Engineer using Ruby, Javascript, .Net, Python, etc. infrastructure as code (Terraform, Chef, Puppet, Ansible,  or similar), containers (docker, kubernetes), datastores  (Mysql, Redis, ElasticSearch), or data streaming  (SNS/SQS, Kinesis). SportsEngine Experienced Remote Remote United States NBCUniversal is one of the world’s leading media and entertainment companies in the development, production, and marketing of entertainment, news, and information to a global audience. NBCUniversal owns and operates a valuable portfolio of news and entertainment television networks, a premier motion picture company, significant television production operations, a leading television stations group, and world-renowned theme parks.  NBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. The sports media company consists of NBC Sports, NBC Olympics, NBCSN, Golf Channel, Olympic Channel: Home of Team USA, NBC Sports Regional Networks, NBC Sports Radio and NBC Sports Digital, which includes NBCSports.com, NBCOlympics.com, GolfChannel.com, the digital assets of the NBC Sports Regional Networks, Rotoworld, the NBC Sports Talk franchise, multiple apps, and two transactional sports businesses, GolfNow and SportsEngine. NBC Sports Group possesses an unparalleled collection of television rights agreements, partnering with some of the most prestigious sports properties in the world: the International Olympic Committee and United States Olympic Committee, the NFL, NHL, NASCAR, INDYCAR, PGA TOUR, The R&A, PGA of America, Churchill Downs, Premier League, Tour de France, French Open, and many more. NBCUniversal’s policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law. NBCUniversal will consider for employment qualified applicants with criminal histories in a manner consistent with relevant legal requirements, including the City of Los Angeles Fair Chance Initiative For Hiring Ordinance, where applicable.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:25:03.000Z"
+  },
+  "company": {
+    "name": "NBCUniversal",
+    "link": "https://www.linkedin.com/company/nbcuniversal-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

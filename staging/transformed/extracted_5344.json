@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML, Sr. Data Scientist - Statistician, Data",
+    "industry": "Consumer Electronics",
+    "description": "Want to push the envelope on human-computer interaction at Apple? Contribute to a product that is redefining mobile and desktop computing, and work with the people who are building the intelligent assistant that helps millions of people get things done — just by asking?   Our vision for the Siri Data organization is to improve Siri by using data as the voice of our customers. Within this organization the mission of the Analytics team is to inform the evolution of Siri through measurement and analysis of the user experience. Part of this mission is achieved through evaluation and experimentation; as a Data Scientist, you will help to evolve our core methods and technologies. Expertise in causality (experimentation, econometrics, and general statistical modeling), study design, human computation, and knowledge of how to leverage these skills to solve complex business problems  Strong communication skills (written and verbal) and the ability to explain technical topics (especially causal inference) to data scientists, engineers, and business partners  Data-querying skills (SQL and/or Spark, etc.)  Experience with a scripting language for statistical modeling and data processing (e.g., Python, R, or Scala)  Ability to stay focused and prioritize competing demands while achieving exceptional quality  History of building and managing cross-functional partnerships  Innovative, collaborative, and product focused The Siri Data Organization is seeking a talented Data Scientist to conduct methodological research in the realm of human evaluation! Your work will provide the building blocks for tracking and iterating on our product. It will drive core metrics and help to produce annotated data sets that empower engineering teams across Siri to improve Siri using data. You will:   * Conduct R&D to drive metrics development and evaluation methods - your work will drive sound statistical inferences about the Siri product  * Deep dive into complex business problems and determine how we can best engineer our evaluation systems to meet them  * Partner closely with engineering teams (engineers, PMs, analysts) to get your methodological developments translated into technologies that Siri engineering will use every day Statistics, Cognitive Science, Economics, Sociology, or other quantitative fields.  Prefer advanced degree + 3 years of industry experience.    Role Number: 200220272",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:33:52.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

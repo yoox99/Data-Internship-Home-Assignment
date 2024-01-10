@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "As a Software Engineer, you will: Candidate Skills/Qualifications: Nice to have: Company Information  EnergyHub is a growing enterprise software company that works with the most forward-thinking companies in smart energy. Our platform lets consumers turn their smart thermostats, electric cars, water heaters, and other products into virtual power plants that keep the grid stable and enable higher penetration of solar and wind power. We work on technology that already provides energy and cost savings to millions of people through partnerships with the leading companies in the Internet of Things. EnergyHub offers a generous benefits package including 100% paid medical for employees and a 401(k) with employer match. We offer a casual environment, the flexibility to set your own schedule, a fully stocked fridge and pantry, free Citi Bike membership, secure bike rack, gym subsidy, paid parental leave, and an education assistance program.  EnergyHub is an Equal Opportunity Employer  In connection with your application, we collect information that identifies, reasonably relates to or describes you (\"Personal Information\"). The categories of Personal Information that we may collect include your name, government-issued identification number(s), email address, mailing address, other contact information, emergency contact information, employment history, educational history, and demographic information. We collect and use those categories of Personal Information about you for human resources and other business management purposes, including identifying and evaluating you as a candidate for potential or future employment or future positions, recordkeeping in relation to recruiting and hiring, conducting analytics, and ensuring compliance with applicable legal requirements and Company policies.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:10:25.000Z"
+  },
+  "company": {
+    "name": "EnergyHub",
+    "link": "https://www.linkedin.com/company/energyhub"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81500,
+    "max_value": 177500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Brooklyn",
+    "region": "NY",
+    "postal_code": "11239",
+    "street_address": null,
+    "latitude": 40.692528,
+    "longitude": -73.991
+  }
+}

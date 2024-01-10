@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "Possible 3 Month CTH | No Fees | Do Not Re-Post | Confidential Submit candidates under their legal name and use only Client template  Role: Site Reliability Engineer Work location Richardson, Texas (Remote) Start date: Immediate availability Background check MANDA TORY Request ID: 10135876  Pursuit Project 4+ years of experience with creating CI/CD pipelines for Application Deployments  Must have implemented DevOps practices/tools in areas such as Continuous Integration, Release automation, Metrics Tracking on the Azure Platform  Strong experience with Gitlab, Bitbucket Server, Artifactory, Jenkins  Strong experience working with Database Technologies: MongoDB, PostgresSQL (Azure CosmosDB)  Experience with Cloud Environments such as Azure or AWS - Specifically deploying (Java, SpringBoot, NodeJS) Applications on Cloud  Application troubleshooting experience with Linux Operating Systems  Knowledge about Blue/Green, Canary Deployments  Preferred Qualifications: (Good to have)  Created application performance dashboards on Azure, using Application Insights and automated alerts.  Ability to write Terraform scripts to build complete App services for large complex applications.  Experience with Secrets management using Azure Key Vault, HashiCorp Vault  Configuration Management (Ansible, Chef) experience is a plus Maria Andrea Gomez External Resource Manager (ERM) | SubCo Staffing Center Client North America | Guatemala",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T11:45:39.000Z"
+  },
+  "company": {
+    "name": "Lorven Technologies Inc",
+    "link": "https://www.linkedin.com/company/lorventech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richardson",
+    "region": "TX",
+    "postal_code": "75080",
+    "street_address": null,
+    "latitude": 32.960762,
+    "longitude": -96.73352
+  }
+}

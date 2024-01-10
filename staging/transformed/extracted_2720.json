@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Our machine learning team is seeking an experienced senior machine learning engineer. The team is in need of someone who is a skilled software engineer and proficient in ML libraries, system design and pipelines. As a machine learning engineer, you will be building state-of-the-art models for our products, using test driven development, and working with the software engineering team to deploy and maintain the models in production. Beyond Limits is a pioneering Artificial Intelligence engineering company creating advanced software solutions that go beyond conventional AI. Founded in 2014 with a legacy in space exploration, Beyond Limits is transforming proven technologies from Caltech and NASA’s Jet Propulsion Laboratory into advanced AI solutions, hardened to industrial strength, and put to work for forward-looking companies on earth. We leverage this unparalleled innovation portfolio, along with proprietary cognitive technologies, to help companies solve tough, complex, mission-critical problems and transform their business. We apply a unique hybrid approach to AI, combining numeric AI techniques like machine learning with higher-order symbolic AI and expert human knowledge to deliver intuitive cognitive reasoning and information. Our cognitive computing technology mimics human thought processes and provides explainable reasoning to aid human-like decision-making.  Beyond Limits provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Beyond Limits complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.  Beyond Limits expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of Beyond Limit’s employees to perform their job duties may result in discipline up to and including discharge.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-05T04:57:13.000Z"
+  },
+  "company": {
+    "name": "Beyond Limits",
+    "link": "https://www.linkedin.com/company/beyond-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Glendale",
+    "region": "CA",
+    "postal_code": "91205",
+    "street_address": null,
+    "latitude": 34.148136,
+    "longitude": -118.24644
+  }
+}

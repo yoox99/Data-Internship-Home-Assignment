@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Entertainment,Computer Games",
+    "description": "At Visual Concepts, we believe great games are made by diverse and empowered teams with a shared passion for play. As one of the world’s top game development studios, we have shipped over 100 multi-sku titles to critical acclaim and commercial success. Our teams are independent and entrepreneurial. Our studios in Agoura Hills, Novato, Orange County, Budapest, Shanghai, Austin, San Jose, Vancouver and Seoul are committed to artistry and technical innovation, offering top candidates the opportunity to learn and grow with some of the smartest and most creative minds in the industry. An outstanding blend of mathematical and engineering skills",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T22:06:30.000Z"
+  },
+  "company": {
+    "name": "Visual Concepts",
+    "link": "https://www.linkedin.com/company/visual-concepts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 95000,
+    "max_value": 161000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Novato",
+    "region": "CA",
+    "postal_code": "94947",
+    "street_address": null,
+    "latitude": 38.109188,
+    "longitude": -122.578255
+  }
+}

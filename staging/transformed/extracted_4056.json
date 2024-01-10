@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Lottery games are one of the biggest consumer products on the planet and Scientific Games is the world’s largest supplier. Our lottery games have been entertaining and thrilling players since 1973. Most importantly our games fund good causes like education, health and welfare, senior citizens, roads, bridges and the environment.  Scientific Games supports lotteries in more than 50 countries by delivering industry leading marketing and insights, unmatched retailer innovation, developing first class mobile-based products and most recently launching our virtual SG Sports betting platform.  We are looking for employees interested in helping Scientific Games strengthen our position as the world’s foremost leader in lottery products and services. Scientific Games (SG) is a global leader focused on delivering an ever-expanding portfolio of lottery and gaming products and services to the world's government-regulated and government-sponsored entities. Scientific Games' global reach is made possible through the expertise, skill and dedicated efforts of its 8,000+ employees who serve lottery and gaming customers in more than 100+ countries on 6 continents. We are currently looking for a senior software engineer with strong C++ and Linux-based development skills. The successful candidate will be enhancing and maintaining existing products, as well as designing and building new products. Many of these products are mission-critical, operate 24/7/365, and are subject to SLAs. Scientific Games Corporation and its affiliates (collectively, “SG”) are engaged in highly regulated gaming and lottery businesses. As a result, certain SG employees may, among other things, be required to obtain a gaming or other license(s), undergo background investigations or security checks, or meet certain standards dictated by law, regulation or contracts. In order to ensure SG complies with its regulatory and contractual commitments, as a condition to hiring and continuing to employ its employees, SG requires all of its employees to meet those requirements that are necessary to fulfill their individual roles. As a prerequisite to employment with SG (to the extent permitted by law), you shall be asked to consent to SG conducting a due diligence/background investigation on you.  This job description should not be interpreted as all-inclusive; it is intended to identify major responsibilities and requirements of the job. The employee in this position may be requested to perform other job-related tasks and responsibilities than those stated above.  SG is an Equal Opportunity Employer and does not discriminate against applicants due to race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. If you’d like more information about your equal employment opportunity rights as an applicant under the law , please click here for EEOC Poster .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:19:02.000Z"
+  },
+  "company": {
+    "name": "SG - Lottery",
+    "link": "https://www.linkedin.com/company/scientific-games-lottery"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

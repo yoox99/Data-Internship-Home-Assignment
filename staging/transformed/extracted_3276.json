@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist I",
+    "industry": "Consumer Goods,Entertainment,Online Media",
+    "description": "R000041831 WarnerMedia is a leading media and entertainment company that creates and distributes premium and popular content from a diverse array of talented storytellers and journalists to global audiences through its consumer brands including: HBO, HBO Max, Warner Bros., TNT, TBS, truTV, CNN, DC Entertainment, New Line, Cartoon Network, Adult Swim, Turner Classic Movies and others. Our StoryWe are CNN. THE WORLD’S MOST ESSENTIAL AND ENGAGING SOURCE OF DIGITAL NEWS. We are in the midst of rapid transformation and need you to help us find the next generation of innovators, makers, and dreamers who will lead and drive our growth. We aim to make the world a better, more connected place. Join us! Reporting to the Sr. Manager, Data Science this role will help to develop the predictive insights and prescriptive capabilities behind CNN’s emerging products, transforming first- and third- party data into quantitative findings, visualizations, and automation. This is a collaborative role that will work alongside engineers, analysts, and data scientists to impact cross-functional teams of product managers; revenue, content, and design strategists; consumer scientists; and audience researchers. You'll help make informed decisions faster by providing the tactical information necessary to better understand our users, content, and products.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T06:18:15.000Z"
+  },
+  "company": {
+    "name": "CNN",
+    "link": "https://www.linkedin.com/company/cnn"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Utica-Rome Area",
+    "region": null,
+    "postal_code": "13501",
+    "street_address": null,
+    "latitude": 43.09009,
+    "longitude": -75.2616
+  }
+}

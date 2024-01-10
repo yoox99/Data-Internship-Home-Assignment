@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:44:50.000Z"
+  },
+  "company": {
+    "name": "LAUNCH Technical Workforce Solutions",
+    "link": "https://www.linkedin.com/company/launchtws"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City Metropolitan Area",
+    "region": null,
+    "postal_code": "84105",
+    "street_address": null,
+    "latitude": 40.74076,
+    "longitude": -111.89312
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Office of Translational Research, Full-Time",
+    "industry": "Nonprofit Organization Management,Health, Wellness and Fitness,Hospital &amp; Health Care",
+    "description": "The Data Scientist is responsible for building analytical processes and models, and oversees data science projects independently, including monitoring progress and proactively identifying barriers. Executes data analysis, machine learning, predictive modeling, statistics, visualization, and other data science techniques to derive actionable insights.  The Data Scientist will consistently demonstrate support of the Shirley Ryan AbilityLab statement of Vision, Mission and Core Values by striving for excellence, contributing to the team efforts and showing respect and compassion for patients and their families, fellow employees, and all others with whom there is contact at or in the interest of the institute.  The Data Scientist will demonstrate Shirley Ryan AbilityLab Core Attributes: Communication, Accountability, Flexibility/Adaptability, Judgment/Problem Solving, Customer Service and Core Values (Hope, Compassion, Discovery, Collaboration, & Commitment to Excellence) while fulfilling job duties. Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilitation for adults and children with the most severe, complex conditions. By joining our team, you will be part of our life-changing Mission and Vision. You’ll work in a truly inclusive environment where diversity and equity are championed through words and actions. You’ll contribute to an innovative culture that is second to none, one that embraces curiosity, discovery and compassion. You’ll play a role in something that’s never been done before as we integrate science and clinical care to help patients achieve better, faster outcomes — as we Advance Human Ability, together.  The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified.  Shirley Ryan AbilityLab is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:43:21.000Z"
+  },
+  "company": {
+    "name": "Shirley Ryan AbilityLab",
+    "link": "https://www.linkedin.com/company/shirley-ryan-abilitylab"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

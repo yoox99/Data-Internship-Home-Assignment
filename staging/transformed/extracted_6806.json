@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist - Marketing Focus",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Join highly skilled data science team using state of the art machine learning and data analysis to attack a broad range of unique problems. We are engaged in solving difficult problems in prediction, optimization, clustering, anomaly detection, time series analysis, and Natural Language Processing (NLP). Application areas include network operation, cyber security, customer experiences, marketing, and many more. You will have a unique opportunity to apply data science and machine learning techniques to wireless data and work in a new area for data science, which is deep and scientific.  The data is huge in scale, encompassing measurements from tens of millions of users worldwide at time granularity of seconds. And, your work will go into enterprise class products as well as consumer products that you and your friends are buying.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:19:01.000Z"
+  },
+  "company": {
+    "name": "Plume Design, Inc",
+    "link": "https://www.linkedin.com/company/plume-wifi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 105000,
+    "max_value": 173000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

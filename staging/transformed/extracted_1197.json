@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Salesforce Informatica Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+    "description": "The Salesforce Informatica Data Engineer will design intelligent, automated data integrations. Bring high-performance, zero code, cloud, and on-prem data integration to scale.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:46:47.000Z"
+  },
+  "company": {
+    "name": "Root Seven",
+    "link": "https://www.linkedin.com/company/recruiting-information-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Antonio",
+    "region": "TX",
+    "postal_code": "78266",
+    "street_address": null,
+    "latitude": 29.42517,
+    "longitude": -98.49461
+  }
+}

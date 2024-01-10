@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Sam's Club",
+    "industry": "Food &amp; Beverages,Retail,Hospital &amp; Health Care",
+    "description": "Data Scientists in the Sam's Club Technology division specialize in applying machine learning and artificial intelligence to solve problems across Merchandising, Marketing, Club Operations, Finance, eCommerce, and Security. You will have the opportunity to work with a high caliber team from a variety of disciplines to build new software and radically change our business. Data Scientists work as part of an Experience Team to develop and deploy advanced algorithms at scale. You will support and enable the entire project lifecycle including problem discovery with business clients, algorithmic design, coding, validation, deployment, testing, and monitoring. Data Scientists adhere to agile software development standards through rapid prototyping, iterative development, and incremental deployment of capabilities. Development is performed in Sprints and Data Scientists are held accountable to engineering excellence standards.  Key Responsibilities Must Haves Data science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, using open-source frameworks (e.g., Scikit learn, TensorFlow, Torch)  We’re virtual  Working virtually this year has helped us make quicker decisions, remove location barriers across our global team, be more flexible in our personal lives and spend less time commuting. Today, we are reimagining the tech workplace of the future by making a permanent transition to virtual work for most of our team. Of course, being together in person is an important part of our culture and shared success. We’ll collaborate in person at a regular cadence and with purpose.  Benefits & Perks  Beyond competitive pay, you can receive incentive awards for your performance. Other great benefits include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, associate discounts, and much more!  Equal Opportunity Employer  Walmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing diversity- unique styles, experiences, identities, ideas and opinions – while being inclusive of all people. Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2  years' experience in an analytics or related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science,  Information Technology or related field. Option 3: 4 years' experience in an analytics or related field. Preferred Qualifications... Data science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch) Primary Location...2101 SE SIMPLE SAVINGS DR, BENTONVILLE, AR 72712-4304, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:19:37.000Z"
+  },
+  "company": {
+    "name": "Sam's Club",
+    "link": "https://www.linkedin.com/company/sam%27s-club"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bentonville",
+    "region": "AR",
+    "postal_code": "72716",
+    "street_address": null,
+    "latitude": 36.37187,
+    "longitude": -94.20272
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "engineer principal, Platform Automation- Seattle WA",
+    "industry": "Consumer Goods,Food &amp; Beverages,Retail",
+    "description": "This position contributes to Starbucks success by managing the planning and execution of activities of an Application Development Team with a strong focus on infrastructure and application automation. As engineer principal in application development, you are responsible for managing a team of software developers through planning, delivery and operations of solutions. You are also responsible for the evolvement, delivery and support the technology strategy and roadmaps for new and existing applications and platforms. This role requires managerial experience, technical expertise, domain proficiency, platform depth, and leadership. Models and acts in accordance with Starbucks guiding principles.  Responsibilities and essential job functions include but are not limited to the following: - Setting goals for the work group, developing organizational capability, and modeling how we work together: Domain Proficiency Interpersonal Skills",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T06:14:14.000Z"
+  },
+  "company": {
+    "name": "Starbucks",
+    "link": "https://www.linkedin.com/company/starbucks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

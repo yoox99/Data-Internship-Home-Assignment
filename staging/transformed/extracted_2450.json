@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Construction,Information Technology and Services,Computer Software",
+    "description": "Glidewell Dental is an industry-leading provider of dental technology products and services to dental professionals worldwide. Headquartered in Newport Beach/Irvine, CA, the Glidewell campus is home to 3,300 employees and complete with an employee gym, cafeteria, massage therapist, acupuncturist, and of course, a dentist. Glidewell Dental employs over 5,000 employees worldwide and is privately owned.  So what is a dental company doing with technology?  Glidewell is dedicated to building the future of dental through additive manufacturing, data science, and even machine learning. We research and develop new innovative products and services for the dental industry at affordable costs. Just ask your dentist!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T00:55:14.000Z"
+  },
+  "company": {
+    "name": "Glidewell Dental",
+    "link": "https://www.linkedin.com/company/glidewell"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

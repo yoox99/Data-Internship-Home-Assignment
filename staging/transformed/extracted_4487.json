@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Foursquare is the leading independent location technology company, powered by our deep understanding of how people move throughout the world. Our solutions help businesses make smarter decisions, developers create more engaging experiences, and brands build more effective marketing strategies.  Foursquare’s platform includes Attribution, Audience, Proximity, Places, Pilgrim SDK and Visits. As the industry’s first and only accredited company for location data from the Media Rating Council (MRC), this foundation powers all our solutions — those that exist today and those we have yet to build. Over 14 billion consumer-verified place visit confirmations help us keep our map and models fresh and up-to-date, building a phone’s-eye-view of the world with 105 million unique places of interest worldwide. As a member of Foursquare’s data science team, you’ll be responsible for owning important methodological components of our leading foot traffic measurement platform. The methodologies we employ are varied which creates a rich environment for the application of data science technology. This is not just a machine learning job. We look for data scientists who are excited by the challenge of solving problems using a wide array of modeling and quantitative techniques. Foursquare is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.  Foursquare is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected Veteran status, or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T20:40:42.000Z"
+  },
+  "company": {
+    "name": "Foursquare",
+    "link": "https://www.linkedin.com/company/foursquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 102000,
+    "max_value": 131000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

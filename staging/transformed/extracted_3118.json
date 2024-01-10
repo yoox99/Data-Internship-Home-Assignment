@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Cedar is a patient payment and engagement platform that elevates the total patient experience beyond clinical care. The platform leverages data science and technology to deliver modern intelligence to health providers and payers, and simplify the healthcare experience for patients.  Cedar is growing rapidly and data is at the core of everything we do! We build analytics for our clients and our teams to inform the product development process. We tell stories about all aspects of the patient journey and use quantitative analyses to explain patient behavior. We run experiments to test our various hypotheses and iterate using our results. We build models to drive better decision-making, both within our organization and for our clients in the healthcare industry.  As the scale of the data that we collect has grown, we are looking for a with a passion for tool development to join our Data Science Team! This role will be central in our efforts in scaling our data science tooling to support our organizations growth. This is a great opportunity to work in a non-siloed, collaborative meritocracy on challenging problems with other scientists and engineers.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Cedar",
+    "link": "https://www.linkedin.com/company/cedar-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62100,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

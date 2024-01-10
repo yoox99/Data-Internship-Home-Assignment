@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Medical Devices,Hospital &amp; Health Care,Pharmaceuticals",
+    "description": "A Day in the Life: Analyze data and author test reports  Must Have: Nice to Have: Together, we can change healthcare worldwide. At Medtronic, we push the limits of what technology, therapies and services can do to help alleviate pain, restore health and extend life. We challenge ourselves and each other to make tomorrow better than yesterday. It is what makes this an exciting and rewarding place to be.  We want to accelerate and advance our ability to create meaningful innovations - but we will only succeed with the right people on our team. Let’s work together to address universal healthcare needs and improve patients’ lives. Help us shape the future.  Physical Job Requirements  The physical demands described within the Responsibilities section of this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. For Office Roles: While performing the duties of this job, the employee is regularly required to be independently mobile. The employee is also required to interact with a computer, and communicate with peers and co-workers. Contact your manager or local HR to understand the Work Conditions and Physical requirements that may be specific to each role. (ADA-United States of America)  Additional Information",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T19:27:52.000Z"
+  },
+  "company": {
+    "name": "Medtronic",
+    "link": "https://www.linkedin.com/company/medtronic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Rice",
+    "region": "MN",
+    "postal_code": "56367",
+    "street_address": null,
+    "latitude": 45.75232,
+    "longitude": -94.21951
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Modern Health is a mental health benefits platform for employers. We are the first solution to cover the full spectrum of mental well-being needs through both evidence-based digital content and professional support from a global network of certified coaches or therapists all in one comprehensive app. Whether someone wants to proactively manage stress or treat depression, Modern Health guides people to the right care at the right time. We empower companies to help their employees be the best version of themselves, and believe in meeting people wherever they are in their mental health journey.  We are a female-founded company, backed by investors like Kleiner Perkins, Founders Fund, John Doerr, Y Combinator, and Battery Ventures. We partner with 220+ global companies like Lyft, SoFi, Pixar, Gusto, Okta, and Udemy that are taking a proactive approach to mental health care for their employees. Modern Health has raised more than $170 million in less than two years with a valuation of $1.17 billion, making Modern Health the fastest entirely female-founded company in the U.S. to reach unicorn status. We are looking for driven, creative, and passionate individuals to join in our mission.  In 2020 we tripled our employee headcount, doubled our customer base and grew our revenue 10x. As a hyper-growth company we have maintained our people-first culture winning awards including Fortune's Best Workplaces in the Bay Area 2021 and maintaining an employee retention rate of 99.97% and an overall Glassdoor rating of 4.9 out of 5.  An inclusive and diverse culture are key components of mental well-being in the workplace, and that starts with how we build our own team. If you're excited about this role, we'd love to hear from you!  The Role-  Modern Health's data team is growing rapidly, and we're looking to bring on a data scientist to help improve our members' experience. We're looking for someone who can bring hands-on experience developing production machine learning models to help build the first and second generations of ML-powered products to drive member engagement and outcomes. You'll be joining a small data science team and be heavily involved in shaping the team's direction and growth.  In this role, you'll dive deep into three main areas: triage, provider matching, and content recommendation. You'll use our members' activity and outcome data to understand whether members are a better fit for therapy, 1:1 coaching, or digital programs / self-guided courses. You'll work with product teams to collect information for making smart recommendations about which therapists and coaches will be the best fit for members. And you'll build on our engagement data to build recommender systems for digital content and events.  This role will report to the Data Engineering Manager and is not eligible to be performed in Colorado or Hawaii. Bay Area preferred",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:17:25.000Z"
+  },
+  "company": {
+    "name": "Modern Health",
+    "link": "https://www.linkedin.com/company/modern-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

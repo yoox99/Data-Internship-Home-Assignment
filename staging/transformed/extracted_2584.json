@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, TikTok Frontend",
+    "industry": "Internet",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T19:38:39.000Z"
+  },
+  "company": {
+    "name": "TikTok",
+    "link": "https://www.linkedin.com/company/tiktok"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82400,
+    "max_value": 170000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

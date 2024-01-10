@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Research - Biology)",
+    "industry": "Biotechnology,Hospital &amp; Health Care,Pharmaceuticals",
+    "description": "Moderna is seeking a talented and motivated data scientist with a background in applying machine learning techniques to problems in research and development to join our Data Science and Artificial Intelligence (DSAI) team. As part of our mission to “ Build The Digital Biotech Company ”, we see a central role for DSAI in accelerating the science and engineering at the heart of our innovative culture. As a data scientist within the DSAI team, this role will support and execute on research collaborations with an initial specialist focus on sequence-function learning for biological data. The role will be involved in building machine learning systems that power Moderna’s research engine, accelerating the scientific discovery that we engage in, scaling up our existing capabilities, and opening new avenues of research capabilities. We are looking for someone who is deeply curious, exhibits an excellent work ethic, and has a desire to bring novel mRNA therapeutics and vaccines to the market that will improve the lives of patients worldwide. In 10 years since its inception, Moderna has transformed from a science research-stage company advancing programs in the promising-but-still-unproven field of messenger RNA (mRNA), to an enterprise with its first medicine having treated millions of people, a diverse clinical portfolio of vaccines and therapeutics across six modalities, a broad intellectual property portfolio in areas including mRNA and lipid nanoparticle formulation, and an integrated manufacturing plant that allows for both clinical and commercial production at scale and at unprecedented speed. Moderna maintains alliances with a broad range of domestic and overseas government and commercial collaborators, which has allowed for the pursuit of both groundbreaking science and rapid scaling of manufacturing. Most recently, Moderna’s capabilities have come together to allow the authorized use of one of the earliest and most-effective vaccines against the COVID-19 pandemic.  Moderna’s mRNA platform builds on continuous advances in basic and applied mRNA science, delivery technology and manufacturing, and has allowed the development of therapeutics and vaccines for infectious diseases, immuno-oncology, rare diseases, cardiovascular diseases and auto-immune diseases. Today, 24 development programs are underway across these therapeutic areas, with 13 programs having entered the clinic. Moderna has been named a top biopharmaceutical employer by Science for the past six years. To learn more, visit www.modernatx.com .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T23:10:20.000Z"
+  },
+  "company": {
+    "name": "Moderna",
+    "link": "https://www.linkedin.com/company/modernatx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68300,
+    "max_value": 123000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

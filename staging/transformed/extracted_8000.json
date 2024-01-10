@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Zoomies help the world connect — and deliver happiness while doing it. We set out to build the best video conferencing product for the enterprise, and today help people communicate better with products like Zoom Phone, Zoom Rooms,  Zoom Video Webinars, Zoom Apps, and OnZoom.  We’re problem-solvers and self-starters, working at a fast pace to design solutions with our customers and users in mind. Here, you’ll work across teams to dig deep into impactful projects that are changing the way people communicate, and enjoy opportunities to advance your career in a diverse, inclusive environment.  The Data Science team lies at the foundation of Zoom’s success - you'll be working cross-functionally with teams of engineers, scientists, marketers, and product professionals on some of the most critical projects in the company - whether it's exploratory research to predict user behavior, or running experiments to optimize untapped areas of growth, or developing machine learning models that deliver “happiness” to our users more consistently and at scale.  If you are passionate about data engineering and looking to join a fun and fast-moving team, we’d love to meet you! Our team is taking Zoom's data culture to the next level by integrating predictive models into our infrastructure, and we are looking for someone like you to help us get there! This role is based in most places in the US. Ensuring a diverse and inclusive workplace where we learn from each other is core to Zoom’s values. We welcome people of different backgrounds, experiences, abilities and perspectives including qualified applicants with arrest and conviction records as well as any qualified applicants requiring reasonable accommodations in accordance with the law.  We believe that the unique contributions of all Zoomies is the driver of our success. To make sure that our products and culture continue to incorporate everyone's perspectives and experience we never discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status.  All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:45:57.000Z"
+  },
+  "company": {
+    "name": "Zoom",
+    "link": "https://www.linkedin.com/company/zoom-video-communications"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Amherst",
+    "region": "NY",
+    "postal_code": "14001",
+    "street_address": null,
+    "latitude": 42.97911,
+    "longitude": -78.799255
+  }
+}

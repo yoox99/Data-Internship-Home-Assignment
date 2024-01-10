@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Network Engineer II",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T06:07:12.000Z"
+  },
+  "company": {
+    "name": "TRCA",
+    "link": "https://www.linkedin.com/company/trca1991"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denton",
+    "region": "TX",
+    "postal_code": "76206",
+    "street_address": null,
+    "latitude": 33.215534,
+    "longitude": -97.13245
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr IT Specialist (Bus. Title: Sr. Data Engineer)",
+    "industry": "Information Technology and Services,Staffing and Recruiting,Hospital &amp; Health Care",
+    "description": "The Sr. IT Specialist (Sr. Data Engineer) role is a highly versatile backend developer for our information systems, supporting SQL Development for our web applications, ETL processes, data automation and report development. Sr. IT Specialists (Sr. Data Engineers) work closely with client services teams to support client data deliverables, as well as operational teams across the business to support functional data needs for business processes. Strong Sr. IT Specialists (Sr. Data Engineers) are collaborative, open-minded and strategic problem solvers who excel at learning new skills and putting them to use. License/Certification/Education: Normally requires a B.S. Degree in Computer Science w/5+ years experience. Shift  1  Schedule  M-F 830am - 530pm",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:35:51.000Z"
+  },
+  "company": {
+    "name": "Labcorp",
+    "link": "https://www.linkedin.com/company/labcorp"
+  },
+  "education": {
+    "required_credential": "associate degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Liverpool",
+    "region": "NY",
+    "postal_code": "13090",
+    "street_address": null,
+    "latitude": 43.102867,
+    "longitude": -76.20637
+  }
+}

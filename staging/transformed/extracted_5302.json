@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer in Test",
+    "industry": "Consumer Electronics",
+    "description": "Imagine what you could do here. At Apple, new insights have a way of becoming phenomenal platforms, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.    We are looking for a highly motivated, result-oriented Engineer with a strong background in Quality Engineering. The QE Engineer position will be part of a horizontal Quality Engineering group passionate about a breadth of technologies and applications including very highly scalable distributed applications, No-Sql platforms, internal search platforms, end customer facing websites and services, critical security systems, machine learning and anomaly detection systems, software-load balancing, iOS Applications etc.    The job responsibility will include API Testing, Website testing, iOS Applications, building test tools and automation platforms, and working to continuously improve the Quality Engineering process. The Quality Engineer will be part of a Software Engineering process that is highly agile, with short iterations with a big focus on test automation.   The engineer should enjoy working in an environment that is dynamic and fun loving, where change is constant and communication is open, and perfection is encouraged through collaboration 7+ years of combined experience in Software development and Quality Engineering  Expertise in Software Quality Engineering  Experience crafting Quality automation frameworks from scratch  Expertise in QE automation frameworks and tools for both frontend and backend applications, such as Cucumber, Selenium, TestNG, SOAPUI  Experience in automating functional & integration testing of Web, iOS, OS X, and backend services & applications  Exposure to testing in Java, SQL, Unix, Scala, NoSQL, and Web Services (Rest & SOAP) environments  Experienced as Quality Engineer for highly scalable, distributed and robust platforms  Excellent knowledge of QE automation architecture, methodologies, processes, and tools  Experience with Continuous Integration (CI), Behavior Driven Frameworks (BDD), DevOps and setting up QE environments  Exposure to security domains including areas like PKI, Certificates, Cryptography, OWASP & Mod Security is a huge plus.  Proven track record to deliver high-quality work on tight schedules  Ability to work in a fast-paced environment with frequent context switching  Self-motivated, independent, and dedicated  Outstanding collaboration and organizational skills  Excellent written and verbal communication skills  You are upbeat, adaptable, and results oriented with a positive attitude Provide functional and integration quality-assurance testing for features delivered on Web, iOS, OS X, and other operating systems  Build QE Automation tools and platforms with the goal of 100% automation and reduction of regression test cycles  Build Functional testing tools and improve existing automation platforms  Work closely with multi-functional organizations, project teams and clients to develop project schedules, execute test plans and cases, and deliver high quality products  Act as a strong advocate for quality in the product development process for software engineering  Chip in to initiatives to improve the overall QE process, such as identifying gaps or inefficiencies in workflows and suggesting improvements. Bachelor’s degree in Computer Science / Computer Engineering and minimum 6 years of post-baccalaureate experience in area of quality engineering    Role Number: 200227024",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:33:05.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99800,
+    "max_value": 170000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

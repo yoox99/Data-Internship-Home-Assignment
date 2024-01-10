@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Robotics Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "HAYWARD Chowbotics is at the forefront of bringing automation into the food industry as part of DoorDash. We develop and ship robots that promote convenience through food automation. Our robots are often characterized as compact micro-restaurants that can provide customizable, fresh, healthy meals in closer proximity to consumers than any other food source. We are a team of engineers and manufacturing innovators that have exciting plans for scaling and developing new and more advanced food robots. The Robotics Software Engineer is an integral part of our robotics development team and assist in architecting, designing, and building the next generation of food robots. You’ll be deeply involved in creating and improving our dispense algorithms by working closely with our Software, Culinary, and Hardware team to implement control algorithms in code at the firmware and software levels. – Leadership is not limited to our management team. It’s something everyone at DoorDash embraces and embodies. – We believe the only way to predict the future is to build it. Creating solutions to lead our company and our industry is what we do on every project, every day. – Everyone here is continually learning on the job, no matter if we’ve been in a role for one year or one minute. We are committed to learning and implementing what is best for our customers, merchants, and dashers. – The magic of DoorDash is our people, together making our inspiring goals attainable and driving us to greater heights. At DoorDash, our mission to empower local economies shapes how our team members move quickly and always learn and reiterate to support merchants, Dashers and the communities we serve. We are a technology and logistics company that started with door-to-door delivery, and we are looking for team members who can help us go from a company that is known for delivering food to a company that people turn to for any and all goods. Read more on the DoorDash website, the DoorDash blog, the DoorDash Engineering blog, and the DoorDash Careers page.  DoorDash is growing rapidly and changing constantly, which gives our team members the opportunity to share their unique perspectives, solve new challenges, and own their careers. Our leaders seek the truth and welcome big, hairy, audacious questions. We are grounded in our company values, and we make intentional decisions that are both logical and display empathy for our range of users—from Dashers to Merchants to Customers.  We're committed to supporting employees’ happiness, healthiness, and overall well-being by providing comprehensive benefits and perks including premium healthcare, wellness expense reimbursement, paid parental leave and more. We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of people from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.  Statement of Non-Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age, gender, marital/domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on “protected categories,” we also strive to prevent other subtler forms of inappropriate behavior (i.e., stereotyping) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no place at DoorDash. We value a diverse workforce – people who identify as women, non-binary or gender non-conforming, LGBTQIA+, American Indian or Native Alaskan, Black or African American, Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently-abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute for this statement of non-discrimination.  If you need any accommodations, please inform your recruiting contact upon initial connection.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T06:13:39.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 128000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hayward",
+    "region": "CA",
+    "postal_code": "94544",
+    "street_address": null,
+    "latitude": 37.67211,
+    "longitude": -122.08396
+  }
+}

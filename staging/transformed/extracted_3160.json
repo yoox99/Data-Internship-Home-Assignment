@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "[Seattle] Machine Learning Engineer, NLP (Junior &amp; New Grad)",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "News Break defines a new way for users to engage with local news. Since its founding in 2015, it has grown by leaps and bounds. We’re the nation's largest intelligent local news platform!  News Break is ranked the #1 news app on both iOS and Android in 2020 with 45M+ monthly active users.  We're a series-C startup headquartered at Mountain View, California.  For more information, visit www.newsbreak.com/about We provide a highly competitive compensation package including base salary, bonuses, and stock options. Benefits include great Medical, Dental and Vision. A flat organization and family-like culture makes this a perfect environment to make huge impact on our product and grow your skill set.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T12:53:18.000Z"
+  },
+  "company": {
+    "name": "NewsBreak",
+    "link": "https://www.linkedin.com/company/particle-media-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

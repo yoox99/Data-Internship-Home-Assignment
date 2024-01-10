@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "If you’re ready to innovate and lead in the Digital space, join Nike’s Global Technology organization. We bring together technology and process expertise to deliver one-stop solutions that enable Nike, Inc.'s digital products and services. We are responsible for creating, developing and deploying seamless experiences to its Digital consumers. Working with our organization will be rewarding, ambitious, and most definitely not be just another job.  Nike is seeking a Senior Site Reliability Engineer to help drive our Core Site Reliability strategic programs and initiatives. As a Senior Site Reliability Engineer, you will be responsible for continuously driving best practices and consumer experience improvements. You will focus on enforcing core operations principles through the development and continuous delivery processes.  This role will be accountable for helping with our AWS cloud infrastructure, supporting observability instrumentation and uncovering any gaps for Nike production systems, and put in place mitigations to lower the effects of any failures on consumers. As an SRE, you will establish global observability solutions for In-Season experiences for our demand and supply management teams. It will also include building tooling to improve our automatic failure detection and devops focus.  SREs perform deep problem analysis, detect infrastructure problems versus code defects, define and report on scale metrics and incidents and provide long term solutions for reporting.  What you will work on  We are looking for talented and passionate full stack developers with knowledge of the datacenter infrastructure and cloud platforms. What you bring",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:40:19.000Z"
+  },
+  "company": {
+    "name": "Nike",
+    "link": "https://www.linkedin.com/company/nike"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

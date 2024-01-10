@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - NY",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Position Overview  We are looking to hire a results-oriented data scientist with experience in data analysis and predictive modeling. Experience in advertising or real time bidding is a plus. The job will involve research, analysis and coding to improve our current technology and develop innovative new solutions to the problems posed by real time bidding. This is an exciting opportunity for a skilled professional to apply big data techniques to work within a very fast-growing industry.  Responsibilities Include We offer full health coverage, generous PTO, great office culture.  We are an Equal Opportunity Employer and seek to foster community, inclusion and diversity within the organization. We encourage all qualified candidates, regardless of racial, religious, sexual or gender identity, to apply.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T03:41:32.000Z"
+  },
+  "company": {
+    "name": "AdTheorent",
+    "link": "https://www.linkedin.com/company/adtheorent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

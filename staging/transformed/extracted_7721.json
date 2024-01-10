@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "At Slalom, personal connection meets global scale. Our vision is to enable a world in which everyone loves their work and life. We help organizations of all kinds redefine what’s possible, give shape to the future—and get there. Come join our Team in San Francisco!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T09:48:35.000Z"
+  },
+  "company": {
+    "name": "Slalom",
+    "link": "https://www.linkedin.com/company/slalom-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

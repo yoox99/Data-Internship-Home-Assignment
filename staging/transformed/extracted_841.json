@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist Analyst",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Join our fast-growing team as a customer-oriented Data Science Analyst and work within a fantastic team. You'll work cross-functionally with other Unsupervised teams and directly with our customers, shepherding them on their journey with Unsupervised.  At Unsupervised, you'll be at the cutting edge of AI and data analysis. You'll work with some of the world's largest and most diverse companies, helping teams learn a new skill to make better data-driven decisions. You'll work closely with experts from multiple fields, and you'll join a group of inquisitive, collaborative, and caring individuals that genuinely give a darn about helping our customers get real value from their data.  The Data Science Analyst is a great role for a proactive and detail-oriented individual. As a Data Science Analyst, you will work with our account team to plan and configure, multi-stage pipeline driven by the Unsupervised data ingestion and AI engines. You will also work directly with our customers to explain the data and insights discovered through the Unsupervised platform. You will be integral to building trust in Unsupervised's ability to unleash the power of their data and empower their teams using data-driven decision-making, ultimately driving incredible ROI. $80k - $105k plus generous equity",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T05:13:06.000Z"
+  },
+  "company": {
+    "name": "Unsupervised",
+    "link": "https://www.linkedin.com/company/unsupervisedai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83700,
+    "max_value": 182100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boulder",
+    "region": "CO",
+    "postal_code": "80310",
+    "street_address": null,
+    "latitude": 40.016872,
+    "longitude": -105.279625
+  }
+}

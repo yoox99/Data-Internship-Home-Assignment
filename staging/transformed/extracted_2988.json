@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Los Angeles, CA  Greenlots is unlocking the possibilities of the new electric mobility future by delivering innovative software and services that empowers utilities, cities, communities, and automakers to deploy EV charging infrastructure at scale. Our technology is connecting people to their destinations in a safer, cleaner, and smarter way. Headquartered in Los Angeles, CA, the company’s global footprint spans across three continents with deployments in 13 different countries.  At Greenlots, we are looking for candidates who want to be a part of something bigger than themselves – authentic, purpose-driven individuals who believe having a career means making a meaningful impact on our business and the world. We believe in creating and doing ‘the next right thing’, especially when stepping into new spaces and territories previously unexplored. We are looking for the bold and the courageous, the innovative, and the accountable; those who can quickly translate ideas into meaningful action; and those who have a passion for learning and growing along with us!  Greenlots is looking for a to join our team. We would like to find a highly engaged engineer who is obsessed with monitoring, observability, code quality and self-healing infrastructures. You should be able to identify, troubleshoot, and resolve issues quickly and develop strategies to ensure our environment never experiences the same problem twice. Responsibilities include capacity planning, performance tuning, and automation/tools development. Expect to spend 50% time focusing software engineering activities and should be eager to approach all code changes using a test-driven development model. As a Site Reliability Engineer, you will have great influence on the way we design and deploy our services and infrastructure across the enterprise. This position will be part of a great team that is developing exciting products and solutions and playing a key part in driving forward the electrification of transportation .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Greenlots",
+    "link": "https://www.linkedin.com/company/greenlots"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 180,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

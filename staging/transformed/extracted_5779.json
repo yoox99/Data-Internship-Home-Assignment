@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Shift Supervisor",
+    "industry": "Construction,Retail,Hospital &amp; Health Care",
+    "description": "The primary purpose of this position is to provide direction and assistance in the completion of daily merchandise and operating tasks and to perform such other duties as assigned by the Store Manager and/or Assistant Store Manager. The incumbent is required to perform all tasks in a safe manner consistent with corporate policies and applicable laws. This position does not involve, hiring, firing, or disciplining associates or recommending any such action. Situations surrounding these issues should be brought to the attention of the Store Manager and/or Assistant Store Manager. The associate is responsible for the functions below, in addition to other duties as assigned:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:27:43.000Z"
+  },
+  "company": {
+    "name": "RITE AID",
+    "link": "https://www.linkedin.com/company/riteaid"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salem",
+    "region": "OR",
+    "postal_code": "97311",
+    "street_address": null,
+    "latitude": 44.939014,
+    "longitude": -123.03931
+  }
+}

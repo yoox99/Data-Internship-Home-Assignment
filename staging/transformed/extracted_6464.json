@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "IT Solutions Architect - Database Management",
+    "industry": "Automotive,Banking,Financial Services",
+    "description": "Mercedes-Benz Financial Services is a leading captive automotive financial services provider within Daimler Financial Services, which operates in 40 countries as the global financial services arm of Daimler AG. In the U.S., the corporate headquarters for the Americas Region, we operate under the brands of Mercedes-Benz Financial Services and Daimler Truck Financial. In the Americas Region we also have business operations in Canada, Mexico, Argentina and Brazil.  To achieve our goal of being the first-choice provider of vehicle financial products and services that support our brands, dealers and customers, we are looking for talented, diverse and inspired people with the skills, experience and innovative spirit to provide a first-class experience at every turn. We are committed to providing a great workplace environment that fosters a culture of openness, support and camaraderie. Our employee programs and benefits are reflective of our values and are designed to promote growth, balance and wellness in many aspects of your career and life. To see other programs and benefits we offer, visit our website at www.mbfs.com. The responsibility of the Data Architect is to visualize and design an organization's enterprise data management framework. while leveraging the standard services offered by the TAF Partners. With a specialization in Database Management and Business Intelligence, the Data Architect should be capable of building customized data solutions to store and retrieve company information for business partners. The Data Architect orchestrates the use/ consumption of the IT services and engages Technology Domain & Innovation architects on demand for non-standard service requests and projects. Analyze structural requirements for new software and applications and develop framework to migrate data from legacy systems to new solutions (10%) Applicants must be legally authorized to work in the U.S. at the time of application. Relocation assistance will not be provided for this position.  This position requires a minimum of 5+ years of overall work experience. Preferred experience includes: High School Diploma/(GED) is required, Bachelor's Degree is preferred. Recommended majors include: ○ IBM Certified Solution Expert MQ (IBM SOL)  ○ IBM Certified Database Administrator – DB2,  ○ Microsoft SQL Server database certifications  ○ Oracle Certified Professional  ○ MySQL Database Admin ○ Ability to Collect data and establish facts and identify trends and variances ○ e-Technologies/Web ○ Database  ○ e-Technologies/Web  ○ Middleware  ○ Networking  ○ Operation system  ○ Server administration  ○ Programming ○ Microsoft Office ○ Team member ○ Deep Know-how on DB2, Oracle & SQL  ○ Good know how of supporting services (e.g Nagios, Cockpit, ServiceNow, SALT etc.)  ○ Expert know how on PostgreSQL, MongoDB etc. ○ Excellent problem-solving skills  ○ Excellent communication and presentation skills  ○ Technical leadership skills If you were not re-directed successfully after clicking the “Apply for this job” button, please click the following link to search and apply for the role on the local career portal: https://daimler.taleo.net/careersection/ex/jobsearch.ftl  Mercedes-Benz Financial Services offers competitive salary commensurate with experience and a full suite of benefits including 401(K) with match, generous vacation and personal time, performance-based bonuses, a Mercedes-Benz car program and more.  EEO/Minorities/Females/Disabled/Vets Mercedes-Benz Financial Services USA LLC",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T23:37:52.000Z"
+  },
+  "company": {
+    "name": "Mercedes-Benz Financial Services USA LLC",
+    "link": "https://www.linkedin.com/company/mercedes-benz-financial-services-usa-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99100,
+    "max_value": 140000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Farmington Hills",
+    "region": "MI",
+    "postal_code": "48321",
+    "street_address": null,
+    "latitude": 42.484673,
+    "longitude": -83.35918
+  }
+}

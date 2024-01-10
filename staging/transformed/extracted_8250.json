@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer II",
+    "industry": "Information Technology and Services,Computer Hardware,Computer &amp; Network Security",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-17T18:45:28.000Z"
+  },
+  "company": {
+    "name": "Zonar Systems",
+    "link": "https://www.linkedin.com/company/zonar-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98104",
+    "street_address": null,
+    "latitude": 47.601467,
+    "longitude": -122.32967
+  }
+}

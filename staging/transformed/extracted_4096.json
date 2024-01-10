@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior / Lead / Principal Front-End Software Engineer (Experienced)",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Products and Technology Salesforce has immediate opportunities for extremely talented software developers who want their lines of code to have significant and measurable positive impact. You will be working with a group of world-class engineers to build the breakthrough features our customers will love, adopt and use while keeping our trusted platform stable and scalable. The software engineer role at Salesforce encompasses architecture, design, implementation, and testing to ensure we build products right and release them with high quality.  From Sales Cloud to Marketing Cloud from IoT to Analytics to Heroku, …. We have many opportunities available across various applications and platforms. Submit your resume here and we will reach out to you with opportunities that fit your background and interests. If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form. At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits. and are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. and do not accept unsolicited headhunter and agency resumes. and will not pay any third-party agency or company that does not have a signed agreement with or .  Salesforce welcomes all.  Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:26:48.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

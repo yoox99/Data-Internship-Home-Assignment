@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer III - Marketplace",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ACV’s mission is to build and enable the most trusted and efficient digital marketplaces for buying and selling used vehicles with transparency and comprehensive data that was previously unimaginable. We are powered by a combination of the world’s best people and the industry’s best technology. At ACV, we are driven by an entrepreneurial spirit and rewarded with a work environment that enables each Teammate to impact the company from day one. ACV’s network of brands includes ACV Auctions, ACV Transportation and ACV Capital within its Marketplace Products as well as True360 and Data Services. As a Software Engineer III at ACV Auctions you will develop, write, and modify code. You will work alongside software and production engineers to build and ship new features that optimize operational efficiency and drive growth.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:07:24.000Z"
+  },
+  "company": {
+    "name": "ACV Auctions",
+    "link": "https://www.linkedin.com/company/acv-auctions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Buffalo",
+    "region": "NY",
+    "postal_code": "14218",
+    "street_address": null,
+    "latitude": 42.88769,
+    "longitude": -78.87937
+  }
+}

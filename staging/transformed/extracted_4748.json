@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Mathematician/Data Scientist",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-19T17:07:07.000Z"
+  },
+  "company": {
+    "name": "Apex Systems",
+    "link": "https://www.linkedin.com/company/apex-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

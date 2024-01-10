@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "SimpliSafe's Internal Monitoring team is on a mission to level up the alarm monitoring and dispatch experience, both for the call center dispatchers who handle alarms, and for the customers who need information delivered to their fingertips so they can understand what's happening inside and outside their homes when alarms do happen. We're looking for motivated early-career Software Engineers to design, develop, maintain and own software solutions. We're a full-stack team, with problems ranging from basic data capture to at-scale distributed systems; because we deal with life safety, reliability, simplicity, and performance are our key pillars. This is an entry-level position; new graduates and non-traditional backgrounds are welcome! You're a good fit if... Nice-to-Haves",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-03T17:09:19.000Z"
+  },
+  "company": {
+    "name": "SimpliSafe",
+    "link": "https://www.linkedin.com/company/simplisafe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

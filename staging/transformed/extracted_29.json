@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Frontend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Security operations teams are underserved. Impactful outcomes are few and far between and cost more than expected. Hundreds of security vendors build solutions for 1% of companies who have 10x more of everything, yet still get breached. The security gap grows wider daily; security operations teams deserve better.  At Rapid7, we can close the gap by serving customers intentionally. We choose to believe: If you are looking for an opportunity to drive tremendous impact in a growing market through an emerging Security, Orchestration, Automation and Response product called , help our customers achieve success in increasing their operational efficiency through automation, and grow an integral part of Rapid7's security operations platform and overall expansion strategy, this could be the role for you!  You'll be involved in building, maintaining, and releasing our various backend services, as well as helping to shape and define our standards and best practices as they evolve within our team, and in our company. You'll work collaboratively with others to enable our customers to automate their security practices and get more done with less time. Our product has an emphasis on a high quality user experience, as our visual builder, configuration components, and overall experience are tailored to taking complex processes and distilling them into simple and straightforward workflows for users.  You'll also be heavily involved in the design and planning work of upcoming features, as we expect our engineers to be first class stakeholders in all parts of the development process. You'll have the benefit of working with an embedded UX team and the Product Owner, who work deeply with our product to understand the customers needs and craft features that enable them to orchestrate their security processes simply and easily. Additionally, you'll have the chance to mentor and be mentored by a talented group of engineers, both on your team and across the company.  Successful candidates aren't just good at writing code, but have a demonstrated focus on solving customer problems. You should love being challenged by your work, with a desire to ship and iterate on features, as well as an emphasis on collaboration, communication, and growth. Our entire team (Dev, UX, Product, Support, Sales) works together closely to ensure the success of our product, and we're looking for someone who revels in exposure to the entire process of how software is built, shipped, sold, and supported. Additionally, being willing to dive into the shallow end of our backend API services will be a major benefit, even when your day to day is focused on our React components.  We value attitude and willingness to learn over ego and experience, and want someone who is looking to grow with the team as we continue to grow our product.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:39:52.000Z"
+  },
+  "company": {
+    "name": "Rapid7",
+    "link": "https://www.linkedin.com/company/rapid7"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

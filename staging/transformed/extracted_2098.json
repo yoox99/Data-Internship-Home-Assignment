@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analyst",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:15:01.000Z"
+  },
+  "company": {
+    "name": "WorldLink US",
+    "link": "https://www.linkedin.com/company/worldlink-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Texas",
+    "region": "United States",
+    "postal_code": "76522",
+    "street_address": null,
+    "latitude": 31.463793,
+    "longitude": -99.333275
+  }
+}

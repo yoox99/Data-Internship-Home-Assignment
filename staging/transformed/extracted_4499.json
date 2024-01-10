@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "At HubSpot, we use data to power our decisions, systems and product solutions. We’re seeking an experienced data scientist to deliver that insight. Our ideal team member will have the mathematical and statistical expertise you’d expect, but a natural curiosity and creative mind that’s not so easy to find. You will join a team of data specialists, but will “slice and dice” data using your own methods, creating new visions for the future. HubSpot (NYSE: HUBS) is a leading customer relationship management (CRM) platform that provides software and support to help businesses grow better. We build marketing, sales, service, and website management products that start free and scale to meet our customers’ needs at any stage of growth. We’re also building a company culture that empowers people to do their best work. If that sounds like something you’d like to be part of, we’d love to hear from you.  You can find out more about our company culture in the HubSpot Culture Code, which has more than 5M views, and learn about our commitment to creating a diverse and inclusive workplace, too. Thanks to the work of every employee globally, HubSpot was named the #4 Best Place to Work on Glassdoor in 2021, and has been recognized for award-winning culture by Great Place to Work, Comparably, Fortune, Entrepreneur, Inc., and more.  Headquartered in Cambridge, Massachusetts, HubSpot was founded in 2006. Today, thousands of employees work across the globe in HubSpot offices and remotely. Visit our careers website to learn more about culture and opportunities at HubSpot.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T21:19:01.000Z"
+  },
+  "company": {
+    "name": "HubSpot",
+    "link": "https://www.linkedin.com/company/hubspot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer Senior/Advanced",
+    "industry": "Banking,Capital Markets,Financial Services",
+    "description": "Federal Reserve Bank of Kansas City The Application Delivery Services department of the Federal Reserve Bank of Kansas City  is seeking a Software Engineer with skills in AWS Cloud, Postgres SQL, and Java development. The Federal Reserve plays a major role in operating the nation’s payment system. This position will be responsible, as a contributor, in the analysis, design, development, and implementation of enterprise solutions in support of the Treasury’s debt recovery initiatives. This individual will be responsible for working with the development team and architects to implement application and infrastructure enhancements supporting these Treasury initiatives. Follow us on LinkedIn, Instagram,Twitter, and our YouTube channel - Kansas City Fed. Full time Regular Yes Information Technology First (United States of America) Privacy Notice",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:45:13.000Z"
+  },
+  "company": {
+    "name": "Federal Reserve Bank of Kansas City",
+    "link": "https://www.linkedin.com/company/kansascityfed"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66800,
+    "max_value": 91000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kansas City",
+    "region": "MO",
+    "postal_code": "64113",
+    "street_address": null,
+    "latitude": 39.099792,
+    "longitude": -94.57856
+  }
+}

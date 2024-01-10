@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (ITEC)",
+    "industry": "Information Technology and Services,Design,Hospital &amp; Health Care",
+    "description": "Location: Aurora, CO.  Required Clearance: Secret Due to our US federal government contract, candidates for this position are required to be a US Citizen and will be subject to a background investigation. ITEC is looking for talented Software Engineers to join our team. Since 1999, ITEC has maintained a strong and reputable presence in support of DoD and Intelligence community mission-critical programs.  We are proud of our amazing Company culture. At ITEC, we take excellent care of our employees with competitive salaries, an employee care program and a great benefits package including Medical, Dental, Vision, Paid Time Off, and 401k.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-08T03:10:37.000Z"
+  },
+  "company": {
+    "name": "ettain group",
+    "link": "https://www.linkedin.com/company/ettain-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Aurora",
+    "region": "CO",
+    "postal_code": "80018",
+    "street_address": null,
+    "latitude": 39.712933,
+    "longitude": -104.81936
+  }
+}

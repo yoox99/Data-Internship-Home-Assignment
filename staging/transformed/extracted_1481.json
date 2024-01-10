@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Production Engineer",
+    "industry": "Consumer Electronics",
+    "description": "Apple Enterprise Platform Services and Operations team is looking for hardworking and self-motivated candidate to fill the Production Software Engineer role. Candidate should possess 4+ years of IT experience with 2+ years demonstrated ability in supporting Machine Learning based platform. The candidate will be responsible for infrastructure maintenance, deployments and monitoring of the system. Role also requires performing data analysis and some programming. Strong programming skills in Java, Python, Scala or similar language.  Good working experience with Spark  Solid understanding of data mining algorithms and anomaly detection techniques  Good experience in data analysis   Familiarity with Cassandra , Kafka is desired  Any experience with DataBricks Spark platform is plus  Experience with Splunk Query languages is a plus  Experience in supporting and deploying applications in cloud is desired  Must have good oral/written communication and interpersonal and people skill Responsible for reviewing hardware, software infrastructure and application functionality for optimization and identifying performance bottlenecks.  Responsible for the full system lifecycle including configuration and code deployment in user acceptance test and production environments.  Responsible for developing and maintaining supervising infrastructure and application services and driving incident management.  Will also be encouraged to help in data analysis and develop ML models BS degree in computer science or equivalent field with a minimum of 4+ years IT experience    Role Number: 200244087",
+    "employment_type": "PART_TIME",
+    "date_posted": "2021-07-29T15:38:21.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Accounting,Information Technology and Services,Management Consulting",
+    "description": "Data Scientist  Do you want to build your brand by working for a leading consulting firm that drives eminence in the marketplace? Are you interested in leveraging your analytical skills and strategic ideas to improve mission execution? If so, Deloitte could be the place for you! Our Government Public Services (GPS) Strategy and Analytics team brings deep industry expertise, rigorous analytical capabilities and a pragmatic mindset to help solve our client's most complex business problems. Join our team and play a key role in helping to design our clients' roadmap to the future and help transform the GPS marketplace.  Work you'll do  The Data Scientist will join a team responsible for developing advanced analytics products; applying Machine Learning, Artificial Intelligence and statistical programming tools to enterprise data to advance and enable key mission outcomes. In this role, they will support all phases of analytic work product development, from the identification of key business questions to ETL, from performing analyses to delivery of insights to decision-makers, with particular attention to the interplay between data and the business processes that produce and consume it.  The team  Analytics & Cognitive  In this age of disruption, organizations need to navigate the future with confidence, embracing decision making with clear, data-driven choices that deliver enterprise value in a dynamic business environment.  The Analytics & Cognitive team leverages the power of data, analytics, robotics, science and cognitive technologies to uncover hidden relationships from vast troves of data, generate insights, and inform decision-making. Together with the Strategy practice, our Strategy & Analytics portfolio helps clients transform their business by architecting organizational intelligence programs and differentiated strategies to win in their chosen markets.  Analytics & Cognitive will work with our clients to: Required:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T18:08:45.000Z"
+  },
+  "company": {
+    "name": "Deloitte",
+    "link": "https://www.linkedin.com/company/deloitte"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.897705,
+    "longitude": -77.07872
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Operations Research",
+    "industry": "Environmental Services,Information Technology and Services,Staffing and Recruiting",
+    "description": "Mackin is looking for an Operations Research Scientist to work within a larger Analytics & Technology-focused group to deliver innovative insights and solutions for our partners. The ideal candidate has a scientific mindset; has expertise in operations research methods and models; applies a pragmatic approach to building solutions; and enjoys collaborating within a dynamic, global team.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-18T15:02:50.000Z"
+  },
+  "company": {
+    "name": "Mackin Talent",
+    "link": "https://www.linkedin.com/company/mackintalent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "GNSS /Positioning  Sr Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "We are looking for a full time C/C++ Senior Software Engineer in our Brea, CA office who is interested in focusing on GNSS navigation, sensor fusion with inertial/camera/radar data and digitized map data to produce cutting edge positioning solutions to serve our OEM customers.     In addition to serving as a lead software engineer for complex software development in C and C++, this Senior Software Engineer will design and/or review architected modules and software system supporting new technology or improving capability/performance of existing functionality. Senior software engineers in our positioning algorithm team will also:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:15:48.000Z"
+  },
+  "company": {
+    "name": "Garmin",
+    "link": "https://www.linkedin.com/company/garmin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Brea",
+    "region": "CA",
+    "postal_code": "92621",
+    "street_address": null,
+    "latitude": 33.917763,
+    "longitude": -117.89832
+  }
+}

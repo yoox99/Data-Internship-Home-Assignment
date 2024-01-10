@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T07:03:24.000Z"
+  },
+  "company": {
+    "name": "NVIDIA",
+    "link": "https://www.linkedin.com/company/nvidia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

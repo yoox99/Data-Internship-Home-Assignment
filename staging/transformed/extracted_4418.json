@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Analytics Specialist",
+    "industry": "Airlines/Aviation",
+    "description": "The Operational Analytics team provides strategic insight through first understanding business processes and second leveraging data and analytics to drive continuous improvement efforts. The Analytics Specialist will be asked to work closely with leaders to develop creative solutions to current business challenges. We are looking for data curious individuals that seek to understand process and can connect with our business partners to leverage data and drive improvement.  Data has transformed the way Delta operates. The Operational Analytics team is the core of the data strategy, focused on designing the future data environment. The team’s mission is to democratize data building and maintain a data structure that facilitates analysis efforts, KPI creation, Monthly Performance Reporting (MPR), report automation, and front-line analysis tools. You’ll be empowered to constantly innovate data architecture to enable more complex analytic techniques like machine learning. For example, you may be asked to create executive reporting and interactive dashboard tools that monitor Delta’s fuel cost, taking the project from source data curation to delivering recommendations to front-line leaders. The Analytics Specialist will Bachelor’s Degree or 5 plus years of relevant experience",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:08:58.000Z"
+  },
+  "company": {
+    "name": "Delta Air Lines",
+    "link": "https://www.linkedin.com/company/delta-air-lines"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68100,
+    "max_value": 137000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

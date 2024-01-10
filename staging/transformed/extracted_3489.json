@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T16:25:43.000Z"
+  },
+  "company": {
+    "name": "KinoTek",
+    "link": "https://www.linkedin.com/company/kinoteksoftware"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "ME",
+    "postal_code": "04104",
+    "street_address": null,
+    "latitude": 43.659218,
+    "longitude": -70.256516
+  }
+}

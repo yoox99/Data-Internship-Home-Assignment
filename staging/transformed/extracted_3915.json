@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Be part of an Innovation team, in charge of exploring new AI/Machine Learning models for a variety of use cases that leverage data at SWIFT. You will be working within a team with a broad range of technical, business and analytical skills with initial focus on designing, developing and launching new AI/ML products. You will get the opportunity to learn from professionals, with extensive experience in AI and data projects at global banks and financial institutions.  In this role:  You will Identify business trends and anomalies through big data analysis. Interpret results from multiple sources using a variety of techniques, ranging from simple data aggregation via statistical analysis to complex data mining independently. Design, develop and implement the most optimal business solutions for the organization. Define, develop and refine machine learning models that enable business solutions. Experience with statistical analysis, research science, machine learning and deep learning techniques, data modelling, regression modelling, financial analysis, and demand modelling. We need an expert with 2 to 5 years experience in AI/ML, Data Science and systems development.  Must have previous experience in data science, machine learning and statistics and can: Requires a master's degree or PhD. in Computer Science, Statistical Sciences or related fiel We put you in control of career  We give you a competitive package  We help you perform at your best  We help you make a difference  We give you the freedom to be yourself",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T01:21:42.000Z"
+  },
+  "company": {
+    "name": "SWIFT",
+    "link": "https://be.linkedin.com/company/swift"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77000,
+    "max_value": 115000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Manassas",
+    "region": "VA",
+    "postal_code": "20108",
+    "street_address": null,
+    "latitude": 38.75077,
+    "longitude": -77.47509
+  }
+}

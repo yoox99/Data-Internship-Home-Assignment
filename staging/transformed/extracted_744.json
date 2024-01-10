@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer- Deep Learning",
+    "industry": "Real Estate",
+    "description": "Build the solution that transforms the real estate industry!  Want to infuse a $25B sector of the insurance and real estate industry with predictive analytics and a tech-forward customer experience? Yearning for a startup culture within a profitable nationwide company? Join Doma and send an entirely new type of real estate model into the wild. Doma and its family of brands - States Title, North American Title Company (NATC) and North American Title Insurance Company (NATIC) - offer solutions for lenders, real estate professionals, title agents, and homeowners that make closings vastly more simple and efficient, reducing cost and increasing customer satisfaction.  Our Values The Instant Comms team at States Title is building revolutionary workflow automation using Natural Language Understanding. We are applying state of the art NLP techniques in an applied setting, and you will have an opportunity to experiment, innovate, and unlock novel solutions within our industry. You will be empowered to influence the direction of NLP solutions at the company, and have your work published and patented.  We're proud of the sophisticated data ingestion process we have built, as well as the multi-model ecosystem that is already live. We have high expectations of communication, accountability, and mathematical rigor, and are looking for those who would be inspired and stimulated in such an environment. We want the work you do here to be the best work of your life.  We believe the most valuable investment we can make - and the greatest boost we can give to your career - is to build an outstanding team of colleagues who are passionate about our mission.  We currently offer the following benefits and will continually evolve them with the goal of efficiently attracting, retaining, and leveraging the very highest quality talent. We believe in Equal Opportunity  We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-19T05:31:15.000Z"
+  },
+  "company": {
+    "name": "Doma (fka States Title)",
+    "link": "https://www.linkedin.com/company/domahq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99400,
+    "max_value": 217000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Data Engineer (AWS, Azure, GCP)",
+    "industry": "Accounting,Information Technology and Services,Management Consulting",
+    "description": "Are you an experienced, passionate pioneer in technology - a solutions builder, a roll-up-your-sleeves technologist who wants a daily collaborative environment, think-tank feel and share new ideas with your colleagues - without the extensive demands of travel? If so, consider an opportunity with our US Delivery Center - we are breaking the mold of a typical Delivery Center.  Our US Delivery Centers have been growing since 2014 with significant, continued growth on the horizon. Interested? Read more about our opportunity below ... From our centers, we work with Deloitte consultants to design, develop and build solutions to help clients reimagine, reshape and rewire the competitive fabric of entire industries. Our centers house a multitude of specialists, ranging from systems designers, architects and integrators, to creative digital experts, to cyber risk and human capital professionals. All work together on diverse projects from advanced preconfigured solutions and methodologies, to brand-building and campaign management.  We are a unique blend of skills and experiences, yet we underline the value of each individual, providing customized career paths, fostering innovation and knowledge development with a focus on quality. The US Delivery Center supports a collaborative team culture where we work and live close to home with limited travel.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:00:47.000Z"
+  },
+  "company": {
+    "name": "Deloitte",
+    "link": "https://www.linkedin.com/company/deloitte"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tampa",
+    "region": "FL",
+    "postal_code": "33675",
+    "street_address": null,
+    "latitude": 27.947424,
+    "longitude": -82.45878
+  }
+}

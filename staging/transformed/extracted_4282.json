@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Are you excited about powering Amazon’s physical stores’ expansion through the application of Machine Learning and Big Data technologies? Do you thrive in a fast-moving, innovative environment that values data-driven decision making, scalable solutions, and sound scientific practices? We are looking for experienced scientists to build the next level of intelligence that will help Amazon physical stores grow and succeed.  Our team is responsible for building the core intelligence, insights, and algorithms that support the real estate acquisition strategies for Amazon physical stores. We are tackling cutting-edge, complex problems — such as predicting the optimal location for new Amazon stores — by bringing together numerous data assets from disparate sources inside and outside of Amazon, and using best-in-class modeling solutions to extract the most information out of them.  You will have a proven track-record of delivering solutions using advanced science approaches. You will be comfortable using a variety of tools and data sources to answer high-impact business questions. You will transform one-off models into automated systems. You will be able to break down complex information and insights into clear and concise language and be comfortable presenting your findings to audiences with a broad range of backgrounds. Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us. - Amazon.com Services LLC Job ID: A1646627",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:00:40.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76100,
+    "max_value": 141000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

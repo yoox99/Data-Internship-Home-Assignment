@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist II, Machine Learning",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Coursera was launched in 2012 by two Stanford Computer Science professors, Andrew Ng and Daphne Koller, with a mission to provide universal access to world-class learning. It is now one of the largest online learning platforms in the world, with 87 million registered learners as of June 30, 2021. Coursera partners with over 200 leading university and industry partners to offer a broad catalog of content and credentials, including Guided Projects, courses, Specializations, certificates, and bachelor’s and master’s degrees. Institutions around the world use Coursera to upskill and reskill their employees, citizens, and students in many high-demand fields, including data science, technology, and business. Coursera became a B Corp in February 2021.  At Coursera, our Data Science team is helping to build the future of education through data-powered products and data-driven decisions. In Machine Learning, we define, develop, and launch the models and algorithms that power content discovery, personalized learning, and machine-assisted teaching and grading. In Decision Science, we drive product and business strategy through measurement, experimentation, and causal inference. We believe the next generation of teaching and learning should be personalized, accessible, and efficient. With our scale, data, technology, and talent, Coursera and its Data Science team are positioned to make that vision a reality.  We are looking for a creative and collaborative Machine Learning Data Scientist with strong experience in cloud services. In this role, you will own Coursera’s content forecasting engine, power our ability to identify content and skills gaps, and help scale our ML systems. Our ideal candidate possesses a strong statistical and computational skillset, is collaborative and impact-driven, and shares our passion for education. Coursera is an Equal Employment Opportunity Employer and considers all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, age, marital status, national origin, protected veteran status, disability, or any other legally protected class.  If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, please contact us at accommodations@coursera.org.  Please review our CCPA Applicant Notice here.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T21:32:50.000Z"
+  },
+  "company": {
+    "name": "Coursera",
+    "link": "https://www.linkedin.com/company/coursera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

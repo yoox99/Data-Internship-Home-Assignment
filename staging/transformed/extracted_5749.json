@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Product Manager Circuit Breakers Relays Surge Protectors",
+    "industry": "Electrical/Electronic Manufacturing",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:24:45.000Z"
+  },
+  "company": {
+    "name": "Weidmuller USA",
+    "link": "https://www.linkedin.com/company/weidmuller-north-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

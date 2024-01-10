@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Senior",
+    "industry": "Nonprofit Organization Management,Health, Wellness and Fitness,Hospital &amp; Health Care",
+    "description": "The Site Reliability Engineer is responsible for supporting the infrastructure, services and continuous integration (CI) and continuous delivery (CD) pipelines that host enterprise solutions at Intermountain Healthcare. This position will ensure our systems are healthy, automated and secure. The site reliability engineer will help to implement and maintain the CI/CD software stack , identify areas for improvement, bring a big picture vision, make recommendations and implement solutions. The ideal candidate for this role has a passion for automation, always keeps security in mind, and can implement best practices to further our mission. A background in computer science fundamentals allows the site reliability engineer to apply coding principles and best practices to Intermountain’s systems, infrastructure and automation initiatives, embodying an 'infrastructure as code' approach. This role needs to be proficient in current testing methodologies and believe in an effective and efficient engineering approach that reduces bugs and stress.  The Site Reliability Engineer is expected to collaborate with technical staff, management, and business operations staff throughout all phases of the software development life cycle in order to deliver durable solutions to complex businesses problems according to agreed upon timelines and budgets to support the mission, vision, and values of Intermountain Healthcare. The SRE role is a high-level contributor and is expected to be proficient in both software development skills and system administration. Responsible for implementing and/or integrating new products, processes, methodologies, frameworks, and technologies in the CI/CD space. Works independently with minimal oversight and direction. Provides guidance, input, and instruction to lower level technical professionals. Creates low-level solutions architecture diagrams, technical diagrams, and software development lifecycle diagrams that illustrate the CI/CD solutions. Communicates in an effective and professional way with customers both inside and outside of the company. Deploying new tools to support our systems and services in an automated fashion.  The site reliability engineer needs to excel in an environment that is constantly changing and are comfortable working on projects where the requirements are updated often. Has a natural aptitude to being tasked with a new technology that no one is competent with yet, and within a matter of days, become skilled enough to create deliverables and meet the needs of the business and the project. The senior level role typically works on complex projects. Deploys new tools to support systems and services in an automated fashion. Monitors site reliability and system health Creates and implements tools to manages the alerting of critical problems and errors Implements system wide reliability metrics to enable gathering data for troubleshooting of all kinds Understanding of server administration and monitoring tools: Develops code automation solutions (experience coding in at least one of the following languages): World Trade Center Salt Lake City Utah 40",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T05:37:15.000Z"
+  },
+  "company": {
+    "name": "Intermountain Healthcare",
+    "link": "https://www.linkedin.com/company/intermountain-healthcare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 101000,
+    "max_value": 180000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

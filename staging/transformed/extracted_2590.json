@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Amify is a two-time Inc 500 award winner Amazon-as-a-Service (AaaS) provider that offers brands an end-to-end Amazon solution that maximizes sales and profitability. Amify’s data-driven, full-service solution includes strategy, advertising, creative, management and operations for brand protection, content enhancement, sales acceleration and inventory management. We are uniquely positioned to help our brands achieve greater sales margins through the Amazon ecommerce platform. Amify has partnered with over 1,000 brands of all sizes to manage over $100 million in sales on Amazon.  We are seeking a Software Engineer who will contribute to the delivery of a wide variety of software projects across Amify’s entire technology stack, from operational systems such as Salesforce, to database and reporting platforms, and custom-built web apps and services.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T06:08:06.000Z"
+  },
+  "company": {
+    "name": "Amify",
+    "link": "https://www.linkedin.com/company/amify"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

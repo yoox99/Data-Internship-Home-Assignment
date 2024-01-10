@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Machinery,Staffing and Recruiting,Financial Services",
+    "description": "Edina, MN  As a member of the WEX Health Platform Services team, the Software Engineer role will work closely with the Application Security Architect and Enterprise Architecture to enhance the security of our systems by analyzing design and architecture of existing systems with an eye to security gaps, issues and potential improvements. Additionally, will perform ethical hacks, design reviews, security code reviews and analyze security assessments from external security firms. Confirmed issues will be reported as bugs, and issues will be researched and analyzed to propose solid fixes via documented solutions and/or example code. This individual will see resolution of issues through to completion.  In addition, this role will work with project teams during all phases of projects where application development may be required from a Platform Services perspective. One example is platform solutions that interface with third party Vendor SAAS solutions such as Sengrid and Twilio.  This role will also keep current with security industry best practices and use such knowledge to contribute to security policies, procedures, and development team training programs. Members of this team are expected to actively participate in all stages of the development lifecycle, and work closely with representatives from other teams such as QA, Product Development, Database, and IT. Posted Today Full time R4771  WEX is a leading financial technology service provider across a wide spectrum of sectors, including fleet, travel and healthcare. We hire people who share our passion for continuous innovation and client service that is unparalleled in the industry. Offering comprehensive and market competitive benefits, our offerings are designed to support your personal and professional well-being. If you’re looking for a growing career - come be part of WEX today. To learn more about our  employee benefits, please click here .  WEX is an equal opportunity employer committed to  diversity and inclusion in the workplace.  All qualified applicants will receive consideration for employment without regard to sex, race,  color, age, national origin, religion, sexual orientation, gender identity, protected veteran status,  disability or other protected status. WEX promotes a drug-free workplace.  Qualified individuals with a disability have the right to request a reasonable accommodation.  If you require a reasonable accommodation as a result of your disability at any point in the job  application process, please submit your request through our Reasonable Accommodation Request Form .  This form is for accommodation requests only and cannot be used to inquire about the status of applications.  Senior Full Stack .NET Developer | Edina, MN",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:00:24.000Z"
+  },
+  "company": {
+    "name": "WEX",
+    "link": "https://www.linkedin.com/company/wexinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77600,
+    "max_value": 169600,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Edina",
+    "region": "MN",
+    "postal_code": "55340",
+    "street_address": null,
+    "latitude": 44.91049,
+    "longitude": -93.34866
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Engineering Manager, Storage Infrastructure",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "\"The front page of the internet,” Reddit brings over 500 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities. Come for the cats, stay for the empathy.  The Infrastructure org has the mission of building and delivering the compute orchestration environment, storage and data systems, and essential platform services behind all of Reddit.  The Infrastructure organization is looking to hire an experienced Engineering Manager, to take on and grow a team around Reddit’s core storage and data systems. This is a high impact role where you will drive related technical strategy, operations, architecture, and execution for one of the largest sites in the world.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:12:53.000Z"
+  },
+  "company": {
+    "name": "Reddit, Inc.",
+    "link": "https://www.linkedin.com/company/reddit-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Modeling Scientist.",
+    "industry": "Hospital &amp; Health Care,Medical Devices,Pharmaceuticals",
+    "description": "Janssen Biotherapeutics (JBIO) in Janssen Research & Development, L.L.C., a division of Johnson & Johnson's Family of Companies is recruiting a to focus on applying data science to support our locations in Spring House and Malvern, PA.  At the Janssen Pharmaceutical Companies of Johnson & Johnson, we are working to create a world without disease. Transforming lives by finding new and better ways to prevent, intercept, treat and cure disease inspires us. We bring together the best minds and pursue the most promising science. We are Janssen. We collaborate with the world for the health of everyone in it. Learn more at www.janssen.com and follow us @JanssenGlobal. Janssen Research & Development, LLC is part of the Janssen Pharmaceutical Companies.  Janssen Research & Development, LLC discovers and develops creative large molecule solutions to address meaningful unmet medical needs in oncology, immunology, neuroscience, infectious diseases and vaccines, gene therapy and cardiovascular and metabolic diseases. You can be part of a premier organization, living our credo and helping patients every day.  The applicant should have a strong technical background engineering, biology or chemistry and experience in pharmaceutical research and development. The candidate should have a strong understanding of the theory and use of modeling to make decisions from model output and ability to train and support project teams. Skills include but not limited to use of predictive models AI/ML, MVA, Bayesian statistics, Digital Twins. They should have a proven record of working independently and leading focused teams to address sophisticated technical issues working at the intersection of drug development and data science. The candidate should have knowledge and experience working in a GxP environment. The individual should have strong oral and written communication skills and be proficient in making presentations to senior management and at company meetings. The candidate should also understand SDLC (Software Development Life Cycle) and use of agile software development tools. Johnson & Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability. United States-Pennsylvania-Spring House-Welsh & McKean Roads North America-United States-Pennsylvania-Malvern Janssen Research & Development, LLC (6084) R&D 2105917846W",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T17:33:14.000Z"
+  },
+  "company": {
+    "name": "Johnson &amp; Johnson",
+    "link": "https://www.linkedin.com/company/johnson-&amp;-johnson"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Malvern",
+    "region": "PA",
+    "postal_code": "19355",
+    "street_address": null,
+    "latitude": 40.033436,
+    "longitude": -75.51271
+  }
+}

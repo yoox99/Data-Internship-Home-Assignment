@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer (ABAP)",
+    "industry": "Construction,Automotive,Transportation/Trucking/Railroad",
+    "description": "2727 N Central Ave, Phoenix, Arizona 85004 United States of America Get your career moving with the world’s largest do-it-yourself moving and self-storage company. U-Haul is family. In many cases, that’s not just figurative talk. Generations of the same families often choose to build careers here, realizing that a personal investment in U-Haul means providing for each other. U-Haul was founded in 1945 by the Shoen family in Ridgefield, Washington. After a year of innovations, the company relocated its headquarters to Phoenix, Arizona. U-Haul helps families move from locations in all 50 states and 13 Canadian Provinces and Territories. Today, U-Haul has grown into more than trucks and trailers, we offer a variety of services such as U-box, Self-storage and moving help. When a family entrusts U-Haul and its services with their loved ones and possessions amid the stress and adventure of a move, we embrace that awesome responsibility. A caring culture means catering to our millions of annual customers. But it also means supporting our thousands of dedicated Team Members. If you are an experienced ABAP Programmer, U-Haul has a unique opportunity for you! We are looking for a SAP ABAP Developer who is interested in elevating your skills, turning ideas into solutions and thrive in a collaborative environment.  You’ll be part of our Core Enterprise System Group and your team is responsible for support of the Financial and Project Modules.  As you work closely with your team you can expect a challenging, fast paced environment, rewarding position with compensation and benefits to match. Get your career moving with a company who empowers team members to the healthiest version of themselves! We provide robust wellness benefits, events, and resources to help team members becomes the happiest and healthiest they can be.  Here are just some of the programs U-Haul has available: AMERCO and its family of companies, including U-Haul, have strived to create a culture of health and wellness. As of February 1, 2020, and consistent with applicable state law, no AMERCO or U-Haul company will hire individuals in states where it may lawfully decline to hire individuals who use nicotine products. By continuing with this application, you are indicating that, if hired, you consent to nicotine screening in the future. This policy will not apply to team members hired before February 1, 2020.  U-Haul is an equal opportunity employer. All applicants for employment will be considered without regard to race, color, religion, sex, national origin, physical or mental disability, veteran status, or any other basis protected by applicable federal, provincial, state or local law. Individual accommodations are available on requests for applicants taking part in all aspects of the selection process. Information obtained during this process will only be shared on a need to know basis.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:30:07.000Z"
+  },
+  "company": {
+    "name": "U-Haul International, Inc",
+    "link": "https://www.linkedin.com/company/u-haul-international-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 54500,
+    "max_value": 76100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (NLP) ",
+    "industry": "",
+    "description": "Job Title : DATA SCIENTIST Location: Indianapolis IN – Indiana Implementation partner – TCS Experience: 7+  Job Description:  Data scientist with warehouse experience  Aws  cloud 5-6 year experience",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T17:08:19.000Z"
+  },
+  "company": {
+    "name": "Sierra Business Solution",
+    "link": "https://www.linkedin.com/company/sierrabusiness"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postal_code": "46203",
+    "street_address": null,
+    "latitude": 39.76845,
+    "longitude": -86.15621
+  }
+}

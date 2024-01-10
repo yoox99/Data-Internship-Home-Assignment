@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Restaurants,Facilities Services,Hospitality",
+    "description": "Array is revolutionizing how businesses leverage and enhance consumer data. Our platform (APIs, components, and rules engine) enables innovative companies and developers to seamlessly integrate credit and identity data into their apps, websites or workflows. Founded by serial entrepreneurs (with several exits), weve been nearly doubling revenue monthly. Were looking for passionate and creative teammates to help us scale and supercharge the company. If youre looking for autonomy, impact, and cutting-edge FinTech, wed love to hear from you. Though fully remote, our team is the foundation of our success. We strive for diverse backgrounds, opinions, and approaches. We encourage respectful dissent, digging for the truth, so that we can deliver the best product for our clients and users. Continuous improvement, experimentation, and a clear mission stretch us individually and together.  We are seeking experienced, results-driven, and passionate engineers to join our infrastructure project team. Our ideal candidate is a self-starter and has excellent communication skills. Our collaborative environment relies heavily on innovation, technical savvy, and problem-solving skills. This is a full-time remote position within the US. As our newest SRE Engineer, youll be a major contributor to the companys success. Youll work with teams across the organization to build and maintain monitor-able, performant, reliable and highly-scalable software systems. Your technical contributions will help protect dozens of brands, facilitate continuous delivery, support our SLA for high-traffic websites and mobile applications in the credit score and reporting industry. Great products and great ideas don't happen by accident. Our goal is to grow through the recruitment of truly exceptional people, and we appreciate your application. Teamwork is the foundation of our success, and we look forward to getting to know more about you! Thank you again for considering Arrayhave an innovative day!  Best,  The Array Recruiting Team",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T00:00:00.000Z"
+  },
+  "company": {
+    "name": "ARRAY",
+    "link": "https://www.linkedin.com/company/arrayinfotech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cleveland",
+    "region": "OH",
+    "postal_code": "44144",
+    "street_address": null,
+    "latitude": 41.505547,
+    "longitude": -81.6915
+  }
+}

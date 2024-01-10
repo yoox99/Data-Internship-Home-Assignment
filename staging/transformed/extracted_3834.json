@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Restaurants",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T22:43:38.000Z"
+  },
+  "company": {
+    "name": "TalentPlug LLC",
+    "link": "https://www.linkedin.com/company/talentplug-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Instrument Software",
+    "industry": "Computer Software,Research,Biotechnology",
+    "description": "We create the world's most advanced sequencing technologies. Our single-molecule solutions reveal the full potential of the genome in the pursuit of better health. Want to become a key player in creating the next generation of DNA sequencers? Join the Instrument Control Software (ICS) team at PacBio: we're responsible for runtime control operations in all our sequencing instruments. ICS manages operational hardware, including robots, lasers, optics, electromechanical devices, and environmental modules to conduct DNA sequencing experiments on the instrument. We are looking for an experienced software engineer to develop and deliver new features in our currently marketed sequencers as well as work on development of next-generation products. All listed tasks and responsibilities are deemed as essential functions to this position; however, business conditions may require reasonable accommodations for additional tasks and responsibilities. All qualified applicants will receive consideration for employment without regard to race, sex, color, religion, national origin, protected veteran status, or on the basis of disability, gender identity, and sexual orientation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:06:25.000Z"
+  },
+  "company": {
+    "name": "Pacific Biosciences",
+    "link": "https://www.linkedin.com/company/pacific-biosciences"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

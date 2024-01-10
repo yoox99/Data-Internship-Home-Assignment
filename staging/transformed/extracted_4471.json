@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T20:28:14.000Z"
+  },
+  "company": {
+    "name": "NinjaHoldings",
+    "link": "https://www.linkedin.com/company/ninjaholdings"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Chicago Area",
+    "region": null,
+    "postal_code": "60618",
+    "street_address": null,
+    "latitude": 41.948055,
+    "longitude": -87.655754
+  }
+}

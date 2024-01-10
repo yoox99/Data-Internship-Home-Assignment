@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Goods,Food &amp; Beverages",
+    "description": "231119BR PepsiCo is a global food and beverage leader with a product portfolio including 22 brands that generate more than $1 billion each in annual retail sales. Our main businesses – Quaker, Tropicana, Gatorade, Frito-Lay and Pepsi-Cola – make hundreds of enjoyable foods and beverages that are loved throughout the world.  At PepsiCo, you get the best of both worlds: an entrepreneur’s mindset plus reach and resources. Our collaborative culture and worldwide presence generate a stream of new opportunities to define the future and propel your life’s work. Bring your unique perspective. Bring curiosity. Bring ingenuity, and drive. We’ll give you a platform to be daring on a global scale. With data deeply embedded in our DNA, PepsiCo Data & Analytics transforms data into consumer delight. We build and organize business-ready data that allows PepsiCo’s leaders to solve their problems with the highest degree of confidence. Our platform of data products and services ensures data is activated at scale. This enables new revenue streams, deeper partner relationships, new consumer experiences, and innovation across the enterprise. Your role will be to be part of a growing team called “Digital Hub”, based in Plano, to create and support global digital developments for PepsiCo. These developments will be around topics like revenue management, supply chain, manufacturing, logistics.  You will be part of a collaborative interdisciplinary team around data, where you will be responsible for building deployable statistical/machine learning models, starting from the discovery phase. You will work closely with process owners, product owners and final business users. This will provide you with the correct visibility and understanding of the criticality of your developments.  You will be an internal ambassador of the team’s culture around data and analytics. You will provide stewardship to colleagues in the areas that you are a specialist or you are specializing. Not Eligible for Relocation Regular  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.  PepsiCo is an Equal Opportunity Employer: Female / Minority / Disability / Protected Veteran / Sexual Orientation / Gender Identity  Our Company will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Fair Credit Reporting Act, and all other applicable laws, including but not limited to, San Francisco Police Code Sections 4901 - 4919, commonly referred to as the San Francisco Fair Chance Ordinance; and Chapter XVII, Article 9 of the Los Angeles Municipal Code, commonly referred to as the Fair Chance Initiative for Hiring Ordinance.  If you'd like more information about your EEO rights as an applicant under the law, please download the available EEO is the Law & EEO is the Law Supplement documents. View PepsiCo EEO Policy  Please view our Pay Transparency Statement",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T13:00:39.000Z"
+  },
+  "company": {
+    "name": "PepsiCo",
+    "link": "https://www.linkedin.com/company/pepsico"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83600,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

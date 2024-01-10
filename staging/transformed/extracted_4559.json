@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "On the off chance you've thought about insurance, it's likely because you've insured something you love, not because you loved your insurance company. Metromile is out to change that. As an insurtech powered by data science and customer-centric design, we're building a community of drivers who come for the savings and stay for the experience.  With technology at its core, Metromile is reimagining insurance to make it fairer and actually delightful. We're obsessed with savings, service, and features -- street sweeping alerts, monthly mileage summaries, fuel trackers and more -- that engage a customer all along their journey. We're on the forefront of disrupting a $250 billion auto insurance category that has gone unchanged for over 80 years.  Metromile's diverse team combines the best of Silicon Valley technologists with veterans from Fortune 500 insurers and financial services giants. This management structure ensures that the business is focused on growth, customer experience and technology innovation while also balancing unit economics and profitability. The team is growing quickly across its San Francisco, Tempe, and Boston offices. Our customer service, claims, and sales teams are all based in-house in the US.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T05:03:52.000Z"
+  },
+  "company": {
+    "name": "Metromile",
+    "link": "https://www.linkedin.com/company/metromile"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

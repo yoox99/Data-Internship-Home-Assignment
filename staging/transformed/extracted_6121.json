@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Remote)",
+    "industry": "Information Technology and Services,Automotive,Financial Services",
+    "description": "KAR Global powers the world’s most trusted automotive marketplaces through innovation, technology and people. Our end-to-end platform serves the remarketing needs of the world’s largest OEMs, dealers, fleet operators, rental companies and financial institutions. At KAR, the Service Operations team designs, deploys and operates infrastructure and applications across multiple environments and around the globe.  We are a dynamic and innovative team which aims to provide exceptional customer experience by leveraging best in class automation and orchestration practices for infrastructure and applications.  As a Site Reliability Engineer, you will utilize your software and systems engineering background to build and run large-scale, distributed, fault-tolerant systems. We strive to hire people who are looking to make an impact and thrive in a freedom filled environment driven by context. Your role is to ensure that our systems - both internally and externally facing-have reliability and maximum uptime. Our current team focuses on optimizing existing systems, building infrastructure and eliminating work through automation. You are responsible for the big picture of how our systems relate to each other, we use a breadth of tools and approaches to solve a broad spectrum of problems. Practices such as limiting time spent on manual operational work, postmortems and proactive identification of potential outages factor into iterative improvement that is key to both product quality and technical standards. #TechJobs",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T13:20:35.000Z"
+  },
+  "company": {
+    "name": "KAR Global",
+    "link": "https://www.linkedin.com/company/karglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 71700,
+    "max_value": 83800,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Carmel",
+    "region": "IN",
+    "postal_code": "46032",
+    "street_address": null,
+    "latitude": 39.978386,
+    "longitude": -86.12707
+  }
+}

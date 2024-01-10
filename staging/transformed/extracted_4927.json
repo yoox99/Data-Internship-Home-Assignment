@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer IV",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Visual Lease is an industry-leading, comprehensive lease accounting solution that helps customers maintain their lease portfolios and achieve compliance with lease accounting standards. Our talented engineering team delivers new features and applications on top of our SaaS platform on an iterative basis. Our cross-functional delivery teams are made up of software engineers, quality engineers, product managers, and usability designers, all working collaboratively to deliver on our roadmap vision. Visual Lease is looking for an innovative and collaborative lead software engineer to join our fast-growing engineering team.  As part of a team developing new application features, improvements, and product evolutions, you will work across the application stack to develop UI code, business logic in Microservices, and develop in our relational databases (SQL Server and Aurora PostgreSQL). Daily, you will work side-by-side with cross-functional team members to understand requirements, prepare feature designs, write code in C#/.net and Python, support testing, and ultimately releases into our AWS cloud environments. Participate in the software development process through the entire system life cycle, including: We have a passion for simplifying the complex. Our lease accounting and lease administration software helps companies manage, analyze and report on their leased asset portfolios. Loved by more than 700 major companies worldwide, our cloud-based SaaS platform embeds decades of lease management and financial accounting expertise.  Over the last two years, our employee base has seen significant growth. Voted one of NJ’s Best Places to Work, we are looking for driven, innovative and passionate team-players to help us continue this journey and bring us to the next level.  Visual Lease is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or other characteristics protected by law. Visual Lease is a background screening, drug-free workplace. Full-time positions offer a competitive benefits package and salary commensurate with experience.  www.visuallease.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:24:33.000Z"
+  },
+  "company": {
+    "name": "Visual Lease",
+    "link": "https://www.linkedin.com/company/visual-lease"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

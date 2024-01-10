@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Banking",
+    "description": "Your role as Principal of Software Engineering is to work with engineering teams and architecture to produce high-quality technology solutions. You will be given the autonomy to lead, design and develop innovative solutions to some of the biggest technical issues facing the banking industry. As Principal, you will serve as a peer-leader tasked with pursuing cutting-edge initiatives and solutions. The breadth of Citizens operations ensures a diversity of projects as the bank pivots towards innovation and customer experience. At Citizens, you'll find a customer-centric culture built around helping our customers and giving back to our local communities. When you join our team, you are part of a supportive and collaborative workforce, with access to training and tools to accelerate your potential and maximize your career growth. Citizens, its parent, subsidiaries, and related companies provide equal employment and advancement opportunities to all colleagues and applicants for employment without regard to age, ancestry, color, citizenship, physical or mental disability or perceived disability, ethnicity, gender, gender identity or expression, genetic information, genetic characteristic, marital or domestic partner status, victim of domestic violence, family status/parenthood, medical condition, military or veteran status, national origin, pregnancy/childbirth/lactation, colleague’s or a dependent’s reproductive health decision making, race, religion, sex, sexual orientation, or any other category protected by federal, state and/or local laws.  Equal Employment and Opportunity Employer/Disabled/Veteran 216187-2",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:32:27.000Z"
+  },
+  "company": {
+    "name": "Citizens",
+    "link": "https://www.linkedin.com/company/citizens-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74300,
+    "max_value": 135000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

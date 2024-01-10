@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Platform Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "With a mix of software product knowledge, functional expertise and industry focus, create a strategy and build future-proof Software Product that can be implemented at multiple clients through extensions, APIs & customization capabilities. Excel in delivering market-leading commercial software platforms, products, offerings for Accenture or clients. Oversee cross-functional teams that design, develop, enhance and maintain assets that provide value for their industry and its clients Minimum 5 years of experience with more than one technology stack  Minimum 3 years of Software development background using server side technologies (Java/Spring or similar frameworks regardless of language).  Minimum 3 years of experience in building cloud applications, Software as a Service (SaaS), Platform as a Service (PaaS) using at least one of the following platforms: AWS,MS Azure, GCP, Openshift, Cloud Foundry.  Bachelor's degree or equivalent (minimum 12 years) work experience. (If Associate’s Degree, must have minimum 6 years work experience) $72,400-$114,499",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:49:40.000Z"
+  },
+  "company": {
+    "name": "Accenture",
+    "link": "https://ie.linkedin.com/company/accenture"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "OH",
+    "postal_code": "43272",
+    "street_address": null,
+    "latitude": 39.96276,
+    "longitude": -82.99629
+  }
+}

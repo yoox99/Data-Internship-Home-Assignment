@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Scientist",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Are you passionate about technology and looking to work in an agile start-up environment that is built on the brand recognition, solution capabilities, and global reach of a world-class technology pioneer? The HP Personal System Services (PSS) team operates in a highly dynamic landscape that delivers a best-in-class, multi-OS Services portfolio powered by software, cloud, data analytics, and machine learning.  The platform product team within PSS is seeking a forward thinking Data Scientist who is passionate about driving innovation at scale, solving real-world customer issues through AI/ML and delivering stellar customer experiences using one of the largest datasets in the world.  You will be expected to be hands on and routinely exercise independent judgment in delivering of new Data Science / Machine Learning insights. You’re out to reimagine and reinvent what’s possible—in your career as well as the world around you.  So are we. We love taking on tough challenges, disrupting the status quo, and creating what’s next. We’re in search of talented people who are inspired by big challenges, driven to learn and grow, and dedicated to making a meaningful difference.  HP is a technology company that operates in more than 170 countries around the world united in creating technology that makes life better for everyone, everywhere.  Our history: HP’s commitment to diversity, equity and inclusion - it's just who we are.  From the boardroom to factory floor, we create a culture where everyone is respected and where people can be themselves, while being a part of something bigger than themselves. We celebrate the notion that you can belong at HP and bring your authentic self to work each and every day. When you do that, you’re more innovative and that helps grow our bottom line. Come to HP and thrive!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T14:01:19.000Z"
+  },
+  "company": {
+    "name": "HP",
+    "link": "https://www.linkedin.com/company/hp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Product Insights (RippleX)",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "RippleX is a division at Ripple focused on accelerating adoption of the digital asset XRP and the XRP Ledger in blockchain projects across industries and technologies. RippleX aims to build a robust ecosystem of third-party developers, projects and companies that build, grow and monetize their applications on XRP, and other blockchain technologies.  As a data scientist within the Product Insights team, you will leverage data and statistical methods to help RippleX solve impactful product, marketing, and growth problems such as funnel analysis, attribution modeling, causal inference, user incentives, and more.  This role will partner closely with Product, Marketing, Design, Engineering and other teams to drive cross-functional data science projects from beginning to end. Our team gives you full ownership over the projects you tackle, so you should be a person who is bold and dreams big, then executes well. Ripple enables payments everywhere, every way, for everyone using the power of blockchain and crypto. By joining Ripple’s growing, global network (RippleNet), financial institutions can process their customers’ payments anywhere in the world instantly, reliably and cost-effectively. Banks and payment providers can use the digital asset XRP to further reduce their costs and access new markets. With offices in San Francisco, Washington D.C., New York, London, Mumbai, Singapore, São Paulo, Reykjavik and Dubai, Ripple has hundreds of customers around the world.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T06:03:11.000Z"
+  },
+  "company": {
+    "name": "Ripple",
+    "link": "https://www.linkedin.com/company/ripple-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103700,
+    "max_value": 225300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

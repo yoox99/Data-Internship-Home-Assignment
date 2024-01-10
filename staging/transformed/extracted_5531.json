@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Solutions Architect",
+    "industry": "Computer Hardware",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:16:39.000Z"
+  },
+  "company": {
+    "name": "Getac",
+    "link": "https://tw.linkedin.com/company/getactechnology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "Oregon Metropolitan Area",
+    "postal_code": "97215",
+    "street_address": null,
+    "latitude": 45.553497,
+    "longitude": -122.90853
+  }
+}

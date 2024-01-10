@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer",
+    "industry": "Construction,Staffing and Recruiting,Hospital &amp; Health Care",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Gables Search Group",
+    "link": "https://www.linkedin.com/company/gables"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 64900,
+    "max_value": 104000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jacksonville",
+    "region": "FL",
+    "postal_code": "32277",
+    "street_address": null,
+    "latitude": 30.325968,
+    "longitude": -81.65676
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Chemicals,Staffing and Recruiting",
+    "description": "Indorama Integrated Oxides & Derivatives is looking for an experienced Site Reliability Engineer located at our Port Neches, Texas facility. In this role, you will develop, maintain, and execute the site’s reliability systems and processes. This role is expected to influence the culture of the site to design, operate, and maintain Indorama PNO assets with a reliability focus, and to provide the site with tools and systems to allow continuous reliability improvement. Indorama Ventures Oxides & Derivatives is a leading chemical intermediates and surfactants producer with a diverse range of products in growth markets such as home & personal care, agrochemicals, oilfield technologies, fuel & lube additives and more. The successful candidate will receive a competitive compensation and will be eligible to participate in a comprehensive benefits package which includes: medical, vision and dental, basic life insurance, AD&D insurance, and 401k. Here, you can make an impact and make a difference. Come join us!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T01:52:39.000Z"
+  },
+  "company": {
+    "name": "Indorama Ventures: Integrated Oxides &amp; Derivatives",
+    "link": "https://www.linkedin.com/company/indorama-ventures-integrated-oxides-derivatives"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Port Neches",
+    "region": "TX",
+    "postal_code": "77651",
+    "street_address": null,
+    "latitude": 29.980604,
+    "longitude": -93.963615
+  }
+}

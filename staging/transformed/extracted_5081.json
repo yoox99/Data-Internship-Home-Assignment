@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T17:58:11.000Z"
+  },
+  "company": {
+    "name": "Wipro",
+    "link": "https://in.linkedin.com/company/wipro"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Montville",
+    "region": "CT",
+    "postal_code": "06353",
+    "street_address": null,
+    "latitude": 41.45303,
+    "longitude": -72.13634
+  }
+}

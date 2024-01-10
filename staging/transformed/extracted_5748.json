@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Process Engineer",
+    "industry": "Oil &amp; Energy",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:24:47.000Z"
+  },
+  "company": {
+    "name": "Par Pacific Holdings, Inc.",
+    "link": "https://www.linkedin.com/company/par-pacific"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tacoma",
+    "region": "WA",
+    "postal_code": "98406",
+    "street_address": null,
+    "latitude": 47.25308,
+    "longitude": -122.44153
+  }
+}

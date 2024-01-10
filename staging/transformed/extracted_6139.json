@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Development Engineer",
+    "industry": "Computer Software,Information Technology and Services,Computer &amp; Network Security",
+    "description": "As a (SDE) at Kaseya, you will help design, develop, and implement code for our award-winning products. We use a wide range of technologies internally and look for interesting experience and skill sets. One day you might be working on a cloud app in AWS or Kubernetes, and the next day writing deployed software in Golang. From C to Go and Python to PowerShell, we use the right tools for the job to solve interesting problems on almost any device or platform our customers use. You will add your unique personality to our endeavor, namely: to ship high-quality software that is on-time and business-aligned. We’re a company whose startup days are behind it but with a lot of growing to do. If you want to be part of making the changes to take us to the next stage of growth while having fun doing your job, this is the opportunity for you. SDEs take ownership of their code and work closely with others to develop new features as well as efficiently address reported defects in ways that delight our customers. Using an Agile/Scrum methodology, SDEs discuss requirements, propose solutions, estimate their work, and then collaborate with others through the entire life cycle.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:04:10.000Z"
+  },
+  "company": {
+    "name": "Kaseya",
+    "link": "https://www.linkedin.com/company/kaseya"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbia",
+    "region": "SC",
+    "postal_code": "29033",
+    "street_address": null,
+    "latitude": 34.009285,
+    "longitude": -81.037094
+  }
+}

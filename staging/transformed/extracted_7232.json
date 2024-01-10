@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Operations Research Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-07T12:58:57.000Z"
+  },
+  "company": {
+    "name": "Bradford &amp; Galt",
+    "link": "https://www.linkedin.com/company/bradford-&amp;-galt"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater St. Louis",
+    "region": null,
+    "postal_code": "63101",
+    "street_address": null,
+    "latitude": 38.62262,
+    "longitude": -90.192986
+  }
+}

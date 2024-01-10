@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Advisor System Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "DXC Technology (NYSE: DXC) helps global companies run their mission critical systems and operations while modernizing IT, optimizing data architectures, and ensuring security and scalability across public, private and hybrid clouds. The world’s largest companies and public sector organizations trust DXC to deploy services across the Enterprise Technology Stack to drive new levels of performance, competitiveness, and customer experience. Learn more about how we deliver excellence for our customers and colleagues at DXC.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:17:58.000Z"
+  },
+  "company": {
+    "name": "DXC Technology",
+    "link": "https://www.linkedin.com/company/dxctechnology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Colorado Springs",
+    "region": "CO",
+    "postal_code": "80908",
+    "street_address": null,
+    "latitude": 38.835224,
+    "longitude": -104.8198
+  }
+}

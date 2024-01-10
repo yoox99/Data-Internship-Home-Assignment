@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Airlines/Aviation,Information Technology and Services,Computer Software",
+    "description": "This role can sit in Atlanta, GA or Minneapolis, MN We're seeking an experienced Site Reliability Engineer (SRE) to join the Delta IT SRE team. The SRE will work with Delta IT development squads to implement best practices for reliability and performance with the applications and services they support. Our ideal candidate is well versed in modern cloud-based and on prem architecture and experienced in designing systems for reliability as well as implementing monitoring, alerting, and ops automation to reliably operate and maintain the services they build.  The SRE works with developers to improve the Reliability and Resiliency of Delta Software  Solutions to meet the business requirements by implementing SRE tools, processes, and best practices. SRE is what happens when you ask a software engineer to design an operations function. The SRE helps to design, develop, test, debug, and automate tasks for applications. They troubleshoot incidents to address failure patterns, automate remediation through  runbooks, and document application optimization.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-21T16:12:57.000Z"
+  },
+  "company": {
+    "name": "Delta Air Lines",
+    "link": "https://www.linkedin.com/company/delta-air-lines"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

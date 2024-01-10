@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "C# ERP Integrations Developer-Top Construction Org!",
+    "industry": "Computer Hardware,Computer Networking,Computer Software",
+    "description": "IT Support to ERP systems by analyzing and making necessary application changes.   Advises on the technical roadmap for upcoming projects and initiatives, (state analysis, potential constraints, requirements gathering, GAP Analysis, automation, etc.) Business process design and ERP application configuration Design and develop tables for the application, generate reports, design modules and enhance systems effectively with proper debugging of applications and coding. (could involve new development as needed )  Requirements:  5+ years of app-level development in Microsoft Stack: C#, .NET. This includes: REST APIs, JSON, XML, etc.  5+ years of hands-on experience with SQL Databases, SQL, T-SQL, SSIS, data migrations, etc. Including stored procedures and complex querying.  Experience with ERP integrations is ideal to go along with in-depth ERP knowledge. (ViewPoint is a huge plus)  Team Player, ability to properly communicate with non-technical team members and understand business requirements. Has a clear understanding of the business side along with the development side.  Experience with Mulesoft Integrations is a Huge Plus!",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-22T01:24:06.000Z"
+  },
+  "company": {
+    "name": "Vaco",
+    "link": "https://www.linkedin.com/company/vaco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

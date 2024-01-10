@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data &amp; Applied Scientist",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Are you a data professional who is obsessed with driving product growth? We’re a team of Product Managers and Applied Data Scientists who build apps, love data, and talk code - join us! We’re looking for creative problem-solvers who can help us identify growth opportunities and unmet customer needs through customer research, data analysis and experimentation. We move quickly - yes, even at Microsoft! - so you’ll help us push beyond ‘but we’ve always done it that way’ and ‘is that allowed?’ to ensure we can get the insights we need to build the best products.  It doesn’t matter what your previous job titles have been - we expect that you’re comfortable with market analysis, data analysis, experimentation, talking to customers, partnering with internal teams to get things done, tackling ambiguous questions, and learning new skills. You’ll need the humility to be okay with ideas and projects that don’t panout, andbe able to learn from them. You’ll have the support of your team and active sponsorship from our executive team.  You will be working on growing products made in our Developer Division that are used by millions of developers worldwide. According to the 2021 Stack Overflow developer survey, Visual Studio Code is used by more than 70% of developers, with Azure being used by more than 30%. We’re constantly striving to learn the needs of developers, how they work and what frustrates them, and how we can help them be more productive. Delighting and retaining developers who use Azure with our tools and services is our core mission. Here’s what you’ll do and learn to be successful in this role: We work hard together through the work day, and we value having time for family or hobbies in the evenings. Required Qualifications: These requirements include, but are not limited to the following specialized security screenings  Ability to meet Microsoft, customer and/or government security screening requirements are required for this role.  Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.  Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a requestvia theAccommodation request form. Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T20:24:33.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

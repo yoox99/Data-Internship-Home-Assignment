@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Dialexa is expanding its Data Science practice and is looking for great talent to join us in building intelligent, next-generation platforms. Are you tired of just pushing out ones and zeros and you yearn to solve hard problems? Do you want to work on an awesome team of designers and developers in a full agile process? Do you want your creative technical ideas to be listened to, heard, and implemented? Do you want to create applications that people love?  We develop for a wide array of technology platforms and frameworks including mobile, web, Internet of Things (IoT), wearables, and embedded devices. We have an awesome culture that includes perks such as fun quarterly team outings, healthcare benefits, 401K, PTO, wellness programs, and much, much more. To learn more about Dialexa, please visit www.dialexa.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T05:18:52.000Z"
+  },
+  "company": {
+    "name": "Dialexa",
+    "link": "https://www.linkedin.com/company/dialexa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

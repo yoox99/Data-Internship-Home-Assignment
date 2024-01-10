@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Java Software Engineer-Web Services-Jr Level",
+    "industry": "Financial Services,Information Technology and Services",
+    "description": "Purpose of Job  We are currently seeking talented Java Software Engineers– Jr. Level for our Phoenix, AZ location, for teams inside our Chief Administrative Office group.  USAA Java Software Engineers create and maintain APIs for our business software applications that our members use. Done well, many may never realize or appreciate how critical these APIs are or how we've made them simpler. Faster. Safer. Yet they help make our members' lives better. It's a great challenge and responsibility.  Here, you will invent. You'll design and test. You'll take risks. You'll create new technology, but the impact you'll make on our members will be far more significant.  Job Requirements  As a Java Engineer, you are expected to be able to function in a fast-paced environment driving innovation through rapid prototyping and iterative development ensuring quality is built into all solutions leveraging TDD. Your responsibilities will require you to be knowledgeable in API development. You will be a part of teams of developers guiding on engineering and architecture best practices as well as demonstrate the ability to partner and engage with other engineers and architects. You will work closely with business clients and UI designers to analyze user requirements, code applications and customize and/or integrate commercial software packages for both internal employees and external member-facing applications across multiple platforms.  As a Java Engineer, it will be your responsibility to maintain code integrity and quality. USAA knows what it means to serve. We facilitate the financial security of millions of U.S. military members and their families. This singular mission requires a dedication to innovative thinking at every level.  USAA Careers – World Class Benefits (31 seconds) The above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job. USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the salary range based on your experience and market position. The salary range for this position is: $66,300.00 - $119,500.00 *( this does not include geographic differential it may be applied based on your work location)  Employees may be eligible for pay incentives based on overall corporate and individual performance or at the discretion of the USAA Board of Directors. will be addressed on an individual-basis for applicable roles that are consistently scheduled for non-core hours. At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals.  Please click on the link below for more details. assistance is for this position.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:08:39.000Z"
+  },
+  "company": {
+    "name": "USAA",
+    "link": "https://www.linkedin.com/company/usaa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

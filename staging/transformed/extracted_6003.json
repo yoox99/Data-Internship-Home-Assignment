@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "You are passionate about creative applications of AI to seemingly intractable problems. You love impacting the missions of the Department of Defense and Intelligence Community. You are driven to operationalize AI for close combat and small unit maneuver applications. You are not only a big thinker but also a doer, creator, and inventor. We were founded as a fresh alternative in the Government Consulting Community and are dedicated to the belief that results are a product of analytical thinking, agile design principles and that solutions are built in collaboration with, not for, our customers. This mantra drives us to succeed and act as true partners in advancing our client’s missions. To respond to an erosion in close combat capability relative to pacing threats identified in the 2018 National Defense Strategy - this group integrates next generation 24/7 situational awareness tools and high-resolution digital sensors to deliver a single platform that improves Soldier sensing, decision making, target acquisition, and target engagement. These capabilities will provide the increased lethality, mobility, and situational awareness necessary to achieve overmatch against our current and future adversaries in any domain.  In support of these efforts the team is building a tactical Machine Learning Operations Platform, capable of managing the entire ML pipeline (data preparation, labeling, training, monitoring, and retraining). This initiative will address the following mission critical needs: : 3+ years of experience or more : Bachelor's degree in computer science, data science, physics, applied mathematics/statistics, operation research, or other physical science/engineering field Washington D.C. Metro U.S. Citizenship required, and ability to obtain DoD Secret Clearance",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Octo",
+    "link": "https://www.linkedin.com/company/octo-consulting-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Belvoir",
+    "region": "VA",
+    "postal_code": "22060",
+    "street_address": null,
+    "latitude": 38.71071,
+    "longitude": -77.14582
+  }
+}

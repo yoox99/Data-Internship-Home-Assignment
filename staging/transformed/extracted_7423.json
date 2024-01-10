@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE) / DevOps",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The Oracle State & Local Global Business Unit (SLGBU) is a brand-new organization that is in the process of designing & developing a suite of SaaS applications for the state & local government markets using cutting edge technologies. These are exciting times in our space - we are growing fast, still at an early stage, and working on ambitious new initiatives. As a Site Reliability Engineer (SRE), within the Public Safety SaaS team, you will assist in designing building and operating a highly distributed SaaS service with extremely high availability and scalability requirements. You will work as a member of our cross-discipline service development team. You will work in concert with developers to evolve systems/products for better scalability, reliability and enable developer velocity. You will be responsible to ensure our services and systems are designed and build from the start with reliability, scalability and observability as a critical feature. You will also author and maintain operational run books to help reduce mean Time of Incidents (TOI), and be responsible for managing and triaging operational tickets pertaining to the data platform services. Emphasis on driving prioritization and execution of work based on business impact is a must. Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.  As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.  Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience.  If you are a Colorado resident, Please Contact us or Email us at oracle-salary-inquiries_us@oracle.com to receive compensation and benefits information for this role. Please include this Job ID: 117863 in the subject line of the email. Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It’s when everyone’s voice is heard and valued, that we are inspired to go beyond what’s been done before. That’s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.  Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T14:36:23.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

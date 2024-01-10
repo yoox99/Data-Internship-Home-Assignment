@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Construction",
+    "description": "The Data Engineer (DE) will collect, aggregate, store and reconcile data in support of critical business processes and decision-making. The DE will help design and build data pipelines, data streams, data service APIs, data generators and other end-user insight tools. Managed data pipelines consist of a series of stages through which data flows (for example, from data sources or endpoints of acquisition to integration to consumption for specific use cases). These data pipelines have to be created, maintained and optimized as workloads move from development to production for specific use cases. Architecting, creating and maintaining data pipelines will be the primary responsibility of the data engineer. The data engineer will be responsible for using innovative and modern tools, techniques and architectures to partially or completely automate the most-common, repeatable and tedious data preparation and ingestion tasks in order to minimize manual and error-prone processes and improve productivity.  The ideal candidate will have strong problem solving skills that can contribute to best practices and modern approaches to data delivery. This requires strong communication skills with business and technology partners for creating win-win solutions. The ideal candidate will be a quick learner of new technologies, identifying best development and deployment practices and implementing them. The ideal candidate is able to work independently in an agile environment with minimal guidance meeting deadlines and work objectives. Clark Construction Group, LLC, (subsidiaries and affiliates) is an Equal Opportunity Employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. Clark Construction promotes a drug-free workplace.  Applicants have rights under Federal Employment Laws: Family and Medical Leave Act (FMLA); Equal Employment Opportunity (EEO) and Employee Polygraph Protection Act (EPPA).  For more information on Equal Opportunity, you may visit this link.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:13:18.000Z"
+  },
+  "company": {
+    "name": "Clark Construction Group",
+    "link": "https://www.linkedin.com/company/clarkconstructiongroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bethesda",
+    "region": "MD",
+    "postal_code": "20813",
+    "street_address": null,
+    "latitude": 38.984856,
+    "longitude": -77.09269
+  }
+}

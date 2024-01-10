@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Biotechnology,Hospital &amp; Health Care,Electrical/Electronic Manufacturing",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:08:14.000Z"
+  },
+  "company": {
+    "name": "Qerala",
+    "link": "https://www.linkedin.com/company/qerala"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

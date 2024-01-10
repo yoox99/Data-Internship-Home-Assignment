@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - International Sam's Club Technology",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "Imagine working in an environment where one line of code can make life easier for hundreds of millions of people and put a smile on their face. That’s what we do at Walmart Global Tech. We’re a team of 15,000+ software engineers, data scientists and service professionals within Walmart, the world’s largest retailer, delivering innovations that improve how our customers shop and empower our 2.2 million associates. To others, innovation looks like an app, service or some code, but Walmart has always been about people. People are why we innovate, and people power our innovations. Being human-led is our true disruption.  We’re virtual  Working virtually this year has helped us make quicker decisions, remove location barriers across our global team, be more flexible in our personal lives and spend less time commuting. Today, we are reimagining the tech workplace of the future by making a permanent transition to virtual work for most of our team. Of course, being together in person is an important part of our culture and shared success. We’ll collaborate in person at a regular cadence and with purpose. Minimum Qualifications... Bachelor’s degree in Computer Science and 3 years’ experience in software engineering or related field OR 5 years’ experience in software Master’s degree in Computer Science or related field and 2 years' experience in software engineering or related field Primary Location...2101 SE SIMPLE SAVINGS DR, BENTONVILLE, AR 72712-4304, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:20:00.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 88600,
+    "max_value": 122000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bentonville",
+    "region": "AR",
+    "postal_code": "72716",
+    "street_address": null,
+    "latitude": 36.37187,
+    "longitude": -94.20272
+  }
+}

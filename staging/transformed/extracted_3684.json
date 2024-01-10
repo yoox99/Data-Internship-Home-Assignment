@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Hardware,Electrical/Electronic Manufacturing,Semiconductors",
+    "description": "Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are pursuing.  The Smart Manufacturing and AI team at Micron Technology is looking for an ambitious Machine Learning Engineer. Are you curious, high velocity, and ready to solve complex problems? Do you dream in data science and machine learning models? If so, we want you to join us! Our mission is to enable to deliver industry-winning machine learning solutions to power Micron’s dominance in the highly competitive memory solutions market. Qualified applicants will have experience in a variety of data and cloud technologies and have extensive practice modeling data, querying, and deploying scalable pipelines to execute machine learning models. You will collaborate with Data Scientists, ML Engineers, Data engineers- and expert users to build and deploy scalable AI/ML solutions that drive value and insight from Micron’s manufacturing processes and systems. We are an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life . With a relentless focus on our customers, technology leadership, and manufacturing and operational excellence, Micron delivers a rich portfolio of high-performance DRAM, NAND, and NOR memory and storage products through our Micron® and Crucial® brands. Every day, the innovations that our people create fuel the data economy, enabling advances in artificial intelligence and 5G applications that unleash opportunities — from the data center to the intelligent edge and across the client and mobile user experience.  To learn more, please visit micron.com/careers  Micron is proud to be an equal opportunity workplace and is an affirmative action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.  Please note that in order to assist in providing a safe and healthy workplace for all Micron team members, new employment offers for U.S.-based jobs are contingent upon the applicant’s provision of a copy of their COVID-19 vaccination card to Micron on a confidential basis prior to their scheduled start date confirming that they have completed the COVID-19 vaccination process, subject to any written request for a medical or religious accommodation and to the extent permitted by applicable law.  For US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron’s People Organization at hrsupport_na@micron.com or 1-800-336-8918",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T20:07:51.000Z"
+  },
+  "company": {
+    "name": "Micron Technology",
+    "link": "https://www.linkedin.com/company/micron-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80600,
+    "max_value": 103000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boise",
+    "region": "ID",
+    "postal_code": "83712",
+    "street_address": null,
+    "latitude": 43.61579,
+    "longitude": -116.20158
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Biotechnology,Hospital &amp; Health Care",
+    "description": "PathAI’s mission is to improve patient outcomes through AI-powered pathology. We have built a revolutionary platform for transforming the drug development process through large-scale image analysis, identification of novel biomarkers, and improved patient selection. Our prediction platform is able to detect individual cancer and immune cells in gigapixel histology images, make reliable diagnoses, and provide estimates about survival and drug response.  We have access to a wide variety of data sources, and work closely with an unparalleled network of partners in biotech, pharma and academia. Our efforts are already yielding biological insights accelerating translational research and products that are being used to drive and improve a variety of clinical trials.  We’re shaping the future and direction of digital pathology and drug development through our AI-centric approach. Joining PathAI is an opportunity to make a massive impact by improving outcomes for patients around the world. You will have the opportunity to work in a company culture that puts employees first, is relaxed but focused and hard-working. Every PathAI employee is a contributor to our mission to pioneer better patient care by providing the best, most innovative deep learning tools to biotech, pathologists, clinicians and healthcare organizations. You will work alongside leading innovators in the field of deep learning and medicine, and play a critical role in algorithm development. For the right candidate, we'll offer a competitive salary plus equity. Your compensation is rounded out by a strong benefits package: Most importantly, you'll be doing important work with a team of people you'll genuinely enjoy spending the day with.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T21:02:30.000Z"
+  },
+  "company": {
+    "name": "PathAI",
+    "link": "https://www.linkedin.com/company/pathai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

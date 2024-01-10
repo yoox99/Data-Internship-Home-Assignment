@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Frontend",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Squarespace is seeking talented JavaScript engineers with strong design sensibilities and a desire to create interfaces that are a pleasure to use.  The Frontend team at Squarespace is responsible for building one of the most advanced interfaces on the web. With it, our customers are able to easily create beautiful interactive websites and stores. If you are a Frontend Engineer who strives to push the envelope with what is possible in a web browser, we want to hear from you! This role will report to the Product Engineering Team Lead in our New York City headquarters. Squarespace empowers people with creative ideas to succeed. By blending elegant design and sophisticated engineering, we empower millions of people — from individuals and local artists to entrepreneurs shaping the world’s most iconic businesses — to share their stories with the world. Squarespace’s team of more than 800 is headquartered in downtown New York City, with offices in Dublin, Los Angeles and Portland. For more information, visit www.squarespace.com/about.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:16:02.000Z"
+  },
+  "company": {
+    "name": "Squarespace",
+    "link": "https://www.linkedin.com/company/squarespace"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 158000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

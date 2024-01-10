@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Internet",
+    "description": "--this position is fully remote and you can work anywhere in the US.--  We are a fast-growing and unique company looking to bring on a 100% Remote Principal Software Engineer to join our fast-growing team. We are an established, nation-wide startup company. We are a in the internet/e-commerce space and need Principal Engineers to join our dynamic team. We are wanting hands-on developers/Polyglot type candidates that are looking to grow within our company. If you are a 100% Remote Senior Software Developer with experience, please read on!  Top Reasons to Work with Us What's In It for You  We offer a comprehensive compensation plan including but not limited to: What You Need for this Position What You Will Be Doing  Lead cross functional projects across multiple teams impacting the success of the larger organization  Lead technical discussions, design/architect and implement solutions to scale our company  Support standard development practices, syntax, design patterns, and Test driven development  Evangelize impactful improvements in our technologies  Can trace bugs across the entire software stack, including into the OS, libraries, virtual machine and compiler if necessary  Implement and Monitor analytics to ensure the correctness of the business process  So, if you are a 100% Remote Senior Software Developer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Miranda.Orr@CyberCoders.com Miranda Orr - Lead Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.  CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:32:44.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

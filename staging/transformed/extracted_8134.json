@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Locations: VA - McLean, United States of America, McLean, Virginia  Machine Learning Engineer  As a Capital One Machine Learning Engineer, you'll be part of an Agile team dedicated to productionizing machine learning applications and systems at scale. You’ll participate in the detailed technical design, development, and implementation of machine learning applications using existing and emerging technology platforms. Working within an Agile environment, you’ll focus on machine learning architectural design, develop and review model and application code, and ensure high availability and performance of our machine learning applications. You'll have the opportunity to continuously learn and apply the latest innovations and best practices in machine learning engineering to keep Capital One at the cutting edge of technology. At this time, Capital One will not sponsor a new applicant for employment authorization for this position.  No agencies please. Capital One is an Equal Opportunity Employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.  If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.  For technical support or questions about Capital One's recruiting process, please send an email to Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.  Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).  Job Category - Engineering, Technology",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T16:51:11.000Z"
+  },
+  "company": {
+    "name": "Capital One",
+    "link": "https://www.linkedin.com/company/capital-one"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

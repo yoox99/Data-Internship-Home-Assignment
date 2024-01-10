@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "Health, Wellness and Fitness,Medical Practice,Hospital &amp; Health Care",
+    "description": ", headquartered in beautiful , is to join our office. This is a great opportunity to join an established leader in the industry, with the freedom to put your skills and imagination to work. We are Compassionate Visionary Health Care, where passion and team spirit are nurtured and rewarded. We are looking for two (2) Junior Software Engineers with a good understanding of Java and JavaScript. This is a great position for someone looking to be on the cutting edge of developing critical systems for use in Health Care. Our team of experts are here to support and nurture the skills of self-driven, ambitious, out-of-the box thinkers. With these attributes and a bachelor’s degree in Computer Science, Computer Engineering or a related field, you will be a successful addition to our team. CVHCare is !  CVHCare believes in sharing skills, knowledge and resources to develop and support the growth of our team. Our Software Engineering Team is a unique group of individuals who not only work hard together, but love what we do! Our ability to focus on our goals while having a good time is unmatched.  CVHCare is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at CVHCare are based on business needs, job requirements, individual qualifications, and merit….without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. CVHCare will not tolerate discrimination or harassment based on any of these characteristics. We are proud to be an equal opportunity workplace, and an affirmative action employer.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T04:40:58.000Z"
+  },
+  "company": {
+    "name": "CVHCare",
+    "link": "https://www.linkedin.com/company/cvh-care"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Ramon",
+    "region": "CA",
+    "postal_code": "94582",
+    "street_address": null,
+    "latitude": 37.777084,
+    "longitude": -121.96752
+  }
+}

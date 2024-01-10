@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Platform Engineer (Java)",
+    "industry": "Computer Software",
+    "description": "The Senior Software Engineer will work with the architects, leads, and fellow engineers to design, develop, implement, and deploy software architectural components and solutions for system-to-system integrations, cloud infrastructure provisioning automation, data integration pipelines, data modeling with high security, performance, and low total cost of ownership.  What You Will Be Doing What You Need for this Position So, if you are a Senior Platform Engineer (Java) with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Kyle.Martin@CyberCoders.com Kyle Martin - Recruiting Manager - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:42:30.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Campbell",
+    "region": "CA",
+    "postal_code": "95009",
+    "street_address": null,
+    "latitude": 37.28766,
+    "longitude": -121.94243
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "This Jobot Job is hosted by Craig Rosecrans  Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.  Salary $120,000 - $145,000 per year Jobot is looking for a Site Reliability Engineer for the leading provider of software and support in the healthcare industry. The work we do is rewarding & if you enjoy saving lives & working on cutting edge technology like we do, please apply! We are known for incredibly low turnover because of the work life balance we offer. That said, we are conscious of the fact that we cannot be successful unless our customers are successful which is at the core of all we do. Develop applications from customer services side/liability - that gear towards application transactions and less in application infrastructure- Incident response and problem management towards application development and monitoring What You Need for this Position-  3-5 years working experience  Good blend of Software Development + Operations (DevOps)  Kubernetes  Helm  Docker  Git  CI/CD  Internet protocols  Scripting languages  Linux Jira  AWS  Azure  Kafka  Prometheus  Grafana  Ansible  Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T21:49:15.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greer",
+    "region": "SC",
+    "postal_code": "29651",
+    "street_address": null,
+    "latitude": 34.939312,
+    "longitude": -82.229195
+  }
+}

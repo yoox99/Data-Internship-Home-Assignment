@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Deployment Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Clarifai is a leading, full-lifecycle deep learning AI platform for computer vision and natural language processing. We help organizations transform unstructured images, video, and text data into structured data at a significantly faster and more accurate rate than humans would be able to do on their own. Founded in 2013 by Matt Zeiler, Ph.D. Clarifai has been a market leader in AI since winning the top five places in image classification at the 2013 ImageNet Challenge. Clarifai continues to grow with employees remotely based throughout the United States and in Tallinn, Estonia.  We have secured $40M in funding up to date, backed by Menlo Ventures, Google Ventures, USV, NVIDIA, Qualcomm, Osage, Lux Capital, LDV Capital, and Corazon Capital.  Clarifai is proud to be an equal opportunity workplace dedicated to pursuing, hiring, and retaining a diverse workforce. You will help address the advanced needs of public sector and commercial clients. You will help customers identify how Clarifai's tools can help address their business problem, and work with them on building this solution. You will be a front-line resource for machine learning/data science expertise. Great to Have",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T05:03:55.000Z"
+  },
+  "company": {
+    "name": "Clarifai",
+    "link": "https://www.linkedin.com/company/clarifai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

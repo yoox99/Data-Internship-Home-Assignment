@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine learning Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-26T17:16:51.000Z"
+  },
+  "company": {
+    "name": "MAPSYS Inc.",
+    "link": "https://www.linkedin.com/company/mapsys"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati Metropolitan Area",
+    "region": null,
+    "postal_code": "45220",
+    "street_address": null,
+    "latitude": 39.097866,
+    "longitude": -84.508
+  }
+}

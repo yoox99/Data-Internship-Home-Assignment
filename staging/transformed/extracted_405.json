@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Engineer",
+    "industry": "Computer Software",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:16:34.000Z"
+  },
+  "company": {
+    "name": "Employa",
+    "link": "https://www.linkedin.com/company/employa-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "United States",
+    "postal_code": "98925",
+    "street_address": null,
+    "latitude": 47.411373,
+    "longitude": -120.556366
+  }
+}

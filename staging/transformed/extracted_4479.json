@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T20:01:50.000Z"
+  },
+  "company": {
+    "name": "HEALTH[at]SCALE Technologies",
+    "link": "https://www.linkedin.com/company/health-at-scale"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 123000,
+    "max_value": 221000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

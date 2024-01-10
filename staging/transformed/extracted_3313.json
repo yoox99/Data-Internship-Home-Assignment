@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services",
+    "description": "Our Global Marketing DevOps/SRE team is seeking a driven, well-rounded computer science professional to join our growing team. You must be a self-starter! Eager to learn new technology trends, and partner with the business teams to ensure technology changes do not impact our customers. If you are an engineer with a passion for operating things and the desire to understand full stack (business down to infrasaructure), and you embrace the instinct to code problems away, then this dynamic role is for you! “American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, age, or any other status protected by law.”",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T02:09:31.000Z"
+  },
+  "company": {
+    "name": "American Express",
+    "link": "https://www.linkedin.com/company/american-express"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer III - Sam's Club",
+    "industry": "Food &amp; Beverages,Retail,Hospital &amp; Health Care",
+    "description": "Here at Sam’s Club, we’re driven by an intellectual curiosity that keeps us on the cutting-edge of user design and a seamless customer experience. We’re intrigued by the opportunity to engineer the most optimal approach that drives conversions and generates consumer loyalty across every touchpoint of the digital journey.  As a Software Engineer III, you’ll spend your days translating requirements into solutions, writing code, collaborating with cross-functional teams, and providing us with the insights necessary to think beyond the status quo. You'll assist in providing guidance to small groups of two to three engineers, including offshore associates, for assigned Engineering projects by proving pertinent documents, directions, examples, and timeline.  Now, imagine doing all the above for the world’s largest retailer. That’s the Walmart experience. Intrigued?  You’ll really wow us if… You’ll make an impact by… Benefits & Perks  Beyond competitive pay, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.  Equal Opportunity Employer  Walmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers, and the communities we serve live better when we really know them. That means understanding, respecting, and valuing diversity- unique styles, experiences, identities, ideas and opinions – while being inclusive of all people. Bachelor’s degree in Computer Science and 2 years’ experience in software engineering or related field OR 4 years’ experience in software engineering or related field. Preferred Qualifications... Masters: Computer Science Primary Location...840 W CALIFORNIA AVE, SUNNYVALE, CA 94086-4828, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:17:07.000Z"
+  },
+  "company": {
+    "name": "Sam's Club",
+    "link": "https://www.linkedin.com/company/sam%27s-club"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

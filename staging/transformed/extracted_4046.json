@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer/Engineer",
+    "industry": "Professional Training &amp; Coaching",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:21:13.000Z"
+  },
+  "company": {
+    "name": "Vistage Worldwide, Inc.",
+    "link": "https://www.linkedin.com/company/vistage"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78800,
+    "max_value": 97300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

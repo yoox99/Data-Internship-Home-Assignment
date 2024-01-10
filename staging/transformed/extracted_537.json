@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Metropolis is an AI and computer vision start-up building the technological and real estate infrastructure to facilitate the future of mobility. This is your opportunity to join early and build something remarkable at the intersection of technology, mobility, and real estate. We are reimagining the parking experience today but developing an ecosystem to support all forms of mobility tomorrow; and if you have a passion for transforming the urban landscape to more intelligently facilitate EV charging, last mile transport, autonomous vehicles, and even electric vertical take-off and landing (eVTOL), please consider joining us. The Company is led by an experienced executive team with diverse backgrounds, including a successful LA-based tech founder, a technical leader from eHarmony and DogVacay, and senior professionals from major global financial services firms and the world's leading mobility companies; our first-class engineering talent joins us from Facebook, Palantir, Bird, Factual, Honey, Canoo, and others.  We approach life with wonder and curiosity. We're inventors, skeptics and, at times, have been called crazy. We challenge one another with passion, from principle and with respect. But above all, we are relentless in our drive to build a collaborative, diverse, and inclusive culture. Metropolis is seeking a Machine Learning Engineer to lead the development of our computer vision algorithms that would be used to power our mobility services. Reporting to the Director of Machine Learning, you will be responsible for the development, deployment and ongoing optimization of the models that would be at the core of our platform. The models you build will need to detect objects, track its direction of motion and more, and do all that in near-real time. This is a challenging opportunity because the models you build will need to be optimized for different conditions like indoors and outdoors, lighting, weather and field of view. If you have a background in sensors and computer vision, and are interested in mobility, autonomous vehicles, computer vision or machine learning, this is the ideal opportunity for you.  When you join Metropolis, you'll join a team of world-class product leaders and engineers, building an ecosystem of technologies at the intersection of parking, mobility, and real estate. Our goal is to build an inclusive culture where everyone has a voice and the best idea wins. You will play a key role in building and maintaining this culture as our organization grows.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T11:48:51.000Z"
+  },
+  "company": {
+    "name": "Metropolis",
+    "link": "https://www.linkedin.com/company/metropolisio"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "SAR Imagery Scientist/Systems Engineer",
+    "industry": "Civil Engineering",
+    "description": "Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the worlds leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our 22,000 employees do the cant be done, solving the most daunting challenges facing our customers. Synthetic Aperture Radar (SAR) Imagery Scientist (IS) has a detailed understanding of radar phenomenology from the signal processing phase and the resulting information delivered in the complex phase history data for intelligence exploitation across the enterprise. They understand the application of non-literal imagery and how to apply complex mathematical algorithms to extract relevant intelligence information. They have developed numerous testing plans to evaluate the performance of a variety of types of algorithms when applied to radar data in order to support Order of Battle. The IS possess the knowledge of how to design performance testing to verify and validate a broad range of radar based algorithms. The results of this developed process shall be incorporated into all future radar based algorithms development for application to NSG radar data.  The IS will work as a team member of the NSG Radar Ground program using best practices from other NGA programs and organizations working on algorithm verification and validation.Providing matrixed support to the ATT Sensor Engagement Lead for Radar, the IS serves as a key member of the customers technical team and a focal point for mission engineering, mission integration, and development oversight.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:13:37.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Springfield",
+    "region": "VA",
+    "postal_code": "22151",
+    "street_address": null,
+    "latitude": 38.785812,
+    "longitude": -77.18725
+  }
+}

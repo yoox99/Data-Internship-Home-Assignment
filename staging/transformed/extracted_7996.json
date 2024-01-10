@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analyst",
+    "industry": "Insurance",
+    "description": "Woodruff Sawyer is one of the largest independent insurance brokerage and consulting firms in the nation and serves as the broker for thousands of companies ranging from growing start-ups to multinational corporations.  As a part of the Woodruff Sawyer Team, you will be helping to shape technology for our vast network of agents and internal teams. The SQL Server Analyst/DBA will be responsible for the implementation, configuration, maintenance, and performance of critical SQL Server RDBMS systems, to ensure the availability and consistent performance of our corporate applications. This is a “hands-on” position requiring solid technical skills, as well as excellent interpersonal and communication skills.  The successful candidate will be responsible for the development and sustainment of the SQL Server Warehouse, ensuring its operational readiness (security, health and performance), executing data loads, and performing data modeling in support of multiple development teams. The data warehouse supports an enterprise application suite of program management tools. Must be capable of working independently and collaboratively.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:49:19.000Z"
+  },
+  "company": {
+    "name": "Woodruff Sawyer",
+    "link": "https://www.linkedin.com/company/woodruff-sawyer"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sacramento",
+    "region": "CA",
+    "postal_code": "95820",
+    "street_address": null,
+    "latitude": 38.576935,
+    "longitude": -121.49495
+  }
+}

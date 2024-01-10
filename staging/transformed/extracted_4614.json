@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer (Remote)",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "This Jobot Job is hosted by Pegah Shakeri  Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.  Salary $130,000 - $200,000 per year We’re looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you’re a high performer who’s an expert at your craft, constantly challenging the status quo. Position Overview  You’ll be working on a new team that will create the observability systems and practice for our Cloud. Help build the practice as well as design, architect, build and manage systems for metrics, logs and tracing. You’ll also be an evangelist with stakeholders on SRE concepts and practices. Create a center of excellence for observability! What you’ll do  Create the observability architecture for metrics, logs, and tracing systems for our Cloud.  Design, Manage and operate the observability system.  Evangelize tools and practices with engineering, architecture and customer service teams as a subject matter expert.  Build dashboards, and escalation systems for production engineering, customer service and engineering teams  Ensure stakeholder teams are using the tools in the best way, make iterative improvements through problem solving, empathy and communication 4+ years expertise with metrics, time-series, logging and/or distributed tracing  The team will offer Observability as a service  3+ years experience with building observability systems using products like Elastic Search, splunk, datadog, Prometheus, TICK stack, Grafana, kibana (your choice)  4-5+ years programming and software development – python, java, go, .NET or any other language  1 or more years experience working with cloud providers like AWS, GCP or Azure  Working knowledge of SDLC concepts  Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T21:00:50.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jersey City",
+    "region": "NJ",
+    "postal_code": "07306",
+    "street_address": null,
+    "latitude": 40.717495,
+    "longitude": -74.04411
+  }
+}

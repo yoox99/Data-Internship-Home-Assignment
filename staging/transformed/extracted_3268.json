@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Nonprofit Organization Management,Health, Wellness and Fitness,Hospital &amp; Health Care",
+    "description": "The Data Scientist works independently using a robust math toolbox to discover solutions for a diverse portfolio of interesting and challenging problems. The Data Scientist develops, implements, and monitors advanced analytic, medical informatics, and predictive modeling tools for health care programs. The scientist normally works Monday through Friday day-light business hours or as needed. Total Rewards  More than just competitive pay and benefits, UPMC’s Total Rewards package cares for you in all areas of life — because we believe that you’re at your best when receiving the support you need: professional, personal, financial, and more.  Our Values  At UPMC, we’re driven by shared values that guide our work and keep us accountable to one another. Our Values of Quality & Safety, Dignity & Respect, Caring & Listening, Responsibility & Integrity, Excellence & Innovation play a vital role in creating a cohesive, positive experience for our employees, patients, health plan members, and community. Ready to join us? Apply today.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-09T00:00:00.000Z"
+  },
+  "company": {
+    "name": "UPMC",
+    "link": "https://www.linkedin.com/company/upmc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

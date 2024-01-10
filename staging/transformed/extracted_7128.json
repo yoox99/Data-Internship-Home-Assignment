@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Pandora",
+    "industry": "Entertainment,Broadcast Media",
+    "description": "SiriusXM and Pandora have joined together to create the leading audio entertainment company in the U.S. Together, we are uniquely positioned to lead a new era of audio entertainment by delivering the most compelling subscription and ad-supported audio experiences to millions of listeners -- in the car, at home and on the go. Our talent, content, technology and innovation continue to be at the forefront, and we want you to be a part of it! Check out our current openings below and at www.siriusxm.com/careers . SiriusXM is seeking a Senior Software Engineer to join our Metadata Delivery Team. Our team focuses on analyzing talk and music content using machine learning methods driven by our science and analyst teams. We are responsible for making this highly data available at listener scale, using a hybrid cloud approach.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:13:21.000Z"
+  },
+  "company": {
+    "name": "Pandora",
+    "link": "https://www.linkedin.com/company/pandora"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 142000,
+    "max_value": 197000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

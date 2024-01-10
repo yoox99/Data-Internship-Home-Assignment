@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Insurance,Financial Services",
+    "description": "Signal Advisors helps independent financial advisors grow their business in various ways, through technology, financing, peer-to-peer coaching, marketing, and much more. We have become the country's fastest-growing annuity distributor since emerging from stealth mode in the Fall of 2020.  At Signal Advisors, our team is 'obsessed with finding a better way' in everything we do. Whether we're building world-class software or delivering expert analysis on complex insurance strategies, it's our people that make the difference. If you like to think differently and are excited about driving broad impact in a vast sector like financial services, come join our entrepreneurial and optimistic team! We are seeking a Site Reliability Engineer that can create and manage cutting-edge cloud infrastructure for the Signal Advisors platform. Our vision is to create an industry-leading microservices platform on GCP and AWS to quickly deliver resilient scalable software for a quickly growing financial services business. These services for our Independent Financial Advisor platform handle sensitive business data in a secure fashion and help expose functionality like paying commissions, encrypting documents, or sending notifications. Experience in the financial services sector is desired, but not required.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T17:26:39.000Z"
+  },
+  "company": {
+    "name": "Signal Advisors",
+    "link": "https://www.linkedin.com/company/signaladvisors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Detroit",
+    "region": "MI",
+    "postal_code": "48242",
+    "street_address": null,
+    "latitude": 42.33294,
+    "longitude": -83.04784
+  }
+}

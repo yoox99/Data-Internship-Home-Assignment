@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Scientist/Engineer",
+    "industry": "Machinery,Mechanical or Industrial Engineering,Staffing and Recruiting",
+    "description": "Choosing where to start and grow your career has a major impact on your professional and personal life, so it’s equally important you know that the company that you choose to work at, and its leaders, will support and guide you. With a diversity of people, global locations, technologies and products, 3M is a place where you can collaborate with 93,000 other curious, creative 3Mers.  “At 3M, we want to make sure that everyone, from all walks of life, know they can share their opinions, they’re heard, and change is made based on their input.” – Ann Anaya, chief diversity officer at 3M” Are you a creative and thoughtful researcher or engineer? Do you want to apply your skills in a way that has a meaningful impact on the world? Join our team of international researchers and engineers in Pittsburgh PA to help improve patient care and clinical workflows through advancing our computer assisted coding technology.  The ideal candidate is familiar with research methodologies, devising, implementing and evaluating algorithms and large-scale systems. S/he has experience in one or several of the following fields: Natural Language Processing, Machine Learning, Artificial Intelligence, and software engineering. S/he also shows passion about learning new technologies and improving the state of healthcare IT.  We provide the freedom to explore and encourage curiosity and creativity. We gain new insight from diverse thinking, and taking risks on new ideas. To set you up for success in this role from day one, 3M requires (at a minimum) the following qualifications: Additional qualifications that could help you succeed even further in this role include: 3M offers many programs to help you live your best life – both physically and financially. To ensure competitive pay and benefits, 3M regularly benchmarks with other companies that are comparable in size and scope. For more details on what happens before, during and after the interview process, check out the Insights for Candidates page at 3M.com/careers.  Learn more about 3M’s creative solutions to the world’s problems at www.3M.com or on Twitter @3M.  Responsibilities of this position include that corporate policies, procedures and security standards are complied with while performing assigned duties.  3M is an equal opportunity employer. 3M will not discriminate against any applicant for employment on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status. Carefully read these Terms of Use before using this website. Your access to and use of this website and application for a job at 3M are conditioned on your acceptance and compliance with these terms.  Please access the linked document by clicking here, select the country where you are applying for employment, and review. Before submitting your application you will be asked to confirm your agreement with the terms.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T07:45:46.000Z"
+  },
+  "company": {
+    "name": "3M",
+    "link": "https://www.linkedin.com/company/3m"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80300,
+    "max_value": 125000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

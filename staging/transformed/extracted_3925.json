@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Principal Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Sr Principal Site Reliability Engineer / Customer Engineering position with the Oracle Unity product in Oracle Customer Experience (CX) suite. This is similar to a Principal Solution Architect meets DevOps kind of a position that entails customer facing as well as deep technical ask Oracle Unity brings together online, offline, and third-party customer data sources to create a single, dynamic view of the customer. With built-in artificial intelligence (AI) and machine learning, Oracle Unity derives and delivers timely intelligence about your customers so you can optimize their brand experience across marketing, sales, and service. Embedded within Oracle Customer Experience Cloud, Oracle Unity is open and extensible for integrating actionable intelligence into partner and ecosystem applications for the fastest time to value.  Learn more about the product at Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.  As a member of the software engineering division, you will take an active role in the definition and evolution of standard practices and procedures. Define specifications for significant new projects and specify, design and develop software according to those specifications. You will perform professional software development tasks associated with the developing, designing and debugging of software applications or operating systems.  Provide leadership and expertise in the development of new products/services/processes, frequently operating at the leading edge of technology. Recommends and justifies major changes to existing products/services/processes. BS or MS degree or equivalent experience relevant to functional area. 8 or more years of software engineering or related experience. Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It’s when everyone’s voice is heard and valued, that we are inspired to go beyond what’s been done before. That’s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.  Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T03:09:16.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 168,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redwood City",
+    "region": "CA",
+    "postal_code": "94064",
+    "street_address": null,
+    "latitude": 37.4805,
+    "longitude": -122.21528
+  }
+}

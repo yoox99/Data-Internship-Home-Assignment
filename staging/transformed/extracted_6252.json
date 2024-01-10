@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer in Test, HelloSign - Location Flexible",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "As a Quality Assurance Engineer, you will be a quality champion. You will empower your partner Engineering team at Dropbox to maintain a high level of quality in our products with a large amount of scope and impact within your role. Our approach to Quality Assurance Engineering involves a small, highly talented and leveraged team that focuses on manual testing, end to end testing, test strategy, and process improvements, while working in an embedded manner with cross-functional engineering and product teams.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:37:48.000Z"
+  },
+  "company": {
+    "name": "Dropbox",
+    "link": "https://www.linkedin.com/company/dropbox"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

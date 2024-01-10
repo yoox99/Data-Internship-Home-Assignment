@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead/Senior Software Engineer - Tableau",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Products and Technology The Core Engineering group obsesses over providing reliable, secure, usable services, tools and support to external and internal customers. Through Tableau Online, this group provides customers with a fully hosted analytics solution that gets them up and running in minutes, seamlessly add users as their needs grow without the need to configure servers, manage software upgrades, or scale hardware capacity. Internally, this group provides the foundation that drives innovation and velocity with tools and services that empower our developers to become better builders.  If you are passionate about technology and care deeply about doing something meaningful, Tableau is the place for you. If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form. At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits. and are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. and do not accept unsolicited headhunter and agency resumes. and will not pay any third-party agency or company that does not have a signed agreement with or .  Salesforce welcomes all.  Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:27:09.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

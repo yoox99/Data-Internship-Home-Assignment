@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Can you imagine writing software with no debugger or logging, and you only get to run it every few weeks? That's what building hardware is like for many product companies, and it results in incredible wastes of time, money, and materials. Instrumental's manufacturing optimization system solves this problem. We start by collecting data that no one else can; then we use machine learning and visualizations to automatically identify defects and help product companies understand their assembly processes. As a result, product and process problems are caught and solved earlier, before they create delays and cost millions.  Our product is delighting customers, and the Instrumental customer list is growing across a diverse set of manufacturing applications.  With ~50 people we are a small but mighty team. We value an inclusive environment and actively work to promote diversity in our team. (As an example, our founder/CEO Anna has run the Women In STEM Mentorship Program since 2013.) If you are looking for a place where you can collaborate with friendly people and have an outsized impact on entire industries, then keep reading! We’re hiring a Machine Learning Engineer at Instrumental to contribute to production systems that enable teams to derive value from data on their manufacturing lines. You will contribute to computer vision and machine learning developments to more accurately diagnose potential failures during the hardware development process.  You will explore and implement ways to generate insights about our customers’ product and manufacturing processes and leverage existing computer vision tools to develop novel image analysis technology that will be run on large & continuously growing datasets of images. To this end, scalability of algorithms, repeatability of measurements, and robustness of data extraction are paramount. You’ll be our ideal candidate if you can identify impactful applications of computer vision and/or machine learning and implement them in a way that delivers highly accurate and repeatable results for our customers. We are an Equal Opportunity employer committed to a diverse workforce in an inclusive working environment. We do not discriminate on the basis of race, ethnicity, religion, gender, gender identity, sexual orientation, age, marital status, veteran status, or disability status. All candidates must have the unrestricted right to work in the United States.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T20:49:04.000Z"
+  },
+  "company": {
+    "name": "Instrumental Inc.",
+    "link": "https://www.linkedin.com/company/instrumental-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 104000,
+    "max_value": 176000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Medical Devices,Health, Wellness and Fitness,Hospital &amp; Health Care",
+    "description": "iHealth Labs is on a mission to inspire and enable people to manage diabetes and hypertension. We are working side by side with patients and doctors in the US. iHealth is a Sunnyvale-based healthcare and technology startup that introduced the first smartphone-connected blood pressure monitor in the world and is offering a line of award-winning mobile health devices.]  If you're ready to guide technical decision-making and work hands-on in the health care industry, this is the job for you. Our core product includes a web application built in React, mobile applications written in React Native and our award winning IoT devices.  As a key member of our engineering team, you will help design, build, and maintain systems necessary to continue our rapid growth. You should be motivated to learn new technologies and be ready to drive technical work. Qualifications Additional Information  All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T00:00:00.000Z"
+  },
+  "company": {
+    "name": "iHealth Labs",
+    "link": "https://www.linkedin.com/company/ihealth-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91500,
+    "max_value": 198700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

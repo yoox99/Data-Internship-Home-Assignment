@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Who We Are  2K develops and publishes interactive entertainment globally for console systems, handheld gaming devices and personal computers, including smartphones and tablets. 2K is a leading publisher of today’s most popular gaming genres and most well-known for critically acclaimed game franchises like NBA 2K, WWE 2K, BioShock, Borderlands, Evolve, XCOM and the beloved Sid Meier’s Civilization.  Mass Media is the premier engineering group for 2K Publishing’s Global Services. Since 1995, we’ve developed deep and multifaceted engineering expertise in video games. Whether it's platform optimization, multiplayer/networking, rendering, console certification, tools and pipelines – we’ve done it all!  Because we're part of Global Services Technology, we're at the heart of all our games. We provide the engineering to support the matrix of platforms and storefronts of today, innovative technical solutions to the problems of tomorrow, and connective tissue across 2K's studios! In short, when some of the best studios in the world have needs, we can answer the call.  What We Need  We are looking for a passionate software engineer who has a high bar for the quality of their code as well as a desire to make outstanding games. In this role you will collaborate with fellow engineers and producers to address a wide variety of engineering challenges such as online multiplayer, performance optimization, and console porting. If you're looking to expand your skill set, push your limits in taking on the toughest problems that no one else wants to tackle, and get your hands on some exceptional IP, then this is right position for you.  What You'll Do",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T15:57:26.000Z"
+  },
+  "company": {
+    "name": "2K",
+    "link": "https://www.linkedin.com/company/2k-games"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Moorpark",
+    "region": "CA",
+    "postal_code": "93020",
+    "street_address": null,
+    "latitude": 34.285404,
+    "longitude": -118.88088
+  }
+}

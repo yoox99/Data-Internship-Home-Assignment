@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Universal Content",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Every day, tens of millions of people from around the world come to Roblox to play, learn, work, and socialize in immersive digital experiences created by the community.  Our vision is to build a platform that enables shared experiences among billions of users. This is what’s known as the metaverse: a persistent space where anyone can do just about anything they can imagine, from anywhere in the world and on any device. The breadth of opportunities, and the evolving demands of this first-of-its-kind platform, ensure that your avenues for growth are always expanding and flexible.  Join us and you’ll usher in a new category of human interaction while solving exceptional challenges that you won’t find anywhere else. The Data Science & Analytics organization’s mission is to increase our speed, frequency and acumen of making decisions at scale by instilling a data-influenced approach to building products. We cover a wide area of the data spectrum including analytical data engineering, product analytics, experimentation, causal inference, statistical modeling and machine learning. Aligned and partnering with product verticals, we use this extensive tool belt to discover new opportunities and unmet use cases, influence and shape the product roadmap and prioritization, build data products and measure impact on our community of players and developers. The Universal Content team’s mission is to assist our developers in reaching the widest audience possible. By working on broadly scoped problems such as content localization and suitability, you will be directly unlocking growth potential for our creator community. As a data scientist, you will be a key partner to our product and engineering teams to shape the future of Roblox. You’ll partner with data scientists, product managers, engineers and leaders across the company to better understand our players and builders, performing ad hoc analysis, creating dashboards, defining KPIs, applying models and designing A/B experiments. You will help Roblox innovate as a game creation and social coplaying platform, break new grounds for the gaming industry and data science.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T04:00:14.000Z"
+  },
+  "company": {
+    "name": "Roblox",
+    "link": "https://www.linkedin.com/company/roblox"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 139000,
+    "max_value": 216000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Mateo",
+    "region": "CA",
+    "postal_code": "94406",
+    "street_address": null,
+    "latitude": 37.54715,
+    "longitude": -122.3144
+  }
+}

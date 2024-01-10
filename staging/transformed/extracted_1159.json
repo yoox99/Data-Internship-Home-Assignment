@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer 3",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Oracle, the world leader in Enterprise Cloud, is hiring the best and brightest technologists in the industry as we continue to add customer-centric, world-class, leading edge, secure, hyper-scale based solutions throughout all levels of the cloud stack. Oracle’s Cloud applications are used by thousands of customers across the globe and are the broadest, most innovative in the industry, providing businesses with adaptive intelligence, standardized business processes and competitive advantage at low cost. You would be part of Oracle Customer Experience (CX) team that offers leading comprehensive solutions for Sales, Marketing, Service, Helpdesk, Social, and Commerce on the cloud. Build large-scale enterprise performant applications adhering to Oracle standards. Involve in system architecture designing and definining engineering best practices. Work with global team of technical architects, developers, QA, product owners, support engineers and other stakeholders in delivering highly reliable quality product. Efficiently collaborate with cross teams and drive successful integration and implementation. Participate in code reviews and follow agile methodology to ensure timely delivery of high quality features. Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.  As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.  Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience. Colorado Pay Range: from $66,000 to $167,000 per annum; eligible for bonus and equity.  Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience and market conditions, as well as reflect Oracle’s differing products, industries and lines of business. Candidates are typically placed into the range based on the preceding factors as well as internal peer equity.  Oracle offers a comprehensive benefits package which includes the following: Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It’s when everyone’s voice is heard and valued, that we are inspired to go beyond what’s been done before. That’s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.  Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:22:58.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Broomfield",
+    "region": "CO",
+    "postal_code": "80020",
+    "street_address": null,
+    "latitude": 39.923985,
+    "longitude": -105.08166
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "This Jobot Job is hosted by Bashar Sbeini  Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.  Salary $120,000 - $150,000 per year We are the #1 cloud security company worldwide! Our AI analytics allows us to lead in this industry with modern day cloud solutions. Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T09:06:03.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

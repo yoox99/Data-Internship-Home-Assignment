@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Education Management,Information Services,Information Technology and Services",
+    "description": "At EAB , our mission is to make education smarter and our communities stronger. We harness the collective power of more than 1,900 schools, colleges, and universities to uncover and apply proven practices and transformative insights. And since complex problems require multifaceted solutions, we work with each school differently to apply these insights through a customized blend of research, technology, and services. From kindergarten to college and beyond, EAB partners with education leaders, practitioners, and staff to accelerate progress and drive results across three key areas: enrollment management, student success, and institutional operations and strategy.  At EAB, we serve not only our partner institutions but each other—that's why we are always working to make sure our employees love their jobs and are invested in their community. See how we've been recognized for this dedication to our employees by checking out our recent awards .  For more information, visit our Careers page. Site Reliability Engineer  The Site Reliability Engineering team is responsible for building and improving EAB’s information systems’ dynamic server infrastructure -- making it more effective at running efficient, high-availability, open systems. The ideal candidate will have a complementary set of experiences and skills (software, systems, network engineering and systems administration, to name a few) and the inherent passion to automate systems operations. This role collaborates with the Information Technology and Engineering teams to provide a highly scalable and secure infrastructure.  This position location is preferred in Richmond, VA and open to full time remote work. Engineer Automated Server Provisioning and Maintenance Tools Support Operations Training, Communication, and Documentation Consistent with our belief that our employees are our most valuable resource, EAB offers a competitive benefits package. _________________________________________________________________________________________________________________________________  At EAB, we believe that to fulfill our mission to “make education smarter and our communities stronger” we need team members who bring a diversity of perspectives to the table and a workplace where each team member is valued, respected and heard.  To that end, EAB is an Equal Opportunity Employer, and we make employment decisions on the basis of qualifications, merit and business need. We don’t discriminate on the basis of race, religion, color, sex, gender identity or expression, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T00:41:29.000Z"
+  },
+  "company": {
+    "name": "EAB",
+    "link": "https://www.linkedin.com/company/eab_"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Do you have experience working with or building information retrieval, search or question answering systems? Are you passionate about functional and operational performance? Do you want a chance to use cutting-edge tools, technologies and work in close collaboration with machine learning scientist to deliver value to millions of customers?  Amazon is looking for a Machine Learning Engineer for initiatives within Alexa Web Info which is part of our ongoing Alexa Information efforts focused on reinventing information extraction and retrieval for a voice-forward, multi-modal future.  You will have an opportunity to directly impact the customer experience, design, architecture, and implementation of products that will be used every day by people you know. We're looking for someone passionate about innovating on behalf of customers, who demonstrates strong product ownership and is willing to think in new ways to solve difficult problems.  Job responsibilities Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us. An ideal candidate will have experience or have demonstrated expertise in some of the following: - Amazon.com Services LLC  Job ID: A1673578",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T09:39:25.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

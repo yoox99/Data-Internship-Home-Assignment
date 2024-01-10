@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "IT Engineer (Office 365)",
+    "industry": "Nonprofit Organization Management",
+    "description": "Arlington, Virginia Engineering and IT 4839 Are you a natural communicator and problem-solver who is excited by the ability to regularly interact with your customers and colleagues?  Are you the go-to in your friend circle when someone has a technical question because of your knack for explaining complex concepts? Are you interested in putting your skills to work in a mission-driven organization that is helping people reach their full potential? If this sounds like you, read on!   The IT Operations team at Stand Together is seeking an IT Engineer focused on Office365. In this role, you will drive best practices for over 1000 end-users and be responsible for the management, administration, and governance of the Office365 tenant, including Exchange Online, Teams Online, SharePoint Online, OneDrive, Security and Compliance Center, and more.    This is a strategic role that involves innovative planning, problem solving at the tier 3 level, and the ability to develop strong partnerships across our IT Operations team and with our employee-customer base. You'll be part of a three-person sub-team working cross-collaboratively with other SME's and product experts with a high sense of urgency and impact. We're looking for a real thought leader and subject matter expert who is ready to take on a more entrepreneurial role. Stand Together helps social entrepreneurs supercharge their efforts to help people improve their lives. We connect them with passionate partners and the resources necessary to make a greater difference.   Through our philanthropic community, we tackle some of the nation's biggest challenges so that every person has the opportunity to realize their extraordinary potential.  Stand Together partners with people from diverse perspectives and backgrounds-including people in education, business, community non-profits, and public policy-to accomplish more together than any of us could on our own. Working at Stand Together is different from many other organizations. We have a relentless commitment to a culture based on a business philosophy called Market Based Management ® (MBM ® ). Informed by the principles that allow a free and open society to flourish, MBM® prepares individuals to innovate, improve, and transform while fostering a healthy, growing organization that creates long-term value for its clients and supporters and fulfillment for its employees.   We believe that diversity in experiences, perspectives, knowledge and ideas fuels creativity, broadens knowledge, and helps drive success. That's why we're proud to be an equal opportunity employer and strive to treat all employees and applicants with honesty, dignity, respect and sensitivity. We welcome all qualified applicants regardless of color,race, religion, religious creed, sex, gender or gender identity, gender expression, sexual orientation, national origin, citizenship, ethnicity, ancestry, age, physical disability, mental disability, medical condition, pregnancy (including medical needs which may arise from pregnancy, childbirth, or related medical conditions), military and veteran status, genetic information, marital or familial status, political affiliation, or any other legally recognized protected basis under federal, state or local laws, regulations or ordinances.    #PM19",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:45:50.000Z"
+  },
+  "company": {
+    "name": "Stand Together",
+    "link": "https://www.linkedin.com/company/standtogether"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

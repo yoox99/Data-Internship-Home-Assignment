@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Systems Engineer",
+    "industry": "Internet",
+    "description": "Prescient Solutions is an award-winning, Chicagoland-based IT outsourcer. For more than 25 years we have been providing CIO-level advisory support and on-site IT services to small, mid-sized and global organizations and government entities. We are committed to making our clients' businesses run better by adding more value to their organizations through technology. If you are looking for an opportunity to join a team where you can drive your career while being part of a company that values the ability to learn and grow, this is your chance! Prescient Solutions offers a great work environment that encourages teamwork to achieve a greater purpose while providing a higher level of service through better communication.     We are looking for a dynamic who shares our commitment and believes in the value of communication and client interaction. As a , you will establish, maintain, and provide the engineering direction needed to connect and configure Microsoft servers on enterprise networks. You will also be responsible for working cross-functionally across several clients' enterprises between technology and the rest of their business to design and implement large scale solutions. You will implement Prescient Solutions' best practices and continually update skills and certifications to keep current with the most current technology.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:32:38.000Z"
+  },
+  "company": {
+    "name": "Prescient Solutions",
+    "link": "https://www.linkedin.com/company/prescient-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 51000,
+    "max_value": 78500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westchester",
+    "region": "IL",
+    "postal_code": "60154",
+    "street_address": null,
+    "latitude": 41.85582,
+    "longitude": -87.88214
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Tools Engineer",
+    "industry": "Consumer Electronics",
+    "description": "We are a team of Software Tools Engineers developing web based tools and applications for internal Engineering teams.  Our work supports the engineers building the products that millions of people use every day to live a better life.   Imagine what you could do here.  At Apple, new ideas have a way of becoming products, services, and customer experiences very quickly.  Every single day, people do amazing things at Apple.  Do you want to impact billions of users by developing an extraordinary product with a prime focus on accuracy, understandability and performance of the product? You will become part of a hands-on development team that furthers engineering perfection, creativity and innovation.  Dynamic, inspiring people and innovative technologies are the norm here.  We want you to join our team if you are a resourceful engineer with the desire to research and develop solutions that do not yet exist.  Bring passion and dedication to your job and there's no telling what you could accomplish. Strong fundamentals with one or more of C, C++, Java.  Strong hands-on experience in object-oriented programming.  Python experience at least 1-2 years  Strong communication skills  Web development using:  Python/Django (or similar MVC backend frameworks)  JavaScript (jQuery, Angular, React)  CSS/SASS  Full-solution/full-stack design experience  Relational database design  UI design and implementation  Git  Preferred Additional Skills:  Server Administration / DevOps   iOS development  Extensive experience with UNIX shell  Exposure to scalable systems  Experience with containers (Docker, Kubernetes) We design, development, and deploy SW for internal engineering teams.   Projects include:   • Complex data storage (relational, non-relational, block, file)   • Backend logic for data organization and processing   • Custom cross-system APIs   • Custom authentication/authorization mechanisms   • iOS/macOS apps   • HW test automation   • Full-stack ownership (from communicating with customers to design, implementation, and deployment) BS or MS Computer Science/Engineering, or equivalent    Role Number: 200241040",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:44:57.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97600,
+    "max_value": 184000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

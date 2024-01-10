@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Embedded Software Engineer",
+    "industry": "Consumer Electronics,Automotive",
+    "description": "At Bose, we are passionate about helping people reach their fullest human potential so that they can feel more, do more, and be more. Working as a member of the Embedded Software Team, come astonish our Bose Automotive Division with your outstanding ability to create software solutions for a superlative audio experience in a car.  As an Embedded Software Engineer working for the Bose Software Organization, you will be part of a close-knit team within the world-wide Bose Automotive Software and Systems Group. You will help developing and maintaining cutting-edge and highly customized audio amplifier software for various OEMs that lead to unique and exciting experiences. These solutions will involve a variety of technologies, including AutoSAR, CAN A2B, and Ethernet communications and built-in diagnostic protocols with the goal to deliver the exceptional Bose experience to OEMs and their end customers. Bose is an equal opportunity employer that is committed to inclusion and diversity. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. For additional information, please review: (1) the EEO is the Law Poster (http://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf); and (2) its Supplements (http://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm). Please note, the company's pay transparency is available at http://www.dol.gov/ofccp/pdf/EO13665_PrescribedNondiscriminationPostingLanguage_JRFQA508c.pdf. Bose is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the application or employment process, please send an e-mail to Wellbeing@bose.com and let us know the nature of your request and your contact information.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:02:56.000Z"
+  },
+  "company": {
+    "name": "Bose Corporation",
+    "link": "https://www.linkedin.com/company/bose-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81300,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Framingham",
+    "region": "MA",
+    "postal_code": "01703",
+    "street_address": null,
+    "latitude": 42.28156,
+    "longitude": -71.41882
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Test Engineer",
+    "industry": "Mental Health Care",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:14:06.000Z"
+  },
+  "company": {
+    "name": "Mindstrong ",
+    "link": "https://www.linkedin.com/company/mindstrong"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

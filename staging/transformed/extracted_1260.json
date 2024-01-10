@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Financial Services,Information Services,Information Technology and Services",
+    "description": "GLG’s team builds the platform technology that connects GLG’s clients to our experts. Based primarily in our Austin and New York offices, our team of developers, IT engineers, operations engineers, and product managers are responsible for GLG’s technology initiatives, product development, and IT operations.  Reporting to the Director of the Enterprise Transformation Engineering, the Senior Software Engineer is a key member of the Enterprise Transformation team. The Enterprise Transformation Engineering team is developing and implementing best-in-class business transformation solutions that create the connective tissue across our business technology eco-system to track revenue throughout the company. This includes next generation of revenue micro services, using queues (AWS SQS), topics (AWS SNS), Lambdas, CD/CI using Github Actions, Regression testing with Wiremock and monitored by Cloudwatch and AWS X-RAY, all driven from a single source of truth in Salesforce. This is a great opportunity to get exposed to leading AWS technologies and micro services, while working on green field projects. GLG is the world’s insight network. Our clients rely on GLG’s global team to connect with powerful insight across fields from our network of 900,000+ experts (and the hundreds of new experts we recruit every day).  We serve thousands of the world’s best businesses, from Fortune 500 corporations to leading technology companies to professional services firms and financial institutions. We connect our clients to the world’s largest and most varied source of first-hand expertise, including executives, scientists, academics, former public-sector leaders, and the foremost subject matter specialists.  GLG’s industry-leading compliance framework allows clients to learn in a structured, auditable, and transparent way, consistent with their own internal compliance obligations and the highest professional ethical standards. Our compliance standards are a major competitive differentiator and key component of the company’s culture.  To learn more, visit www.GLGinsights.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:40:52.000Z"
+  },
+  "company": {
+    "name": "GLG",
+    "link": "https://www.linkedin.com/company/glg"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 96200,
+    "max_value": 154000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

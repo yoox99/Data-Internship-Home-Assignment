@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T16:34:36.000Z"
+  },
+  "company": {
+    "name": "Liberty Lending, LLC",
+    "link": "https://www.linkedin.com/company/liberty-lending-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62100,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

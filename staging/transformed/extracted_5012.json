@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Electrical Test Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer Networking",
+    "description": "(302) 214-0551  praveen_us@falconsmartit.com  Find all current job openings at our Career Page  https://www.falconsmartit.com/FalconCareer.html  Follow us on LinkedIn for Job Opportunities  https://www.linkedin.com/company/falconsmartit/",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:42:26.000Z"
+  },
+  "company": {
+    "name": "Falcon Smart IT (FalconSmartIT)",
+    "link": "https://uk.linkedin.com/company/falconsmartit"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dover",
+    "region": "DE",
+    "postal_code": "19901",
+    "street_address": null,
+    "latitude": 39.15883,
+    "longitude": -75.52114
+  }
+}

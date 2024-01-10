@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Consumer Electronics,Computer Software,Electrical/Electronic Manufacturing",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T00:04:55.000Z"
+  },
+  "company": {
+    "name": "Larsen &amp; Toubro",
+    "link": "https://in.linkedin.com/company/larsen-&amp;-toubro-limited"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

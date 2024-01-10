@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Internet,Management Consulting",
+    "description": "Our mission is to help people everywhere find a job and company they love. We're transforming the workplace experience through the power of transparency. As the worldwide leader in employer branding and insights, our vision is for a world where transparency empowers the workforce and motivates companies to become better employers.  Please note this role is open to remote hiring. Our main office locations are in San Francisco, CA, Chicago, IL and Uniontown, OH.  You will be part of a highly talented team of machine learning engineers and data scientists, using the latest machine learning technologies to improve Glassdoor's products on user generated content, such as company reviews and interview questions.  Join us if you have a good understanding of NLP, Search, and machine learning techniques and experience implementing those models at large scale in real-world applications. Operating transparently at Glassdoor is fundamental to us walking the talk as we advocate for transparency everywhere. The ultimate goal is not just to change how we operate at Glassdoor, but for every employer to follow our lead!  Glassdoor is committed to equal treatment and opportunity in all aspects of recruitment, selection, and employment without regard to race, color, religion, national origin, ethnicity, age, sex, marital status, physical or mental disability, gender identity, sexual orientation, veteran or military status, or any other category protected under the law. Glassdoor is an equal opportunity employer; committed to creating a community of inclusion, and an environment free from discrimination, harassment, and retaliation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T05:10:54.000Z"
+  },
+  "company": {
+    "name": "Glassdoor",
+    "link": "https://www.linkedin.com/company/glassdoor"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

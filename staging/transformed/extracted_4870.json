@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Cloud Operations Engineer/ Site Reliability Engineer (Remote, USA)",
+    "industry": "Information Technology and Services,Computer Software,Computer Networking",
+    "description": "ActiveVideo is a Silicon Valley company that harnesses the power of the cloud to accelerate multi-platform television experiences and is the developer of AppCloud and CloudTV, cloud-based software virtualization platforms that enables service providers, content aggregators and CE manufacturers to deliver the latest TV experiences to millions of set-tops and connected devices. We are based in San Jose, CA, with an office in Hilversum, the Netherlands. As a Cloud Operations Engineer at ActiveVideo you will use leading edge technologies to build, deploy, operate, and maintain configuration management and orchestration routines to deliver and scale applications and services in virtualized environments and in the cloud as part of a small, geographically distributed Cloud Operations team. We are committed to delivering best-in-class system uptime and operations observability through automation and instrumentation.  This is a key technical role within the Cloud Platform and Operations organization that interfaces closely with the Cloud Infrastructure, Development teams, Product and Customer Engagement teams. The ideal candidate is a self-starter with a strong focus on collaboration, automation, continuous improvement, and an innovative mindset that will lead to operational efficiencies, and increased compliance. The candidate must have a track-record of managing live productions environments with strict availability targets and extensive experience building automation to support continuous software releases. Additional Information  You’ll become part of a team consisting of strong, delivery-minded technologists. The culture is highly informal and our structure flat. This enables our employees to be flexible and to research their ideas. And of course, we offer a competitive package with competitive salaries, medical, dental, vision, life, 401(k), and PTO starting at 15 days for the first year of service.  We're an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:00:00.000Z"
+  },
+  "company": {
+    "name": "ActiveVideo",
+    "link": "https://www.linkedin.com/company/activevideo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Miami",
+    "region": "FL",
+    "postal_code": "33299",
+    "street_address": null,
+    "latitude": 25.775084,
+    "longitude": -80.1947
+  }
+}

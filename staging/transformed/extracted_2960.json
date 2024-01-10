@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Machine Learning",
+    "industry": "Internet,Financial Services",
+    "description": "At Carta we create owners and make private markets liquid.  We live in a world where some people live on the equity stack and enjoy exponential wealth growth and preferential tax treatment; others live on the debt stack and may work their entire lives for a company and retire only with the cash they’ve managed to save from their paychecks. Our contribution to solving the wealth inequality problem is moving people from the debt stack (payroll) to the equity stack. By making it as easy to issue equity to employees as it is to put them on payroll, we can create more owners.  At Carta, we are helpful, transparent, fair, and kind. We are relentless executors, unconventional thinkers, and masters of our craft.  To learn more, here is what one of our investors wrote about leading our Series F. At Carta we create owners and make private markets liquid.  We live in a world where some people live on the equity stack and enjoy exponential wealth growth and preferential tax treatment; others live on the debt stack and may work their entire lives for a company and retire only with the cash they’ve managed to save from their paychecks. Our contribution to solving the wealth inequality problem is moving people from the debt stack (payroll) to the equity stack. By making it as easy to issue equity to employees as it is to put them on payroll, we can create more owners.  At Carta, we are helpful, transparent, fair, and kind. We are relentless executors, unconventional thinkers, and masters of our craft.  To learn more, here is what one of our investors wrote about leading our Series F. Our mission is to enable data-driven decisions and products across Carta by collecting accurate data, building scalable infrastructure and delivering advanced analytics. This is a foundational role in Carta’s fast-growing Data Organization, working on one of the world’s most valuable data sets at one of the fastest-growing FinTech companies of all time. The team consists of experts in product analytics, machine learning and data engineering. We partner with each other and Cartan’s across the company to solve impactful problems. Our team strongly believes that being helpful accelerates results and we support one another to be successful at Carta. As a Data Scientist, ML at Carta, you’ll partner with domain experts across the company to analyze and explore Carta’s proprietary data set. You will build statistical models that power new products and accelerate Carta’s business. You will own significant projects directly aligning with Carta’s company-wide initiatives of data products and data quality. Your work will empower leaders across the company to make good product decisions and optimize operational efficiency. Additionally, you will have the opportunity to set best practices for integrating our ML models into production helping Carta’s current and future data scientists. Candidates must have a strong foundation in statistics, be proficient in SQL and Python, and have an analytical mindset. You have a strong bias towards simplicity, are excited by “zero to one” projects, and can efficiently communicate findings to leadership. Example traits that we value:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-10T20:14:48.000Z"
+  },
+  "company": {
+    "name": "Carta",
+    "link": "https://www.linkedin.com/company/carta--"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 88000,
+    "max_value": 135000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

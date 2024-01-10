@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist I, Product Analytics",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Tinder brings people together. With tens of millions of users and a presence in every country on earth, our reach is expansive and rapidly growing.  The Analytics team powers data-informed decision-making at Tinder. We are looking to add a creative Data Scientist to our growing Analytics team. As a Data Scientist I on the Analytics team, you will partner with Product, Marketing, Engineering, and Finance to improve our outstanding platform.  You will use comprehensive datasets to develop experiments, understand metrics, develop automated reports, and generate exploratory insights to guide our business solutions. You will collaborate with other members of our team to surface important insights - exploratory analysis, experiment results, collaborations with other teams (consumer insights/strategy/etc) - to our partner teams and across the company. These insights influence both the performance of our business and the experience of our members.  This role has the opportunity to work on either the Core, Revenue, or Growth features of the Tinder app - during the interview process, we will work closely with you to define what team would be the best match.  The position can sit either in Los Angeles, Palo Alto, or our San Francisco office. At Tinder, we don’t just accept difference — we celebrate it, we support it, and we thrive on it for the benefit of our employees, our product, and our community. We strive to make our workplace an inclusive and diverse environment, giving people from all walks of life the opportunity to have a voice. We champion and encourage those who bring different perspectives, ideas, and creativity to join our team dedicated to bringing people together across the globe. Tinder is proud to be an equal opportunity workplace where we welcome all people regardless of sex, gender identity, race, ethnicity, disability, or other lived experience.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-07T19:43:22.000Z"
+  },
+  "company": {
+    "name": "Tinder",
+    "link": "https://www.linkedin.com/company/tinder-incorporated"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

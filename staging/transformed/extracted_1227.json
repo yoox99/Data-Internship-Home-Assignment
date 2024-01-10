@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Lifecycle Analytics",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Square builds common business tools in unconventional ways so more people can start, run, and grow their businesses. When Square started, it was difficult and expensive (or just plain impossible) for some businesses to take credit cards. Square made credit card payments possible for all by turning a mobile phone into a credit card reader. Since then Square has been building an entire business toolkit of both hardware and software products including Square Capital, Square Terminal, Square Payroll, and more. We’re working to find new and better ways to help businesses succeed on their own terms—and we’re looking for people like you to help shape tomorrow at Square. Data Scientists on the Lifecycle Analytics team at Square embed within product teams and leverage engineering, analytics, and machine learning to empower data-driven decision making in the full cycle of product development. This team leads experimentation and growth initiatives, develop automation solutions to personalize product experiences, provide insights to our sellers about their business, and drive strategic decisions with data. Square’s mission is economic empowerment, and our team supports this by using data to understand and empathize with our customers, thereby enabling us to build a remarkable product experience.  The Lifecycle product team is responsible for building and optimizing several core experiences: Square’s public website, onboarding flows, Support Center, and the Square Dashboard tool. These surface areas serve as the face of the company, and are among the first impressions for many customers. The product team focuses on platform tools that have outsized benefits and help other teams at Square to iterate faster. Together, these touch points paint a vivid picture for our customers on how the Square ecosystem can solve their needs - today and tomorrow. At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance(at)squareup.com. We will treat your request as confidentially as possible. In your email, please include your name and preferred method of contact, and we will respond as soon as possible. At Square, we want you to be well and thrive. Our global benefits package includes:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:05:29.000Z"
+  },
+  "company": {
+    "name": "Square",
+    "link": "https://www.linkedin.com/company/joinsquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 119000,
+    "max_value": 192000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

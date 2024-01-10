@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Platform Operations: Site Reliability Engineer  StockX is looking for Site Reliability Engineers to help us build and scale our platform from a data driven perspective. You’d join as a foundational member of our Platform Operations SRE team and have the opportunity to directly influence the roadmap and technology choices as we rapidly scale our team and infrastructure. You’ll be responsible for shaping and developing initiatives like our monitoring & alerting, telemetry & tracing infrastructure, and incident response. Partnering with your teammates to: Our global platform offers unprecedented access to current culture while our data-driven, bid-ask model provides buyers with the real-time visibility to know they’re getting a fair price. And, unlike other ecommerce sites, StockX hand-checks every purchase (20,000+ daily trades) at one of our regional authentication centers.  StockX’s special formula has rocketed the company to a multibillion dollar valuation, with 10M+ lifetime trades on the platform more than half of those coming in the last year. And we’re just getting started.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T00:00:00.000Z"
+  },
+  "company": {
+    "name": "StockX",
+    "link": "https://www.linkedin.com/company/stockx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Detroit",
+    "region": "MI",
+    "postal_code": "48242",
+    "street_address": null,
+    "latitude": 42.33294,
+    "longitude": -83.04784
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Insurance,Research",
+    "description": "Working out of our Chevy Chase, MD/Washington DC office, GEICO’s Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.  As a , you will be a member of this diverse and highly skilled team. On any given day, you may be exploring new data sets with a business or IT partner, learning the intricacies of a business process, building models, or coordinating the productionalization of a model. You will use a variety of tools (including SQL, Python, R, Spark, and shell scripting) in a variety of environments (including various databases, Linux servers, and Hadoop). You’ll work in a highly collaborative, team environment where you will quickly develop wide ranging exposure to new methods and best practices for conducting data science in a commercial environment. To ensure our associates receive the training and support needed to excel and thrive, associates hired for this position are generally required to work at the GEICO building during their orientation period. GEICO follows federal and state guidance and legal requirements regarding measures designed to limit the spread of COVID-19, including masking and social distancing. Measures may vary by GEICO location. GEICO Total Rewards Program*",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T03:15:49.000Z"
+  },
+  "company": {
+    "name": "GEICO",
+    "link": "https://www.linkedin.com/company/geico"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 84400,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chevy Chase",
+    "region": "MD",
+    "postal_code": "20861",
+    "street_address": null,
+    "latitude": 38.98284,
+    "longitude": -77.08646
+  }
+}

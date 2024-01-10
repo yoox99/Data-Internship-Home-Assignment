@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist 2 (Remote)",
+    "industry": "Insurance",
+    "description": "The Data Scientist 2 uses mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions. The Data Scientist 2 work assignments are varied and frequently require interpretation and independent determination of the appropriate courses of action. The Data Scientist 2 develops, maintains, and collects structured and unstructured data sets for analysis and reporting. Creates reports, projections, models, and presentations to support business strategy and tactics. Understands department, segment, and organizational strategy and operating objectives, including their linkages to related areas. Makes decisions regarding own work methods, occasionally in ambiguous situations, and requires minimal direction and receives guidance where needed. Follows established guidelines/procedures. 40",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Humana",
+    "link": "https://www.linkedin.com/company/humana"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

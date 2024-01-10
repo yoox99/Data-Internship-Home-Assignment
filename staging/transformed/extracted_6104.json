@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer - 100% Remote",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Headquartered in Seattle, WA, we are a venture-backed startup that has created a new category of voice tech infrastructure. Our conversational intelligence API unlocks proprietary machine learning algorithms that integrate with a brand's communication systems to identify & highlight priorities, actions, and insights born from conversational workforce collaboration in real-time. Backed by Amazon, Techstars, and the same folks behind SendGrid, Microsoft Speech, & FlowRoute, Bixby. In addition, we count Twilio, Google Cloud & Nvidia as our technical partners. We operate at the forefront of ML/NLP!!  We are actively seeking a Principal SRE to empower our entire R&D organization. Alongside a diverse distributed Infrastructure group, you'll participate in building the next iteration of our service platform; focusing on the reliability, operability, observability, flexibility, and cost-effectiveness of our production infrastructure.  What You Will Be Doing What You Need for this Position (+) Kubernetes, EKS, ECS  (+) Kafka or related  (+) Linux kernel internals and networking protocols  (+) Datadog or NewRelic  So if you are an SRE with experience, please apply today and email caroline.veillon@Optello.com! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Caroline.Veillon@Optello.com Caroline Veillon - Lead Recruiter - Optello  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.  Optello will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T13:23:40.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

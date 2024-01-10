@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site-Reliability / Devops Engineer",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-04T23:18:59.000Z"
+  },
+  "company": {
+    "name": "The Carrera Agency",
+    "link": "https://www.linkedin.com/company/the-carrera-agency"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

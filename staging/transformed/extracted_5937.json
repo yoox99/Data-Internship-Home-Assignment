@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior DevOps Engineer",
+    "industry": "Information Technology and Services,Insurance,Hospital &amp; Health Care",
+    "description": "This position can be filed at the Professional level or the Senior level. Part of a dynamic team, you will be responsible for the installation, upgrade, and support of enterprise Linux servers and applications. As WPS embraces DevSecOps, most of our Linux systems are automated through a continuous delivery pipeline. To be successful in this role, you must be passionate about infrastructure automation, DevSecOps and must love to help customers solve complex issues with automated solutions. Arizona, Colorado, Connecticut, Florida, Georgia, Illinois, Indiana, Iowa, Michigan, Minnesota, Missouri, Nebraska, New Jersey, North Carolina, North Dakota, South Carolina, Texas, Virginia, Wisconsin You will be part of the DevOps - Linux and Core Infrastructure team, responsible for building and configuring the key technology components relied upon by WPS and all our business units. This is a small team, responsible for Linux, Unix, VMware, and server hardware. Two Senior and one Junior Linux Administrators will be your mentors. Our Sr. level individuals eventually will help train, coach, and support other team members (and other WPS teams) to write code that will manage infrastructure and application configurations. WPS Health Solutions is an innovator in health insurance and a worldwide leader in claims administration, serving millions of beneficiaries in the United States and abroad.  Founded in 1946, WPS offers health insurance plans for individuals, families, and seniors, and group plans for small and large businesses. We are a world-class claims processor and program administrator for the government’s Medicare program. And we manage benefits for millions of active-duty and retired military personnel and their families.  WPS has been named one of the World's Most Ethical Companies® by the Ethisphere® Institute for 10 years in a row Our purpose is to make healthcare easier for those we serve. Our values - Customer Focused, Individual Responsibility, Mutual Respect, and Driven & Passionate - are the core of who we are and how we conduct business every day. WPS Health Insurance offers high-quality health insurance plans for individuals and families, Medicare supplement plans for seniors, and group health plans for businesses of every size.  http://wpshealthsolutions.com/business-units/wpshi.shtml WPS Military and Veterans Health administers claims and provides customer service and related activities for the U.S. Department of Defense and the U.S. Department of Veterans Affairs and their beneficiaries.  http://wpshealthsolutions.com/business-units/wpsmvh.shtml WPS Government Health Administrators manages Medicare Part A and Part B benefits for more than 7 million beneficiaries. As one of the largest contractors for the Centers for Medicare & Medicare Services, we’ve served Medicare beneficiaries and their health care providers since 1966.  http://wpshealthsolutions.com/business-units/wpsgha.shtml WPS Health Plan offers Health Maintenance Organization and Point-of-Service plans to the group and individual markets in eastern and north-central Wisconsin, plus third-party administrator services.  http://wpshealthsolutions.com/business-units/wpshi.shtml EPIC Specialty Benefits provides businesses group insurance products that cover: http://wpshealthsolutions.com/business-units/epicsb.shtml",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:51:30.000Z"
+  },
+  "company": {
+    "name": "WPS Health Solutions",
+    "link": "https://www.linkedin.com/company/wps-health-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Iowa",
+    "region": "United States",
+    "postal_code": "50056",
+    "street_address": null,
+    "latitude": 42.074657,
+    "longitude": -93.50006
+  }
+}

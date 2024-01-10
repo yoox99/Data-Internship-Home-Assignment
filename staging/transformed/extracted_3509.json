@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "If you’re thinking ‘scale’, think bigger and don’t stop there. At Walmart Labs we don’t just innovate, we enable transformations across stores and different channels for the Walmart experience. Take a regular day at Walmart Labs and match that with 260 million customers a week, 11,695 stores, under 59 banners in 28 countries and e-commerce websites in 11 countries. That’s Walmart Labs for you.  We innovate to deliver a simple and seamless experience for our customers. Our tech talent solves the biggest and most complex problems. They drive digital transformation where data and analytics are enabling us to better serve our customers and create a digital relationship with them. As our customers evolve and adapt, we are taking it a few notches further here. We’re changing what customers can expect from the experience of shopping, from the physical stores, to mobile, social, and even online; we’re not just ready for the future of shopping, we’re creating it. You have a deep interest and passion for technology. You love writing and owning codes and enjoy working with people who will keep challenging you at every stage. You have strong problem solving, analytic, decision-making, and excellent communication with interpersonal skills. You are self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities.  You’ll sweep us off our feet if… The Data Strategy & Insights organization at Walmart provides Data Foundation Infrastructure, Visualization Portal, Machine Learning Platform, Customer platform and Data Science products that form part of core platforms and services that drive Walmart business. The group also develops analytical products for several verticals like Marketing, Finance, Supply chain, Pricing, Customer, HR etc. Our team is responsible for creating and internalizing data science solutions for Walmart customers across the Globe and shopping in various ways like in Brick-and-Mortar Store, dot com, mobile etc. The team is responsible for time critical, business critical and highly reliable solutions and products that influence Walmart business. The team is spread over multiple locations, and we work towards providing the best experience to our customers. Beyond competitive pay, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more. Join Walmart and your work could help over 265 million global customers live better every week. Yes, we are the Fortune #1 company. But you’ll quickly find we’re a company who wants you to feel comfortable bringing your whole self to work. A career at Walmart is where the world’s most complex challenges meet a kinder way of life. Our mission spreads far beyond the walls of our stores. Join us and you'll discover why we are a world leader in diversity and inclusion, sustainability, and community involvement. From day one, you’ll be empowered and equipped to do the best work of your life. Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2  years' experience in an analytics or related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science,  Information Technology or related field. Option 3: 4 years' experience in an analytics or related field. Preferred Qualifications... Data science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch) Primary Location...350 N SAINT PAUL ST, DALLAS, TX 75201-4240, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T22:18:47.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 79000,
+    "max_value": 112000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

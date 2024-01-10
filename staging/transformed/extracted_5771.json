@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Invoice Specialist - Remote",
+    "industry": "Biotechnology,Hospital &amp; Health Care,Pharmaceuticals",
+    "description": "Premier Research helps highly innovative bio-pharmaceutical and medical device companies transform life-changing ideas into reality. We take on the most challenging areas of study, with a special focus on unmet needs in such areas as Oncology, Analgesia, CNS, Rare Diseases, Dermatology and Pediatric Research.  We’re looking for a talented and innovative to join our dynamic team!  Working at Premier Research means being an individual - you will be recognised for your expertise and you will truly have an impact. You will be working in an aspiring and empowering environment with colleagues who are genuinely supportive regardless of location or seniority. Premier Research is on an exciting journey - there is a true buzz throughout the company, so come and be part of it!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:27:45.000Z"
+  },
+  "company": {
+    "name": "Premier Research",
+    "link": "https://www.linkedin.com/company/premier-research"
+  },
+  "education": {
+    "required_credential": "associate degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

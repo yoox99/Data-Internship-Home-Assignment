@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "As a SRE, you will lead day-to-day work to acquire, analyze, combine, synthesize, and structure data with clear definitions and sources for analytical consumption! This resource will collaborate with data consumers to identify meaningful datasets for analytical consumption.  Lead day-to-day development of data products using continuous deployment and integration practices...  Apply engineering standard methodologies in order to analyze, design, develop, deploy and support data analytics products...  Participate in agile story authoring, sizing, and demo sessions for product features...  Leading code reviews, providing feedback to the team and mentoring junior engineers are also part of this role! Preferred: Experience with Agile methodologies, experience in DevOps environment, Experience with user adhoc tools: power bi, business objects, Tableau; Consulting experience FIND YOUR FUTURE  We’re excited about the potential people bring to Northwestern Mutual. You can grow your career here while enjoying first-class perks, benefits, and commitment to diversity and inclusion.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T21:49:38.000Z"
+  },
+  "company": {
+    "name": "Northwestern Mutual",
+    "link": "https://www.linkedin.com/company/northwestern-mutual"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 72800,
+    "max_value": 97700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Franklin",
+    "region": "WI",
+    "postal_code": "53132",
+    "street_address": null,
+    "latitude": 42.900448,
+    "longitude": -88.02906
+  }
+}

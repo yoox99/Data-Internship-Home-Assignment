@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Accounting,Information Technology and Services,Management Consulting",
+    "description": "Are you an experienced, passionate pioneer in technology? A system's professional who wants to work in a collaborative environment. As an experienced Data Scientist, you will have the ability to share new ideas and collaborate on projects as a consultant without the extensive demands of travel. Our Strategy practice brings together several key capabilities that will allow us to architect integrated programs that transform our clients' businesses, including Corporate & Business Unit Strategy, Technology Strategy & Insights, Enterprise Model Design, Enterprise Cloud Strategy and Business Transformation.  Strategy professionals will serve as trusted advisors to our clients, working with them to make clear data-driven choices about where to play and how to win, in order to drive growth and enterprise value.  Strategy will help our clients:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T12:08:48.000Z"
+  },
+  "company": {
+    "name": "Deloitte",
+    "link": "https://www.linkedin.com/company/deloitte"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

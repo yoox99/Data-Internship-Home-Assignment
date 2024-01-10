@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "Metron's ORCA division in San Diego, CA is seeking software testers to contribute to the design and development of a family of large-scale defense and homeland security simulations. The successful candidate will be responsible for testing and evaluating ORCA’s applications and systems. Position Location: Liberty Station, San Diego, CA",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-18T01:21:21.000Z"
+  },
+  "company": {
+    "name": "Metron, Inc.",
+    "link": "https://www.linkedin.com/company/metron-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66900,
+    "max_value": 123000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

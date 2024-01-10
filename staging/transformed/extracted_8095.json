@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "site reliability engineer senior (Seattle OR Chicago OR Phoenix)",
+    "industry": "Consumer Goods,Food &amp; Beverages,Retail",
+    "description": "If you’ve got what it takes to help transform one of the most iconic brands in the world into a lean, efficient and highly automated platform, we’d like to talk to you.  As a Sr. Site Reliability Engineer, you will be responsible for the day-to-day maintenance, operational support, and reliability of Internet¬-based and in store systems. On an on-going basis, this position will help identify root causes of operational issues and partner with other team members to drive resolution. This role will be also responsible for planning and execution of work within the Starbucks Retail Technology team.  An effective Sr. Site Reliability Engineer will be detail oriented, have broad technical understanding within the domain, can work independently, and is a team performer. Success will require collaboration, ingenuity, and passion to deliver results.  As a member of our team, you will play an important role in defining how we do reliability engineering. It will require you to learn, refine, and document systems and processes. Your experience with Service Level Indicators (SLIs), Service Level Objectives (SLOs) and error budgets will help us develop our practice. You will be data driven in pursuit of reliability. Most importantly, you will proactively build relationships and exceed expectations.  This role requires your A-Game: technical proficiency, experience in enterprise systems and the courage to drive change required. So, if you believe, like we do, that a cup of coffee can change a life and change our world, come check us out and help us deliver that same amazing experience to our customers around the globe.  Models and acts in accordance with Starbucks guiding principles.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T12:10:20.000Z"
+  },
+  "company": {
+    "name": "Starbucks",
+    "link": "https://www.linkedin.com/company/starbucks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

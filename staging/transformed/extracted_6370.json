@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Consumer Electronics",
+    "description": "Imagine what you could do here.  At Apple, great ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.   Apple Corporate Finance Systems Engineering is looking for an Application Support Engineer for a critical payments application. The Corporate Systems group at Apple focuses on creative ways to engineer business solutions to meet growing needs of Apple’s Finance, Apple Pay, iTunes, Sales, Retail, and IT Service organizations. At core, our portfolio comprises of engineered custom solutions to process very high-volume micro-transactions from Apple Pay, iTunes Downloads, App Store, iPhone Activations, sales from Retail, Online, and Resellers, etc. These solutions are based on cutting edge enterprise technologies ranging from Server Side Java, Web Technologies, Search Platforms, Cloud Technology, Oracle and NoSQL Databases. Accurately processing such high volume transactions is our core strength. 2+ years of experience in Site Reliability Engineering / Application Support Engineering  3+ years of Software Development experience  Application and database engineering for scale  Application support practices and procedures for critical platforms  Application monitoring and profiling tools  Managing applications on cloud platforms, preferably AWS   Containers, build and release tools and deployment strategies  Familiarity with Docker is highly desired  Large scale database clusters integration  Familiarity with messaging platforms  Prior experience on cloud migration is a huge plus  Fundamental knowledge in Java  Scripting languages such as Bash and Python  Familiarity with search platforms In this role, you will be a part of Technical Operations, Application Support, Site Reliability Engineering for Cloud, Infrastructure Strategy, CI / CD for a payments platform. The role requires candidate to embrace a complex software product architecture to support a continuous stream of payments data to ensure accurate invoicing, disbursements, receipts and payments.    This role is responsible for infrastructure design and scalability to support the platform and for the related product development. The role will take actively monitor production health of the platform including tickets, operational retrospect’s and definition/management of necessary controls.    As business evolves, this role will identify utilities that can assist in operations and execute the product development for it. Monitoring, alerting, profiling tools, fault tolerance etc will be a charter for this role. The platform is a part of very fast paced initiates from a range of business units. Good communication, building business relationships and thriving in fast pace are necessary for this role. BS Computer Science or Equivalent    Role Number: 200264326",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T14:55:31.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

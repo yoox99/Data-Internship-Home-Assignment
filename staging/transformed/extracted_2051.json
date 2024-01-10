@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Software Engineer, Siri Cross-Device Interactions",
+    "industry": "Consumer Electronics",
+    "description": "Shape the future of technology interaction with our expanding set of home and personal devices that harness the intelligence of Siri. Our team is passionate about crafting seamless experiences by leveraging the full breadth of the capabilities and context of our user’s devices to accomplish a wide range of tasks. We develop frameworks and work closely with other Siri engineers, designers, and testers to facilitate their adoption and expand cross-device functionality within the Apple device ecosystem. Our team cares deeply about our customers and is committed to creating amazing product experiences for their benefit. 2+ years developing consumer-facing software  Strong object-oriented programming skills in at least one language, such as Swift, Objective-C, C++, Python, or Java  Ability to advocate for, refine, and ship excellent user experiences for our customers  Independently driven and excited to learn new technologies and deliver clean solutions for complex technical problems  Thrive in a highly cross-functional environment working closely with Server, Machine Learning Design, and QA teams As a part of the Siri Cross-Device Interactions team, you will support our efforts to design, prototype, and ship frameworks and features providing ways for our customers to leverage the full potential of each Apple device they interact with. You will work closely with other client frameworks and server engineers to ensure your architectures are efficient, privacy-sensitive, and future-proof. Creatively approaching problems while collaborating with other peer engineers will be key to successfully delivering functionality that spans different device platforms and Siri use-cases. You’ll continue to refine your engineering proficiency by shipping performant and reliable code that runs on the millions of Apple devices worldwide and enables new functionality throughout our ecosystem. B.S/M.S in Computer Science or equivalent experience.    Role Number: 200244864",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:46:38.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

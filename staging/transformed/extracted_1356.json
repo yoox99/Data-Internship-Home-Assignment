@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Integration Development - Austin, TX",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "LockerDome is an ad platform with a brain, designed specifically for performance-based advertising. The brain behind the platform is Neo, an in-house AI, which uses machine learning to process billions of data points and make intelligent decisions at lightning speed. Learn more at lockerdome.com.  As a Software Engineer, Integration Development on the Engineering & Product team, you will work on advertiser and publisher integrations as well as related infrastructure and tools.  This position reports to our Austin-based Principal Engineer. Candidates residing in (or near) Austin, TX are preferred. We know world-class talent lives all over the country, so we’re proud to offer employees the flexibility to work remotely from anywhere in the U.S. Whether it’s your living room, an Airbnb, or one of LockerDome’s hubs in St. Louis or Austin, every employee can choose a work environment that best suits their lifestyle or mood.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T21:16:40.000Z"
+  },
+  "company": {
+    "name": "LockerDome",
+    "link": "https://www.linkedin.com/company/lockerdome"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68200,
+    "max_value": 149000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "St Louis",
+    "region": "MO",
+    "postal_code": "63121",
+    "street_address": null,
+    "latitude": 38.635357,
+    "longitude": -90.20099
+  }
+}

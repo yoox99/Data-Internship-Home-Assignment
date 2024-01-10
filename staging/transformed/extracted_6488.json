@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "(USA) Staff Software Engineer",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "Here at Walmart, we’re driven by an intellectual curiosity that keeps us on the cutting-edge of user design and a seamless customer experience. We’re intrigued by the opportunity to engineer the most optimal approach that drives conversions and generates consumer loyalty across every touchpoint of the digital journey.  As a Staff Software Engineer, you’ll spend your days translating requirements into solutions, writing code, collaborating with cross-functional teams and providing us with the insights necessary to think beyond the status quo. You’ll oversee small project teams consisting of other engineers who will look to you as a trusted advisor, a subject matter expert who provides guidance and the right tools to get the job done. Bachelor’s degree in Computer Science and 4 years’ experience in software engineering or related field OR 6 years’ experience in software Master’s degree in Computer Science or related field and 3 years' experience in software engineering Primary Location...840 W CALIFORNIA AVE, SUNNYVALE, CA 94086-4828, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:32:30.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

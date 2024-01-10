@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "Wpromote is looking for a Senior Data Scientist to join our Product Development team! In this role, you’ll partner cross-functionally with Engineering, Product, and Reporting Solutions to design machine learning workflows and statistical models that extract key insights from troves of marketing data. Your solutions will scale as productized apps used by our industry-leading marketers to unlock new performance opportunities for our clients. You will have the opportunity to challenge the limits of what’s possible with data science and performance marketing, designing novel solutions through Computer Vision, Time Series Analysis, Optimal Experimental Design, Recommendations, etc., using supervised and unsupervised methods including Deep Learning, Bayesian Modeling, and Graph Neural Nets.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:44:19.000Z"
+  },
+  "company": {
+    "name": "Wpromote",
+    "link": "https://www.linkedin.com/company/wpromote"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

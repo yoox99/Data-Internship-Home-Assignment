@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Front-End",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "DoorDash is building the world's most reliable on-demand, logistics engine for delivery! We're looking for experienced engineers to help us develop and maintain a 24x7, global infrastructure system that powers DoorDash’s three-sided marketplace of consumers, merchants, and dashers.  As a front-end engineer at DoorDash, you’ll help design and build beautiful, intuitive user interfaces for our web applications to create the best delivery experience. DoorDash is a technology company that connects customers with their favorite local and national businesses in over 4,000 cities and all 50 states across the United States and Canada. Founded in 2013, DoorDash empowers merchants to grow their businesses by offering on-demand delivery, data-driven insights, and better in-store efficiency, providing delightful experiences from door to door. By building the last-mile delivery infrastructure for local cities, DoorDash is bringing communities closer, one doorstep at a time. Read more on the DoorDash blog or at www.doordash.com. We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.  Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.l",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T01:18:40.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 79500,
+    "max_value": 172300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

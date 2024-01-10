@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - RetailMeNot",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "We are looking for a Site Reliability Engineer II to join our SRE team. We define the systems and services that allow RetailMeNot development teams to have a low-friction deployment experience, with always-on monitoring, and the fault-tolerant infrastructure. SRE works on defining Service-Level Agreements (SLAs), leading incident response, practicing blameless post-mortems, and automating processes to reduce operational toil.  As a member of the team, you'll be responsible for delivering highly scalable and resilient cloud deployment and provisioning solutions. You will be exposed to technology like Kubernetes, Prometheus, Helm, Terraform, and others. You will help automate and streamline the company's operations and processes through innovations in application monitoring and alerting, CI/CD modernization, and other efforts.  Are you a software engineer with a real passion for delivering and automation opportunities? Are you looking to join an organization with a well-established SRE culture? Start here! Who You Are What You'll Do Who We Are #RetailMeNot",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:40:52.000Z"
+  },
+  "company": {
+    "name": "RetailMeNot",
+    "link": "https://www.linkedin.com/company/retail-me-not"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

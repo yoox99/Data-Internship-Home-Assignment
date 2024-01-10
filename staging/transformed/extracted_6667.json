@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Consumer Electronics",
+    "description": "The people here at Apple don’t just build products — we craft the kind of wonder that’s revolutionized entire industries! It’s the diversity of those people and their ideas that supports the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it!   The Site Reliability Engineer (SRE) position requires a mix of strategic engineering and design along with hands-on, technical work. An ideal candidate will have experience in being a Systems Administrator that has moved on to DevOps/Automation in their career. The SRE will configure, tune, and troubleshoot multi-tiered systems to achieve optimal application performance, stability and availability. The SRE will work closely with the systems engineers, network engineers, database administrators, monitoring administrators, and information security teams. For this position, strict application security and high availability requirements must be balanced to achieve optimal solutions. 5+ years of expertise with Linux (any distro, but especially RHEL). Standard UNIX utilities and programs  Expertise related to DevOps engineering including version control systems (Git, SVN), automated build and testing (jenkins, vagrant), configuration management (e.g. Puppet, Chef, Ansible, etc)  A detailed, test-and-measure approach to continually improving service operations  Solid knowledge of the operating system networking stack, TCP and UDP, and network interface drivers  Experience automating workflows with Python, Perl, or Ruby  Knowledge of hardware and tuning hardware performance to meet specific performance goals  Strong hands-on knowledge in Unix/Linux environment  Strong understanding of J2EE application servers  Track record of practical problem solving, excellent communication, and documentation skills  Experience with monitoring tools such as icinga/nagios and log aggregation tools such as splunk  Good understanding of Java is a major plus  Solid understanding of Oracle Database is a plus  Understanding of cryptography is a plus The successful candidate will be highly self-motivated with a passion for excellence, quality and attention to detail. The SRE will work on automation, deployments, aid in architectural design and work closely with the development engineers within the team to assist with the implementation of sophisticated features.    RESPONSIBILITIES OF THE SRE INCLUDE THE FOLLOWING:   Passion for quality and automation, an ability to understand complex systems and a desire to constantly make things better.   Determine efficient configurations for application software, application servers (i.e. JBoss, Tomcat, etc.), database connections and indexes, HSM drivers, etc.   Develop and maintain scripts used for environment monitoring and task automation (Perl, Shell, PHP, etc.)   Experience setting up and running monitoring tools such as Graphite, Prometheus, InfluxDB, Grafana   Set priorities and work efficiently in a fast-paced environment   Measure and optimize system performance   Plan and run capacity of the systems   Explore and evaluate new technologies and solutions to push the capabilities forward, getting ahead of customers’ needs, innovate and continually improve   Strong interpersonal skills and ability to work effectively across multiple business and technical teams   Demonstrate ability to deliver results on time with high quality   Experience with tools such as Docker and Docker based deployments is a plus Prefer a BS in engineering, computer science or other technical subject areas plus 5 years of related experience    Role Number: 200251910",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-28T17:10:44.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80100,
+    "max_value": 157000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

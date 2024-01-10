@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Do you want to work for an Emmy® Award-winning company? At Audible Magic we are building the most revolutionary media recognition technology and rights management solutions for the global music, movie and television industry. Our customers and partners include some of the largest and most recognized brands in the industry. We win awards because we keep driving to provide better solutions for our customers, solutions that meet the needs of the ever-changing music and entertainment industry. At Audible Magic we believe our customers are paramount, and our reputation and integrity are the foundation of our business.  We are seeking a Software Engineer to join our team developing and supporting an existing Music Streaming Platform. The successful candidate will join a small team of engineers supporting and extending this profitable and growing product line.  This role qualifies for a Solid basic Java skills. We use some Spring, but mostly for dependency injection.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-20T20:13:12.000Z"
+  },
+  "company": {
+    "name": "Audible Magic",
+    "link": "https://www.linkedin.com/company/audible-magic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

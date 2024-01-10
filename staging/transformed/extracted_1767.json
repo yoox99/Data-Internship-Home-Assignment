@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "If you are a Data Scientist with experience in Python, SQL, and Pytorch and want to be part of an advanced technology company that provides growing companies, and investors access to a broad spectrum of curated data to enhance capital raising. Please read on!  Founded in 2013 we enabled buyers and sellers to discover the connections and opportunities that others have missed. We use AI, deep learning and NLP- driven algorithms to make data smarter and make raising growth capital efficient and intelligent. If this interests you Lets Talk!  What You Will Be Doing  As a Data Scientist you will be responsible for research and detect valuable data sources and automate collection processes. Perform preprocessing of structured and unstructured data. You will also modify and combine different models through ensemble modeling. Finally you will help develop and suggest solutions and strategies to business challenges.  What You Need for this Position Qualifications: What's In It for You  Competitive Salary: $120k-$175k So, if you are a Data Scientist with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Dylan.Boisclair@Optello.com Dylan Boisclair - Recruiter - Optello  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:26:51.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Technical Associate",
+    "industry": "Semiconductors",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:06:21.000Z"
+  },
+  "company": {
+    "name": "MKS Instruments",
+    "link": "https://www.linkedin.com/company/mks-instruments"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

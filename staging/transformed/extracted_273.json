@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Infrastructure Software Engineer",
+    "industry": "Construction,Machinery",
+    "description": "Engineering Whether it be groundbreaking products, best in class solutions or creating a lifelong career, you can do the work that matters at Caterpillar. With a 95-year legacy of quality and innovation and 150 locations in countries around the world, your impact spans the globe.  When you join Caterpillar, you are joining a team of makers, innovators and doers. We are the people who roll up our sleeves and do the work to build a better world. We don’t just talk about progress and innovation. We make it happen. And we are proud of that, because it helps our customers build and power the world we live in – the roads, hospitals, homes and infrastructure. Without a dedicated workforce Caterpillar could not effectively meet our customer’s needs. Join us. As a Machine Learning Infrastructure Engineer, you will be responsible for developing and deploying a robust full-stack pipeline that can support various perception/planning/prediction projects. In this role, you will build up various tools that will optimize efficiency when working with large data sets. This includes developing Data Stores, implementing Data Visualization utilities, and deriving quantifiable metrics to support the Machine Learning pipeline. Your actions will directly contribute to the development of safer, more efficient machines for Caterpillar's customers. Basic qualifications includes building and supporting the tools, scripts, and processes for managing data and training pipelines for machine learning. As a Machine Learning Infrastructure Engineer, you will be responsible for developing and deploying a robust full-stack pipeline that can support various perception/planning/prediction projects. In this role, you will build up various tools that will optimize efficiency when working with large data sets. This includes developing Data Stores, implementing Data Visualization utilities, and deriving quantifiable metrics to support the Machine Learning pipeline. Your actions will directly contribute to the development of safer, more efficient machines for Caterpillar's customers. Basic qualifications includes building and supporting the tools, scripts, and processes for managing data and training pipelines for machine learning. Extracting, processing, and organizing raw data (images, lidar)  Submitting images to external vendors for annotation  Retrieving image annotations from external vendors  Normalizing and integrating these annotations into our infrastructure.  Providing basic analytics, such as total number of datasets, frames, and annotations.  Interactive ML dataset creation and management.  Support for data visualization tools  ML model training, evaluation, and deployment. Bachelors in Computer Science, Engineering, Mathematics, or an equivalent discipline  3+ years experience in ML pipeline development/setup/maintenance  AWS S3 and SageMaker  Experience in Linux environments  Scala and scripting languages  Python and creating/managing Jupyter notebooks  Docker/containers  Database configuration, scripting Masters in Computer Science, Engineering, Mathematics, or an equivalent discipline  Familiarity with ROS  Experience with Node.js and React  Exposure to with ML/deep learning, computer vision, perception algorithms  Experience working with data annotation vendors  Experience integrating with CI/regression testing frameworks The location for this position is Mossville, IL or San Francisco, CA  Relocation assistance is not available for this position. Any relocation costs would be incurred by the selected candidate  This position may require less than 10% travel Our goal at Caterpillar is for you to have a rewarding career. Our teams are critical to the success of our customers who build a better world.  Here you earn more than just a salary because we value your performance. We offer a total rewards package that provides benefits on day one (medical, dental, vision, RX, and 401K) along with the potential of an annual bonus.  Additional benefits include paid vacation days and paid holidays (prorated based upon hire date). Please frequently check the email associated with your application, including the junk/spam folder, as this is the primary correspondence method. If you wish to know the status of your application – please use the candidate log-in on our career website as it will reflect any updates to your status. For more information, visit caterpillar.com. To connect with us on social media, visit caterpillar.com/social-media  EEO/AA Employer. All qualified individuals - Including minorities, females, veterans and individuals with disabilities - are encouraged to apply.  Not ready to apply? Submit your information to our Talent Network here.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-30T05:36:37.000Z"
+  },
+  "company": {
+    "name": "Caterpillar Inc.",
+    "link": "https://www.linkedin.com/company/caterpillar-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83800,
+    "max_value": 158000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mossville",
+    "region": "IL",
+    "postal_code": "61552",
+    "street_address": null,
+    "latitude": 40.816647,
+    "longitude": -89.5687
+  }
+}

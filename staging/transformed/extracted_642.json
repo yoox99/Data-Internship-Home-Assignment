@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Front-End Software Engineer",
+    "industry": "Information Technology and Services,Financial Services,Hospital &amp; Health Care",
+    "description": "Envision Healthcare is a multispecialty physician group and practice management company. Established in 1953, our organization provides anesthesia, emergency medicine, hospital medicine, radiology, primary/urgent care, surgical services, and women’s and children’s health services to hospitals and health systems nationwide. Sheridan Healthcare, EmCare, Reimbursement Technologies and Emergency Medical Associates have recently joined forces to form Envision Physician Services. As one organization, we now provide a greater scope of service than any other national physician group. Our collective experience from hundreds of local, customized engagements, culture of continuous lean process improvement, and team of experts in the business of healthcare enable us to better solve complex problems and consistently give healthcare organizations confidence in our execution. Our combined organization serves more than 780 healthcare facilities in 48 states and the District of Columbia.  If you are looking for a stable, fast-paced, growing Company in the healthcare industry that is committed to innovation, excellence and integrity, then this may be a great next step in the advancement of your career.  We currently have an exciting opportunity available for an experienced THIS IS A 100% REMOTE WORK OPPORTUNITY for the largest provider of outsourced physician services in the world!  As a you will be working in a fast-paced and growing environment helping to build a platform that will facilitate the reading of 30m+ radiology studies annually. You will be working in a microservice environment hosted in Kubernetes on AWS and using Angular for the front end. If you are ready to join an exciting, progressive company and have a strong work ethic, We offer a highly competitive salary and a comprehensive benefits package.  Envision Healthcare Salary Range $107K to $132K",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:50:23.000Z"
+  },
+  "company": {
+    "name": "Envision Healthcare",
+    "link": "https://www.linkedin.com/company/envision-healthcare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85500,
+    "max_value": 105000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greenwood Village",
+    "region": "CO",
+    "postal_code": "80018",
+    "street_address": null,
+    "latitude": 39.616886,
+    "longitude": -104.95051
+  }
+}

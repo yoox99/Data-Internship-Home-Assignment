@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "Job Summary:  We have created one of the most powerful brands by bringing memorable, life-changing storytelling to the world. The foundation of this creativity starts with The Walt Disney Studios where we produce, acquire, and distribute live-action and animated motion pictures, video experiences, music, and live performances. Our brands include Marvel, Lucasfilm, Pixar, Disney Animation, 20th Century Studios, and Searchlight Pictures. No other Media & Entertainment company can rival the brands we have the honor of bringing to the world.  As part of the Studio’s Technology team you’ll be joining a group of seasoned, dedicated technologists solving a range of interesting problems in innovative ways in an exciting and dynamic industry.  We are looking for a Software Engineer who is dedicated to help us implement high-quality applications used in the development and production of film and direct-to-consumer content. We’re a casual shop that values passion, community involvement and exceptional software. If this is you, we want you to join our team.  Responsibilities:  You will be part of the team creating the next-generation internal systems for movie and direct-to-consumer creative development and production. You should be comfortable being part of a cross-functional team and working with a diverse group of business stakeholders and technologists. We expect you to have a deep understanding of Quality Assurance Testing.  Your key responsibilities will be: Knowledge: Skills: Experience: Required Education 829922BR",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T13:52:03.000Z"
+  },
+  "company": {
+    "name": "The Walt Disney Company",
+    "link": "https://www.linkedin.com/company/the-walt-disney-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 87200,
+    "max_value": 159000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burbank",
+    "region": "CA",
+    "postal_code": "91504",
+    "street_address": null,
+    "latitude": 34.182053,
+    "longitude": -118.30747
+  }
+}

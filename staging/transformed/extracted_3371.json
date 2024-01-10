@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T12:42:06.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Stamford",
+    "region": "CT",
+    "postal_code": "06928",
+    "street_address": null,
+    "latitude": 41.051926,
+    "longitude": -73.539474
+  }
+}

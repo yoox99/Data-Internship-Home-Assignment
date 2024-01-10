@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Advertising",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "We work at the intersection of advertising and messaging technologies to connect millions of brands to billions of fans. As part of the Advertising team, we’re paving the way for a sustainable global Spotify business that allows even more creators to make a living off their art. Come join us and help build the platform that powers promotion at Spotify. Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.  Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service with a community of more than 345 million users.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T23:29:22.000Z"
+  },
+  "company": {
+    "name": "Spotify",
+    "link": "https://se.linkedin.com/company/spotify"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

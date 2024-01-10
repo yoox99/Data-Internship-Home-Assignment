@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Enterprise Software Engineer",
+    "industry": "Computer Software,Automotive,Information Technology and Services",
+    "description": "Argo AI is in the business of building self-driving technology you can trust. With experienced leaders in the field and collaborative partnerships with some of the world’s largest automakers, we’re building self-driving technology that is engineered to scale globally and transform mobility for millions.  Talented individuals join our team because they share our purpose to make it safe, easy, and enjoyable for everyone to get around cities. We aspire to impact key industries that move people and goods, from ride hailing to deliveries. You will join a senior development team responsible for the growth and deployment of global tools to support the corporate and production systems. This role will be focused on building new software solutions to provide advanced technology systems across the enterprise. You will have the opportunity to creatively design solutions and solve complex problems with code. Argo AI was founded in late 2016 by industry experts with extensive experience building robotic systems for commercial applications. Our once-small team has since grown into an over 1,000-person strong company with strategic partnerships with two of the world’s leading automakers: Ford and Volkswagen. Our self-driving system is the first with commercial deployment plans for Europe and the U.S., and thanks to an ability to tap into both automakers’ global reach, our technology platform has the largest geographic deployment potential of any self-driving technology to date.  At Argo AI, we believe that embracing differences delivers superior results. We are an equal opportunity employer that is committed to an inclusive environment for all employees.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:43:28.000Z"
+  },
+  "company": {
+    "name": "Argo AI",
+    "link": "https://www.linkedin.com/company/argo-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 88900,
+    "max_value": 145000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

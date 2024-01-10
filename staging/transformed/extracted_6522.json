@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning / Deep Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Research",
+    "description": "At Toyota Research Institute (TRI), we’re working to build a future where everyone has the freedom to move, engage, and explore with a focus on reducing vehicle collisions, injuries, and fatalities. Join us in our mission to improve the quality of human life through advances in artificial intelligence, automated driving, robotics, and materials science. We’re dedicated to building a world of “mobility for all” where everyone, regardless of age or ability, can live in harmony with technology to enjoy a better life. Through innovations in AI, we’ll help… Our work is guided by a dedication to safety – in both what we research and how we perform our research our goal is to benefit society. As a subsidiary of Toyota, TRI is fueled by a diverse and inclusive community of people who carry invaluable leadership, experience, and ideas from industry-leading companies. Over half of our technical team carries PhD degrees. We’re continually searching for the world’s best talent ‒ people who are ready to define the new world of mobility with us!  We strive to build a company that helps our people thrive, achieve work-life balance, and bring their best selves to work. At TRI, you will have the opportunity to enjoy the best of both worlds ‒ a fun environment with forward-thinking people who enjoy solving tough problems and the financial backing to successfully achieve our goals. Come work with TRI if you’re interested in transforming mobility through designing technology for safer cars, enabling the elderly to age in place, or designing alternative fuel sources. Start your impossible with us.  Our Machine Learning (ML) team is looking for world-class research scientists and engineers to turn Toyota's data advantage into an AI advantage. As the #1 car maker in the world with 100 million cars on the road today, we can learn from massive amounts of data to realize safe automated driving on a global scale. Our team's mission is to use all the data to identify and solve open research problems on the critical path to automated driving. We are working on some of the hardest challenges in the area of perception (e.g., scene understanding, 3D vision, tracking), prediction (e.g., handling uncertainty, predicting human behavior, trajectory forecasting), planning (e.g., understanding and reacting to human intent, multi-agent modeling), and general machine learning (e.g., self-supervised learning, imitation learning, active learning, multi-task learning, domain adaptation, robustness to the heavy tail of edge cases, efficient deep learning, large scale distributed training). We invent new Deep Learning algorithms that can leverage massive amounts of data (labeled or not), experimentally showing state-of-the-art performance (both in internal benchmarks and public ones, publishing at top Machine Learning and Computer Vision conferences and collaborating with our university partners). We work closely with other teams at TRI to transfer and ship our most successful algorithms and models towards world-scale long-term autonomy. As a Machine Learning Engineer, you will contribute to state-of-the-art machine learning infrastructure and relevant software (e.g. distributed training, continuous model integration, data management, and evaluation at unparalleled scale). You will implement cutting-edge deep learning models accelerating model training time, improving performance, and tackling open problems together with research scientists. Last but not least, you will deploy your algorithms and models in our self-driving test vehicles and beyond. Responsibilities and required qualifications are as follows: Qualifications Please reference this Candidate Privacy Notice to inform you of the categories of personal information that we collect from individuals who inquire about and/or apply to work for Toyota Research Institute, Inc. or its subsidiaries, including Toyota A.I. Ventures GP, L.P., and the purposes for which we use such personal information.  TRI provides Equal Employment Opportunity without regard to the applicant's race, color, creed, gender, gender identity or expression, sexual orientation, national origin, age, physical or mental disability, medical condition, religion, marital status, genetic information, veteran status, or any other status protected under federal, state or local laws.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T07:08:56.000Z"
+  },
+  "company": {
+    "name": "Toyota Research Institute",
+    "link": "https://www.linkedin.com/company/toyota-research-institute"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Ann Arbor",
+    "region": "MI",
+    "postal_code": "48106",
+    "street_address": null,
+    "latitude": 42.281418,
+    "longitude": -83.748474
+  }
+}

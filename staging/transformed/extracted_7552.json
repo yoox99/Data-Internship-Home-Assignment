@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "",
+    "description": "DESCRIPTION:              •\tThese contingent workers will work closely with full-time research scientists and software engineers who are leading •\tcomputer vision research projects to ensure that the process runs smoothly, and that data annotation quality remains high to •\ttrain state-of-the-art machine learning models. Duties include: •\tData wrangling: writing data pipelines to upload annotations automatically; running existing ML models on large volumes of •\tdata; ad-hoc data analysis / visualization  Annotation task and vendor management:  •\tcreating data annotation guidelines; curating ideal “gold standard” examples for annotators. •\tmanaging back-and-forth communications with annotators; reviewing annotation quality to identify themes and •\trelaying appropriate feedback to annotation vendors.  Skills required: •\tSQL, Python, Linux command line (Bash) •\tVery high attention to detail for managing large, complex annotation efforts •\tGood written communication skills to coordinate with annotators and team members •\t2+ years’ work experience, including experience working with customer teams  Top must-have HARD skills: •\tSQL and Python is a need •\tLinux command line  Top 3 good-to-have skills: •\tGreat communication •\tUnderstanding of AI models would be great  Interview Loop/Process •\t2 coding interviews and 1 general interview •\tPDF homework-offline analysis, will submit the answers along with their resume",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:14:20.000Z"
+  },
+  "company": {
+    "name": "SGS Consulting",
+    "link": "https://www.linkedin.com/company/sgs-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

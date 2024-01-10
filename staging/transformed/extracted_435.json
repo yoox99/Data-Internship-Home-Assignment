@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer - PZT002",
+    "industry": "Information Technology and Services,Computer Software,Human Resources",
+    "description": "LAAgencia is searching for a to work remotely. The candidate can be in Canada, the USA or Mexico just need to work on East Time (EST).  Location: Raritan NJ(Can work remote) : Powered by JazzHR  a1d6kyRjG3",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T07:39:48.000Z"
+  },
+  "company": {
+    "name": "LAAgencia ",
+    "link": "https://mx.linkedin.com/company/laagencia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 125000,
+    "max_value": 226000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raritan",
+    "region": "NJ",
+    "postal_code": "08869",
+    "street_address": null,
+    "latitude": 40.567867,
+    "longitude": -74.63268
+  }
+}

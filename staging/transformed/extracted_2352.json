@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer",
+    "industry": "Consumer Goods,Food &amp; Beverages,Retail",
+    "description": "At Starbucks, our mission is to inspire and nurture the human spirit - one person, one cup, and one neighborhood at a time. Starbucks Technologists work to achieve this mission using cutting-edge technology delivered to our partners, customers, stores, roasters, and global communities. This job contributes to Starbucks success by delivering high-quality, reliable, and stable technologies in support of the Starbucks Global Technology Platform. This position is accountable for problem identification and analysis, problem resolution, and system lifecycle management. In addition to providing first and second level support of a continuously operational production environment, the technologist in this role will create and implement automation to perform operations tasks, and to prevent and respond to incidents across teams. An effective DevOps Engineer will develop and share subject matter expertise and gain experience by partnering with senior system engineers outside their team.  Models and acts in accordance with Starbucks guiding principles Responsibilities and essential job functions include but are not limited to the following Technical Proficiency Interpersonal Skills",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T06:13:36.000Z"
+  },
+  "company": {
+    "name": "Starbucks",
+    "link": "https://www.linkedin.com/company/starbucks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

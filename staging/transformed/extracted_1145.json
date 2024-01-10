@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Web Developer",
+    "industry": "Insurance",
+    "description": "Gallagher is a global leader in insurance, risk management and consulting services. We help businesses grow, communities thrive and people prosper. We live a culture defined by The Gallagher Way, our set of shared values and guiding tenets. A culture driven by our people, over 30,000 strong, serving our clients with customized solutions that will protect them and fuel their futures.  Gallagher Technology Services (GTS) provides and maintains quality, value-added core and common applications and information management solutions to enable the business strategies of Gallagher and its operating divisions. The Web Developer role will ride the hybrid line between back-end/front-end development, user experience, information architecture, development workflows while being a strong advocate for security and data privacy. The developer will have a passion for web development and an insatiable curiosity that keeps them learning new techniques, patterns and processes to elevate their skills and the product delivered. The Web Developer Role will be responsible for crafting and maintaining solutions within Content Management System frameworks (primarily Sitecore) that allow content editors to intuitively create, manage and publish content, while also delivering a product to our front end users that adheres to modern day best practices for usability, accessibility and performance. The successful candidate will take pride in writing clean, readable, reusable and semantic code. Information Technology United States-Illinois-Rolling Meadows Corp - Home Office Full-time",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:06:11.000Z"
+  },
+  "company": {
+    "name": "Gallagher",
+    "link": "https://www.linkedin.com/company/gallagher-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Rolling Meadows",
+    "region": "IL",
+    "postal_code": "60008",
+    "street_address": null,
+    "latitude": 42.080162,
+    "longitude": -88.02519
+  }
+}

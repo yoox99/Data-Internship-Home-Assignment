@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services,Health, Wellness and Fitness,Hospital &amp; Health Care",
+    "description": "Performs advanced data design and analysis using the Electronic Medical Record (EMR) to create new knowledge useful to KP and outside organizations. Extracts and cleans large volumes of healthcare data across dozens of sources. Applies expert statistical methodologies to clinical outcomes. Partners effectively with physicians, other clinicians, software engineers and business managers to communicate findings using data visualization techniques.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Kaiser Permanente",
+    "link": "https://www.linkedin.com/company/kaiser-permanente"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109600,
+    "max_value": 238400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

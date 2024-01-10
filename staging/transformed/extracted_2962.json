@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services,Information Technology and Services",
+    "description": "At Quadpay, a Zip company (ASX: Z1P), we give millions of savvy shoppers the freedom and flexibility to pay anywhere with our leading Buy Now, Pay Later platform.  We’re here to do things differently. We are a fairer, digital alternative to the broken credit card model, giving consumers the freedom to split any purchase into 4 instalments over 6 weeks, with zero interest or hidden fees. We also help merchants and businesses to grow by offering them best–in–class products that improve conversion, increase basket sizes and delight their customers.  Our values are at the heart of everything we do. They form our Mamba mentality - how we’re better than yesterday, and are used to create game-changing experiences for our customers and our people.  We’re a high-growth team with endless opportunities as we scale. Come and join the sQuad. Hint: How would you describe the purpose of the role in one paragraph? What are the core responsibilities or outcomes of the role, and who will they be most frequently working with?  As a Data Scientist in our Risk team, you will leverage your creative and critical thinking skills to develop best in class models that have meaningful impact to the firm. These models will support our credit and fraud risk, customer experience, acquisition and customer management teams. Hint: Try to keep it around 8-10 bullet points, and order them with the most important and regular outcomes first. Lead with an action word like build, lead, own, create, and try to avoid obvious or mundane tasks like ‘Attend meetings’ or ‘Complete your timesheets’. To help us level up, you’ll bring:  Hint: What are the key skills, experience and attributes required to perform the role? Try to keep it around 8-10 bullet points, and order them with the most important first. Degree in quantitative/statistics related fields (CS, Math, Engineering, Statistics, Economics, Econometrics, etc.). Graduate degree preferred. Hint: What are the metrics, KPI’s and measurable outcomes we expect of this role?  The additional hires should allow more models released to production, quicker iteration and broader coverage of addressing business problems through statistical methods. KPIs correspond to extra revenue generated/costs saved from releases(Data Discovery -> Recommendations -> Financial value). The role is also meant to support compliance, documentation and knowledge sharing in regards to model governance & review.  We’re looking for someone who always finds new boundaries to cross - a future member of the sQuad who will obsess over excellence and make constant improvements for our customers. We’ve removed the red tape here to get things done quickly, so if you see a problem, own the solution. You've gotta hustle at Quadpay!  If you only meet some of the requirements for this role, that's okay. We value a diverse range of backgrounds and ideas and believe this is fundamental for our future success. So, if you have the curiosity to learn and the willingness to teach what you know, we'd love to hear from you.  We pride ourselves on creating an inclusive workplace that provides equal opportunities to all persons regardless of their age, cultural background, sexual orientation, gender identity and expression, disability, veteran status, or anything else. Join us on our mission to be the first payment choice, everywhere and every day.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T06:53:24.000Z"
+  },
+  "company": {
+    "name": "Zip Co",
+    "link": "https://au.linkedin.com/company/zip-co-limited"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

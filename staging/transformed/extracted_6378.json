@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer-Revenue Engineering",
+    "industry": "Internet",
+    "description": "Twitter is what’s happening and what people are talking about right now. For us, life's not about a job, it's about purpose. We believe real change starts with conversation. Here, your voice matters. Come as you are and together we'll do what's right (not what's easy) to serve the public conversation. Twitter’s Revenue organization operates services at extensive scale. We are looking for a Site Reliability Engineer (SRE) to join our Revenue Engineering team!  Our Revenue SRE's provide a healthy user experience while serving highly relevant and personalized ads. We also help advertisers translate their marketing strategy to an audience on Twitter while protecting the safety of their brand.  At Twitter, we use state of the art open-source and proprietary technologies, and operate some of the world’s largest and most sophisticated distributed systems. We embed deeply with development teams, sharing on-call with a focus on up-leveling services and increasing automation.  (More information Resilient Ad Serving at Twitter Scale)",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T21:07:39.000Z"
+  },
+  "company": {
+    "name": "Twitter",
+    "link": "https://www.linkedin.com/company/twitter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 143000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

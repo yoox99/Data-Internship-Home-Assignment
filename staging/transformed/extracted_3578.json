@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer (SRE)",
+    "industry": "Information Technology and Services",
+    "description": "Cribl Inc is seeking an incredibly talented Principal Site Reliability Engineer to join our mission to unlock the value of all machine data. Cribl provides users a new level of observability, intelligence and control over their real-time data. You will join a team of technical engineers who are committed to shipping only high-quality software and enjoying all the goat gifs the internet has to offer. This role is remote and you will report into the engineering organization where you will contribute in our efforts to envision, create and run Cribl Cloud offering.  In this role you will engage with engineering teams across the Cribl products and implement modern interpretations of SRE, observability, Chaos Engineering and DevOps. Our software is deployed in some of the largest organizations in the world processing 100s of TB to PB of IT & Security data. : Diversity drives innovation, enables better decisions to support our customers, and inspires change for the better. We're building a culture where differences are valued and welcomed. We work together to bring out the best in each other. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other applicable legally protected characteristics in the location in which the candidate is applying.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T05:22:02.000Z"
+  },
+  "company": {
+    "name": "Cribl",
+    "link": "https://www.linkedin.com/company/cribl"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

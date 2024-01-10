@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Engineer Director (AWS, MERN, .NET, Java)",
+    "industry": "Insurance",
+    "description": "1 Travelers is seeking a Lead Software Engineer to join our organization as we grow and transform our Technology landscape. Individual will complete expert software end to end engineering tasks including designing, developing, analyzing, configuring, testing, debugging, troubleshooting, documenting, health monitoring/alerting, and implementing based on user or system specifications for impactful and high-visibility initiatives. Individual will also plan and execute at a strategic level, lead the design, development and implementation of significantly complex, unscoped problems that extend beyond the confines of a team and establish software engineering best practices and standards.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:04:21.000Z"
+  },
+  "company": {
+    "name": "Travelers",
+    "link": "https://www.linkedin.com/company/travelers"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hartford",
+    "region": "CT",
+    "postal_code": "06156",
+    "street_address": null,
+    "latitude": 41.765774,
+    "longitude": -72.673355
+  }
+}

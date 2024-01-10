@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer (NLP)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "We are looking for a Machine Learning Engineer with expertise in NLP who can join our AI research and development efforts with a direct impact on our core platform. You will work with both engineering and business teams to best understand design requirements. Then, your role is to design and build practical high performance machine learning solutions.  In this role, you will work on some of the latest cutting edge applications of machine learning applied to critical problems that affect businesses, governments and society. You will directly work with top management and key stakeholders to define solutions to critical problems that will have immediate impact and value at the platform and client levels. If you are passionate to work on massive, unstructured problems that can be solved using data, we are looking for you. Must Have Nice to Have",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T03:19:42.000Z"
+  },
+  "company": {
+    "name": "BLACKBIRD.AI",
+    "link": "https://www.linkedin.com/company/blackbird-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85200,
+    "max_value": 163000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

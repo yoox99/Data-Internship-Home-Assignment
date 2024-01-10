@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "At Workday, we help the world’s largest organizations adapt to what’s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we’re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. The Delivery Engineering team for Workday Analytics is a team of engineers for engineers. We get the opportunity to support a lot of different groups including back-end, front-end, SDETs, etc. We spend our time writing software and manage how we deliver, deploy, monitor and everything in-between.  We are responsible for the infrastructure around how we build Prism, how we support and test and, ultimately, how we deploy. We are a small but growing team with a diverse set of skills. This is an exciting area of growth at Workday that your contributions will have a direction impact on. Our team is keenly focused on several of Workday’s core values, including innovation, integrity, and employees. You will be a key contributor on the Analytics Delivery Engineering team. As an SRE, you will help in building a clean, scalable, reliable, and automated services framework. Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T18:38:57.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85800,
+    "max_value": 118000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Mateo",
+    "region": "CA",
+    "postal_code": "94406",
+    "street_address": null,
+    "latitude": 37.54715,
+    "longitude": -122.3144
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The financial industry thrives on data driven decision making. You will be joining the team that builds and operates foundational platform, used by the rest of Goldman Sachs to apply data science and machine learning to the daily operations of the firm. We take the best components from open source and major cloud providers and adapt and expand them to accommodate unique needs of the firm. The resulting systems are not only part and parcel of the daily life of hundreds of Goldman Sachs data scientists, but also play critical role in the experience of thousands of Goldman Sachs clients. The Goldman Sachs Group, Inc. is a leading global investment banking, securities and investment management firm that provides a wide range of financial services to a substantial and diversified client base that includes corporations, financial institutions, governments and individuals. Founded in 1869, the firm is headquartered in New York and maintains offices in all major financial centers around the world.  Â© The Goldman Sachs Group, Inc., 2021. All rights reserved Goldman Sachs is an equal employment/affirmative action employer Female/Minority/Disability/Vet.  Division Engineering",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T01:04:59.000Z"
+  },
+  "company": {
+    "name": "Goldman Sachs",
+    "link": "https://www.linkedin.com/company/goldman-sachs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80600,
+    "max_value": 159000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

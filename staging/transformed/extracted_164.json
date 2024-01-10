@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Management - Big Data/Machine Learning Engineer - Sr Big Data/Machine Learning Engineer - Sr",
+    "industry": "Financial Services",
+    "description": "Potential Contract to Hire eligible candidates Data Governance and risk management. From the organizational point of view, we get high-quality trusted data. The vision is to make sure that the data used within data finance should meet the quality standards, we work with different accountable professionals to make sure that we deliver the data as per the pre-defined standards. In case the data is not up to the mark we do root cause analysis and provide those risk analyses to the team.  The volume of the work is huge  Not taking the manual approach  The primary role is not to shift these data from one place to another; it would be nice to have (Not completely a data engineer)  Python: Proficient (Programming and scripting so that they know what to do in case there is any loophole or correction is needed)  SQL: Must have very strong  BI: Grafana or Tableau AWS (for them to get converted to full time)  Data governance and Data management knowledge Interact with senior folks; directors and audience  Good Presenting skills to explain the data (Very Important)  Someone comfortable to deal with the high Volume work (Very Important)  Perform root cause analysis and risk report for COAF datasets  Python, SQL, Tableau",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-06-17T03:52:50.000Z"
+  },
+  "company": {
+    "name": "eTeam",
+    "link": "https://www.linkedin.com/company/eteam"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

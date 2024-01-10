@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer (TX)",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "Tiger Analytics is an advanced analytics consulting firm. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data. Our consultants bring deep expertise in Data Science, Machine Learning and AI. Our business value and leadership has been recognized by various market research firms, including Forrester and Gartner. We are looking for a Machine Learning Engineers for our team. Significant career development opportunities exist as the company grows. The position offers a unique opportunity to be part of a small, challenging, and entrepreneurial environment, with a high degree of individual responsibility.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T16:33:01.000Z"
+  },
+  "company": {
+    "name": "Tiger Analytics",
+    "link": "https://www.linkedin.com/company/tiger-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

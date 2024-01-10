@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer-React Native-APJS",
+    "industry": "Online Media,Internet,Entertainment",
+    "description": "Our Vision is to change the way the world communicates. Our Mission is to connect people and things.  We are reimagining the way people watch TV with services like Sling and AirTV. We are redefining the boundaries of communication and connectivity too, with our planned green field 5G cloud native network build out and the Internet of Things. Nothing is out of our reach, and the opportunity to shape the future of entertainment and technology has never been more tangible. Our mission is to build a modern, hybrid cloud enterprise platform for all DISH to consume. Our environment is… A successful React Native Mobile developer will: Here are some of the key technologies that make up our environment. While we do not expect you to have a detailed understanding of , the more of these you are familiar with, the better. #DICE_CA  Compensation: $99,360.00/Yr. - $157,665.00/Yr.  From versatile health perks to new career opportunities, check out our benefits on our careers website .  Employment is contingent on Successful completion of a pre-employment screen, which may include a drug test.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:04:54.000Z"
+  },
+  "company": {
+    "name": "Sling TV",
+    "link": "https://www.linkedin.com/company/sling-tv"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 70000,
+    "max_value": 125000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "American Fork",
+    "region": "UT",
+    "postal_code": "84003",
+    "street_address": null,
+    "latitude": 40.376762,
+    "longitude": -111.79587
+  }
+}

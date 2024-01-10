@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Front-End Software Engineer",
+    "industry": "Computer Hardware",
+    "description": "Software Developers at IBM are the backbone of our strategic initiatives to design, code, test, and provide industry-leading solutions that make the world run today - planes and trains take off on time, bank transactions complete in the blink of an eye and the world remains safe because of the work our software developers do. Whether you are working on projects internally or for a client, software development is critical to the success of IBM and our clients worldwide. At IBM, you will use the latest software development tools, techniques and approaches and work with leading minds in the industry to build solutions you can be proud of. IBM’s Digital Workplace Engineering team is focused on engineering tools and applications IBMers need to be effective. Through a family of apps and services, we’re building an environment that is constantly iterating, solving problems, and working together to push the limits on productivity and collaboration. We are well-positioned to deliver the next chapter of the digital workplace, leveraging expertise in cloud, security, and scale.  Modern digital workplaces are fragmented and full of unnecessary friction. As a Frontend Engineer, you will actively be transforming the digital workplace by delivering products, like an enterprise digital assistant, which reduces unnecessary touchpoints and create a much more cohesive experience.  Must have the ability to work in the US without current or future need for IBM sponsorship. IBM’s Digital Workplace Engineering team is focused on engineering tools and applications IBMers need to be effective. Through a family of apps and services, we’re building an environment which is constantly iterating, solving problems, and working together to push the limits on productivity and collaboration. We are well-positioned to deliver the next chapter of the digital workplace, leveraging expertise in cloud, security, and scale. What matters to you when you’re looking for your next career challenge?  Maybe you want to get involved in work that really changes the world? What about somewhere with incredible and diverse career and development opportunities – where you can truly discover your passion? Are you looking for a culture of openness, collaboration and trust – where everyone has a voice? What about all of these? If so, then IBM could be your next career challenge. Join us, not to do something better, but to attempt things you never thought possible.  Impact. Inclusion. Infinite Experiences. Do your best work ever. IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.  Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.  At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world. In addition to a competitive benefits program consisting of medical and life insurance, retirement plans, and time off, eligible employees may also have access to  IBM offers a wide range of resources for eligible IBMers to thrive both inside and outside of work. We consider qualified applicants with criminal histories, consistent with applicable law.  IBM will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T00:00:00.000Z"
+  },
+  "company": {
+    "name": "IBM",
+    "link": "https://www.linkedin.com/company/ibm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

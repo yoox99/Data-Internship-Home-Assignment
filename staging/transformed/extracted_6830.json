@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Java Software Engineer-Web Services-Senior Level",
+    "industry": "Financial Services,Information Technology and Services",
+    "description": "Purpose of Job  We are currently seeking talented Java Software Engineers – Sr. Level for our Phoenix, AZ facility, for teams inside our Chief Administrative Office group.  USAA Java Software Engineers - Web Services create and maintain APIs for our business software applications that our members use. Done well, many may never realize or appreciate how critical these APIs are or how we've made them simpler. Faster. Safer. Yet they help make our members' lives better. It's a great challenge and responsibility.  Here, you will invent. You'll design and test. You'll take risks. You'll create new technology, but the impact you'll make on our members will be far more significant.  Job Requirements  As a Java Engineer - Web Services, you are expected to be able to function in a fast-paced environment driving innovation through rapid prototyping and iterative development ensuring quality is built into all solutions leveraging TDD. Your responsibilities will require you to be an expert in API development. You will lead teams of developers guiding on engineering and architecture best practices as well as demonstrate the ability to influence and engage with other engineers and architects. You will work closely with business clients and UI designers to analyze user requirements, design and code applications and customize and/or integrate commercial software packages for both internal employees and external member-facing applications across multiple platforms.  As a Java Engineer - Web Services, it will be your responsibility to maintain code integrity and quality as well as ensure application architecture is designed for performance and resiliency. USAA knows what it means to serve. We facilitate the financial security of millions of U.S. military members and their families. This singular mission requires a dedication to innovative thinking at every level.  USAA Careers – World Class Benefits (31 seconds) When you apply for this position, you will be required to answer some initial questions. This will take approximately 5 minutes. Once you begin the questions you will not be able to finish them at a later time and you will not be able to change your responses. The above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job. USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the salary range based on your experience and market position. The salary range for this position is: $106,800 - $192,300*( this does not include geographic differential it may be applied based on your work location)  Employees may be eligible for pay incentives based on overall corporate and individual performance or at the discretion of the USAA Board of Directors. will be addressed on an individual-basis for applicable roles that are consistently scheduled for non-core hours. At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals.  Please click on the link below for more details. assistance is for this position.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:08:32.000Z"
+  },
+  "company": {
+    "name": "USAA",
+    "link": "https://www.linkedin.com/company/usaa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

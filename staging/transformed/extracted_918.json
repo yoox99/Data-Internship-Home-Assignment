@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - All levels",
+    "industry": "Internet",
+    "description": "For 95% of programming jobs, the primary focus is on using abstractions. For instance, using React JS to build a responsive web portal, or hammering out an API in Express or Rocket. They are about taking ways of seeing the world that others have invented, and applying them to the task at hand.  We value and respect this work, and our jobs involve a fair share of it, but we are looking for engineers who get up in the morning for the other 5%.  We want the abstraction creators: the engineers who are more excited about the technology that doesn’t exist yet than the technology that does.  We want people who are dreaming about creating new programming languages or operating system kernels, or even just small NPM packages with APIs that better reflect the problem space than prior abstractions.  We need this because the business Bubble is in is taking common patterns for constructing software, and capturing those patterns in repeatable technology, so that they become accessible and intuitive via our visual language. We are in the business of figuring out how to let our users express what they want to create as simply and directly as possible, and then solving the hard problems of taking what they express and running it performantly, scalably, and securely in the cloud.  In addition to creating better abstractions, the other pole of Bubble's business is helping our users solve their problems. Our users build everything from community projects to VC-backed startups. We are often a critical part of our customers’ operations. As a Bubble engineer, you get a direct feedback loop with customers: our community is incredibly vocal, and whenever we announce a release on our community forum, it always sparks feedback and engagement, and often celebration.  So, the other thing we look for and value in our hiring process is people who love to ship code and see it impact people's lives. We live in a dynamic tension between passionate love for technology in its pure form, and pragmatic caring for the end product. That tension is our secret sauce: the constant back-and-forth between solving the customer problem, and designing the right long-term solution is what's led to a product that people tell us literally changed their lives (read our last fundraising announcement, and our community's reaction to it ).  We have a number of hard problems we are trying to solve: We are looking for experienced programmers excited to help us tackle them. The ideal candidate loves solving hard technical problems to achieve a business goal, and has invested in their craft with a diversity of experiences. Because we are hiring programmers to design and implement a new language, we don't have any hard requirements about what technologies you need to know coming in. We think Bubble is amazing, but we also think we have an incredibly long way to go. Our aim is huge: we are trying to replace the entire traditional engineering stack. As such, we think that we are going to continually build and rebuild our systems as we scale up: we have a limitless well of engineering challenges ahead of us to create the platform we envision. If you are passionate about creating technological leverage for people, and the idea of an early-but-growing startup whose main obstacle to success is our ability to solve hard engineering problems is exciting, we look forward to hearing from you!  Note: at this time, we are only considering candidates who are authorized to work in the US (if you have an OPT or a current H1B, please apply!)",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T03:50:58.000Z"
+  },
+  "company": {
+    "name": "Bubble",
+    "link": "https://www.linkedin.com/company/bubble-hq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77300,
+    "max_value": 166000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

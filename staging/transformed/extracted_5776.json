@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Supervising Registered Nurse II (CVSP)",
+    "industry": "Hospital &amp; Health Care",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:27:44.000Z"
+  },
+  "company": {
+    "name": "California Correctional Health Care Services",
+    "link": "https://www.linkedin.com/company/california-correctional-health-care-services"
+  },
+  "education": {
+    "required_credential": "associate degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 79500,
+    "max_value": 101000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Blythe",
+    "region": "CA",
+    "postal_code": "92226",
+    "street_address": null,
+    "latitude": 33.612213,
+    "longitude": -114.596924
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software/Machine Learning Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Automotive,Oil &amp; Energy",
+    "description": "Tula’s core philosophy is built on the idea that every engine or motor, whether gas, diesel or electric, has a so-called “sweet spot” of efficient operation. Tula’s DSF and DMD control strategies are designed to have engines (both gasoline and diesel) and motors operate a greater percentage of time at (or near) their natural sweet spots, and in the process, fuel/energy is saved and emissions are reduced. Tula’s DSF technology has been recognized by the International Council of Clean Transportation (ICCT) as being one of the technologies that are essential for helping global automakers meet fuel efficiency mandates. With more than 340 patents (issued and pending) we’re focused on developing applications for passenger automobiles, commercial vehicles – both on and off road – and electric vehicles of any size.  Based in our San Jose, CA headquarters, the will work on the end-to-end architecture, design, and development of machine learning projects for Tula’s advanced engine control products. You will join an enthusiastic team of developers to innovative ML algorithms for Tula’s next-generation engine efficiency technology.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T13:47:11.000Z"
+  },
+  "company": {
+    "name": "Tula Technology Inc.",
+    "link": "https://www.linkedin.com/company/tula-technology-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 79000,
+    "max_value": 149000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

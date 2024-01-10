@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Analytics (Remote)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "In the age of large marketplaces like Amazon, we expect products delivered to our doorsteps in one or two days at no extra cost. Millions of sellers on other marketplaces fall short, unable to afford fast product delivery to their customers. Our mission is to build an intelligent, asset-lite network that enables any seller to offer ultra-fast, low-cost fulfillment -- transforming the $8 - $12 trillion per year fragmented and outdated logistics industry. Our backgrounds span journalism, academia, consulting, entrepreneurship, and more. We’re united by our curiosity, bias for action, and entrepreneurial ownership. We're looking for intelligent and ambitious people to join us in the early stages of building our vision -- backed by leading firms in logistics and venture capital.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T12:57:49.000Z"
+  },
+  "company": {
+    "name": "Deliverr Inc.",
+    "link": "https://www.linkedin.com/company/deliverr-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

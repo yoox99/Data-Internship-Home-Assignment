@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Management Consulting",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T14:00:16.000Z"
+  },
+  "company": {
+    "name": "PwC South Africa",
+    "link": "https://za.linkedin.com/company/pwc-south-africa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "ZA",
+    "locality": "Johannesburg Metropolitan Area",
+    "region": null,
+    "postal_code": "",
+    "street_address": null,
+    "latitude": -25.93775,
+    "longitude": 27.92642
+  }
+}

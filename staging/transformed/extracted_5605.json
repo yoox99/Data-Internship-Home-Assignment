@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-24T00:05:02.000Z"
+  },
+  "company": {
+    "name": "TEKsystems",
+    "link": "https://www.linkedin.com/company/teksystems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65100,
+    "max_value": 80800,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Seattle Area",
+    "region": null,
+    "postal_code": "98109",
+    "street_address": null,
+    "latitude": 47.591396,
+    "longitude": -122.33279
+  }
+}

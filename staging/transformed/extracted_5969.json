@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer,  Search TikTok (New Team!)",
+    "industry": "Internet",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T18:24:55.000Z"
+  },
+  "company": {
+    "name": "TikTok",
+    "link": "https://www.linkedin.com/company/tiktok"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 164000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Administrator, IoT",
+    "industry": "Marketing and Advertising,Information Technology and Services,Consumer Goods",
+    "description": "Lixil Water Technologies is looking for a Cloud Administrator to support our cloud environments. This individual will work closely on managing services hosted in various public clouds, especially within our IoT operations, including our public websites, network connectivity with on premise network and maintaining performance/monitoring of the overall environment.  LIXIL is made up of many individual brands, each in a different way, but all with the same purpose to make a better home a reality for everyone, everywhere. Our LIXIL brand portfolio includes Global Product brands such as INAX, GROHE and American Standard, Product Brands in Japan such as EXSIOR and Specialties such as COBRA and DXV.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:40:14.000Z"
+  },
+  "company": {
+    "name": "LIXIL Water Technology Americas",
+    "link": "https://www.linkedin.com/company/lixil-americas"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Piscataway",
+    "region": "NJ",
+    "postal_code": "07001",
+    "street_address": null,
+    "latitude": 40.57567,
+    "longitude": -74.454445
+  }
+}

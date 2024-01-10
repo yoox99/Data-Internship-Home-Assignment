@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist - Walmart Connect",
+    "industry": "Marketing and Advertising,Internet,Consumer Goods",
+    "description": "Walmart Connect is seeking an experienced data scientist to build and enhance ads measurement capabilities through advanced analytics and machine learning techniques. At Walmart, we enable the connection between supplier brands and retail shoppers at unprecedented scale. As primary stewards of our brand promise, \"Save Money. Live Better,\" we work alongside some of the most talented people in the world to engage with the more than 150M households who shop with us. This is a unique opportunity to join a small, high-visibility team within the largest company in the world. We believe all digital advertising can be targeted and accountable – and we have Walmart's sales data to prove it. Option 1- Bachelor’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology, or related field and 3  years' experience in an analytics related field. Option 2- Master’s degree in Statistics, Economics, Analytics, Mathematics, Computer Science,  Information Technology, or related field and 1 years' experience in an analytics related field. Option 3 - 5 years' experience in an analytics or Data science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch) Primary Location...850 Cherry Avenue, San Bruno, CA 94066-3031, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:21:22.000Z"
+  },
+  "company": {
+    "name": "Walmart Connect ",
+    "link": "https://www.linkedin.com/company/walmart-connect"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Bruno",
+    "region": "CA",
+    "postal_code": "94067",
+    "street_address": null,
+    "latitude": 37.627277,
+    "longitude": -122.416145
+  }
+}

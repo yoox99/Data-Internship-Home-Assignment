@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software",
+    "description": "Secureframe is on a mission is to help organizations build trust and stay secure. Getting secure can take months, slowing a company’s speed-to-market and sales. We believe security—when done right—should accelerate innovation and growth. That’s why we started Secureframe.  Secureframe is backed by top VCs including Kleiner Perkins, Gradient Ventures (Google’s AI Fund), BoxGroup, Village Global, and many more.  This role requires can be in San Francisco or Remote. Secureframe is fully remote until at least January 2022. We are committed to the health and safety of our employees and will not require employees to be in our office(s) until a vaccine is widely available.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T21:01:28.000Z"
+  },
+  "company": {
+    "name": "Secureframe",
+    "link": "https://www.linkedin.com/company/secureframe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

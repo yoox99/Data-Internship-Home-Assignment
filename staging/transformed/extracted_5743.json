@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Accounts Payable Specialist",
+    "industry": "Airlines/Aviation",
+    "description": "The Temporary Accounts Payable Specialist is responsible for managing vendor and customer service relationships and the processing of Accounts Payable transactions. This role will work as part of a shared services function, with global counterparts and responsibilities. An ideal candidate will contribute to establishment and maintenance of internal controls to ensure accurate, complete, efficient and timely recording of financial transactions.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:24:55.000Z"
+  },
+  "company": {
+    "name": "XOJET Aviation",
+    "link": "https://www.linkedin.com/company/xojet-aviation"
+  },
+  "education": {
+    "required_credential": "high school"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Lauderdale",
+    "region": "FL",
+    "postal_code": "33309",
+    "street_address": null,
+    "latitude": 26.188251,
+    "longitude": -80.1712
+  }
+}

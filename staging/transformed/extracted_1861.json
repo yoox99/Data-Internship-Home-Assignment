@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Northwestern Mutual is looking for an experienced engineer to help us build the next generation of financial planning tools for our clients. The role requires an agile engineering approach, the patience and persistence to tackle sophisticated problems, the ability to get things done quickly but thoughtfully, and outstanding technical skills.  Do you enjoy reading tech blogs in your spare time? Is your meme game strong? Then we want to hear from you! FIND YOUR FUTURE  We’re excited about the potential people bring to Northwestern Mutual. You can grow your career here while enjoying first-class perks, benefits, and commitment to diversity and inclusion.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:13:59.000Z"
+  },
+  "company": {
+    "name": "Northwestern Mutual",
+    "link": "https://www.linkedin.com/company/northwestern-mutual"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Java Developer",
+    "industry": "Financial Services,Investment Management,Banking",
+    "description": "Important Note: During the application process, ensure your contact information (email and phone number) is up to date and upload your current resume when submitting your application for consideration. To participate in some selection activities you will need to respond to an invitation. The invitation can be sent by both email and text message. In order to receive text message invitations, your profile must include a mobile phone number designated as “Personal Cell” or “Cellular” in the contact information of your application.  At Wells Fargo, we are looking for talented people who will put our customers at the center of everything we do. We are seeking candidates who embrace diversity, equity and inclusion in a workplace where everyone feels valued and inspired.  Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.  Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure; provides information security; and enables Wells Fargo global customers to have 24 hours a day, 7 days a week banking access through in-branch, online, ATMs, and other channels.  Our mission is to deliver stable, secure, scalable, and innovative services at speeds that delight and satisfy our customers and unleash the skills potential of our employees.  Enterprise Finance & Information Technology offers technology and services that exceed Wells Fargo customers’ expectations and directly enable them to succeed financially. We interact with customers more than 12 billion times a year through in-store, online, ATM, and telephone transactions. We impact customers directly, through systems availability and security, as well as indirectly, through our business partners who offer and deliver a myriad of products and services that meet customers’ financial needs. We provide a competitive advantage for the company through excellence in fundamentals, integrated partnerships, and our talented and engaged team members.  The Virtual Image Processing Exception Resolution Systems (VIPERS) team is seeking an Software Engineer to support 8 applications within the payment processing platform. VIPERS is part of the PVSI - Branch group within Wells Fargo. This team works in a virtual environment across multiple time zones, occasionally requiring a non-standard work schedule in support of the applications that processes electronic transactions 24 x7 in support of our enterprise and customer needs. This position requires someone that can be flexible, wants to be part of a dynamic team, and is able to manage multiple priorities and tasks at the same time.  The Software Engineer position will be required to perform moderate to complex development for in house and third party vendor applications. This role develops and implements complex internet and intranet applications on one or more platforms. Acts as an escalation point for production troubleshooting guidance; provides training and mentoring to less experienced developers. Evaluates systems specifications for client area web site requirements and determines and implements the most efficient and cost-effective software/package solution. Researches and tracks new web technologies, develops service applications, and analyzes business requirements as they pertain to web-based systems. Responsible for system quality assurance and consistency with installation and security policy and standards. All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.  Relevant military experience is considered for veterans and transitioning service men and women.  Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation. Visit https://www.wellsfargo.com/about/careers/benefits for benefits information. 5589966-4",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:32:04.000Z"
+  },
+  "company": {
+    "name": "Wells Fargo",
+    "link": "https://www.linkedin.com/company/wellsfargo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76700,
+    "max_value": 102000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

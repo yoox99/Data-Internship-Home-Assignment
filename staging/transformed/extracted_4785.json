@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "Internet,Consumer Goods,Retail",
+    "description": "Babylist is an e-commerce and gifting platform for new parents and parents-to-be. We are a rapidly growing business looking for talented contributors to join our seasoned, cross-discipline team.  Our web application and backend systems are at the center of the Babylist experience - an experience our users love as they prepare for one of life's biggest events.  The Babylist engineering culture is one of learning and knowledge sharing. We are passionate about experimentation, automation and shipping value to our customers. Our stack is based on Ruby on Rails and React. We continue to expand our toolbox to use the best technologies for the job.  Who You Are What You'll Do What You've Done At Babylist, we help expecting parents get exactly what they need for the arrival of their new baby. Founded in 2011, Babylist is a popular baby gift registry in the US. We serve millions of families every year to help them make the journey to parenthood less overwhelming and more fun. Families can add any item from any store to their registry, including products Babylist directly sells, alongside meaningful gifts like babysitting and meals, which they can't buy in stores. The baby retail market is underserved and Babylist is well positioned to be the trusted brand that helps new families through this monumental life stage. In the US alone, 4 million babies are born every year and we have over 1.5 million new families signing up to create a baby registry with us annually. This year, 10M loved ones will give the perfect gift using Babylist.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T22:04:15.000Z"
+  },
+  "company": {
+    "name": "Babylist",
+    "link": "https://www.linkedin.com/company/babylist"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Technical Architect",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "At Slack, we believe that our success is directly tied to the value our customers derive from our product. We demonstrate Slack’s platform flexibility by designing and delivering the right experiences for our customers, their teams and the individuals within it.  As a technical architect, you are responsible for engaging with our largest and most strategic customers to assess and design the technical rollout and launch plan for Slack. You are a key member of the Customer Success services team with a technical background and competencies in development, integration, solution architecture and security.  You will conduct detailed technical discovery workshops, assess cultural, structural and business functions with security requirements while translating these findings for a foundational Slack solution built for scale and flexibility. This design will include details on the workspaces, user management, authentication, bots, integrations, and settings & permissions required to ensure there are no technical barriers to user adoption of Slack. You will be responsible for advising on integration implementations, including key production systems from GitHub, Jira, Workday, Google Apps, etc. In addition, you'll be customizing client applications. You love strategically working with clients and in this role you'll be advising customers on how best to implement Slack APIs and Developer tool kits. Slack is registered as an employer in many, but not all, states. If you are not located in or able to work from a state where Slack is registered, you will not be eligible for employment.  Visa sponsorship is not available for candidates living outside the country of this position.  Slack is an Equal Opportunity Employer and participant in the U.S. Federal E-Verify program. Women, minorities, individuals with disabilities and protected veterans are encouraged to apply. Slack will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance.  Slack has transformed business communication. It’s the leading channel-based messaging platform, used by millions to align their teams, unify their systems, and drive their businesses forward. Only Slack offers a secure, enterprise-grade environment that can scale with the largest companies in the world. It is a new layer of the business technology stack where people can work together more effectively, connect all their other software tools and services, and find the information they need to do their best work. Slack is where work happens.  Ensuring a diverse and inclusive workplace where we learn from each other is core to Slack’s values. We welcome people of different backgrounds, experiences, abilities and perspectives. We are an equal opportunity employer and a pleasant and supportive place to work.  Come do the best work of your life here at Slack.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:37:12.000Z"
+  },
+  "company": {
+    "name": "Slack",
+    "link": "https://www.linkedin.com/company/tiny-spec-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

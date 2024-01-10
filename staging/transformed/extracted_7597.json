@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Research Scientist ",
+    "industry": "Pharmaceuticals,Biotechnology",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:31:50.000Z"
+  },
+  "company": {
+    "name": "Net2Source Inc.",
+    "link": "https://www.linkedin.com/company/net2sourceinc"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Summit",
+    "region": "NJ",
+    "postal_code": "07901",
+    "street_address": null,
+    "latitude": 40.71798,
+    "longitude": -74.35874
+  }
+}

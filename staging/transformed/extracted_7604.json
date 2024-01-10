@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "ServiceNow Developer",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "Working at Macro Solutions, a leading provider of IT and management consulting services, is an opportunity to collaborate with great people who have a passion for the services they provide to our clients. We are currently looking for a to remotely join one of our long term Federal projects in Chantilly, VA . Macro Solutions offers flexible FTE, W2 hourly consultant and Corp to Corp terms. Macro Solutions is a woman-owned IT and management consulting firm that helps government organizations select, implement, integrate and maintain critical business solutions. A relationship company at our core, we pride ourselves on building high-touch, high-trust environments for our clients and partners, at every level of our business. Assessed at CMMI Maturity Level 3 for both Development and Services and ISO 9001:2015 certification, Macro delivers honest, powerful results from the inside, outward.  Deeply invested in advancing long lasting employee relationships, our distinctive Consultant Care program ensures that our employees are always a priority at every level of the organization and has been integral to our 94% employee retention rate.  Along with a supportive environment and culture that thrives on dreaming big, getting things done and having fun together, Macro Solutions offers employees a full suite of competitive benefits, including health, dental, 401(k), and paid time off.  If you would like to learn more about Macro, are interested in joining our team, or would like to learn more about our Consultant Care program visit our website .  Macro Solutions is an Equal Opportunity Employer.",
+    "employment_type": "PART_TIME",
+    "date_posted": "2021-10-05T17:38:37.000Z"
+  },
+  "company": {
+    "name": "Macro Solutions",
+    "link": "https://www.linkedin.com/company/macro-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 58500,
+    "max_value": 75400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chantilly",
+    "region": "VA",
+    "postal_code": "22022",
+    "street_address": null,
+    "latitude": 38.888687,
+    "longitude": -77.417496
+  }
+}

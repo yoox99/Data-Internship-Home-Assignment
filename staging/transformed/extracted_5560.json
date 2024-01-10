@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Want to help the Apptio derive business value through the adoption of Artificial Intelligence (AI) and Machine Learning (ML)? Excited by using massive amounts of disparate data to develop ML models? Eager to learn to apply ML to a diverse array of enterprise use cases? You will get to work with an innovative company, with great teammates, and have a lot of fun helping our customers. A successful candidate will be a person who enjoys diving deep into data, doing analysis, discovering root causes, and designing long-term solutions Assist customers by being able to deliver a ML project from beginning to end, including understanding the business need, aggregating data, exploring data, building & validating predictive models, and deploying completed models with concept-drift monitoring and retraining to deliver business impact to the organization. Research and implement novel ML approaches, including hardware optimizations on platforms such as AWS Inferentia : Apptio is the leading software to fuel digital transformation. We help technology and finance leaders make smart decisions as they plan, analyze, and optimize technology investments in pursuit of digital transformation. Apptio’s software uses machine learning to translate technology costs and utilization across on-premises systems, vendors, projects, agile and cloud systems into a holistic, business-centric view. With Apptio, IT leaders make smarter digital transformation investments. Companies of all sizes and geographies trust Apptio to fuel their digital transformation, including 60% of the Fortune 100. For more information, please visit www.Apptio.com.  Apptio Inc. is not open to 3rd party solicitation or resumes for our posted FTE positions. Resumes received from 3rd party agencies that are unsolicited will be considered complimentary.  Apptio, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state and local laws. Apptio, Inc. complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:45:32.000Z"
+  },
+  "company": {
+    "name": "Apptio",
+    "link": "https://www.linkedin.com/company/apptio"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Morrisville",
+    "region": "NC",
+    "postal_code": "27560",
+    "street_address": null,
+    "latitude": 35.81964,
+    "longitude": -78.82302
+  }
+}

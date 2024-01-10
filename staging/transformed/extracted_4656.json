@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer III",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "Assist in building upcoming projects Understanding PRPC Architecture, tools and framework  BPM Technology",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:01:36.000Z"
+  },
+  "company": {
+    "name": "Bank of America",
+    "link": "https://www.linkedin.com/company/bank-of-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "College Park",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 33.653393,
+    "longitude": -84.4495
+  }
+}

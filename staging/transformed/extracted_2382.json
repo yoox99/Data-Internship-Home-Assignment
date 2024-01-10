@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Site Reliability Engineer-Citi Technology Infrastructure",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Job Id: 21267690  We are looking for a motivated Junior Site Reliability Engineer who prefers to live on the cutting edge of cloud infrastructure management, Application Performance Management (APM), and Infrastructure-as-Code (IaC).  An ideal candidate would have both software engineering experience as well as DevOps/Sysadmin experience however we are open to anyone passionate about creating organized, efficient, and scalable cloud infrastructure which is easy to deploy and maintain. This job description provides a high-level review of the types of work performed. Other job-related duties may be assigned as required.  ------------------------------------------------- Technology  ------------------------------------------------- Applications Development  ------------------------------------------------------ ------------------------------------------------------  Citi is an equal opportunity and affirmative action employer.  Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.  Citigroup Inc. and its subsidiaries (\"Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review .  View the \" \" poster. View the .  View the .  View the",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-01T15:09:46.000Z"
+  },
+  "company": {
+    "name": "Citi",
+    "link": "https://www.linkedin.com/company/citi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

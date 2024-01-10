@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "Tiger Analytics is looking for experienced Data Scientists to join our fast-growing advanced analytics consulting firm. Our employees bring deep expertise in Data Science, Machine Learning and AI. We are the trusted analytics partner for multiple Fortune 500 companies, enabling them to generate business value from data. Our business value and leadership has been recognized by various market research firms, including Forrester and Gartner. We are looking for top-notch talent as we continue to build the best global analytics consulting team in the world.  As a Data Scientist, you will apply strong expertise in AI through the use of machine learning, data mining, and information retrieval to design, prototype, and build next-generation advanced analytics engines and services. You will collaborate with cross-functional teams and business partners to define the technical problem statement and hypotheses to test. You will develop efficient and accurate analytical models which mimic business decisions and incorporate those models into analytical data products and tools. You will have the opportunity to drive current and future strategy by leveraging your analytical skills as you ensure business value and communicate the results. This position offers an excellent opportunity for significant career development in a fast-growing and challenging entrepreneurial environment with a high degree of individual responsibility.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T01:44:04.000Z"
+  },
+  "company": {
+    "name": "Tiger Analytics",
+    "link": "https://www.linkedin.com/company/tiger-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

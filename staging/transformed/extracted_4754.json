@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Scientist",
+    "industry": "Financial Services",
+    "description": "American Express is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, age, or any other status protected by law.  Employment eligibility to work with American Express in the U.S. is required as the company will not pursue visa sponsorship for these positions.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T07:25:20.000Z"
+  },
+  "company": {
+    "name": "American Express",
+    "link": "https://www.linkedin.com/company/american-express"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76700,
+    "max_value": 132000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

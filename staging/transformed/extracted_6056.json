@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (US)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Fortanix is a dynamic start-up solving some of the world’s most demanding data protection challenges for companies and governments around the world. Our disruptive technology maintains data privacy across its entire lifecycle -- at rest, in motion, and in use across any enterprise IT infrastructure -- public cloud, on-premise, hybrid cloud, and SaaS. With key strategic partners like Intel and Equinix, Fortanix customers like PayPal, Google & Addidas are reaping the benefits. Recognized by Gartner as a “Cool Vendor”, Fortanix is revolutionizing cyber security.  Join the revolution!  You will You are someone who You have",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T03:41:11.000Z"
+  },
+  "company": {
+    "name": "Fortanix",
+    "link": "https://www.linkedin.com/company/fortanix"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

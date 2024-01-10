@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "100% Remote Lead Software Engineer",
+    "industry": "Internet",
+    "description": "Title: Remote Lead Software Engineer  HQ: San Diego, CA  Type: Full-Time + 100% Remote  Compensation: 150 - 170k (depending on experience)  Requirements: 7+ years of C#, .NET/ASP.NET and Lead/Mentoring experience  Bonus: .NET Core, Azure, CI/CD, GIT, Docker  Are you a Lead Software Engineer with great consumer-facing or public-facing site experience? If so, read on...  We need you to help design, develop, and scale our public-facing sites! You will be leading a small team implementing full-stack solutions; enabling us to grow our offerings, securely handle increasing traffic, build new products, and expose functionality for automated testing. We are looking for an engineer who loves writing code; understands best practices has a strong desire to learn new technologies and wants to collaborate with teammates. Our team is a tightly-knit and passionate group that works very well together.  What You Will Be Doing our architect). Have a hands-on attitude. While its important to delegate work to your reports, its also important to be willing to jump in and solve a problem or handle a crisis.  What You Need for this Position  At least 7 years of software development experience and 2 - 3 years of leadership/mentoring experience: Nice to haves: Azure and DevOps Tools  What's In It for You  Great Culture, Excellent Health, Dental and Vision Insurance, 401K, Gym Membership.  So, if you are seeking a Remote Lead Software Engineer role and have most of the experience above...please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Nick.Savard@CyberCoders.com Nick Savard - Sr. Executive Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:35:46.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

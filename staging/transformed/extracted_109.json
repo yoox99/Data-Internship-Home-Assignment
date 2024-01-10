@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "",
+    "description": "Job Description: a)\tBachelor’s degree in Computer Engineering, Computer Science, or Electrical Engineering (with a Software emphasis) b)\t5-8 years’ experience specifically in the Flight Simulation industry c)\tRecent experience with Linux OS d)\tRecent experience programming in C or C++ e)\tExperience with systems engineering processes, to include requirements analysis, system architecture definition and design, and system verification testing   *Note: No C2C & No Sponsorship available for this role.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:12:59.000Z"
+  },
+  "company": {
+    "name": "eZone Staffing, LLC",
+    "link": "https://www.linkedin.com/company/ezonestaffing"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Havelock",
+    "region": "NC",
+    "postal_code": "28532",
+    "street_address": null,
+    "latitude": 34.88282,
+    "longitude": -76.91124
+  }
+}

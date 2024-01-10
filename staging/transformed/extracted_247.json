@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T15:15:49.000Z"
+  },
+  "company": {
+    "name": "Creative Radicals",
+    "link": "https://www.linkedin.com/company/creative-radicals"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76100,
+    "max_value": 165700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22102",
+    "street_address": null,
+    "latitude": 38.929565,
+    "longitude": -77.228096
+  }
+}

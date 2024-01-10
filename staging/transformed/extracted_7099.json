@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Data Scientist",
+    "industry": "Banking",
+    "description": "This Senior Data Scientist will be responsible for developing analytical insights and/or statistical models that optimize business and marketing spend, identify new business/marketing opportunities and/or provide strategic direction to senior management.  This position will collaborate directly with business partners to play a key role in the development and application of models, insights and data intelligence that supports business and marketing programs, customer analytics and operational improvements. Hours per Week: 40  Work Schedule: Monday-Friday 8am-5pm At Citizens, you'll find a customer-centric culture built around helping our customers and giving back to our local communities. When you join our team, you are part of a supportive and collaborative workforce, with access to training and tools to accelerate your potential and maximize your career growth. Citizens, its parent, subsidiaries, and related companies provide equal employment and advancement opportunities to all colleagues and applicants for employment without regard to age, ancestry, color, citizenship, physical or mental disability or perceived disability, ethnicity, gender, gender identity or expression, genetic information, genetic characteristic, marital or domestic partner status, victim of domestic violence, family status/parenthood, medical condition, military or veteran status, national origin, pregnancy/childbirth/lactation, colleague’s or a dependent’s reproductive health decision making, race, religion, sex, sexual orientation, or any other category protected by federal, state and/or local laws.  Equal Employment and Opportunity Employer/Disabled/Veteran 211736",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:10:05.000Z"
+  },
+  "company": {
+    "name": "Citizens",
+    "link": "https://www.linkedin.com/company/citizens-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "OH",
+    "postal_code": "43272",
+    "street_address": null,
+    "latitude": 39.96276,
+    "longitude": -82.99629
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software",
+    "description": "Join a diverse and dynamic software team in providing tools, API's, and methodologies to help hardware design teams co-optimize their designs for leading edge process nodes. You’ll be part of Advanced Design (AD) within Design Enablement organization (DE). The team works in close collaboration with our partners in process technology and design teams spanning CPU, Graphics, Networking, and Servers. The primary focus of the team is to accurately predict the impact of process changes on density scaling and power, performance metrics thereby facilitating quick data-based decisions for scaling and power, performance commits going from one tech node to the next. On this team you will research machine learning (ML) algorithms to provide Intel with the latest offerings in this extremely fast changing space. You will also build services and APIs to allow efficient and safe access to the ML algorithms which will enable the creation of visualizations to help customers analyze their results to achieve their desired outcomes. And, you will be working closely with hardware engineers in debugging and analyzing their model performance. It is an exciting time and with your skill and expertise we can help create the next generation technology which will shape our future. The candidate must possess a master's degree (with 2+ years of industry experience) or PhD degree (with 1+ years of industry experience) in Computer Science with a focus on Machine Learning or related Engineering disciplines",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T09:57:21.000Z"
+  },
+  "company": {
+    "name": "Intel Corporation",
+    "link": "https://www.linkedin.com/company/intel-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hillsboro",
+    "region": "OR",
+    "postal_code": "97124",
+    "street_address": null,
+    "latitude": 45.52395,
+    "longitude": -122.98974
+  }
+}

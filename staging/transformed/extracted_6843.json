@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Come join the \" \" as a \" \". The Software Engineer 2 role is to employ a set of tools, automation activities and processes to ensure that sensitive data is not lost, misused, or accessed by unauthorized users. Outstanding partnership skills.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:09:41.000Z"
+  },
+  "company": {
+    "name": "Intuit",
+    "link": "https://www.linkedin.com/company/intuit"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 69700,
+    "max_value": 143000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

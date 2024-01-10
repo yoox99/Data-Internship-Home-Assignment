@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Solutions Architect",
+    "industry": "Marketing and Advertising,Information Technology and Services,Financial Services",
+    "description": "Refer A Friend McDonald’s is proud to be one of the most recognized brands in the world, with restaurants in over 100 countries that serve 70 million customers daily. As the global leader in the food service industry, our legacy of innovation and hard work continues to drive us. From drive thru updates to delivery to mobile order and pay, we are innovating quickly and growing. Joining McDonald's means thinking big and preparing for a career that can have influence around the world.  At McDonald’s, we see every day as a chance to create positive impact. We lead through our values centered on inclusivity, service, integrity, community and family. From support of Ronald McDonald House Charities to our Youth Opportunity project and sustainability initiatives, our values keep us dedicated to using our scale for good: good for our customers, people, industry and planet. We also offer a broad range of outstanding benefits including a sabbatical program, tuition assistance and flexible work arrangements - check them out here! While most of us are working remote during COVID-19, we're excited to get back to our state-of-the-art headquarters in the booming West Loop of downtown Chicago. We are an equal opportunity employer committed to the diversity of our crew members, staff, operators, and suppliers. We promote an inclusive work environment that creates feel-good moments for everyone. We are interested in people who enhance our company culture: Does this role interest you? We encourage you to apply even if you don’t meet every single requirement!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:58:41.000Z"
+  },
+  "company": {
+    "name": "McDonald's",
+    "link": "https://www.linkedin.com/company/mcdonald%27s-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 68900,
+    "max_value": 148200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

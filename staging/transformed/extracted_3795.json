@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist I- 100% Remote Work",
+    "industry": "Financial Services,Information Technology and Services",
+    "description": "Purpose of Job  We are seeking a talented Data Scientist I to work from a 100% Remote Work Environment.  This role is designated for a Data Scientist who has proficient knowledge with applying modern advanced analytics methods (predictive modeling, Machine Learning, and optimization), as well as a solid grasp of the mathematics used for each method and strong Python coding skills to develop numerical models. The Data Scientist is expected to demonstrate the ability to effectively communicate (written and oral) complex analytical and technical concepts to both technical and non-technical employees. The Data Scientist for this role is expected to have experience working with Natural Language Processing.  Uses advanced techniques that integrate traditional and non-traditional datasets and method to enable analytical solutions. Applies predictive analytics, machine learning, simulation, and optimization techniques to generate management insights and enable customer-facing applications; participates in building analytical solutions leveraging internal and external applications to deliver value and create competitive advantage. Translates complex analytical and technical concepts to non-technical employees.  Job Requirements USAA knows what it means to serve. We facilitate the financial security of millions of U.S. military members and their families. This singular mission requires a dedication to innovative thinking at every level.  USAA Careers – World Class Benefits (31 seconds) When you apply for this position, you will be required to answer some initial questions. This will take approximately 5 minutes. Once you begin the questions you will not be able to finish them at a later time and you will not be able to change your responses. The above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job. USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the salary range based on your experience and market position. The salary range for this position is: *( this does not include geographic differential it may be applied based on your work location)  Employees may be eligible for pay incentives based on overall corporate and individual performance or at the discretion of the USAA Board of Directors. will be addressed on an individual-basis for applicable roles that are consistently scheduled for non-core hours. At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals.  Please click on the link below for more details. assistance is for this position.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T06:10:02.000Z"
+  },
+  "company": {
+    "name": "USAA",
+    "link": "https://www.linkedin.com/company/usaa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Antonio",
+    "region": "TX",
+    "postal_code": "78266",
+    "street_address": null,
+    "latitude": 29.42517,
+    "longitude": -98.49461
+  }
+}

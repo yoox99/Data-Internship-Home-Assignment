@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Data Scientist, Core Growth Analytics",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "\"The front page of the internet,” Reddit brings over 430 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities.  Reddit is poised to rapidly innovate and grow like no other time in its history. This is a unique opportunity to leave your mark on one of the most influential and trafficked corners of the internet.  Operating within the Growth division, the Core Growth team plays a key role in fulfilling Reddit’s mission of bringing community & belonging to the world through data initiatives like onboarding, churn prediction and user segmentation.  As the team’s Sr. Data Scientist, you will play an influential role in guiding product strategy through proactively surfacing insights, conducting exploratory analyses and executing advanced experimentation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:12:48.000Z"
+  },
+  "company": {
+    "name": "Reddit, Inc.",
+    "link": "https://www.linkedin.com/company/reddit-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

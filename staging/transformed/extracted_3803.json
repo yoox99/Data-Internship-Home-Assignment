@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Staffing and Recruiting",
+    "description": "Interested in working at a company with a vision to protect the people’s information and security? This company values their customers and makes sure integrity is how they ensure positive outcomes. This tech company, based in San Jose, is currently looking for an experienced Data Scientist to join their team. The company’s mission is to identify and stop threats before they become dangerous, and your job will be to test and prototype models to detect any signs of dangerous activities. You will be responsible for implementing algorithms and modelling difficult problems. You will apply data modeling and machine learning to the world of cybersecurity. Most importantly, you will train these models and evolve them to solve world problems. If this sounds like a company that you’re interested in, keep on reading! Shirley Do",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T00:54:52.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

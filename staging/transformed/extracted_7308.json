@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "With our recent close of our Series A funding, Molecule is hiring mid-to-senior-level full-stack engineers. As a member of our team, you'll help us design, build, and deliver the very best commodities-trading software on the planet.  You'll get to build production grade software using Ruby on Rails, React, Go, Python, Postgres, Docker, Kubernetes, and more— because we don't shy away from using cool tech in production. As a member of our team, you'll find yourself doing things the right way, most of the time.  The problem domain is complex, and if you have experience (or interest) in finance, trading, statistics, or calculus, this could be the gig for you. Sound interesting? Here's some more about the job Nice to haves Molecule has an awesome benefits package—one that fits right in with the small company that we are. Benefits include",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T20:29:57.000Z"
+  },
+  "company": {
+    "name": "Molecule",
+    "link": "https://www.linkedin.com/company/molecule-software"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

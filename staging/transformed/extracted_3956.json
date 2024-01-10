@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Financial Services,Information Technology and Services,Information Services",
+    "description": "Fidelity is looking for a Principal DevOps engineer to join our Enterprise Cybersecurity Customer Protection team! We’re looking for someone who has a passion for technical excellence, who can lead by example, and feels comfortable navigating ambiguity. Hands-on experience building and maintaining CICD pipelines, performing cloud migrations, and automating manual processes is a must! Come be part of a mission-critical team of engineers who are using best-in-class technology, cloud services, and DevOps practices to achieve maximum scalability, stability and resiliency! We are Customer Protection. We create the services that protect millions of customers every day! Our teams focus on delivering end-to-end product solutions where stability and security are our highest priority. We are obsessed with simplifying complex problems by automating everything and monitoring the right things. Company Overview  At Fidelity Investments, our customers are at the heart of everything we do. As a privately held company with a rich 75-year history, our mission has remained the same since our founding: . We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money.  Join Us  At Fidelity, you’ll find endless opportunities to build a meaningful career that positively impacts peoples’ lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. And you don’t need a finance background to succeed at Fidelity—we offer a range of opportunities for learning and growth so you can build the career you’ve always imagined. We welcome associates from different backgrounds and with different perspectives to help us innovate and make a difference for our customers and our communities.  We invite you to at fidelitycareers.com.  Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.  Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Leave of Absence/Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 2.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:13:25.000Z"
+  },
+  "company": {
+    "name": "Fidelity Investments",
+    "link": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westlake",
+    "region": "TX",
+    "postal_code": "76299",
+    "street_address": null,
+    "latitude": 32.99391,
+    "longitude": -97.19771
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "SW - System Software Quality Engineer",
+    "industry": "Computer Software,Semiconductors,Wireless",
+    "description": "Qualcomm Technologies, Inc. Engineering Group, Engineering Group > Software Test Engineering Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in. As a System Software Quality Engineer, you are responsible for working with a team to verify the production worthiness of a complete system stack of Qualcomm hardware and software. You will collaborate with hardware designers, software/firmware developers, platform engineering teams and post-silicon verification teams. In this role, there will also be an opportunity to engage with our customers and third parties on the drive for a quality product release. Bachelors - Computer Science, Bachelors - Engineering, Bachelors - Information Systems 1+ years experience with Programming Language such as C, C++, Java, Python, etc. : If you are an individual with a disability and need an accommodation during the application/hiring process, please call Qualcomm’s toll-free number found here for assistance. Qualcomm will provide reasonable accommodations, upon request, to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. Qualcomm is an equal opportunity employer and supports workforce diversity. :Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications. If you would like more information about this role, please contact Qualcomm Careers .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-02T18:19:23.000Z"
+  },
+  "company": {
+    "name": "Qualcomm",
+    "link": "https://www.linkedin.com/company/qualcomm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

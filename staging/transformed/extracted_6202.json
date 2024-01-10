@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Data Scientist - Operations Research",
+    "industry": "Chemicals,Pharmaceuticals,Biotechnology",
+    "description": "The primary responsibilities of this role, Lead Data Scientist, are to: Your success will be driven by your demonstration of our LIFE values. More specifically related to this position, Bayer seeks an incumbent who possesses the following:  Required Qualifications: Bayer offers a wide variety of competitive compensation and benefits programs. If you meet the requirements of this unique opportunity, and you have the \"Passion to Innovate\" and the \"Power to Change\", we encourage you to apply now. To all recruitment agencies: Bayer does not accept unsolicited third party resumes.  Bayer is an Equal Opportunity Employer/Disabled/Veterans  Bayer is committed to providing access and reasonable accommodations in its application process for individuals with disabilities and encourages applicants with disabilities to request any needed accommodation(s) using the contact information below. United States : Missouri : Creve Coeur Enabling Functions 448301 hrop_usa@bayer.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:25:38.000Z"
+  },
+  "company": {
+    "name": "Bayer",
+    "link": "https://de.linkedin.com/company/bayer"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 87900,
+    "max_value": 113000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Creve Coeur",
+    "region": "MO",
+    "postal_code": "65064",
+    "street_address": null,
+    "latitude": 38.661064,
+    "longitude": -90.42915
+  }
+}

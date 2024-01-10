@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Back End",
+    "industry": "Medical Devices",
+    "description": "Are you interested in applying your Software Engineering experience to advance cancer diagnostics? If so, we encourage you to put your experience and innovative spirit to work at Leica Biosystems! This position requires an innovative engineer who will work closely with key partners to build exciting and reliable experiences using web, thick-client applications or micro­services.  We are looking for a passionate backend engineer to help support our growing business! In this position, you will be a valued member of a technical team charged with implementing interactive features and user-friendly designs for the industry’s rapid migration to Digital Pathology. Use your intellect and experience to build applications supporting the entire workflow, from image acquisition all the way through image management, image review, and analysis.  Join us to help take this new form of medical imaging to the next level! Champion projects through all stages of the software lifecycle – inception, requirements, design, implementation, documentation, and verification. In this role, you will serve as a technology expert responsible for driving the backend technology of our products forward. You will provide technical guidance and hands on experience to the engineering team.  Key responsibilities include: This is a remote role but may require travel to the office in Vista, CA Check out our benefits here: https://danaherbenefitsinfo.com/ At Danaher, we are dedicated to building and sustaining a truly diverse and inclusive culture. These are not just words on a page—Diversity and Inclusion is a top priority for the company, and it ties deeply to each of our core values. Danaher Corporation and all Danaher Companies are equal opportunity employers that evaluate applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity, or other characteristics protected by law. Danaher Corporation and all Danaher Companies are equal opportunity employers that evaluate qualified applicants without regard to race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity, or other characteristics protected by law. The “EEO is the Law” poster is available here.  When you join us, you’ll also be joining Danaher’s global organization, where 69,000 people wake up every day determined to help our customers win. As an associate, you’ll try new things, work hard, and advance your skills with guidance from dedicated leaders, all with the support of powerful tools and the stability of a tested organization.  Danaher Corporation and all Danaher Companies are committed to equal opportunity regardless of race, color, national origin, religion, sex, age, marital status, disability, veteran status, sexual orientation, gender identity, or other characteristics protected by law. We value diversity and the existence of similarities and differences, both visible and not, found in our workforce, workplace and throughout the markets we serve. Our associates, customers and shareholders contribute unique and different perspectives as a result of these diverse attributes.  The EEO posters are available .  We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment. Please contact us at 202.419.7762 or to request accommodation.  If you’ve ever wondered what’s within you, there’s no better time to find out.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:31:09.000Z"
+  },
+  "company": {
+    "name": "Danaher Corporation",
+    "link": "https://www.linkedin.com/company/danaher"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Vista",
+    "region": "CA",
+    "postal_code": "92083",
+    "street_address": null,
+    "latitude": 33.20242,
+    "longitude": -117.235634
+  }
+}

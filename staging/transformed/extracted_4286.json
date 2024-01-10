@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Telecommunications,Information Technology and Services,Computer &amp; Network Security",
+    "description": "Job # 571724 Verizon is a leading provider of technology, communications, information and entertainment products, transforming the way we connect across the globe. We’re a diverse network of people driven by our ambition and united in our shared purpose to shape a better future. Here, we have the ability to learn and grow at the speed of technology, and the space to create within every role. Together, we are moving the world forward - and you can too. Dream it. Build it. Do it here. This position will be in the Global Supply Chain/Real Estate Advanced Analytics team. It is an individual contributor role with considerable autonomy in terms of responsibilities. You are a highly skilled expert in quantitative modeling, optimization, statistics, data mining and visualization. You have experience with SQL and in data visualization software like Tableau, QlikView or Excel. You have excellent verbal and written communication skills, and be proficient in engaging and influencing large teams and functional leaders. We're proud to be an equal opportunity employer - and celebrate our employees' differences, including race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, and Veteran status. At Verizon, we know that diversity makes us stronger. We are committed to a collaborative, inclusive environment that encourages authenticity and fosters a sense of belonging. We strive for everyone to feel valued, connected, and empowered to reach their potential and contribute their best. Check out our page to learn more.  Job Family: TEC  Business Unit: HQOVH",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T09:48:31.000Z"
+  },
+  "company": {
+    "name": "Verizon",
+    "link": "https://www.linkedin.com/company/verizon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

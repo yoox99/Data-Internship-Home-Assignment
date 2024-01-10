@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The for Productivity Services is responsible for the technical design and operations of productivity solutions used globally by employees and partners. These solutions will enable the workforce to create, share, and collaborate on content from anywhere at anytime built upon the Microsoft 365 and Azure platforms. This technical leadership role is expected to apply a software engineering mindset to system administration topics elevating the availability, reliability, and security of solutions while reducing operational costs.  STAND 8 provides end to end IT solutions to enterprise partners across the United States and with offices in Connecticut, Atlanta, New York, Raleigh, and more.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T01:48:10.000Z"
+  },
+  "company": {
+    "name": "STAND 8 Technology Services",
+    "link": "https://www.linkedin.com/company/westand8"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Englewood Cliffs",
+    "region": "NJ",
+    "postal_code": "07632",
+    "street_address": null,
+    "latitude": 40.880516,
+    "longitude": -73.951256
+  }
+}

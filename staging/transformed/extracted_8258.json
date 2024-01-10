@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Computer Software,Consumer Services,Entertainment",
+    "description": "PlayStation isn’t just the Best Place to Play —it’s also the Best Place to Work. We’ve thrilled gamers since 1994, when we launched the original PlayStation. Today, we’re recognized as a global leader in interactive and digital entertainment. The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation.  PlayStation isn’t just the Best Place to Play —it’s also the Best Place to Work! We’ve thrilled gamers since 1994, when we launched the original PlayStation! Today, we’re recognized as a global leader in interactive and digital entertainment. The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation.  As a member of the operations SRE team within the platform technology group, you will carry the responsibility of keeping key user experiences on the platform available, resilient, and impactful, while continually enabling our service teams to deliver new and exciting products and technical features. Our team strives to iteratively learn, improve and automate our processes every single day, which continually sets the standard for operational excellence within our organization. You will be empowered to drive and lead technical initiatives, helping identify and proactively drive improvements in both process and technology supporting millions of users. Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to race, color, religion, gender, pregnancy, national origin, ancestry, citizenship, age, legally protected physical or mental disability, covered veteran status, status in the U.S. uniformed services, sexual orientation, marital status, genetic information or membership in any other legally protected category.  We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.  We sincerely appreciate the time and effort you spent in contacting us, and we thank you for your interest in PlayStation.  Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to race, color, religion, gender, pregnancy, national origin, ancestry, citizenship, age, legally protected physical or mental disability, covered veteran status, status in the U.S. uniformed services, sexual orientation, marital status, genetic information or membership in any other legally protected category.  Reasonable Accommodation Notice Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.  We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.  We sincerely appreciate the time and effort you spent in contacting us and we thank you for your interest in PlayStation. This Privacy Notice explains what personal information we at Sony Interactive Entertainment LLC collect from you, and why we collect it and use it. This Notice covers our practices regarding the personal information of all applicants to our job positions. Please review it carefully. We collect personal information about you throughout the recruiting process, in particular the following categories.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-07T00:04:04.000Z"
+  },
+  "company": {
+    "name": "PlayStation",
+    "link": "https://www.linkedin.com/company/playstation-sony"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 129000,
+    "max_value": 162000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

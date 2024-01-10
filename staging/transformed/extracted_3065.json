@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—providing always-on alerting, metrics visualization, logs, and application tracing for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way. You will have a fantastic team of data engineers to support you, a collaborative environment to encourage your work, and the best technologies for performing data science at high scale in your toolkit. Datadog is an Affirmative Action and Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. Any information you submit to Datadog as part of your application will be processed in accordance with Datadog’s Applicant and Candidate Privacy Notice.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T15:11:01.000Z"
+  },
+  "company": {
+    "name": "Datadog",
+    "link": "https://www.linkedin.com/company/datadog"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91300,
+    "max_value": 192000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10001",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

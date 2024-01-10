@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Maps Evaluation Data Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "Apple Maps Evaluation team is looking for experienced Data Engineers to join our Metrics Engineering team.    We partner closely with Data Scientists, Program Managers and Product Analysts to measure and improve Apple Maps user experience. You will work with some of the most unique and interesting data sets in the world including: geospatial data, GPS probe data, search logs, real time traffic data, and A/B experiments data.   Our work spans the entire data ecosystem: metrics design, instrumentation, data set design, data quality checks, batch and real time applications, and reporting.    For this role you will be focusing on data science tooling and data governance related projects and dealing with Maps data at massive scale.  Our goals are to:   1) Empower our partners in the data science team by building tools and pipelines to support their       needs    2) Engineer solutions to guarantee discoverable, accurate, compliant, and secure management of       data   We are looking for data engineers who love to work closely with their customers and who are excited to solve challenges around data discoverability and management. Passion for building reliable, stable and fast data products that serve customer needs   4+ years of experience in working with large data sets, schema design and dimensional modeling   4+ years of experience in data warehousing and ETL   Expertise in working with SQL   Experience with data processing using Spark, Hadoop, MapReduce and SparkSQL   Experience with real time data processing using Kafka and Storm or Spark Streaming   Experience in Java or Scala and Python   Experience with notebooks e.g. Jupyter, Zeppelin Partner with Apple Maps Program, Data Science and Engineering teams to understand data needs   Design, build and launch efficient and reliable data pipelines   Create data models for optimal storage and retrieval   Architect and develop new data processing systems to enable quick and easy consumption and augmentation of data   Build data expertise and develop methods to monitor data quality   Define and manage SLA for datasets in your area of responsibility - Bachelors or Masters degree in Computer Science or related field, or relevant industry experience     preferred. Apple’s most important resource, our soul, is our people. Apple benefits help further the well-being of our employees and their families in meaningful ways. No matter where you work at Apple, you can take advantage of our health and wellness resources and time-away programmes. We’re proud to provide stock grants to employees at all levels of the company, and we also give employees the option to buy Apple stock at a discount — both offer everyone at Apple the chance to share in the company’s success. You’ll discover many more benefits of working at Apple, such as programmes that match your charitable contributions, reimburse you for continuing your education and give you special employee pricing on Apple products.    Apple benefits programmes vary by country and are subject to eligibility requirements.   Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. Apple is a drug-free workplace    Role Number: 200250309",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:35:50.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

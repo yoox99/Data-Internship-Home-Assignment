@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Java Software Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:36:25.000Z"
+  },
+  "company": {
+    "name": "Kelly",
+    "link": "https://www.linkedin.com/company/kellyservices"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Urbandale",
+    "region": "IA",
+    "postal_code": "50131",
+    "street_address": null,
+    "latitude": 41.630333,
+    "longitude": -93.736496
+  }
+}

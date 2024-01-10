@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Applications Developer - Opower App Platform",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": ": Arlington, VA (We are willing to accept virtual candidates based in the US for this role) Are you a Senior Software Engineer looking to make an impact on a dynamic team? Oracle Utilities, formerly Opower, is looking for a mission focused Engineer to join our team in Arlington, Virginia who wants to help shape our technical architecture and deliver solutions that utilities and customers need to thrive in a sustainable future. We’re applying cutting edge computer science to one of humanity’s greatest challenges: Energy. Our utility customers around the world give us energy usage data for tens of millions of their customers which we then analyze and aggregate using the latest software technologies to motivate consumers to use less energy. We use the right tools for each element of our broad solution set so our engineers get exposure to everything from Dropwizard to Ruby on Rails, from Docker to Nomad, from MySQL to Redis, from massive batch processes to rich web apps. The Outbound Platform team within Oracle Utilities builds the tools used to configure and customize the personalized communications and APIs that our product teams use to deliver millions of personalized communications each week. This is a backend-focused role, but you’ll work across the full stack of Ruby on Rails / Angular web applications, Dropwizard Java API micro-services, NodeJs applications, MySQL databases, Object storage, all operating on Docker and Nomad infrastructure. Analyze, design develop, troubleshoot and debug software programs for commercial or end user applications. Writes code, completes programming and performs testing and debugging of applications.  As a member of the software engineering division, you will perform high-level design based on provided external specifications. Specify, design and implement minor changes to existing software architecture. Build highly complex enhancements and resolve complex bugs. Build and execute unit tests and unit plans. Review integration and regression test plans created by QA. Communicate with QA and porting engineering as necessary to discuss minor changes to product functionality and to ensure quality and consistency across specific products.  Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience.If you are a Colorado resident, Please Contact us or Email us at oracle-salary-inquiries_us@oracle.com to receive compensation and benefits information for this role. Please include this Job ID: 106003 in the subject line of the email. Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It’s when everyone’s voice is heard and valued, that we are inspired to go beyond what’s been done before. That’s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.  Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:23:32.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Frontend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Magic is an early stage, fast-growing challenger to transform the antiquated user identity space by eliminating the need for passwords, with backing from top investors such as Lightspeed Ventures, SV Angel, Social Capital, Placeholder, and Naval Ravikant. We’re looking for an exceptional new team member to own the recruiting pipeline and help scale Magic into a household name for developers worldwide.  Our mission is to safeguard the trust between users and Internet services by establishing secure and authentic digital identity. Magic’s vision is to build the passport of the internet. We are seeking team members who are not afraid to push beyond the status quo and create the simplest, most secure, and most long-term sustainable identity solution for app developers and end-users.  We are looking for a Frontend Engineer who will help us disrupt the world of authentication and radically simplify how developers implement passwordless authentication in their applications - uncompromising on user-experience, reliability, and security.  You should be able to build high-quality, innovative and performant web experiences that delight users. We are pursuing a vision of bringing about a more authentic internet, and are not afraid to embrace the very real challenges that must be overcome in order to achieve it. We’re big dreamers but also pragmatists. As such, we rely on state-of-the-art web technologies to build products that exist nowhere else in the industry today. In this role, you will We are looking for someone who has Bonus Magic is remote-friendly, though we would prefer this role specifically to be in a timezone where we can have more hours overlap with the North American team members due to the need for frequent communication and collaboration.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-08T06:06:01.000Z"
+  },
+  "company": {
+    "name": "Magic",
+    "link": "https://www.linkedin.com/company/magiclabs-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

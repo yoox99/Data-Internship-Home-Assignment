@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Engineer, Machine Learning, ACOE",
+    "industry": "Pharmaceuticals",
+    "description": "Develop fit for purpose AIML models/algorithms/processes to address pharma/healthcare applications and innovative products upon completion of prototypes followed by the building of production grade algorithms/automation engines for client delivables. Test for viability in order to deliver final products to clients. Able to bring newly researched ideas to reality quickly and on a large scale. Design, build, test, and deliver products from post-prototype to client delivery. At IQVIA, we believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. The advanced analytics, technology solutions and contract research services we provide to the life sciences industry are made possible by our 70,000+ employees around the world who apply their insight, curiosity and intellectual courage every step of the way. Learn more at jobs.iqvia.com.  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other status protected by applicable law.  IQVIA, Inc. provides reasonable accommodations for applicants with disabilities. Applicants who require reasonable accommodation to submit an application for employment or otherwise participate in the application process should contact IQVIA’s Talent Acquisition team at workday_recruiting@iqvia.com to arrange for such an accommodation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:46:28.000Z"
+  },
+  "company": {
+    "name": "IQVIA",
+    "link": "https://www.linkedin.com/company/iqvia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Durham",
+    "region": "NC",
+    "postal_code": "27717",
+    "street_address": null,
+    "latitude": 35.99695,
+    "longitude": -78.899025
+  }
+}

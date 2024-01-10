@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software V&amp;V Engineer - Python/Embedded Linux",
+    "industry": "Hospital &amp; Health Care",
+    "description": "Title: Software V&V Engineer  Location: Irvine, CA  Compensation: 100k - 140k base (DOE)  Requirements: 5 years of experience, Automation ,Python Scripting, Embedded Systems  Preferred candidates have: Medical Device experience or QT Application Software Testing  If you are a QA Engineer with at least 5 years of experience, please read on!  We are developing an innovative medical device to treat patients in-home; removing the burden and ultimately increasing the patients' quality of life. Despite the cost of this treatment increasing, only about 1/8 people receive this treatment in-home. Our solution will not only improve the lives of others but also decrease the cost of care.  We are well-funded and seeking a skilled QA Engineer to assist with development. If you are interested, please read on!  What You Will Be Doing What You Need for this Position What's In It for You So, if you are a QA Engineer with at least 5 years of experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Nick.Savard@CyberCoders.com Nick Savard - Sr. Executive Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:38:09.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

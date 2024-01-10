@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Nonprofit Organization Management,Financial Services,Hospital &amp; Health Care",
+    "description": "Matthew K. Nock, the Director of the Nock Lab in the Department of Psychology at Harvard University is seeking to hire a Machine Learning Engineer (MLE) / Data Scientist (DS) with expertise in machine learning (ML) and the management and analysis of data. The MLE/DS will work on studies aimed at advancing the understanding, prediction, and treatment of suicidal thoughts and behaviors. The data to be managed and analyzed are from smartphone-based surveys, passive smartphone/wearable monitors, and social media platforms. The MLE will clean, transform, and merge data and will run advanced data analyses. The MLE will work with a dynamic, multi-site team on projects aimed at improving identification of, and intervention on, mental health problems (e.g., suicide) using rich data sources. The successful applicant will have strong programming skills, sufficient knowledge, and technical expertise in ML to execute tasks independently, advanced data management and analysis skills, and interest in application of ML to the healthcare sector. This is a one-year term position with renewal dependent upon continuation of funding.  All formal offers will be made by FAS Human Resources. Information Technology USA - MA - Cambridge I1257P IT RC Software/Data Prof III Psychology Full-time 057 00 - Non Union, Exempt or Temporary Identity We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, pregnancy and pregnancy-related conditions, or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Harvard University",
+    "link": "https://www.linkedin.com/company/harvard-university"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 73200,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer with Sign-On Bonus",
+    "industry": "Computer Networking,Computer Software,Computer &amp; Network Security",
+    "description": "At APCON, we bring enthusiasm, passion, and dedication every day to building products that provide visibility into network data. Organizations ranging from midsize companies to Fortune 100 enterprises rely on APCON to achieve total visibility of their physical, private, and cloud environments. With APCON’s stable, scalable technology, IT professionals know they can monitor, secure, and protect their networks. The Software Test Engineer will be responsible for the testing and validation of APCON’s industry leading suite of network monitoring solutions.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T18:01:52.000Z"
+  },
+  "company": {
+    "name": "APCON",
+    "link": "https://www.linkedin.com/company/apcon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 61200,
+    "max_value": 90100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

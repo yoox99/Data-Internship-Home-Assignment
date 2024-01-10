@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist - Machine Learning",
+    "industry": "Computer Software",
+    "description": "Here at Pave, you’ll be joining a world class team with tremendous growth potential. We’re a Series B start-up backed by top Silicon Valley investors Andreessen Horowitz (a16z), Y Combinator Continuity, and Bessemer Venture Partners.  The world of compensation is broken today. Pave is here to fix it. Today, teams cobble together hundreds of messy spreadsheets and outdated surveys to determine how to compensate their workforce. Covid and remote work have made the situation far more difficult, and the notion of “market compensation” is now confusing to everyone.  At Pave, you will reinvent the world of compensation and help build a more transparent future of work.  Pave allows companies to benchmark compensation to leaders in their industry, analyze internal compensation data and make the right adjustments, then visually communicate compensation to their employees. We’re building the world’s largest real-time compensation data platform to accomplish this goal, and are acquiring amazing customers like Credit Karma, Discord, and Allbirds at an unbelievable pace. Come join our team on this mission! Do you want to work on meaningful data science projects that truly make the world a better place? Are you interested in working with the world’s largest and most complete real-time compensation dataset? Would you rather spend more time delivering value than cleaning data? Do you want to be a force multiplier who works with a variety of tools, domains, and stakeholders?  At Pave, we have one of the world’s most interesting datasets (seriously, this is every data scientist’s dream). We have almost every characteristic you could want, from compensation characteristics to demographic characteristics to location data to, well, anything you could want analyze. Oh, did we mention it was clean? If you said yes to the above, come help us make a more fair and transparent world at Pave. At Pave you'll be working with product managers and other key stakeholders to This means you'll be: Pave is growing incredibly fast, and we have high ambition. In true work hard / play hard fashion, we've complemented our ambitious goals with a world-class culture and a variety of early startup benefits. As an early hire, you’ll play a key role in shaping what this looks like, but some of the benefits that we already offer include: Competitive salary and startup equity (it's in our DNA) Top tier health insurance along with exercise & wellness benefits All meals while working, plus snacks. We take our snacking seriously Choose your laptop and accessories of choice Retreats, happy hours, and events for our team, friends, and family Take the time you need A dedicated work from home day each week Our company is based in San Francisco's SoMA district with a high energy in-person culture  And much more... we want all Pave employees to define the best benefits based on our combined interests.  Pave is committed to a diverse and inclusive workforce. We are an equal opportunity employer and do not discriminate on the basis of race, ethnicity, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please email recruiting@pave.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:31:40.000Z"
+  },
+  "company": {
+    "name": "Pave",
+    "link": "https://www.linkedin.com/company/pave"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

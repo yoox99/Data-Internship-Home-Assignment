@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Machine Learning Platform Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "The Machine Learning (ML) team supports production-facing customer experiences and solutions including search engines, style and template recommendations, dynamic content generation, phishing and fraud detection and more. You will be a founding ML Platform engineer reporting to the manager of Machine Learning. ML Platform builds tools from the ground up to automate data-intensive workflows, enhance telemetry and reproducibility of our modeling ecosystem and provide top-class developer tools for ML engineering peers. This is a hands-on technical leadership position where you will have support and autonomy to make architectural decisions and develop your vision of a foundational ML modeling platform.  All Squarespace employees are working remotely at this time. We are closely monitoring the status of COVID-19 as we continue our work to build a return-to-work plan that ensures a safe return to our offices and provides flexibility for our employees. Squarespace makes beautiful products to help people with creative ideas succeed. By blending elegant design and sophisticated engineering, we empower millions of people — from individuals and local artists to entrepreneurs shaping the world’s most iconic businesses — to share their stories with the world. Squarespace’s team of more than 1,200 is headquartered in downtown New York City, with offices in Dublin and Portland. For more information, visit www.squarespace.com/about.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:16:22.000Z"
+  },
+  "company": {
+    "name": "Squarespace",
+    "link": "https://www.linkedin.com/company/squarespace"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 117000,
+    "max_value": 183000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

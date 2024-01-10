@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Products and Technology The Data Science team in Salesforce’s Digital Success and Scale (DSS) organization creates data science products that drive customer success. The team works with executives, success managers, sales, renewal managers, and product managers across DSS and Salesforce to discover and analyze opportunities for growth and to provide actionable insights supporting business decision making. We are looking for machine learning engineers who are passionate about building scalable production machine learning applications. As a key member of the data science team you will have immense opportunities to work on a broad range of business/technical problems and technologies, build machine learning models, design/automate/deploy production machine learning pipelines. You will be working with a group of world-class data scientists, program managers and business analysts to build intelligent services for both internal teams and customer-facing products. We share a passion for problem solving, new technologies, and learning, so you will be highly encouraged to explore new technologies and come up with innovative solutions that could take the team’s data science machine learning engineering capability to the next level. If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form . At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits. and are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. and do not accept unsolicited headhunter and agency resumes. and will not pay any third-party agency or company that does not have a signed agreement with or .  Salesforce welcomes all.  Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-01T07:05:36.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

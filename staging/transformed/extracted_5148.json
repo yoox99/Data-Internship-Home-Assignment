@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T17:39:21.000Z"
+  },
+  "company": {
+    "name": "STS Federal",
+    "link": "https://www.linkedin.com/company/stsfederal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tulsa",
+    "region": "OK",
+    "postal_code": "74116",
+    "street_address": null,
+    "latitude": 36.155327,
+    "longitude": -95.99208
+  }
+}

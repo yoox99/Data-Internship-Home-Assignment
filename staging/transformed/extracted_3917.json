@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer, OCI",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Solve complex problems related to infrastructure cloud services and build automation to prevent problem recurrence. Design, write, and deploy software to improve the availability, scalability, and efficiency of Oracle products and services. Design and develop designs, architectures, standards, and methods for large-scale distributed systems. Facilitate service capacity planning and demand forecasting, software performance analysis, and system tuning.  Work with Site Reliability Engineering (SRE) team on the shared full stack ownership of a collection of services and/or technology areas. Understand the end-to-end configuration, technical dependencies, and overall behavioral characteristics of production services. Responsible for the design and delivery of the mission critical stack, with focus on security, resiliency, scale, and performance. Authority for end-to-end performance and operability. Partner with development teams in defining and implementing improvements in service architecture. Articulate technical characteristics of services and technology areas and guide Development Teams to engineer and add premier capabilities to the Oracle Cloud service portfolio. Understand and communicate the scale, capacity, security, performance attributes, and requirements of the service and technology stack. Demonstrate clear understanding of automation and orchestration principles. Act as ultimate escalation point for complex or critical issues that have not yet been documented as Standard Operating Procedures (SOPs). Utilize a deep understanding of service topology and their dependencies required to troubleshoot issues and define mitigations. Understand and explain the affect of product architecture decisions on distributed systems. Professional curiosity and a desire to a develop deep understanding of services and technologies.  A BS or MS in Computer Science, or equivalent. Identifies and implements complex solutions to knowledge of server hardware and software configuration, networking, standard internet services, scripting languages, cloud computing patterns, technology security and compliance. Experience running large scale customer facing web services. Identifies and implements complex solutions to understanding of load balancing technologies and experience with development in programming languages, databases and big data stores, and container technologies. Work involves defining and documenting technical architecture of complex and highly scalable products. A minimum of 8+ years experience of running large scale customer facing web services. Colorado Pay Range: from $97,000 to $186,000 per annum eligible for bonus and equity.  Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience and market conditions, as well as reflect Oracle’s differing products, industries and lines of business.  Candidates are typically placed into the range based on the preceding factors as well as internal peer equity.  Oracle offers a comprehensive benefits package which includes the following: Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It’s when everyone’s voice is heard and valued, that we are inspired to go beyond what’s been done before. That’s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.  Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T11:12:10.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Broomfield",
+    "region": "CO",
+    "postal_code": "80020",
+    "street_address": null,
+    "latitude": 39.923985,
+    "longitude": -105.08166
+  }
+}

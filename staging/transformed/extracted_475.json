@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Data scientists at Disney Streaming Services are the insights and modeling partners for the content, marketing, product, and engineering teams at Disney+, Hulu and ESPN+. They use data to empower decision-makers with information, predictions, and insights that ultimately influence the experiences of millions of users worldwide. Scientists on the team build models, perform statistical analysis, and create visualizations to provide scalable, persistent capability that is iteratively improved through direct interaction with cross-functional business partners. oRXHffwu",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-02T16:40:03.000Z"
+  },
+  "company": {
+    "name": "Hulu",
+    "link": "https://www.linkedin.com/company/hulu"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

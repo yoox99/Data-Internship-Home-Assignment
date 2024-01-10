@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer – Entry Level",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "This is a hands-on software engineering position in Link's Common Training Environment (CTE) group. Link's CTE group is responsible for development and delivery of discriminating total training solutions, including Link's HD World® next generation simulation product line that provides war fighters with exceptionally realistic and relevant training for combat and peace keeping missions. HD World® products include: SimuSphere™ HD immersive visual display system, SimuView™ / SimuViewÆ™ image generator system, PBEG physics-based environment generator, and World Content Database Generation. The primary responsibility of this position is supporting the SimuView™ / SimuViewÆ™ image generator product. Job duties include product deployment, integration and support into a multitude of Fast Jet, Helo, Wide-body and UAV applications. The position is focused on new product feature design and development utilizing the latest 3D graphics technologies and concepts. Candidate should be a fast learner with very strong analysis and problem-solving skills with the ability to carry tasks through to completion with only general technical direction. Security Responsibilities  Must comply with all company security and data protection / usage policies and procedures. Personally responsible for proper marking and handling of all information and materials, in any form. Shall not divulge any information, or afford access, to other employees not having a need-to-know. Shall not divulge information outside company without management approval. All government and proprietary information will be accessed and stored electronically on company provided resources. Work Environment Physical Demands  The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Other Duties  Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for their job. Duties, responsibilities, and activities may change at any time with or without notice. Regular  CAE thanks all applicants for their interest. However, only those whose background and experience match the requirements of the role will be contacted. At CAE, everyone is welcome to contribute to our success. With no exception.  As captured in our overarching value \"One CAE\", we’re proud to work as one passionate, boundaryless and inclusive team.  At CAE, all employees are welcome regardless of race, nationality, colour, religion, sex, gender identity or expression, sexual orientation, disability or age.  The masculine form may be used in this job description solely for ease of reading, but refers to men, women and the gender diverse.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T23:59:58.000Z"
+  },
+  "company": {
+    "name": "CAE",
+    "link": "https://ca.linkedin.com/company/cae"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 54500,
+    "max_value": 83200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Grand Prairie",
+    "region": "TX",
+    "postal_code": "75054",
+    "street_address": null,
+    "latitude": 32.745495,
+    "longitude": -97.00353
+  }
+}

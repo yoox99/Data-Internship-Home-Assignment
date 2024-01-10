@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Product Engineer Controls Software",
+    "industry": "Automotive,Transportation/Trucking/Railroad",
+    "description": "Navistar Vehicle and Powertrain Controls Software Team is responsible for electronic controls and software requirements, design, coding, testing, software integration, releases, and product delivery management. This position is part of the product delivery management team responsible for identifying and developing Software Development work plans to meet program objectives and timing.  The Controls Product Delivery Engineer will work with different departments within the Vehicle and Powertrain Controls Software Team to identify, develop, coordinate, maintain, and report out on the status of software delivery. OR OR Navistar is a purpose-driven company, reimagining how to deliver what matters to create more cohesive relationships, build higher-performing teams and find solutions where others don't.  Navistar is the Lisle, Illinois-based parent company of International® brand commercial trucks and engines, IC Bus® brand school and commercial buses, all-makes OnCommand® Connection advanced connectivity services, aftermarket parts brands Fleetrite®, ReNEWed® and Diamond Advantage® and Brazilian manufacturer of engines and gensets MWM Motores Diesel e Geradores.  With a history of innovation dating back to 1831, Navistar has more than 12,000 employees worldwide and is part of TRATON SE, a global champion of the truck and transport services industry. Visit us at to discover more about our organization  Navistar is an Equal Opportunity Employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T04:19:00.000Z"
+  },
+  "company": {
+    "name": "Navistar Inc",
+    "link": "https://www.linkedin.com/company/navistar-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 56400,
+    "max_value": 81200,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lisle",
+    "region": "IL",
+    "postal_code": "60532",
+    "street_address": null,
+    "latitude": 41.80125,
+    "longitude": -88.07478
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "iOS Engineer - Mid-Level",
+    "industry": "Internet",
+    "description": "Are you an iOS Engineer with hands on Swift development experience? Have you worked on reactive programming? Do you have desire to help parents save time? If so, read on...  Headquartered in Downtown Los Angeles, we are close to L.A. metro stops. We are mission driven. Our growth has exceeded even our own expectations. Our mission, our enormous market potential, our team and the technology challenges we are solving make us one of LAs hottest startups and an all-around awesome place to work. We've been featured in TechCrunch, New York Times, CNN Money & have the backing of LA'S top Venture Capital firms.  WE ARE OFFERING FULL REMOTE WORK!  We are tackling complex and interesting technical challenges every day. We are building across multiple platforms for multiple user types - some of our current challenges include using Geographic Information Services (GIS), Big Data and Machine Learning. We use micro services and ephemeral cloud architectures, to rapidly deploy our efforts right into consumers hands.  We are looking to bring on a Mid-Level iOS Engineer to help us continue to build and grow our complex mobile platform. As our user base continues to grow, the Mid-Level iOS Engineer will work to build and modernize our mobile applications and experiences for our end users.  Top Reasons to Work with Us What You Will Be Doing What You Need for this Position  The Mid-Level iOS Engineer must have at least two years of development experience and be familiar with: What's In It for You So, if you are an iOS Engineer with experience building complex mobile features from the ground up, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Daniel.OKeefe@CyberCoders.com Daniel OKeefe - Sr. Executive Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.  CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:42:08.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

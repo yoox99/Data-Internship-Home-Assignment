@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "How you will help  You will support the engineering team and implement automation to fortify and expand our current technical processes. You will develop a strong technical understanding of the components of our system and work with internal resources to solve any challenges that may arise.  What you will do You ... Our company challenges The infrastructure and culture we are building will provide an environment that cultivates innovation. We want to move fast knowing we can fix anything we break along the way. If a new need arises, we want to turn around a solution quickly. We want to solve our challenges in ways that create even more possibilities. We’re creating a platform that lets us discover what else we might do.  We have big plans  We are building a platform that will scale to support an ever-growing array of data providers and innovative products. You must be able to think big while still delivering on near-term requirements.  HealthVerity, based in Center City Philadelphia, is a venture-backed technology company that is transforming the way data-led organizations make critical decisions. Our technology platform serves as the foundation for the rapid creation, exchange and management of healthcare and consumer data in a fully-interoperable, privacy-protecting manner. Advantaged by highly sophisticated identity resolution and matching capabilities, HealthVerity is on a mission to increase transparency, forge interoperability and activate deeper insights.  HealthVerity is an equal opportunity employer devoted to inclusion in the workplace. We believe incorporating different ideas, perspectives and backgrounds make us stronger and encourages an environment where ageism, racism, sexism, ableism, homophobia, transphobia or any other form of discrimination are not tolerated. At HealthVerity, we’re working towards an innovative and connected future for healthcare data and believe the future is better together. We can only do that if everyone has a seat at the table. Read our Equity Inclusion and Diversity Statement.  This is a remote position.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T05:10:36.000Z"
+  },
+  "company": {
+    "name": "HealthVerity",
+    "link": "https://www.linkedin.com/company/healthverity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

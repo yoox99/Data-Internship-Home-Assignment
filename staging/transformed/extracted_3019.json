@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Cohesity radically simplifies data management. We make it easy to back up, manage, and derive value from data -- across the data center, edge and cloud. Cohesity also helps ensure data is in compliance and protected against ransomware attacks. We offer a full suite of data management services consolidated on one multicloud data platform, reducing complexity and eliminating mass data fragmentation. Cohesity can be delivered as a service, self-managed, or provided by a Cohesity-powered partner.  We’ve been named a Leader by multiple analyst firms, and are prominently featured in the Forbes Cloud 100 and CRN’s Coolest Cloud companies. Our growth is off the charts, and we’re just getting started! For information on personal data processing, please see our Cohesity is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.  If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at 1-855-9COHESITY or talent@cohesity.com for assistance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:14:58.000Z"
+  },
+  "company": {
+    "name": "Cohesity",
+    "link": "https://www.linkedin.com/company/cohesity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

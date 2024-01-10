@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer for Construction Robotics – full stack",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:26:49.000Z"
+  },
+  "company": {
+    "name": "Toggle Industries",
+    "link": "https://www.linkedin.com/company/toggle-industries"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

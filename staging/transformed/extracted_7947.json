@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Automation Anywhere is a global leader in Robotic Process Automation (RPA), empowering customers to automate end-to-end business processes with software bots – digital workers that perform repetitive and manual tasks, resulting in dramatic productivity gains, optimized customer experience and more engaged employees. The company offers the world’s only web-based and cloud-native intelligent automation platform combining RPA, artificial intelligence, machine learning and analytics right out of the box, to help organizations rapidly start and scale their process automation journey. Its Bot Store is the world's first and largest marketplace with more than 1,000 pre-built, intelligent automation solutions. With offices in more than 40 countries and a global network of 2,000 partners, Automation Anywhere has deployed over 2.4 million bots to support some of the world’s largest enterprises across all industries. For additional information, visit www.automationanywhere.com. If you love developing new features and play with breadth of technologies, then you have found the right home. We are looking for a hands-on senior architect who can help create innovative and differentiating features in our product taking a holistic solution approach.  As part of a very dynamic team, you will play a critical role in envisioning and developing comprehensive solutions as part of our Product strategy. You will work in a high energy, fun and engaging work environment with talented colleagues from diverse backgrounds and experiences. At our company each person brings their unique talents to work as a team and make a difference.  As the leader in Robotic Process Automation (RPA), we provide a very compelling product where our teams are breaking new ground every day and given an environment to grow their skills and have fun along the way. Our technology is the game changer, and our people give us the edge to better our world and go be great! All unsolicited resumes submitted to any @automationanywhere.com email address, whether submitted by an individual or by an agency, will not be eligible for an agency fee.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:48:06.000Z"
+  },
+  "company": {
+    "name": "Automation Anywhere",
+    "link": "https://www.linkedin.com/company/automation-anywhere"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

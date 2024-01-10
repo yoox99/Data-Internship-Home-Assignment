@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, New Grad (Bachelor's or Masters)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "You're Brilliant. We're Hiring.  You are an amazing software engineer that loves taking new ideas and algorithms and applying them in creative ways. We are a small, fast growing start-up, eager to build meaningful, everyday apps at scale. Our first product is Sunshine Contacts, but we are excited about building so much more with your help.  We are passionate about making the mundane magical: building everyday apps that put people first and quietly solve problems using sophisticated technology.  As an early team member, we want people who are excited to build applications with very little formal direction. We are not partial to specific languages or technologies. If you are a software engineering generalist, this is the role for you!  If working in a fast-paced environment where you will play a key role both in experimentation and in implementation sounds interesting to you, please consider applying! People matter to us a lot. Just celebrating diversity isn’t enough -- we commit to unabashedly tailoring our hiring practices, our processes, and our culture to foster an inclusive workplace for people of all backgrounds. Sunshine is proud to be an equal opportunity employer working to raise the standards of diversity in tech.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T21:55:12.000Z"
+  },
+  "company": {
+    "name": "Sunshine",
+    "link": "https://www.linkedin.com/company/sunshineinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

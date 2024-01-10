@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "SOFTWARE ENGINEER - WI Based",
+    "industry": "Management Consulting",
+    "description": "If you are a software engineer with experience, please read on!  Top Reasons to Work with Us  We are a fast growing technology services company with multiple Midwest locations, serving commercial, public sectors, and varying business' in their tech and IT needs.  What You Will Be Doing  This position is responsible for design, coding, unit testing, and documentation of applications for Heartlands customers. This position will also work closely with other Team Members and clients to provide custom .NET and CMS based software solutions. In addition, this position will also meet with new and existing clients to frame up and estimate new solutions.  What You Need for this Position l 6+ years of experience building web-based applications in Microsoft stack  l 4+ years of experience working with .NET including C#, ASP.NET, MVC, AOD.NET/Entity Framework, HTML, CSS, and JavaScript  l 4+ years of experience working with object oriented development, utilizing design patterns, as well as, SQL utilizing MS SQL Server and source code repos (GIT, TFS, Azure DevOps) l 3 + years of experience developing applications using Kentico or another CMS  l 1+ years of experience developing Xamarin apps, cloud first applications in Microsoft Azure, and IoT applications  l 1+ years of experience with React, Vue, Node, and CI/CD automated pipelines  What's In It for You So, if you have experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Luke.Pallo@CyberCoders.com Luke Pallo - Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:38:29.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Little Chute",
+    "region": "WI",
+    "postal_code": "54943",
+    "street_address": null,
+    "latitude": 44.2866,
+    "longitude": -88.313576
+  }
+}

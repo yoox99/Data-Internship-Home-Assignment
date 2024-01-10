@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software engineer in Intel oneMKL",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software,Semiconductors",
+    "description": "The Intel oneAPI Math Kernel Library (oneMKL) team is looking for a software development engineer to work in the exciting area of Systems Programming and design. This includes the development and maintenance of global Intel oneMKL library solutions portable across various operating systems and hardware as well as the development of new features for Intel and Intel-compatible architectures. The primary job function is to design, develop and validate high performance mathematical software, additionally you may work directly with companies developing compilers, operating systems, and other software technologies and customers optimizing oneMKL software usage You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your school-work/classes/research and/or relevant previous job and/or internship experiences. This is an entry level position and would be compensated accordingly. You must possess the below minimum qualifications to be initially considered for this position. Experience listed below would be obtained through a combination of your school-work/ classes/ research and/or relevant previous job and/or internship experiences. 6+ months of experience with the following skills: Preferred Qualifications: Intel Architecture, Graphics, and Software (IAGS) brings Intel's technical strategy to life. We have embraced the new reality of competing at a product and solution level—not just a transistor one. We take pride in reshaping the status quo and thinking exponentially to achieve what's never been done before. We've also built a culture of continuous learning and persistent leadership that provides opportunities to practice until perfection and filter ambitious ideas into execution. All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T04:08:40.000Z"
+  },
+  "company": {
+    "name": "Intel Corporation",
+    "link": "https://www.linkedin.com/company/intel-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hillsboro",
+    "region": "OR",
+    "postal_code": "97124",
+    "street_address": null,
+    "latitude": 45.52395,
+    "longitude": -122.98974
+  }
+}

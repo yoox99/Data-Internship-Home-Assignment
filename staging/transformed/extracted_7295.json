@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer-Graduate",
+    "industry": "Information Technology and Services,Computer Software,Telecommunications",
+    "description": "109869 : Minimal : USA- Atlanta Georgia (Customer Site) If you’re a smartphone user then you are part of an ever more connected and digital world. At Amdocs, we are leading the digital revolution into the future. From virtualized telecommunications networks, Big Data and Internet of Things to mobile financial services, billing and operational support systems, we are continually evolving our business to help you become more connected. We make sure that when you watch a video on YouTube, message friends on Snapchat or send your images on Instagram, you get great service anytime, anywhere, and on any device. We are at the heart of the telecommunications industry working with giants such as AT&T, Vodafone, Telstra and Telefonica, helping them create an amazing new world for you where technology is being used in amazing new ways every single day. Responsible for design, development, modification, debug and/or maintenance of software systems",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T22:09:01.000Z"
+  },
+  "company": {
+    "name": "Amdocs",
+    "link": "https://www.linkedin.com/company/amdocs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Champaign",
+    "region": "IL",
+    "postal_code": "61824",
+    "street_address": null,
+    "latitude": 40.11633,
+    "longitude": -88.24352
+  }
+}

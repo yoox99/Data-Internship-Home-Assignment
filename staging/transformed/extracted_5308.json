@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "System Integration Engineer - Platform Architecture",
+    "industry": "Consumer Electronics",
+    "description": "Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion, diligence and dedication to your job and there's no telling what you could accomplish! The people who work here have reinvented entire industries with all Apple Hardware products. The same passion for innovation that goes into our products also applies to our practices strengthening our dedication to leave the world better than we found it. Join us to help deliver the next groundbreaking Apple product! Do you love working on challenges that no one has solved yet?   As a member of our multifaceted group, you will have the unique and phenomenal opportunity to craft upcoming products that will delight and inspire millions of Apple's customers every single day.   In this versatile role, you will bring your passion to break System Architectures and Implementations and drive product improvements. You will be part of a team that drives the Platform Architecture of a wide variety of products. Your work will ensure power, performance and thermal controls are robust and fully utilize the capabilities of the silicon and software stack to realize the best user experience. Experience developing stressors at the system level preferably in macOS and iOS environments.   Good understanding of Silicon Design, System Software and Validation methodologies.  Experience with Python, JavaScript, Databases, C/C++.  Experience deploying automation infrastructure.  Knowledge of low-level firmware.   Knowledge of Power, Performance and Thermal Control Architectures and Design. As a System Integration Engineer you will be responsible for:   - Ensuring Power, Performance and Thermal Control Architectures are robust.  - Realizing the intent of the Architectures in Products used by our customers.  - Driving improvements in the Architectures generation-over-generation.   - Developing and executing architectural verification and validation plans that surface flaws early in the development cycle.   - Develop various sub-system stressors by understanding the silicon, system design and the necessary firmware and software.   - Working closely with cross functional teams specify, architect and develop the telemetry required for fast debug.   - Develop automation scripts that can be deployed widely for testing, data collection and analysis. BS (CS, CE or EE) with 10 years of relevant experience. MS preferred.    Role Number: 200199822",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:36:21.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

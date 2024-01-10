@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Database Site Reliability Engineer (SRE)",
+    "industry": "Computer Software,Computer Hardware",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T16:06:05.000Z"
+  },
+  "company": {
+    "name": "CDK Global",
+    "link": "https://www.linkedin.com/company/cdknorthamerica"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

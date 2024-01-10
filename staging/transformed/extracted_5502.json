@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Employer: Insight Direct USA, Inc.  Position Location: Plano, TX  Position: Principal Software Engineer Salary Available upon request  Work Schedule: 40 hours/week (Hours Vary) : Bachelor’s Degree in Electronic Engineering or closely related 5 years of experience in job offered, Architect-Technology, or closely related Qualified applicants send cover letter and resumes to: Susan Triggs, Corporate Paralegal, Insight Direct USA, Inc., at susan.triggs@insight.com, ref Job # MS01. Proof of authorization to accept permanent full-time employment in U.S. required if hired.  The position described above provides a summary of some the job duties required and what it would be like to work at Insight. For a comprehensive list of physical demands and work environment for this position, click here.  Today, every business is a technology business. Insight Enterprises, Inc. empowers organizations of all sizes with Insight Intelligent Technology Solutions™ and services to maximize the business value of IT. As a Fortune 500-ranked global provider of digital innovation, cloud/data center transformation, connected workforce, and supply chain optimization solutions and services, we help clients successfully manage their IT today while transforming for tomorrow. From IT strategy and design to implementation and management, our 11,000 teammates help clients innovate and optimize their operations to run smarter. Discover more at insight.com Today's talent leads tomorrow's success. Learn about careers at Insight: jobs.insight.com.  Insight is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, sexual orientation or any other characteristic protected by law.  Posting Notes: Plano || Texas (US-TX) || United States (US) || None || None || US - Plano, TX ||",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:09:00.000Z"
+  },
+  "company": {
+    "name": "Insight",
+    "link": "https://www.linkedin.com/company/insight"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 89200,
+    "max_value": 133000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

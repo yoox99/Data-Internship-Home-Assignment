@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Commercial Sales Administrator",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:29:31.000Z"
+  },
+  "company": {
+    "name": "Old Mill Brick",
+    "link": "https://www.linkedin.com/company/old-mill-brick"
+  },
+  "education": {
+    "required_credential": "high school"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bluffdale",
+    "region": "UT",
+    "postal_code": "84088",
+    "street_address": null,
+    "latitude": 40.489628,
+    "longitude": -111.94002
+  }
+}

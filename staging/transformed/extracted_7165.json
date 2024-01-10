@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Science Engineer",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "We're Cruise, a self-driving service designed for the cities we love.  We’re building the world’s most advanced, self-driving vehicles to safely connect people to the places, things, and experiences they care about. We believe self-driving vehicles will help save lives, reshape cities, give back time in transit, and restore freedom of movement for many.  Cruisers have the opportunity to grow and develop while learning from leaders at the forefront of their fields. With a culture of internal mobility, there's an opportunity to thrive in a variety of disciplines. This is a place for dreamers and doers to succeed.  If you are looking to play a part in making a positive impact in the world by advancing the revolutionary work of self-driving cars, join us.  The Senior Data Science Engineer, Analytics Platform will work directly with Data Scientists, Autonomous Vehicle (AV) engineers, Product Managers and leadership to develop ELT data pipelines that extract key insights from our extensive real-world and simulation data. Your pipelines will generate datasets that serve as the backbone for analyses at the company and will help drive decision making by engineers and executives. You will be responsible for feature development as well as ensuring the pipelines are robust and highly performant. You will also write software that will serve as the platform on which external partners can develop their own data processing pipelines. The ideal candidate for this role is passionate about using data to answer hard questions, delivering robust software, optimizing and automating processes, and collaborating with others to help them seek hard problems.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T02:50:46.000Z"
+  },
+  "company": {
+    "name": "Cruise",
+    "link": "https://www.linkedin.com/company/getcruise"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

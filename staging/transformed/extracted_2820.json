@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (Node.js)",
+    "industry": "Entertainment",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T00:03:50.000Z"
+  },
+  "company": {
+    "name": "NBCUniversal Media, LLC",
+    "link": "https://www.linkedin.com/company/nbcuniversal-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 92500,
+    "max_value": 169000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Englewood Cliffs",
+    "region": "NJ",
+    "postal_code": "07632",
+    "street_address": null,
+    "latitude": 40.880516,
+    "longitude": -73.951256
+  }
+}

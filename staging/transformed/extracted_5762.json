@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Backend Software Engineer",
+    "industry": "Computer Software",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:25:33.000Z"
+  },
+  "company": {
+    "name": "Lessonly",
+    "link": "https://www.linkedin.com/company/lesson-ly"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 52800,
+    "max_value": 92500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postal_code": "46203",
+    "street_address": null,
+    "latitude": 39.76845,
+    "longitude": -86.15621
+  }
+}

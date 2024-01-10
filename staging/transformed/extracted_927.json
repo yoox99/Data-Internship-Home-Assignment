@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "Check is a payroll-as-a-service API that lets you embed payroll directly in your vertical SaaS, HR, or time-tracking platform. Our API abstracts away the complexities of running payroll: tax calculation, remittance, and filing, plus the movement of money between companies and employees. This enables companies to easily build fully integrated payroll products to offer to their customers.  Engineering is the core of Check. We believe payroll can and should be easy-to-use financial software, but getting there requires serious and sustained engineering effort. For our efforts, there is the deep satisfaction that comes from delivering people's paychecks. We are excited to bring on a new software engineer who will have an outsized impact on our systems and business along multiple fronts.  For this role, we are seeking an individual with strong, full-stack software engineering skills, but also with a curiosity for systems, an entrepreneurial mindset, and high integrity. We believe that someone with this combination will unlock new ideas and solutions for our product and thrive in our team. Our team is distributed across the US, with hubs in New York City and San Francisco.  Don't see a role that fits your interests? If you're passionate about working at Check email us at hello@checkhq.com and tell us how you'd like to help.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T05:16:08.000Z"
+  },
+  "company": {
+    "name": "Check",
+    "link": "https://www.linkedin.com/company/check-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

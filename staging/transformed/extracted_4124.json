@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer, Machine Learning - Planning and Control",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:33:33.000Z"
+  },
+  "company": {
+    "name": "Pony.ai",
+    "link": "https://www.linkedin.com/company/pony-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

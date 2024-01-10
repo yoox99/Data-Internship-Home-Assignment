@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Financial Services,Information Technology and Services,Information Services",
+    "description": "If you are an experienced Software Engineer with a passion for crafting and delivering big data solutions using leading-edge technologies, looking for a collaborative team environment where there is a wealth of opportunities to innovate and have intellectual curiosity to learn, a career in Personalization Chapter with in WI Technology will be the right fit!  The WI Technology organization is seeking a Senior Data Engineer to build and maintain large scale data processing systems. In this role, you will apply variety of technologies to develop innovative big data solutions. This position is a critical element to delivering Fidelity’s promise of crafting the best customer experiences in financial services.  The Senior Data Engineer in Personalization is responsible for design and development of highly available, scalable and distributed data platforms using open source frameworks to process high volume, high velocity and wide variety of structured and unstructured data. The Senior Data Engineer will play active role in solution design, solving key technical challenges and mentoring the team. Company Overview  At Fidelity Investments, our customers are at the heart of everything we do. As a privately held company with a rich 75-year history, our mission has remained the same since our founding: . We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money.  Join Us  At Fidelity, you’ll find endless opportunities to build a meaningful career that positively impacts peoples’ lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. And you don’t need a finance background to succeed at Fidelity—we offer a range of opportunities for learning and growth so you can build the career you’ve always imagined. We welcome associates from different backgrounds and with different perspectives to help us innovate and make a difference for our customers and our communities.  We invite you to at fidelitycareers.com.  Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.  Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Leave of Absence/Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 2.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:27:19.000Z"
+  },
+  "company": {
+    "name": "Fidelity Investments",
+    "link": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westlake",
+    "region": "TX",
+    "postal_code": "76299",
+    "street_address": null,
+    "latitude": 32.99391,
+    "longitude": -97.19771
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "DevOps Engineer / Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "This Jobot Job is hosted by Amber Heigerick  Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.  Salary $160,000 - $200,000 per year We are a leading cloud-based financial technology company that is looking to add a Senior DevOps Engineer to our dynamic team! The team is crucial to building/deployment/monitoring automation of products for our cloud offering using cutting edge technologies. We believe that everyone deserves to thrive at the company they are part of! We treat our employees like our clients, without you we wouldn't have a company! We have very low turn-over, because we have happy employees. We like to promote from with in whenever possible and 90% of the time, are able to do that. Come join a company that you can learn, grow, have fun, and create memories and experiences that will last a lifetime! You will be a key member of our fast-growing and high-performing team; You should know the following  5+ years of experience in DevOps Engineering Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T09:59:29.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

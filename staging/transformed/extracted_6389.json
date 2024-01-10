@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:19:36.000Z"
+  },
+  "company": {
+    "name": "Innovative Systems Group",
+    "link": "https://www.linkedin.com/company/innovative-systems-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Mateo",
+    "region": "CA",
+    "postal_code": "94406",
+    "street_address": null,
+    "latitude": 37.54715,
+    "longitude": -122.3144
+  }
+}

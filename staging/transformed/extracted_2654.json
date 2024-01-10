@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "data scientist (entry level)",
+    "industry": "Information Technology and Services,Computer Software,Staffing and Recruiting",
+    "description": "SYNERGISTIC wants every candidate to know we are always here to support your efforts. Indeed engagement is a priority for all SYNERGISTICIT Employees. No matter what issue you are facing, either it's a job search or upskilling your It portfolio, assistance in cracking interviews or anything, you can always count on a member of SynergisticIT to be there for you.  We at Synergistic it understand the problem and that's why for the past 10 years we have helped thousands of candidates get jobs at technology clients like apple, google, Paypal, western union, bankofamerica, visa, etc to name a few.  We have an excellent reputation with the clients. Currently, We are looking for entry-level software programmers, IT enthusiasts, Python/Java developers, Data analysts/ Data Scientists.  Who Should Apply Recent IT Graduates looking to make their careers in IT Industry Candidates having basic knowledge or with one or two years of experience in JAVA, C++, Core JAVA.  Candidates looking to upskill/enhance their IT skills.  Candidates who are serious about their future in the IT Industry and have set big goals for themselves.  Candidates having difficulty in finding jobs or cracking interviews or who wants to improve their skill portfolio. Preferred skills: NLP, Deep Learning, Data visualization, Scala, Django  No third party candidates or c2c candidates  To apply for this position, please apply to the posting  No phone calls please . Shortlisted candidates would be reached out",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T08:13:07.000Z"
+  },
+  "company": {
+    "name": "SynergisticIT",
+    "link": "https://www.linkedin.com/company/synergisticit"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

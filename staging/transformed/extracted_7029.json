@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Scientist",
+    "industry": "Construction,Food &amp; Beverages,Hospitality",
+    "description": "Develop new models using creativity and modern technical tools to advance prediction capabilities and tackle Caesars’ hardest business problems. Primary focus will be to predict sport outcomes and support the Caesars Digital business unit. Caesars Entertainment is the world's most geographically diversified casino-entertainment company. Since its beginning in Reno, Nevada, more than 75 years ago, Caesars has grown into a family of affiliated resort casinos on four continents. Caesars-affiliated casino resorts operate primarily under the Harrah's®, Caesars® and Horseshoe® brand names. Affiliates of Caesars also own the World Series of Poker® and the London Clubs International family of casinos. The Caesars Entertainment family’s success is a result of an unblinking focus of building loyalty and value with guests through a unique combination of great service, excellent products, unsurpassed distribution, operational excellence and technology leadership. Caesars and its affiliates are committed to environmental sustainability and energy conservation and recognize the importance of being a responsible steward of the environment.  Team members of the Caesars family of resort casinos are driven by our Mission, Vision, and Values. We take great pride in living our values Integrity, Service with Passion, Celebrating Success, Diversity, Caring Culture, and Ownership every day. Our mission “We inspire grown-ups to play” fuels our passion for an exciting guest experience and a rewarding career. If you have the desire to create memorable experiences, personalize rewards and delight every guest, every team member every time, we invite you to explore our dynamic yet unique career opportunities.  Caesars Entertainment will engage in an interactive process and make reasonable accommodations, as required by law, for individuals with disabilities or to accommodate pregnancy, pregnancy-related conditions, or where a conflict exists between the position and an individuals’ religious beliefs or practices.  The below statements are intended to describe the general nature and level of work being performed in this position. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of the position.  The Company reserves the right to make changes to the job description whenever necessary.  As a part of the new hire process, finalist candidates will be required to complete a drug test and background check prior to an offer being extended, except where applicable law requires that such pre-employment screening occur post-offer. The Company is an equal opportunity employer and does not discriminate against employees or applicants based on race, color, national origin, sex, age over 40, religion, disability, sexual orientation, gender identity or expression, veteran status, marital status, or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Caesars Entertainment, Inc.",
+    "link": "https://www.linkedin.com/company/caesars-entertainment-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Las Vegas",
+    "region": "NV",
+    "postal_code": "89159",
+    "street_address": null,
+    "latitude": 36.16909,
+    "longitude": -115.14058
+  }
+}

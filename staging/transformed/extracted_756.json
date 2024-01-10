@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer – Containers &amp; Cloud",
+    "industry": "Computer &amp; Network Security",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:31:35.000Z"
+  },
+  "company": {
+    "name": "Appgate",
+    "link": "https://www.linkedin.com/company/appgate-security"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

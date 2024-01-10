@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Identity Engineer, Customer Identity and Access Management (US Remote)",
+    "industry": "Computer &amp; Network Security,Computer Software,Information Technology and Services",
+    "description": "Okta is an enterprise grade identity management platform, built from the ground up in the cloud and delivered with an unwavering focus on customer success. With Okta, organizations can manage access across any application, person or device. Whether the people are employees, partners or customers or the applications are in the cloud, on premises or on a mobile device, Okta helps organizations become more secure, make people more productive, and maintain compliance.  The Okta platform provides directory services, single sign-on, strong authentication, provisioning, workflow, and built in reporting. It runs in the cloud on a secure, reliable, extensively audited platform and integrates deeply with on premises applications, directories, and identity management systems.  We are looking for a principal level back end software engineer to work on our customer identity platform. You will share our passion and great pride in elegant solutions and will join an engineering team that strongly believes in designing for scale, rigorous code reviews, automated testing, and an iterative process to build high-quality next generation enterprise software. You will get an opportunity to solve the most challenging problems of a global cloud service, with stringent performance, reliability and scalability requirements.  Our elite team is fast, innovative and flexible; with a weekly, agile release cycle and individual ownership. We expect great things from our engineers and reward them with stimulating new projects, emerging technologies and the chance to have significant impact in a company that is changing the cloud computing landscape forever.  Why join this team?: Okta is rethinking the traditional work environment, providing our employees with the flexibility to be their most creative and successful versions of themselves, no matter where they are located. We enable a flexible approach to work, meaning for roles where it makes sense, you can work from the office, or from home, regardless of where you live. Okta invests in the best technologies and provides flexible benefits and collaborative work environments/experiences, empowering employees to work productively in a setting that best and uniquely suits their needs. Find your place at Okta https://www.okta.com/company/careers/.  By submitting an application, you agree to the retention of your personal data for consideration for a future position at Okta. More details about Okta’s privacy practices can be found at: https://www.okta.com/privacy-policy.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:15:29.000Z"
+  },
+  "company": {
+    "name": "Okta",
+    "link": "https://www.linkedin.com/company/okta-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

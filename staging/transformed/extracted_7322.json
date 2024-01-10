@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Computer Software",
+    "description": "At Turquoise, we're making healthcare pricing simpler, more transparent and lower cost for everyone. Have you or a family member ever gotten an MRI, or a lab, or even a straightforward surgery without knowing the cost in advance? That's bonkers, right? We're going to fix that.  We’ve already launched our consumer-facing website that allows anyone to search and compare hospital insurance rates - something never before possible. Now, we're rolling out a suite of new products for providers, payers and patients to clean up the healthcare transaction. We want to change how the industry works from the inside out.  We're a seed-stage startup backed by top VCs. More importantly, we're a multi-talented group of folks (moonlighting as authors, bass players, improv instructors, chefs, linguists and trivia buffs) with a big passion for improving healthcare. We're eager to find ambitious yet well-rounded teammates to join us on this mission. We’re looking for a driven, entrepreneurial candidate that wants to impact healthcare’s broken payment infrastructure. We value creative, outside-the-box thinkers that back their ideas with revenue cycle expertise, technical knowledge and action. This role will be a key support function for a new product line and inform product development and feature releases. Turquoise Health is a fully remote company based in the US. Our founding team is located in California (San Diego) and London. We work with team members and contractors in the US and around the world, but we operate on US business hours and work with clients entirely based in the US.  For this role, we are generally seeking US-based candidates, but we are willing to consider strong candidates in other countries.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-14T13:14:36.000Z"
+  },
+  "company": {
+    "name": "Turquoise Health",
+    "link": "https://www.linkedin.com/company/turquoise-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

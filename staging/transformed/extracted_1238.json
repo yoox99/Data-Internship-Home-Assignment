@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Payments)",
+    "industry": "Computer Software",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:38:05.000Z"
+  },
+  "company": {
+    "name": "Yo Labs",
+    "link": "https://www.linkedin.com/company/yo-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

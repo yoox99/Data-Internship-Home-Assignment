@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data &amp; Applied Scientist",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Do you enjoy building scalable models and approaches that solves capacity experience whitespace problems to serve our Azure customers? You will join an experienced data science team, build, collaborate with customer owners, operations and engineers, experiment and expand your influence and impact across teams. We are part of Global Capacity team in CSCP organization, and our vision is to deliver the best capacity customer experience by intelligent, predictive and proactive management of cloud capacity.  We are looking for a self-starter data scientist who will help us drive the business through data and data science. You will improve the customer experience by building robust technical and analytical solutions to help us better understand their needs. To be successful, you will need to enjoy working with ambiguity, be creative and have a passion for customer experience. This role requires you to be able to influence senior leaders of all levels- technical and business. Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.  Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.  #cscpjobs #gctjobs",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-30T01:55:26.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

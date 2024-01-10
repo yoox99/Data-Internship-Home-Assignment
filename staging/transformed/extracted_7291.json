@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Internet,Computer Software,Health, Wellness and Fitness",
+    "description": "Healthcare is going through an unprecedented transformation towards digital care and Medallion provides critical administrative infrastructure to make that possible. Our platform enables organizations to license their providers in new states, verify existing credentials, and get in-network with insurance payers. In less than a year, we’ve launched our platform, built an all-star team, powered dozens of great companies, and served thousands of healthcare providers across the industry!  The heart of Medallion’s success lies in bringing modern technology and automation to the archaic world of healthcare administration. Our web platform and API provide a robust (and, dare we say, delightful!) abstraction over hundreds of healthcare systems, processes, and protocols from medical and insurance bodies across the US. This abstraction is brought to life by a suite of data integrations, web crawlers, and backend intelligence that turns crucial but complicated, manual processes into automated, turn-key solutions, critical to the growth of our customers.  Medallion is built by a small, distributed team of seasoned product-minded engineers with decades of experience across startups and public companies alike. We pride ourselves on our level of product ownership (we don’t have a PM yet!); respect and trust for each other; and an ability to execute extremely fast on new ideas.  We've raised $20M from some of the best investors like Spark Capital, Optum Ventures, Elad Gil, Peter Reinhardt, and many others.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Medallion",
+    "link": "https://www.linkedin.com/company/medallion-credentials"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

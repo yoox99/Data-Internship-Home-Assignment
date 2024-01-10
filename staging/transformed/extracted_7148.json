@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "高级软件工程师",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:11:39.000Z"
+  },
+  "company": {
+    "name": "Coyote Bioscience",
+    "link": "https://cn.linkedin.com/company/coyote-bioscience"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles Metropolitan Area",
+    "region": null,
+    "postal_code": "90021",
+    "street_address": null,
+    "latitude": 34.073666,
+    "longitude": -118.23985
+  }
+}

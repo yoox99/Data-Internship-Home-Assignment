@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software",
+    "description": "Are you passionate about bringing efficiencies to organizations through DevOps? Do you want to be part of an engineering team that is focused on building tools that drive organizational change and engineering system excellence? If so, keep reading!    We are a growing team made up of customer-obsessed and passionate individuals. Much of our work focuses on building tools that help customers modernize their approach to software development. We use a breadth of tools and approaches to solve a broad spectrum of problems.   We are looking for a thoughtful, analytical, and adaptive problem solver who has a broad range of interests. Our team brings together people with a wide variety of backgrounds, experiences, and perspectives. We encourage our people to collaborate, think big, and take risks in a blame-free environment. GitHub is the developer company. We make it easier for developers to be developers: to work together, to solve challenging problems, and to create the world’s most important technologies. We foster a collaborative community that can come together—as individuals and in teams—to create the future of software and make a difference in the world. Customer Obsessed - Trust by Default - Ship to Learn - Own the Outcome - Growth Mindset - Global Product, Global Team - Anything is Possible - Practice Kindness At GitHub, we constantly strive to create an environment that allows our employees (Hubbers) to do the best work of their lives. We've designed one of the coolest workspaces in San Francisco (HQ), where many Hubbers work, snack, and create daily. The rest of our Hubbers work remotely around the globe. Check out an updated list of where we can hire here: https://github.com/about/careers/remote   We are also committed to keeping Hubbers healthy, motivated, focused and creative. We've designed our top-notch benefits program with these goals in mind. In a nutshell, we've built a place where we truly love working, we think you will too.   GitHub is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and invite applications from people of all walks of life. We don't discriminate against employees or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, disability, pregnancy status, veteran status, or any other differences. Also, if you have a disability, please let us know if there's any way we can make the interview process better for you; we're happy to accommodate!   Please note that benefits vary by country. If you have any questions, please don't hesitate to ask your Talent Partner.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T02:44:07.000Z"
+  },
+  "company": {
+    "name": "GitHub",
+    "link": "https://www.linkedin.com/company/github"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles Metropolitan Area",
+    "region": null,
+    "postal_code": "90021",
+    "street_address": null,
+    "latitude": 34.073666,
+    "longitude": -118.23985
+  }
+}

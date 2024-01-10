@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "US-VA-Arlington | US-VA-Arlington | US-KY-Louisville 2021-2017 1 Technology ARC is searching for a Site Reliability Engineer to join our team! As a Site Reliability Engineer, you will provide product teams' operational and release management support for the full product stack. You will be responsible for release and operational management for the product lifecycle and service management with direction from the Product Owner, the Solution Owner and technical guidance from Solution Architects and Developers.  Come innovate with us! EOE M/F/D/V Females and Minorities Encouraged to Apply  PM21",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T08:36:08.000Z"
+  },
+  "company": {
+    "name": "Airlines Reporting Corporation (ARC)",
+    "link": "https://www.linkedin.com/company/arc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "100% REMOTE Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "A risk management software company is looking for a 100% remote Site Reliability Engineer and is offering up to $65/hour (contract-to-hire). This engineer is someone experienced with either Terraform, Cloudformation, or Ansible, and skilled with at least one scripting language (Powershell, Bash, Python, etc.). Someone who be comfortable joining a major Azure cloud migration project, and looking to expand their DevOps skill set (including hands-on Kubernetes/AKS builds) will fit in perfectly here! What You Will Be Doing  Tech Breakdown Daily Responsibilities The Offer Applicants must be currently authorized to work in the United States on a full-time basis now and in the future. Gavin Malloy",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T08:41:52.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

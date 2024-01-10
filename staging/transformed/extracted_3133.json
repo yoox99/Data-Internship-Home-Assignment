@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Hardware",
+    "description": "As a Data Scientist at IBM, you will help transform our clients’ data into tangible business value by analyzing information, communicating outcomes and collaborating on product development. Work with Best in Class open source and visual tools, along with the most flexible and scalable deployment options. Whether it’s investigating patient trends or weather patterns, you will work to solve real world problems for the industries transforming how we live. We are in a data science renaissance.  Companies that embrace data science will lead and those who do not will fall behind.  To help IBM's clients lead, we are building a team of data science practitioners to help them learn how to succeed with data science. The team will include data engineers, machine learning engineers, operations research / optimization engineers and data journalists.  The team will engage directly in solving real-world data science problems in a wide array of industries around the globe with IBM clients and internally to IBM. The team of data scientist will work with other IBMers and client data science teams to solve problems in banking, insurance, health care, manufacturing, oil & gas and automotive industries, to name a few.    We will teach the data scientists and sometimes people who desire to be data scientist to: While working across all these industries, you will also get to travel as these engagements may require that the team spend several weeks at client sites working on data science problems with a diverse team. IBM’s Cloud and Cognitive software business is committed to bringing the power of IBM’s Cloud and Watson/AI technologies to life for our clients and ecosystem partners around the world. IBM provides you with the most comprehensive and consistent approach to development, security and operations across hybrid environments—with complete software solutions for business and IT operations, development, data science, security, and management. Our experts and software capabilities help organizations develop applications once and deploy them anywhere, integrate security across the breadth of their IT estate, and automate operations with management visibility. With IBM, you also have access to new skills and methods, governance and management approaches, and a deep ecosystem of industry experts and partners. Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.  Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.  It's time to define your career. IBM's greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries. IBM's greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.  Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we're also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.  At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it's time for you to join us on our journey to being a responsible technology innovator and a force for good in the world. In addition to a competitive benefits program consisting of medical and life insurance, retirement plans, and time off, eligible employees may also have access to  IBM offers a wide range of resources for eligible IBMers to thrive both inside and outside of work. We consider qualified applicants with criminal histories, consistent with applicable law. IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.  &CS",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-09T00:00:00.000Z"
+  },
+  "company": {
+    "name": "IBM",
+    "link": "https://www.linkedin.com/company/ibm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

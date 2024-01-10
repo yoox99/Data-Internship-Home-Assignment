@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "",
+    "description": "Job Title: Software Test Engineer II (Banking / Finance domain ) Location: : ( Tempe, AZ, US Salt Lake City, UT Santa Clara, CA Austin, TX Atlanta, GA Charlotte, NC) – Need to be based. Duration ::06 months (Possible of extensions)     Responsibilities: • Write and execute automation testing for REST APIs and web-based applications as well as maintain existing automated tests and tools. • Communicate effectively with stakeholders for crafting test plans, resolving test scenarios and constantly update the existing test sets. • Review and understand project or application requirements, conduct ambiguity review • Pair with software engineers to identify and prevent gaps with automation/regression coverage and even build frameworks. • Design and implement automation frameworks that work across multiple platforms • Be part of transforming monolithic applications into more scalable and resilient distributed systems with high quality, using cloud technology. • Assist in building and configuring test environments, manage and create test data • Prepare robust test strategy, test plan, test cases, log defects and produce status reports for both manual and automation testing • Follow a lightweight Agile Scrum/Kanban methodology • Utilize JIRA as the defect tracking system and report issues promptly and accurately • Ensure reproducibility, auditability and traceability of deliverables Skills and Qualifications: • BDD automation testing experience • 5+ years of Software Quality Assurance experience • Strong knowledge of programming using OOPS concepts • Strong API QA experience. • Experience in Defect Tracking via different defect tracking/management tools (specifically JIRA) and Automation Testing Tools (Functional Regression and system Testing) • Experience in root cause analysis and defect diagnosis techniques. Ability to document software defects, and report defects to developers and project manager. • Attention to detail • Ability to communicate well in written and verbal form • Management and analysis of data collected. • Ability to do white and black box testing. • Banking and Payments ( eg. ACH, WIRES, RTP, P2C) experience is a plus Nice to have skill: Karate automation framework",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:24:56.000Z"
+  },
+  "company": {
+    "name": "Vertisystem",
+    "link": "https://www.linkedin.com/company/vertisystem"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

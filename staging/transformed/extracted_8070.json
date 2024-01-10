@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Ally Financial only succeeds when its people do - and that’s more than some cliche people put on job postings. We live this stuff! We see our people as, well, people - with interests, families, friends, dreams and causes that are all important to them. Our focus is on the health and safety of our teammates as well as work-life balance and diversity and inclusion. From generous benefits to a variety of employee resource groups, we strive to build paths that encourage employees to stretch themselves professionally. We want to help you grow, develop, and learn new things. You’re constantly evolving, so shouldn’t your opportunities be, too? Ally IT Operations team is looking for an outstanding Site Reliability Engineer (SRE). The SRE will serve as a highly specialized senior level technical application lead focusing on operational stability by driving IT operations readiness through the continuous improvement in our products. This role will involve working closely with development teams and business partners, coaching junior operations teams, and implementing enhanced monitoring and alerting capabilities for our distributed platforms. Additionally, the SRE will aid in the development of automation to reduce MTTR and manual tasks. The ideal talent will have experience driving large scale development efforts in an agile environment as well as a thorough understanding of DevOps practices with a focus on managing production environments. We are looking for a high energy, team player with an innovative mindset interested in joining a group of IT professionals dedicated to enhancing IT operations. This position will report to a Director of IT Operations. Passion for technology and problem solving are a must have. Ally's compensation program offers market-competitive base pay and pay-for-performance incentives (bonuses) based on achieving personal and company goals. But Ally’s total compensation - or total rewards - extends beyond your paycheck and is designed to support and enrich your personal and professional life, including: Ally Financial is a customer-centric, leading digital financial services company with passionate customer service and innovative financial solutions. We are relentlessly focused on \"Doing it Right\" and being a trusted financial-services provider to our consumer, commercial, and corporate customers. For more information, visit www.ally.com.  Ally is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to age, race, color, sex, religion, national origin, disability, sexual orientation, gender identity or expression, pregnancy status, marital status, military or veteran status, genetic disposition or any other reason protected by law.  We are committed to working with and providing reasonable accommodation to applicants with physical or mental disabilities. For accommodation requests, email us at . Ally will not discriminate against any qualified individual who is capable of performing the essential functions of the job with or without reasonable accommodation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T02:15:42.000Z"
+  },
+  "company": {
+    "name": "Ally",
+    "link": "https://www.linkedin.com/company/ally"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Machine Learning)",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "314 Main Street (21020), United States of America, Cambridge, Massachusetts  Software Engineer (Machine Learning) As a Capital One Machine Learning Engineer, you'll be part of an Agile team dedicated to productionizing machine learning applications and systems at scale. You'll participate in the detailed technical design, development, and implementation of machine learning applications using existing and emerging technology platforms. Working within an Agile environment, you’ll serve as a technical lead, helping guide machine learning architectural design decisions, developing and reviewing model and application code, and ensuring high availability and performance of our machine learning applications. You'll have the opportunity to continuously learn and apply the latest innovations and best practices in machine learning engineering. You’ll also mentor other engineers and develop your technical knowledge and skills to keep Capital One at the cutting edge of technology. Job Category - Engineering, Technology Explorers, Information Technology, Technology Explorers",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T05:18:40.000Z"
+  },
+  "company": {
+    "name": "Capital One",
+    "link": "https://www.linkedin.com/company/capital-one"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83700,
+    "max_value": 153000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

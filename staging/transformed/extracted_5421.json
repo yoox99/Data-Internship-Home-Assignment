@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Campus 2020-2021)",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "We are looking for Software Engineers to join our rapidly growing technology team. The prerequisites for joining our development team are simple. We care more about your attitude and aptitude than the specific tools and technologies you have used in the past. You need to have a strong passion for software development and must take pride in your coding. You should also have great analytical skills and ability to handle complex, modular software development in a collaborative team-based environment.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T15:42:48.000Z"
+  },
+  "company": {
+    "name": "Cvent",
+    "link": "https://www.linkedin.com/company/cvent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 3,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tysons Corner",
+    "region": "VA",
+    "postal_code": "22030",
+    "street_address": null,
+    "latitude": 38.912,
+    "longitude": -77.22755
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Hospital &amp; Health Care",
+    "description": "Healthcare costs are one of the biggest problems in the United States today. At Stellar Health, we are building a platform that helps Healthcare Providers (doctors and support staff) improve the quality of care they provide while also reducing their costs. In the end, these improvements make patients healthier.  Stellar Health's product is actively used by over 300 Medical Groups - and we have shown that we make a real difference for these practices and their patients.  It's an exciting time to join the Stellar Team: we have an established product, proven operating model, and we are well funded. Stellar Health is hiring experienced Software Engineers for our NYC based team. As a Software Engineer, you will develop core features of our healthcare platform. The Stellar Engineering Team offers an experienced and mature engineering culture, product development best practices, and an environment where every single engineer has a direct impact on the success of our business. Every team member, regardless of seniority, has the opportunity to have a direct, measurable impact on the product.  We look for engineers who write clean, scalable code and contribute to our collaborative team culture. We offer a full slate of benefits, including competitive salaries, stock options, medical, dental, vision, life and disability coverages, a 401k program and flexible vacation. At this time, Stellar is offering a hybrid work environment for those employees who wish to go into our office. We will not be requiring employees to work from our office until 2022. If you would like to learn more about our COVID response measures and Return to Office plans, please mention this when you speak with a Stellar Recruiter. Stellar Health is an equal opportunity employer and we are open to all qualified applicants regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, veteran status, or any other legally protected status.  We believe that diverse teams -and the different identities, cultures, and life experiences our team members bring to the table- enable us to create amazing products, find creative solutions to interesting problems, and build an inclusive working environment.  We encourage everyone to apply to our roles, even if they do not meet every single qualification on a job description, and our team is committed to reviewing every resume submitted.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T05:13:22.000Z"
+  },
+  "company": {
+    "name": "Stellar Health",
+    "link": "https://www.linkedin.com/company/stellarhealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

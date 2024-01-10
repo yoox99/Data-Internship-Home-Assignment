@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "(USA) Principal Software Engineer - Capacity and Cost Modeling",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "Position Summary... What you'll do...  As a part of Global Platforms Infrastructure Services, you’ll help to build an industry-defining approach to managing multi-cloud and enterprise capacity across all of Walmart’s markets. The team is responsible for helping our internal customers plan and scale for holiday events and other activities through a combination of tactical and strategic approaches to capacity planning. You’ll be responsible for combining data science and machine-learning approaches to predict demand with an outreach model that helps us guide users toward more efficiency decisions related to both cloud and non-cloud computing infrastructure across several private data centers and multiple public cloud providers.  You will be in a position to ensure that critical parts of Walmart’s business are prepared for known events while having ample capacity available to address any contingency. You will be driving data analysis to connect software engineers and the infrastructure teams with the data that enables them to scale. You will be acting as a team lead for data analysts focused on workload classification, cloud computing, predictive modeling, and customer outreach.  The ideal candidate will be an individual who has had experience developing and supporting complex data models at scale, and who can communicate nuance assumptions and data models to several levels of executive management.  You’ll sweep us off our feet if… Beyond competitive pay, you can receive incentive awards for your performance. Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more.  Equal Opportunity Employer  Walmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions – while being inclusive of all people.  Who We Are?  Join Walmart and your work could help over 275 million global customers live better every week. Yes, we are the Fortune #1 company. But you’ll quickly find we’re a company who wants you to feel comfortable bringing your whole self to work. A career at Walmart is where the world’s most complex challenges meet a kinder way of life. Our mission spreads far beyond the walls of our stores. Join us and you'll discover why we are a world leader in diversity and inclusion, sustainability, and community involvement. From day one, you’ll be empowered and equipped to do the best work of your life. careers.walmart.com Bachelor’s degree in Computer Science and 5 years’ experience in software engineering or related field OR 7 years’ experience in software Master’s degree in Computer Science or related field and 4 years' experience in software engineering or related field Primary Location...2628 NE UNIVERSITY VILLAGE ST, SEATTLE, WA 98105-5023, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:18:16.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

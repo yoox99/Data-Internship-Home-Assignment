@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Banking,Financial Services",
+    "description": "Upgrade is a fintech unicorn founded in 2017. In the last four years, over 15 million people have applied for an Upgrade card or loan, and we have delivered over $7 billion in affordable and responsible credit. Our innovative Upgrade Card combines the flexibility of a credit card with the low cost of an installment loan. Our latest offering, Rewards Checking, gives customers access to no-fee checking accounts with 2% cash back rewards on common everyday spending. Learn more about the team.  Upgrade has been named a “Best Place to Work in the Bay Area” by the San Francisco Business Times and Silicon Valley Business Journal 3 years in a row, and received “Best Company for Women” and “Best Company for Diversity” awards from Comparably. Upgrade has been included in the 2021 Inc. 5000 list of the fastest-growing private companies in America. We are looking for new team members who get excited about designing and implementing new and better products to join a team of 750 talented and passionate professionals. Come join us if you like to tackle big problems and make a meaningful difference in people's lives. Benefits / Perks: We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.  California Employee Privacy Notice  Effective Date: 1/1/2020 This California Employee Privacy Notice is intended to provide California consumers who are employed or apply for employment or a contractor position with Upgrade information about the categories of personal information Upgrade collects and how the company uses this information. For any questions about this notice, please contact ccpa@upgrade.com. Identifying information: including name, address, email, telephone number, social security number, driver license number, passport number, and other personal identifying information. Information you provide as a part of a job application or from a background check performed after a job offered is extended, including employment, education, credit, and criminal history. Data on work productivity and performance, including hours worked, electronic network activity, and tasks performed. To consider applications for employment. To complete payments, including payroll, expense reimbursement, other compensation-related payments, and the administration of stock options. To administer benefits, including medical, dental, vision, commuter, and retirement benefits. To provide human resources services and conduct performance evaluations. To monitor work eligibility including work-related licenses, credentials, training, and eligibility to work in the United States. To ensure a safe and efficient working environment. To comply with applicable legal or regulatory requirements including state and federal company reporting obligations.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T05:04:40.000Z"
+  },
+  "company": {
+    "name": "Upgrade, Inc.",
+    "link": "https://www.linkedin.com/company/upgrade-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

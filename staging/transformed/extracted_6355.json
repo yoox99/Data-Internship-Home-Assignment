@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "Who We Are  Join Walmart, and your work could help over 275 million global customers live better every week. Yes, we are the Fortune #1 company. But you’ll quickly find we’re a company that wants you to feel comfortable bringing your whole self to work. A career at Walmart is where the world’s most complex challenges meet a kinder way of life. Our mission spreads far beyond the walls of our stores. Join us, and you'll discover why we are a world leader in diversity and inclusion, sustainability, and community involvement. From day one, you’ll be empowered and equipped to do the best work of your life.  Diversity and Inclusion  We believe we are best equipped to help our associates, customers, and the communities we serve to live better when we really know them. That means understanding, respecting, and valuing diversity- unique styles, experiences, identities, ideas, and opinions – while being inclusive of all people. Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2  years' experience in an analytics or related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science,  Information Technology or related field. Option 3: 4 years' experience in an analytics or related field. Preferred Qualifications... Data science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch) Primary Location...603 MUNGER AVE STE 400, DALLAS, TX 75202, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T02:59:05.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 79000,
+    "max_value": 112000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

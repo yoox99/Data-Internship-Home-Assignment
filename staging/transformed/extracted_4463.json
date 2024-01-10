@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Roku &amp; Web",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "We are Accedo and have more than ten years of experience helping hundreds of TV platform operators, broadcasters, media companies, and consumer electronics manufacturers across the globe to design, deliver and manage the next generation video user experience across a vast range of connected devices. Accedo delivers rich media apps on multiple platforms ranging from Smart TVs, gaming consoles and media devices to smart phones and tablets. Our customers include over 350 of the world's leading video service providers, such as Netflix, Spotify, HBO, NBC Universal, SBS, Seven West Media, Channel 9, ABC, Telstra, Fox Sports among many others. Accedo is looking for talented Software Engineers to join the Australia team in Sydney. The primary responsibility will be the development of Roku applications, but also the opportunity to work on other Smart TV platforms and Web using JavaScript.  You will play a key role in designing, building and maintaining large-scale, high availability front-end applications and integrating with the related platform infrastructure (e.g API services, build pipelines, automated testing, etc). Ensuring development best practices are followed (Clean Code, Clean Architecture, code reviews.)  Actively communicate with the project managers, team members, and clients.  At Accedo you will be part of a diverse and multi-disciplined development team, gaining exposure to cutting edge technologies and the opportunity to work with some of the largest global media brands in the industry. Working in a highly collaborative environment, you will help transform requirements and designs into high performing feature rich applications on a wide variety of web based platforms and devices. Other then that we offer competitive salary and benefits, flexible work from home opportunities and access to the latest developments in the OTT industry. Only those candidates who are an Australian / New Zealand Citizen, Australian Permanent Resident, or have a working visa for Australia, valid for at least the next 2 years, will be considered for this role. Accedo will not not offer any VISA support / Sponsorship for this role.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:13:19.000Z"
+  },
+  "company": {
+    "name": "Accedo.tv",
+    "link": "https://se.linkedin.com/company/accedo-tv"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "AU",
+    "locality": "Sydney",
+    "region": "NS",
+    "postal_code": "2046",
+    "street_address": null,
+    "latitude": -33.872765,
+    "longitude": 151.20534
+  }
+}

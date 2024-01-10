@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I, Machine Learning Platform",
+    "industry": "Computer Software,Consumer Services,Entertainment",
+    "description": "PlayStation isn’t just the Best Place to Play —it’s also the Best Place to Work. We’ve thrilled gamers since 1994, when we launched the original PlayStation. Today, we’re recognized as a global leader in interactive and digital entertainment. The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation. Want to work at the Best Place To Play ?  We, the PlayStation® Data Platform Group, are looking for an extraordinary and highly motivated Software Engineer that helps us craft and develop core technologies that power our Machine Learning Platform. In this role, we would love to see someone who is passionate and willing to learn and adopt cloud-native development methodologies as well as integrate open-source software into our platform.  If Big Data and ML excite you, we'd love to hear from you on how you can help us continue making PlayStation the Best Place to Play. In 30 days, you will develop a basic understanding of the Machine Learning Platform tech stack and infrastructure. You will work closely with the team to get up to speed with team processes. We will focus on making sure you have all the tools to succeed.  In 60 days, you will have a good grasp of different parts of the platform and are able to work on small features and changes to improve it. You will start working with customers and take on trouble-shooting activities.  In 90 days, you will know the Machine Learning Platform and the Product roadmap in better detail and are comfortable tackling large features and delivering them in a timely manner.  Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to race, color, religion, gender, pregnancy, national origin, ancestry, citizenship, age, legally protected physical or mental disability, covered veteran status, status in the U.S. uniformed services, sexual orientation, marital status, genetic information or membership in any other legally protected category.  Reasonable Accommodation Notice Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.  We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.  We sincerely appreciate the time and effort you spent in contacting us and we thank you for your interest in PlayStation. This Privacy Notice explains what personal information we at Sony Interactive Entertainment LLC collect from you, and why we collect it and use it. This Notice covers our practices regarding the personal information of all applicants to our job positions. Please review it carefully. We collect personal information about you throughout the recruiting process, in particular the following categories.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:06:06.000Z"
+  },
+  "company": {
+    "name": "PlayStation",
+    "link": "https://www.linkedin.com/company/playstation-sony"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

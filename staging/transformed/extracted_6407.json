@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer 1",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Ability to model Choice’s Cultural Values: Welcome and Respect Everyone, Be Bold, Be Quick, Listen, Be Curious and Show Integrity.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:04:48.000Z"
+  },
+  "company": {
+    "name": "Choice Hotels International",
+    "link": "https://www.linkedin.com/company/choice-hotels-international"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Phoenix Area",
+    "region": null,
+    "postal_code": "85003",
+    "street_address": null,
+    "latitude": 33.44547,
+    "longitude": -112.06631
+  }
+}

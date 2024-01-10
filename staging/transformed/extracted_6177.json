@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "Position Summary... What you'll do... You have and can implement big ideas with a positive attitude. You want to be a part of the team to disrupt this industry and you have these main skills: Nice to Have Minimum Qualifications... Bachelor’s degree in Computer Science and 3 years’ experience in software engineering or related field OR 5 years’ experience in software Master’s degree in Computer Science or related field and 2 years' experience in software engineering or related field Primary Location...10790 PARKRIDGE DR. SUITE 200, RESTON, VA 20191, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:24:53.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83400,
+    "max_value": 113000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

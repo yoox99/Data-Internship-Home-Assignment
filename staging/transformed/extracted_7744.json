@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Consumer Electronics",
+    "description": "The Apple Cloud Infrastructure (ACI) team builds and provides systems that power many of Apple’s customer facing services (like iCloud, iTunes, Siri, Maps). We provide infrastructure primitives that enable teams across Apple to build services that our customers love.   Our team is building a low latency distributed storage block storage system, which will be made available to workloads running on ACI’s private-cloud infrastructure. As a general purpose “disk” service, we need to support workloads ranging from databases and ML/analytics frameworks to orchestration of large scale containerized and virtualized jobs. Problem solving skills using foundational data structures and distributed system concepts  Coding skills in languages like Rust, C++, C, Go, Java or C#   2 - 15+ years of professional software development experience  Strong ownership and track record of delivering results  Excellent verbal and written communication skills  Preferred: Proficiency in Rust  Preferred: Experience in the bottom layers of the storage software stack (Filesystem, Block Device, SSD)  Preferred: Experience with high-performance asynchronous IO systems programming Engineers on this team will have the rare opportunity to work on storage device optimized low-level storage, large-scale distributed systems, and high performance IO stacks operating at mission critical levels of availability and durability. Each component is being built using first principles from the ground up in order to unlock optimization opportunities at every layer of the stack.   We are looking for collaborative, curious and pragmatic Software Engineers to be part of this innovative team. You will have the opportunity to shape the product’s features and its architecture as it scales orders of magnitude. Being a part of Apple’s Cloud Infrastructure organization opens the door to exert cross-functional influence and make larger organizational impact. BS/MS in Computer Science or Equivalent work experience.    Role Number: 200275619",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-30T15:02:55.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103000,
+    "max_value": 186000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

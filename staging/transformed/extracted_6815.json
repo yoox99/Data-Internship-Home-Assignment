@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Backend)",
+    "industry": "",
+    "description": "Who We Are  Founded by a group of intrepid ex-SpaceX engineers who want to revolutionize the food industry, Serve Automation is changing the way your favorite food gets delivered. Serve has secured funding from top-tier investors who have invested in companies like Beyond Meat, Lyft, Creator, Blue Bottle Coffee, and Sweetgreen.  The Serve Automation team is searching for the best and brightest to join our team of rocket scientists turned food automation engineers. Serve is a collaborative work environment – we all work together to move the company forward as needed. In other words, we all wash dishes! If you love tackling big ideas, working with a stellar team, and eating great food, Serve Automation may be the perfect place for you!  What You'll Do What You'll Need Where You'll Work  Our office is located in an industrial park in Hawthorne, CA. We're about 1.5 miles from the Crenshaw Station on the Green Line in close proximity to a number of aerospace and manufacturing companies including SpaceX and Triumph. We are situated next to Common Space Brewery and LA Aleworks.  We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:06:26.000Z"
+  },
+  "company": {
+    "name": "Serve Automation",
+    "link": "https://www.linkedin.com/company/serveautomation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

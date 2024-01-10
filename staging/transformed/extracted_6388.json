@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Engineer - International - Digital Web Applications (SFCC)",
+    "industry": "Marketing and Advertising,Consumer Goods,Retail",
+    "description": "lululemon is an innovative performance apparel company for yoga, running, training, and other athletic pursuits. Setting the bar in technical fabrics and functional design, we create transformational products and experiences that support people in moving, growing, connecting, and being well. We owe our success to our innovative product, emphasis on stores, commitment to our people, and the incredible connections we make in every community we're in. As a company, we focus on creating positive change to build a healthier, thriving future. In particular, that includes creating an equitable, inclusive and growth-focused environment for our people. Our Digital International eCommerce team in the lululemon technology organization is responsible for engineering and deploying technology solutions for EMEA and APAC e-commerce platforms, services to enhance our guest experience. Design solutions that are scalable, adaptable and in-line with digital platform requirements, liaising effectively between IT & Business Leadership. Work closely with our solutions architects and software development teams to support and guide delivery teams implementing solutions and educate teams on corresponding technical aspects.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:21:22.000Z"
+  },
+  "company": {
+    "name": "lululemon",
+    "link": "https://ca.linkedin.com/company/lululemon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 130000,
+    "max_value": 176000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

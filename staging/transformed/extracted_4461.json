@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Master’s degree or foreign equivalent in Computer Science, Computer Engineering, Information Technology or a related field and two (2) years of experience as a Machine Learning Engineer, Software Engineer or in a related role.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T09:30:42.000Z"
+  },
+  "company": {
+    "name": "Sumo Logic",
+    "link": "https://www.linkedin.com/company/sumo-logic"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 156000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redwood City",
+    "region": "CA",
+    "postal_code": "94064",
+    "street_address": null,
+    "latitude": 37.4805,
+    "longitude": -122.21528
+  }
+}

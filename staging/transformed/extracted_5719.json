@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer (Python, AWS)",
+    "industry": "Information Technology and Services",
+    "description": "designs and delivers data and analytics solutions to reduce time, cost, and risk of companies’ data projects, improving the quality of their analytics and decisions now and into the future As a privately-held consulting service organization with popular, name brand clients across multiple industries, Wavicle offers exciting opportunities for data scientists, solutions architects, developers, and consultants to jump right in and contribute to meaningful, innovative solutions.  Our 250+ local, nearshore and offshore consultants, data architects, cloud engineers, and developers build cost-effective, right-fit solutions leveraging our team’s deep business acumen and knowledge of cutting-edge data and analytics technology and frameworks. At Wavicle, you’ll find a challenging and rewarding work environment where we enjoy working as a team to exceed client expectations. Employees appreciate being part of something meaningful at Wavicle. We are looking for a who will be responsible for designing and building optimized data pipelines, in an on-prem or cloud environment, for the purpose of driving analytic insights. Wavicle is an Equal Opportunity Employer and committed to creating an inclusive environment for all employees. We welcome and encourage diversity in the workplace regardless of race, color, religion, national origin, gender, pregnancy, sexual orientation, gender identity, age, physical or mental disability, genetic information or veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:23:29.000Z"
+  },
+  "company": {
+    "name": "Wavicle Data Solutions",
+    "link": "https://www.linkedin.com/company/wavicle-data-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

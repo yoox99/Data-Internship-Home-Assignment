@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Full Stack Web Developer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Picture this. You learned front end development in order to create the aesthetically pleasing websites of your dreams. You learned backend development to build these sites on your own and help empower people across the world to bring their companies, dreams, and ideas to life. But, you're stuck in a job where day after day, you're working on the same site, in the same industry, for the same company. Sound familiar? If it does, and you're looking for an exciting and innovative work experience, then we may have the perfect job for you.  Victorious is seeking a Jr. Full Stack Web Developer who can thrive in a company culture which values autonomy, work-ethic, and collaboration. We're searching for an ambitious Jr. Full Stack Web Developer to join our team. Our SEO Strategy department has a substantial impact on the growth of Victorious, and we're committed to pushing current trends in web development in order to create a cutting-edge experience for our customer base. Designing and implementing SEO-focused website solutions for customers. Victorious is the 26th fastest-growing private company in California. Located in the Design District of San Francisco, we're a hard-working group of professionals looking for long-term teammates to join our mission.  Victorious is not the typical San Francisco startup. We are not funded by Silicon Valley venture capitalists. Our days are not consumed with increasing \"runway\" or launching an \"MVP\". We're not hungry for acquisition and exit. If not these, then what are we? We're a profitable, efficient, sustainable company scaling at a strong pace due to natural growth. Our product is market-proven and is being sought out by some of the largest technology companies in San Francisco and beyond. If you're looking for a place to call home without worrying about your employer shutting its doors for a myriad of reasons, then we may be the place for you.  Benefits include medical, dental, vision, 401(k), extended winter holiday break, and more! We offer the opportunity to be part of a successful, fast-growing company. To learn more about us, please visit our website at victoriousseo.com  If you are interested in applying for this opportunity, please submit your resume. All submissions will be evaluated and interviews will be conducted for those applicants who most strongly fit our needs. To apply, please send an up-to-date resume and a cover letter explaining your interest.  No phone calls please, no agencies and no recruiters.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:27:54.000Z"
+  },
+  "company": {
+    "name": "Victorious",
+    "link": "https://www.linkedin.com/company/victorious-seo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

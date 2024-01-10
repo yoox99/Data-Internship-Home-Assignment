@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data &amp; Applied Scientist",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "What if your job description were: make tomorrow better? That is the essence of roles within our Microsoft Web Experiences Team (WebXT).      Every day, we bring an insatiable curiosity to the table, challenging ourselves to reimagine what is and what can be. We drive machine intelligence, help shape the future, and empower billions of people around the globe.      We attract new users and change how people think about Microsoft, News, Search, and Advertising. We have a long road ahead, and we need your help! Our products Bing, Content, and Advertising are the beating heart of Microsoft AI.     Join us to keep optimizing and growing our Online Advertising business, one of the fastest-growing businesses on the Internet today, while delighting users with useful ads. Or derive intelligence from MSN, Bing, Web data to delight sports fans and bring the best news to our users. Or make it easy for employees to discover their enterprise content from various data sources exposed through searches on the browser for improved productivity.     Our Data and Applied Scientist roles provide an opportunity to research and apply state of the art machine learning technology to various businesses involving Search, Content, and Advertising. Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.  Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T20:12:19.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

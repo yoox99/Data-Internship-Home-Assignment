@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer (Java/Cloud)",
+    "industry": "Retail",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:35:51.000Z"
+  },
+  "company": {
+    "name": "Gap Inc.",
+    "link": "https://www.linkedin.com/company/gap-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "North Carolina",
+    "region": "United States",
+    "postal_code": "27208",
+    "street_address": null,
+    "latitude": 35.539375,
+    "longitude": -79.18543
+  }
+}

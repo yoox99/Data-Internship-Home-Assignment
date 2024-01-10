@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Information Technology and Services,Staffing and Recruiting,Financial Services",
+    "description": "Data Engineer with C++ and Python Fulltime/Perm opportunity Location: Wayne, PA (2 days a week on site once covid clears)  Solid python, C++ and sequel. C++ legacy code.  Engineering side of data, not analyst.  Remote to start but eventually would be in office, could be combo home and office.  Join a team of financial software specialists responsible for the acquisition and management of financial market and related data required for research implementation of systematic trading strategies. #Dice-SPG",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:20:09.000Z"
+  },
+  "company": {
+    "name": "Yoh, A Day &amp; Zimmermann Company",
+    "link": "https://www.linkedin.com/company/yoh-a-day-&amp;-zimmermann-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wayne",
+    "region": "PA",
+    "postal_code": "19089",
+    "street_address": null,
+    "latitude": 40.58276,
+    "longitude": -76.22929
+  }
+}

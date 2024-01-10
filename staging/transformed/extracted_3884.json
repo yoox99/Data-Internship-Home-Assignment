@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Automobil,Elektro-/Elektronik-Herstellung",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T11:02:15.000Z"
+  },
+  "company": {
+    "name": "Carter Wahlberg",
+    "link": "https://uk.linkedin.com/company/carter-wahlberg"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "DE",
+    "locality": "Berlin",
+    "region": null,
+    "postal_code": "10117",
+    "street_address": null,
+    "latitude": 52.501472,
+    "longitude": 13.402317
+  }
+}

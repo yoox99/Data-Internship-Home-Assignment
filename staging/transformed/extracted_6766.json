@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - MotoSport",
+    "industry": "Marketing and Advertising,Consumer Goods,Retail",
+    "description": "As a Software Engineer you will play an integral role in Motosport helping our customers never miss a ride. Our Engineers develop cross-platform web-based applications that look beautiful and perform at blazing speed. We work with cutting edge technologies and assist the product teams to identify feasibility of experiences to thrill our customers.  As an Engineer, you will provide technical support in every stage of our development process: gathering requirements from business or vendors, designing solutions, developing quality software, production deployments and maintaining a real ownership of our applications. All of these following Agile principles and strong soft skills like ownership, responsibility, proactivity, transparency, patience, feel comfortable working with remote teams from other countries, build and maintain strong relationships and communication channels.  You will be part of an experienced team, which may help you grow as an Engineer and develop skills that will help you get to the next level in our organizations. MotoSport.com is more than a powersports company. We are a gathering of power sports devotees who ride and wrench like there’s no tomorrow… just like our customers. Because we‘re living the moto life, we make sure that we have the right parts and gear for you – whoever you are. But we wouldn’t be that different from the other guys if we just had a ton of stuff, would we? So we’ll do you one better: here at MotoSport.com we have a wealth of expert knowledge that comes from experience. That means our customers get the right parts and gear every time, and we go above and beyond to get it there in time. At the end of it all, we strive to make people (who aren’t that different from us) happy and satisfied… After all, we know what it’s like to be passionate about powersports, so who better to bring that enthusiasm to life than MotoSport?  We take this concept seriously, both personally and professionally, which for employees translates to careers with growth potential and the ability to take ownership and make an impact daily. Perks such as an excellent gear discount, an annual summer Adventure Contest, summer barbecues, and a pet-friendly office make for a fun work environment. MotoSport employees will have the benefit of working with colleagues who are passionate about their careers as well as the outdoors. Benefits include medical, dental, vision, and disability & life insurance, paid maternity and paternity leave, 401(k) matching, and Flexible Spending or Health Savings Accounts.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:51:15.000Z"
+  },
+  "company": {
+    "name": "Backcountry",
+    "link": "https://www.linkedin.com/company/backcountry"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 96900,
+    "max_value": 139000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Park City",
+    "region": "UT",
+    "postal_code": "84068",
+    "street_address": null,
+    "latitude": 40.660316,
+    "longitude": -111.5095
+  }
+}

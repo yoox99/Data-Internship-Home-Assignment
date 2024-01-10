@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Software",
+    "description": "US-FL-Tampa | US-VA-Arlington | US-KY-Louisville 2021-2046 1 Technology As a Senior Software Engineer, you will provide product teams' software development and product delivery support for the full product stack with an eye for new and innovative features to enhance our products. In this role, you will continuously improve engineering practices utilizing cloud native architectures and frameworks. You will also be responsible for product delivery and product lifecycle with direction from the Product Owner and technical guidance from Solution Architects. This position also offers the opportunity to architect solutions in collaboration with the Solutions Architects. EOE M/F/D/V Females and Minorities Encouraged to Apply  PM21",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:45:49.000Z"
+  },
+  "company": {
+    "name": "Airlines Reporting Corporation (ARC)",
+    "link": "https://www.linkedin.com/company/arc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78200,
+    "max_value": 154000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tampa",
+    "region": "FL",
+    "postal_code": "33675",
+    "street_address": null,
+    "latitude": 27.947424,
+    "longitude": -82.45878
+  }
+}

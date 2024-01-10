@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist, NLP / Conversational AI",
+    "industry": "Computer Software,Automotive,Financial Services",
+    "description": "If you like disrupting the norm and are looking for a company revolutionizing an industry then you will LOVE what Carvana has done for the car buying experience. Buying a car the old fashioned way sucks and we are working hard to make it NOT suck. At Carvana, our customers can hop online to... For more information on Carvana and our mission, sneak a peek at our company introduction video or learn more about what it’s like to work here from the people that already do. The Conversational AI team is a talented and humble group of people with backgrounds in Product, Design, Data Science and Engineering, that are focused on Human<>Computer interaction (HCI). Our core product is a communication platform that car buyers, sellers and Carvana Advocates rely on every day for a seamless car shopping experience. We focus immensely on the end-consumer and build our systems ground-up to deliver on that experience. We do so by researching and prototyping new advancements in NLP and by working as a team to deploy new features and services to production.  As a core member of our Conversational AI team, you will have the opportunity to build or improve various components of a modern chatbot such as intent classification and response generation. You will work across many areas of Natural Language Processing and Computer Vision to power products that make it easier for customers to get answers to their questions and help scale our Advocate teams. You’ll own and contribute to solving text/document classification, entity extraction, speech recognition, search and information retrieval, question answering, response/content generation models as well as evangelize their usage in Carvana’s broader product offerings. You will have the opportunity to work closely with our Product, Experience and Software Engineering teams to deliver impact on every aspect of the purchase process, from search to vehicle delivery. To be able to do your job at Carvana, there are some basic requirements we want to share with you. Of course, we’ll make any reasonable accommodations for those with disabilities to perform the essential functions of their jobs. Hiring is contingent on passing a complete background check. This role is eligible for visa sponsorship.  Carvana is an equal employment opportunity employer. All applicants receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity or expression, marital status, national origin, age, mental or physical disability, protected veteran status, or genetic information, or any other basis protected by applicable law. Carvana also prohibits harassment of applicants or employees based on any of these protected categories.  Please note this job description is not designed to contain a comprehensive listing of activities, duties, or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:55:40.000Z"
+  },
+  "company": {
+    "name": "Carvana",
+    "link": "https://www.linkedin.com/company/carvana"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles Metropolitan Area",
+    "region": null,
+    "postal_code": "90021",
+    "street_address": null,
+    "latitude": 34.073666,
+    "longitude": -118.23985
+  }
+}

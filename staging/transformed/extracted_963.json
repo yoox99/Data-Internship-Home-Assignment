@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer in Test / Software Quality Assurance",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software",
+    "description": "Open Systems International, Inc. (OSI) www.osii.com is a fast-paced, growing, high technology company, headquartered in Medina, Minnesota. As a world leader in the Operations Technology (OT) field, OSI develops and supplies state-of-the-art energy management, optimization and control software solutions to energy utility companies worldwide. In this position you will work with Software Development, Engineering, and Project teams to ensure OSI software products are tested and delivered having met the highest quality standards available in the organization. You will have the opportunity to participate in building and establishing OSI’s test automation framework, standard tool sets, and overall test procedures. All of this is done using the latest technologies in a fast-paced, collaborative environment at our forward-looking company. Specific on-the-job training will be provided. OSI offers a comprehensive benefit package including health, dental, life and disability insurance, 401(k) matching, bonuses, profit sharing and a generous amount of paid time off and paid holidays. Additional perks include casual dress code, flexible work hours, free beverages, employee events, onsite fitness center, exciting travel opportunities, employee referral bonus programs, and monthly birthday and anniversary celebrations. Check out our Life at OSI Facebook page to see more.  As an employee of OSI you will have access to cutting edge technologies in a fun, professional, positive and dynamic work environment. We have excellent opportunities for growth and development.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T12:52:14.000Z"
+  },
+  "company": {
+    "name": "Open Systems International",
+    "link": "https://www.linkedin.com/company/open-systems-international"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74400,
+    "max_value": 116000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Medina",
+    "region": "MN",
+    "postal_code": "55340",
+    "street_address": null,
+    "latitude": 45.01901,
+    "longitude": -93.58608
+  }
+}

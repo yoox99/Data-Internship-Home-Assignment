@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Biotechnology",
+    "description": "Headquartered in South San Francisco, Calif., CareDx, Inc. is a leading precision medicine solutions company focused on the discovery, development and commercialization of clinically differentiated, high-value healthcare solutions for transplant patients and caregivers. CareDx offers products, testing services and digital healthcare solutions along the pre- and post-transplant patient journey, and is the leading provider of genomics-based information for transplant patients. As a member of Data Sciences & Bioinformatics group – you will bring your in-depth knowledge in statistics and probability theory for development of new analyses and algorithms. Currently, analytical frameworks are being developed on a Transplant Data Platform – a repository of large and complex data and AI engines - which provides the opportunity of RWD to RWE for clinical decision making in the transplant domain. You should have excellent working skills in multiple programming languages (R, Python, SQL) with in-depth understanding of applied statistics, probabilistic and dynamic modelling with an eye towards solving computational biology problems. Your contributions will be foundational to the company’s mission of improving the lives of organ transplant patients. Competitive base salary and incentive compensation  Health and welfare benefits including a gym reimbursement program  401(k) savings plan match  Employee Stock Purchase Plan  Pre-tax commuter benefits  And more!  In addition, we have a Living Donor Employee Recovery Policy that allows up to 30 days of paid leave annually to a full-time employee who makes the selfless act of donating an organ or bone marrow.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T16:05:59.000Z"
+  },
+  "company": {
+    "name": "CareDx, Inc.",
+    "link": "https://www.linkedin.com/company/care-dx-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "South San Francisco",
+    "region": "CA",
+    "postal_code": "94083",
+    "street_address": null,
+    "latitude": 37.65568,
+    "longitude": -122.41248
+  }
+}

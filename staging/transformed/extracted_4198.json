@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - NLP",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Attentive is a personalized text messaging platform changing the way consumers interact with businesses and organizations. The company is one of the fastest growing startups in New York City and recently raised a $470 million Series E investment led by Coatue in March 2021. Other investors in Attentive include Bain Capital Ventures, Sequoia, IVP.  We work with 4,000+ of the most innovative brands like Coach, Urban Outfitters, CB2, Pura Vida, Lulus, and Jack in the Box. Attentive was founded in 2016 by the co-founders of TapCommerce, a mobile marketing platform that was acquired by Twitter in 2014. We are seeking a highly motivated Machine Learning Engineer to join our small but growing Machine Learning for Messaging team. As an early hire, you will contribute to developing machine learning best practices across the Attentive platform and will work with Product Management and other Engineering teams to implement new machine learning products. If you are a self-starter, motivated by impact, and a great communicator, then you may be a good fit for this role. Attentive is an Equal Opportunity Employer. We’re committed to diversity and maintaining a work environment that is free from harassment and discrimination. We’re committed to them because our core values demand it - values like Integrity First, Listening & Cultivating Discussion, and Default to Action. We believe in embracing “self” and that our true strength lies in the diversity of our employees. For this reason, applicants from all backgrounds are encouraged to apply, and will not be discriminated against on the basis of any protected status under federal, state, or local law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T20:16:17.000Z"
+  },
+  "company": {
+    "name": "Attentive",
+    "link": "https://www.linkedin.com/company/attentivemobile"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

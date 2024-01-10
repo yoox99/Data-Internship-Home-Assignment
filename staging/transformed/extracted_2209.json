@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "REMOTE Data Scientist",
+    "industry": "Hospital &amp; Health Care,Pharmaceuticals,Biotechnology",
+    "description": "Come work as a at one of the Top Company that offers exceptional benefits with opportunities to advance and learn alongside accomplished Technology leaders. Data Scientist",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T16:22:38.000Z"
+  },
+  "company": {
+    "name": "Collabera Inc.",
+    "link": "https://www.linkedin.com/company/collabera"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Eden Prairie",
+    "region": "MN",
+    "postal_code": "55344",
+    "street_address": null,
+    "latitude": 44.854034,
+    "longitude": -93.46017
+  }
+}

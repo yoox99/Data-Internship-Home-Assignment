@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Backend Software Engineer",
+    "industry": "Information Technology and Services,Financial Services,Hospital &amp; Health Care",
+    "description": "Office: (201) 340-8700 x 513 Cell: (408) 933-3377 Fax: (201) 221-8131 Email:",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T22:39:02.000Z"
+  },
+  "company": {
+    "name": "Net2Source Inc.",
+    "link": "https://www.linkedin.com/company/net2sourceinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94103",
+    "street_address": null,
+    "latitude": 37.77314,
+    "longitude": -122.41323
+  }
+}

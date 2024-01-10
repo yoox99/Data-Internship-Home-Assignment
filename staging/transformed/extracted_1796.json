@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer - React/C#",
+    "industry": "Computer Software",
+    "description": "If you are a react/C# developer looking for a small, close knit team where you can work remoote, please read on!  Top Reasons to Work with Us What You Will Be Doing  Full-stack software development Working closely with the engineering team, QA, and product users on a highly functional agile team Leading and guiding a team of junior and mid-level developers and test engineers Ensuring system health and fixing defects Solving difficult problems through research and innovation  What You Need for this Position What's In It for You So if you are a software engineer with the above experience, please apply today or email me directly at danny.gross@cybercoders.com. Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Danny.Gross@CyberCoders.com Danny Gross - Sr. Executive Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:01:00.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

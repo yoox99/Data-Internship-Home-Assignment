@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "Site Reliability Engineer Nashville, TN area (remote to start) 6 month contract, extendable  These roles are responsible for transforming traditional IT operations by utilizing software engineering practices allowing for increased colleague efficiency and environment performance. In either of these roles, you will be responsible for designing, architecting, and implementing innovative systems and processes that create visibility into the performance of critical environments, remediate issues before they arise, and influence the overall success of IT initiatives. By providing your expertise in software engineering practices, you will be improving experience at the enterprise and colleague level through the automation of key processes. The Company is an equal opportunity employer and makes employment decisions on the basis of merit and business needs. The Company will consider all qualified applicants for employment without regard to race, color, religious creed, citizenship, national origin, ancestry, age, sex, sexual orientation, genetic information, physical or mental disability, veteran or marital status, or any other class protected by law. To comply with applicable laws ensuring equal employment opportunities to qualified individuals with a disability, the Company will make reasonable accommodations for the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or an employee unless undue hardship to the Company would result.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T07:42:38.000Z"
+  },
+  "company": {
+    "name": "ettain group",
+    "link": "https://www.linkedin.com/company/ettain-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Brentwood",
+    "region": "TN",
+    "postal_code": "37027",
+    "street_address": null,
+    "latitude": 35.995544,
+    "longitude": -86.77889
+  }
+}

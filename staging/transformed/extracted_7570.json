@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Java Developer",
+    "industry": "",
+    "description": "Position Overview:  Senior Java developer with demonstrable, hands-on, independent, development experience with below listed technology stack.  ·       Overall, 8 plus years of IT experience in Development and Operations support of Enterprise IT Application Systems, of which 5 Plus years in the capacity as Senior Software Engineer. ·       6 Plus years working in Supply Chain domain Supporting Order Management and Transportation business process, with end to end knowledge of Order life cycle in Wholesale or Retail industries. ·       Experience in independently developing J2EE framework-based applications/services and integrating the same with the latest customer facing technologies including Mobile handheld solutions, involving application of latest authentication protocols such as OAUTH2. ·       This Java Developer demonstrated experience working independently, with minimal supervision to develop, test, and implement Java services (java 8), RDBMS based 3tier applications, using industry standard software development practices, techniques, tools, and frameworks. ·       This java developer will demonstrate strong analytical acumen and will be required to participate in Analysis, Design, of complex business components in Java, deploying to Java EE Application Servers. ·       This senior Java developer should have experience supporting operations, troubleshooting and leading the problem resolution tasks in a fast paced and time sensitive environment. ·       Should have worked on at least 2 large scale business cross functional enterprise projects. ·       Should possess strong written and verbal communication skills. Interact with stakeholders as needed. ·       Demonstrates a positive attitude to get work done. Ready to step out of the box to try new approaches, expand knowledge and experience and keep abreast with the latest technologies and apply the learnings to solve current and emerging challenges.  Technology Stack experience relevant to the position:  ·       A Minimum 5+ years of hands-on development experience with the following technologies ·       Java / J2EE (With 2+ years developing using Java 8 +) ·       Hands on development experience with all Java Collections ·       In-memory data structure including Eh-cache ·       multi-Threading ·       Spring Framework 4.3+ version / Spring Boot ·       Hibernate / JPA ·       Maven  ·       RDBMS - SQL / Oracle 12+  ·       Web services (Restful & SOAP) ·       3-Tier Architectural frameworks ·       WSO2 API Service manager (Integration & Administration) ·       Message (IBM MQ ) based transaction communication (Both Publish & Subscribe) ·       OAuth2 / Multi-Factor Authentication Security framework ·       Data movement solutions involving file transfer, ETL and event based integrations. ·       UNIX & Linux Operating System ·       Shell Scripting ·       Application Servers (Wildly 16, WebLogic & Tomcat) ·       SVN (Source code repository) ·       Desirable (Not Mandatory) to have at least 2 Plus years working with o   Postgres -DB o   Containerization - Dockers / Kubernetes o   Node-JS o   Cloud o   Python o   Micro Services o   Elastic Search   Nagendra  Sr.Recruiter  nagendra@extendime.com 848-209-0775",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:31:21.000Z"
+  },
+  "company": {
+    "name": "Extendime Software Solutions Inc",
+    "link": "https://www.linkedin.com/company/extendime-software-solutions-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Consumer Goods,Retail",
+    "description": "Support Center - Irving Michaels Data Scientists will develop systems and techniques for identifying business trends and challenges through complex big data analysis. As a Data Scientist at Michaels you will design, develop and implement data system solutions for the organization. You will interpret results from multiple sources using techniques including statistical analysis, machine learning and data mining.  The ideal candidate will have a passion for analyzing data, identifying trends, has a high degree of customer-obsession, and a track record for delivering results.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T03:17:47.000Z"
+  },
+  "company": {
+    "name": "The Michaels Companies, Inc.",
+    "link": "https://www.linkedin.com/company/michaels-stores-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

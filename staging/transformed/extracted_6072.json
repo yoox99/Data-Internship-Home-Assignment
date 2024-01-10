@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Retail,Apparel &amp; Fashion,Consumer Goods",
+    "description": "Explore the possibilities across our global house of brands.  Defined by inclusivity rather than exclusivity, Tapestry embraces the exploration of individuality and invests in helping you grow personally and professionally. Every individual in our global house has the opportunity to make an impact, learn and be part of our growing and unique story.  At Tapestry, we have the freedom to express ourselves and run with our best ideas across Coach, Kate Spade New York, and Stuart Weitzman. We share a profound belief in both our individual and collective potential, and know that with hard work and dedication, anything is possible.  The Analytics team at Tapestry is the center of excellence for statistics and data science. Through the application of machine learning algorithms and intuitive web applications and APIs, we are transforming the way Tapestry employees interact with our customers globally. This Data Scientist will join our ongoing initiatives focused on improving the accuracy, scope, reach, and usability of supply chain optimization and forecasting methods globally across all brands. You will be responsible for building and maintaining relationships with our business partners, developing and maintaining forecasting models solving both near-term and long-term challenges, and deploying forecasting results into both machine- and human-usable formats.  A successful candidate in this role will leverage their experiences to: #LIJD1 Tapestry, Inc. is an equal opportunity and affirmative action employer and we pride ourselves on hiring and developing the best people. All employment decisions (including recruitment, hiring, promotion, compensation, transfer, training, discipline and termination) are based on the applicant’s or employee’s qualifications as they relate to the requirements of the position under consideration. These decisions are made without regard to age, sex, sexual orientation, gender identity, genetic characteristics, race, color, creed, religion, ethnicity, national origin, alienage, citizenship, disability, marital status, military status, pregnancy, or any other legally-recognized protected basis prohibited by applicable law. Visit Tapestry, Inc. at http://www.tapestry.com/",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T22:27:39.000Z"
+  },
+  "company": {
+    "name": "Tapestry",
+    "link": "https://www.linkedin.com/company/tapestryinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

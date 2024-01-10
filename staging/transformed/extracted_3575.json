@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Remote - Europe)",
+    "industry": "Information Technology and Services",
+    "description": "Kentik is the network observability company. Many of the world’s most recognizable brands rely on our SaaS platform to make sense of their networks, relying on our infinite granularity, automated insights, and insanely fast search to answer key business questions. Our rapidly growing, geographically distributed engineering team builds state-of-the-art products that are supported by a truly big data platform that processes trillions(!!) of records per day. To this end, our engineering culture emphasizes collaborative communication, openness to ideas, and practical solution design. To find out more, read our blog at kentik.com and follow us @kentikinc .  The true meaning of Kentik is visibility. We are committed to making sure everyone feels empowered to use their voice, has a sense of belonging and is represented at Kentik. We don’t look for individuals who fit the culture, but those who will continue to add to the culture. We encourage everyone to apply, especially those individuals who are underrepresented in the industry: people of color, LGBTQI+ community, women, individuals with disabilities (both seen and unseen), veterans, people of any age or family status. Kentik, the leading Network Analytics platform, is looking for an experienced Site Reliability Engineer to join its SRE team. The SRE team is responsible for architecting, building, monitoring and maintaining the infrastructure and services that the Kentik platform runs on top of.  We operate a well-organized, well-instrumented platform, with an emphasis on results rather than process. We’re expanding fast and offer enormous opportunities for employee growth.  We’re looking for an experienced SRE with an eye for detail, able to collaborate in a global company and take Kentik to the next level, by utilizing their experience and knowledge. We promise it will be worth it! You will be working at a fast-growing, well-funded startup, alongside world-class engineers and thought leaders as we build the future of network observability and digital operations. With a competitive salary and first-rate benefits on top of meaningful, challenging projects, we’re sure you will enjoy joining our team!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T20:48:07.000Z"
+  },
+  "company": {
+    "name": "Kentik",
+    "link": "https://www.linkedin.com/company/kentik"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

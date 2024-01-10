@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Machine Learning",
+    "industry": "Computer Software",
+    "description": "Are you passionate about machine learning and looking for an opportunity to make an impact in healthcare?  Fathom is on a mission to understand and structure the world’s medical data, starting by making sense of the terabytes of clinician notes contained within the electronic health records of health systems.  We are seeking extraordinary Machine Learning Engineers to join our team, developers and scientists who can not only design machine-based systems, but also think creatively about the human interactions necessary to augment and train those systems.  Please note, this position has a minimum requirement of 3+ years of experience. For earlier career candidates, we encourage you to apply to our SF and/or Toronto locations.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T17:06:49.000Z"
+  },
+  "company": {
+    "name": "Fathom",
+    "link": "https://au.linkedin.com/company/fathom-applications"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

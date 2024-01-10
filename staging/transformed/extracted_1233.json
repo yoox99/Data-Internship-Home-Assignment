@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Returnship) - Opportunity for Working Remotely",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The program at VMware is an 18-week paid returnship for experienced professionals returning to the workforce after taking time off for caregiving. The program is open to individuals who have at least 5 years of professional experience and have been out of the paid workforce for at least 2 years to focus on caring for a child or other dependent. If you meet these criteria, we welcome you to apply. Applicants are not limited to the locations listed. Candidates may apply from anywhere within the US. Uhana by VMware empowers mobile operators with subscriber-level, radio access network (RAN) analytics, giving them better control of their 4G & 5G networks and maximizing the quality of service they can offer their customers. Uhana correlates and enriches high volumes of streaming data from mobile network elements, in real-time, to provide unprecedented visibility. Using artificial intelligence, Uhana automatically determines the root cause of network issues and recommends remediation.  We are looking for talented software engineers to join the Uhana Platform team now part of the Service Provider & Edge business unit at VMware. In this role, you will be collaborating with excellent engineers responsible on the overall architecture and scalability of the software system, in addition to hands-on implementation work. In this role you will have the ability to contribute to the design and development of the Uhana platform. The team is composed of dedicated, bright, talented technologists who manage our global compute infrastructure, architect the real-time data-processing software, and build the distributed software platform to power the next-generation of mobile technology. We are looking for a highly-motivated individual who is willing to take up technical challenges, work collaboratively in a team and can learn-and-grow fast. Success in the role is defined by the ability to consistently create high quality code that addresses the business requirement, and is well tested, performant and maintainable. VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. VMware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.  This job requisition is not eligible for employment-based immigration sponsored by VMware. University and Recent Grads Internships Full Time 2021-05-17  VMware Company Overview: At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what’s possible today at http://careers.vmware.com.  Equal Employment Opportunity Statement: VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:35:41.000Z"
+  },
+  "company": {
+    "name": "VMware",
+    "link": "https://www.linkedin.com/company/vmware"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

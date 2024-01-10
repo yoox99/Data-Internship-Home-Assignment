@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Biotechnology,Pharmaceuticals",
+    "description": "We are seeking a Data Scientist to join our team to develop an insight driven sensing capability with a focus on revolutionizing decision making. As part of this role you will be solving big data problems and developing insights as part of a product team of data scientists, business analysts, and software engineers. The team will rely on your expertise in data science to build this visionary new capability for Amgen. Join Us  If you're seeking a career where you can truly make a difference in the lives of others, a career where you can work at the absolute forefront of biotechnology with the top minds in the field, you'll find it at Amgen.  Amgen, a biotechnology pioneer, discovers, develops and delivers innovative human therapeutics. Our medicines have helped millions of patients in the fight against cancer, kidney disease, rheumatoid arthritis and other serious illnesses.  As an organization dedicated to improving the quality of life for people around the world, Amgen fosters an inclusive environment of diverse, ethical, committed and highly accomplished people who respect each other but compete intensely to win. Together, we live the Amgen values as we continue advancing science to serve patients.  Amgen is an Equal Opportunity employer and will consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T06:06:35.000Z"
+  },
+  "company": {
+    "name": "Amgen",
+    "link": "https://www.linkedin.com/company/amgen"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 79900,
+    "max_value": 129000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Thousand Oaks",
+    "region": "CA",
+    "postal_code": "91358",
+    "street_address": null,
+    "latitude": 34.176083,
+    "longitude": -118.84874
+  }
+}

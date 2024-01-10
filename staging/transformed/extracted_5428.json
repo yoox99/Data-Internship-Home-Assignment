@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Staffing and Recruiting",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T01:32:20.000Z"
+  },
+  "company": {
+    "name": "Kelly",
+    "link": "https://www.linkedin.com/company/kellyservices"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Muskegon",
+    "region": "MI",
+    "postal_code": "49441",
+    "street_address": null,
+    "latitude": 43.234226,
+    "longitude": -86.24656
+  }
+}

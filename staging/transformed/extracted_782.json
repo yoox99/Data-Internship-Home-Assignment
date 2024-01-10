@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer III",
+    "industry": "Information Technology and Services",
+    "description": "We’re looking for a dynamic ML Engineer with a passion for artificial intelligence to help drive a new generation of data and machine learning-enabled services and products to impact healthcare supporting Artificial Intelligence, Machine Learning, and Data Science solutions for Change Healthcare.  You'll enjoy working with a highly talented and diverse team of Engineers and Data Scientists specializing in deep learning, active learning, and classical machine learning, one of the richest data sets in US healthcare, nearly limitless cloud compute resources including Spark clusters and GPUs, and the ability to see your insights turned into real products. #northwest  #southwest  Join our team today where we are creating a better coordinated, increasingly collaborative, and more efficient healthcare system! Change Healthcare is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, genetic information, national origin, disability, or veteran status. To read more about employment discrimination protections under federal law, read at https://www.eeoc.gov/employers/eeo-law-poster and the supplemental information at https://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf .  If you need a reasonable accommodation to assist with your application for employment, please contact us by sending an email to applyaccommodations@changehealthcare.com with \"Applicant requesting reasonable accommodation\" as the subject. Resumes or CVs submitted to this email box will not be accepted.  Click here https://www.dol.gov/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf to view our pay transparency nondiscrimination policy.  California (US) Residents: By submitting an application to Change Healthcare for consideration of any employment opportunity, you acknowledge that you have read and understood Change Healthcare’s Privacy Notice to California Job Applicants Regarding the Collection of Personal Information .  Change Healthcare maintains a drug free workplace and conducts pre-employment drug-testing, where applicable, in accordance with federal, state and local laws.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T10:06:53.000Z"
+  },
+  "company": {
+    "name": "Change Healthcare",
+    "link": "https://www.linkedin.com/company/change-healthcare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

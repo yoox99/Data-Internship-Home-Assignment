@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Junior Level",
+    "industry": "Financial Services,Information Technology and Services",
+    "description": "Purpose of Job  We are currently seeking a talented Software Engineer - Junior Level for our San Antonio, Plano, Phoenix, or 100% remote environment work location(s).  Provides support to the Enterprise and has an opportunity to significantly impact organizational growth and effectiveness through delivering best in class technology solutions. Engaged in all phases of the software systems and application development lifecycle which include; gathering and analyzing requirements, designing, testing, documenting and implementing software, responding to outages. Identify and manage existing and emerging risks that stem from business activities and ensure these risks are effectively identified and escalated to be measured, monitored and controlled.  Job Requirements USAA knows what it means to serve. We facilitate the financial security of millions of U.S. military members and their families. This singular mission requires a dedication to innovative thinking at every level.  USAA Information Technology: A Realistic Preview  USAA Careers – World Class Benefits The above description reflects the details considered necessary to describe the principal functions of the job and should not be construed as a detailed description of all the work requirements that may be performed in the job. USAA has an effective process for assessing market data and establishing ranges to ensure we remain competitive. You are paid within the salary range based on your experience and market position. The salary range for this position is: $66,300 - $119,500 *(this does not include geographic differential it may be applied based on your work location). Employees may be eligible for pay incentives based on overall corporate and individual performance or at the discretion of the USAA Board of Directors. Shift Premium will be addressed on an individual-basis for applicable roles that are consistently scheduled for non-core hours. At USAA our employees enjoy best-in-class benefits to support their physical, financial, and emotional wellness. These benefits include comprehensive medical, dental and vision plans, 401(k), pension, life insurance, parental benefits, adoption assistance, paid time off program with paid holidays plus 16 paid volunteer hours, and various wellness programs. Additionally, our career path planning and continuing education assists employees with their professional goals. Please visit for more details.  Relocation assistance is for this position.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T06:06:42.000Z"
+  },
+  "company": {
+    "name": "USAA",
+    "link": "https://www.linkedin.com/company/usaa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Antonio",
+    "region": "TX",
+    "postal_code": "78266",
+    "street_address": null,
+    "latitude": 29.42517,
+    "longitude": -98.49461
+  }
+}

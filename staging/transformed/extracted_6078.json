@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Management Consulting,Financial Services,Accounting",
+    "description": "KPMG New Zealand is part of the international KPMG network and is passionate about providing the best audit, tax, and advisory services to clients.  KPMG Lighthouse provides specialised data and analytics talent and data-driven solutions that help our clients achieve rapid results. KPMG Lighthouse works with large data sets and leverages deep domain expertise in data engineering, data science, advanced visualisation, artificial intelligence, and robotics to help us better serve our clients. What you'll bring to our team: We offer rewarding careers for outstanding professionals, ongoing learning and development opportunities, a collaborative and inclusive culture, and flexible and agile work practices that focus on our people's wellbeing to drive innovation and entrepreneurship. We also believe that our business plays a distinct and vital role in helping solve important social and environmental issues; and use our unique skills and expertise to help create positive and lasting impacts for our communities.  We believe diversity of thought, background and experience strengthens relationships and delivers meaningful benefits to our people, our clients and communities. We strive to be recognised as an employer of choice for all, irrespective of gender, ethnicity, generation, flexible work status, family circumstances, sexual orientation or disability and our inclusive culture promotes the development of our people nationwide.  To be legally entitled to work in New Zealand, you should be a New Zealand citizen / resident or Australian citizen / permanent resident; or alternatively you must hold a valid work visa for New Zealand. Please check the New Zealand Immigration website for the most up to date information.  We are a 2021 Circle Back Initiative Employer – we commit to respond to every applicant.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:01:05.000Z"
+  },
+  "company": {
+    "name": "KPMG New Zealand",
+    "link": "https://nz.linkedin.com/company/kpmg-new-zealand"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wellington",
+    "region": "FL",
+    "postal_code": "33470",
+    "street_address": null,
+    "latitude": 26.661062,
+    "longitude": -80.25384
+  }
+}

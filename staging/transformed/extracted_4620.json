@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - MX",
+    "industry": "Information Technology and Services,Computer Software,Human Resources",
+    "description": "Site Reliability Engineer  Position Type: Contract  Location: Raritan, NJ BS/MS in Computer Science or Computer Engineering  Good verbal and written communication skills in English  Powered by JazzHR  QBVDTEWvLC",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:04:13.000Z"
+  },
+  "company": {
+    "name": "LAAgencia ",
+    "link": "https://mx.linkedin.com/company/laagencia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raritan",
+    "region": "NJ",
+    "postal_code": "08869",
+    "street_address": null,
+    "latitude": 40.567867,
+    "longitude": -74.63268
+  }
+}

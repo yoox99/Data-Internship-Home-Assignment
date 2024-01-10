@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "IT DevOps Engineer",
+    "industry": "Computer Software",
+    "description": "Ansys is the global leader in engineering simulation, helping the world's most innovative companies deliver radically better products to their customers. By offering the best and broadest portfolio of engineering simulation software, Ansys helps companies solve the most complex design challenges and engineer products limited only by imagination. SUMMARY The DevOps Engineer enhances and improves ANSYS global infrastructure systems and processes in direct support of Product Creation, IT and ACE business units. This role will be responsible for developing, configuring, administering and the deployment of automated infrastructure in both Cloud and Co-Lo environments across the organization. The role is responsible for the validation of business requirements and design approaches, advanced system improvements within various environments and provides expertise to the business units in a limited subject matter field. This role can work independently with moderate supervision and participate as a technology resource in larger projects. RESPONSIBILITIES",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:20:33.000Z"
+  },
+  "company": {
+    "name": "Ansys Academic",
+    "link": "https://www.linkedin.com/company/ansys-student"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New Philadelphia",
+    "region": "PA",
+    "postal_code": "17959",
+    "street_address": null,
+    "latitude": 40.72087,
+    "longitude": -76.11634
+  }
+}

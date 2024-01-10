@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T18:48:47.000Z"
+  },
+  "company": {
+    "name": "Groq",
+    "link": "https://www.linkedin.com/company/groq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 230000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

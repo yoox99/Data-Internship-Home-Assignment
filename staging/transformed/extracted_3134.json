@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "ICF’s Information Insights (I2) team is comprised of experienced professionals with the skills required to unlock the power of governed data discovery. Our staff provides deep technical and business support for data acquisition, data analysis/data science, and interactive data visualizations.  We are looking for a candidate with strong data engineering, statistics, machine learning, and predictive modeling skills to join our team. In addition, you will perform data analyses summarizing trends and modeling impacts for both internal and external clients.  While these roles are currently remote, once restrictions are lifted, reporting to our corporate offices may be an option. We would prefer to hire someone within the Metro DC area. #Indeed Working at ICF means applying a passion for meaningful work with intellectual rigor to help solve the leading issues of our day. Smart, compassionate, innovative, committed, ICF employees tackle unprecedented challenges to benefit people, businesses, and governments around the globe. We believe in collaboration, mutual respect, open communication, and opportunity for growth. If you’re seeking to make a difference in the world, visit www.icf.com/careers to find your next career. ICF—together for tomorrow.  We can only solve the world's toughest challenges by building an inclusive workplace that allows everyone to thrive. We are an equal opportunity employer, committed to hiring regardless of any protected characteristic, such as race, ethnicity, national origin, color, sex, gender identity/expression, sexual orientation, religion, age, disability status, or military/veteran status. Together, our employees are empowered to share their expertise and collaborate with others to achieve personal and professional goals. For more information, please read our EEO & AA policy . EEO is the law Pay Transparency Statement DC Remote Office (DC99)",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T17:01:26.000Z"
+  },
+  "company": {
+    "name": "ICF",
+    "link": "https://www.linkedin.com/company/icf-international"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

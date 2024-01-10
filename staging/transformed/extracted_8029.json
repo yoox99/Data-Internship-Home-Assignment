@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Fractal Analytics is a strategic AI partner to Fortune 500 companies with a vision to power every human decision in the enterprise. Fractal is building a world where individual choices, freedom, and diversity are the greatest assets. An ecosystem where human imagination is at the heart of every decision. Where no possibility is written off, only challenged to get better. We believe that a true Fractalite is the one who empowers imagination with intelligence. As a Data Scientist, you will be part of Fractal's fast growing Global Retail practice working with a team of consultants, engineers & developers to design, architect, build, test & operationalize visualization projects. The role will be responsible for innovating, building and maintaining high standards of delivery for our Fortune 500 clients. SQL, Python Databricks, Tableau, PPT, XLS",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-06T23:10:01.000Z"
+  },
+  "company": {
+    "name": "Fractal",
+    "link": "https://www.linkedin.com/company/fractal-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

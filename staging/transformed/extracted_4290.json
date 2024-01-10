@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Experimentation",
+    "industry": "Hospitality",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:45:31.000Z"
+  },
+  "company": {
+    "name": "Evolve",
+    "link": "https://www.linkedin.com/company/evolve-vacation-rental"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Texas",
+    "region": "United States",
+    "postal_code": "76522",
+    "street_address": null,
+    "latitude": 31.463793,
+    "longitude": -99.333275
+  }
+}

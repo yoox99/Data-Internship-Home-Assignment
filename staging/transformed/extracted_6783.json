@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Systems Engineer - Data Modeling / Date Mapping",
+    "industry": "Civil Engineering",
+    "description": "Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the worlds leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our 22,000 employees do the cant be done, solving the most daunting challenges facing our customers. Provide support and related services to the implementation of enterprise data representations in various mission domains. The successful individual will perform end-to-end systems engineering for data flows from the perspective of data format modeling, data mapping, and support to implementers and mission customers. This position requires strong software and systems engineering expertise from cradle to grave with limited, high-level direction, in the areas of: The selected candidate will demonstrate the aptitude to learn and grow in the following areas. Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:47:16.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62200,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Meade",
+    "region": "MD",
+    "postal_code": "20755",
+    "street_address": null,
+    "latitude": 39.09555,
+    "longitude": -76.75768
+  }
+}

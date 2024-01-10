@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Government Administration",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-04T14:42:31.000Z"
+  },
+  "company": {
+    "name": "A-TEK, Inc.",
+    "link": "https://www.linkedin.com/company/a-tek-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington DC-Baltimore Area",
+    "region": null,
+    "postal_code": "21201",
+    "street_address": null,
+    "latitude": 38.873062,
+    "longitude": -77.007385
+  }
+}

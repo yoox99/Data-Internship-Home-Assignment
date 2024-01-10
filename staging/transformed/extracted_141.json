@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr. Artificial Intelligence / Machine Learning (AI/ML) Engineer",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "As a junior engineer and technologist in image processing, machine learning, and/or computer vision with our team, you will be working with our clients to design, create, evaluate, and maintain solutions using your experience and expertise in image processing, machine learning, computer vision and data science.  In your role you will work with various teams to research, develop, and deploy solutions for various national security missions spanning identity management, multimedia, and cyber end-to-end systems that are transforming the way law enforcement and intelligence communities handle and analyze information and translate it into actionable intelligence. Bachelor degree in a technology, engineering, computer science, or related discipline and 3 years of experience. Noblis and our wholly owned subsidiary, Noblis ESI , tackle the nation's toughest problems and apply advanced solutions to our clients' most critical missions. We bring the best of scientific thought, management and engineering expertise together in an environment of independence and objectivity to deliver enduring impact on federal missions. Noblis works with a wide range of government clients in the defense, intelligence and federal civil sectors. Learn more at Noblis -About Us Our employees find greater meaning in their work and balance the other things in life that matter to them. Our people are our greatest asset. They are exceptionally skilled, knowledgeable, team-oriented, and mission-driven individuals who want to do work that matters and benefits the public. Noblis has won numerous workplace awards . Noblis maintains a drug-free workplace.  Noblis is an Equal Opportunity Employer. Employment decisions are made without regard to race (as well as because of or on the basis of traits historically associated with race, including hair texture, hair type, and protective hairstyles such as braids, locks, and twists), color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, pregnancy, childbirth, lactation and related medical conditions, genetic factors, military/veteran status, or other characteristics protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T18:06:03.000Z"
+  },
+  "company": {
+    "name": "Noblis",
+    "link": "https://www.linkedin.com/company/noblis"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80800,
+    "max_value": 159000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

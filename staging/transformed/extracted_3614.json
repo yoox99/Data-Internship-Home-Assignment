@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability/Ansible Engineer",
+    "industry": "Banking,Capital Markets,Financial Services",
+    "description": "Federal Reserve Bank of Richmond What You Will Do: The Richmond Fed is the proud home of the Federal Reserve’s National IT organization—a nationwide team delivering technology solutions and support across the Federal Reserve System. Many National IT employees are located in Richmond, while others are based across the U.S. at other Federal locations.  When you join our team, you’ll become part of a culture that welcomes differences, cares about our communities, and empowers each other to lead from where we are to make things better.  Bring your passion and we’ll provide challenging and purposeful careers in a variety of fields, opportunities to grow and a wide range of benefits and perks that support your health and wealth. It’s all part of what makes #MyRichmondFed a great place to work! The Solutions Engineering group has an immediate opening for a senior DevOps Automation Engineer, reporting to the manager in Automation and Orchestration group.  The DevOps engineer will design and develop automation solutions to support infrastructure-as-code applications and will work collaboratively with product engineering, test automation, and operations to deliver these new capabilities and streamline current processes. Where design/coding activities will be the primary responsibilities, we own what we build so the DevOps engineer will also be responsible for maintaining automation tools used to provision, test, and deploy.  Senior engineers are leaders in the organization and are responsible for setting technical direction, defining paths to accomplish target state, and working across organizational boundaries to achieve system goals. Bachelor's Degree in Computer Science or equivalent with 3+ years of relevant work experience When you join Federal Reserve’s National IT organization, not only will you find a challenging and purposeful career, you’ll also have access to a wide range of benefits and perks that support your health and wealth, including: Other Requirements and Considerations: Full time Regular Yes Information Technology First (United States of America) Privacy Notice",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T18:42:24.000Z"
+  },
+  "company": {
+    "name": "Federal Reserve Bank of Richmond",
+    "link": "https://www.linkedin.com/company/federal-reserve-bank-of-richmond"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

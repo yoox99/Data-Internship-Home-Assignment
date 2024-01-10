@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": ".NET Developer - .NET, C#, Azure",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": ".NET Developer North Delaware (Partially Remote, 1-2 days in office a week) $80,000 - 100,000/year .NET, C#, Azure  Based in Delaware, our company is all about compound logistics. We are expanding our software capability and are currently looking to hire on a senior level .NET Developer. We have some of the most talented and driven .NET Developers working for us currently. We are looking for someone with experience in .NET Development, C#, and Azure.  What You Will Be Doing What You Need for this Position  3+ years of related experience: What's In It for You Or Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Ben.Shapiro@Optello.com Ben Shapiro - Recruiter - Optello  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:29:59.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Newark",
+    "region": "DE",
+    "postal_code": "19702",
+    "street_address": null,
+    "latitude": 39.681656,
+    "longitude": -75.75362
+  }
+}

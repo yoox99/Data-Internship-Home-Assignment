@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior, Software Engineer, Linux/Android OS",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "We are looking for an OS developer interested in building the next generation Augmented Reality operating system using industry-standard tools and technologies. This is an opportunity for you to contribute to the development of a new class of mobile computing devices that will transform the enterprise.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:02:24.000Z"
+  },
+  "company": {
+    "name": "Magic Leap",
+    "link": "https://www.linkedin.com/company/magic-leap-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 176000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

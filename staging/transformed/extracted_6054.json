@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "MicroStrategy transforms organizations into intelligent enterprises through data-driven innovation. We match smart people to dynamic projects and technologies that truly challenge their talents. Curious and creative in outlook, our success is built on the talent and energy of smart and driven people. MicroStrategy (Nasdaq: MSTR) is a worldwide leader in enterprise analytics and mobility software. A pioneer in the BI and analytics space, MicroStrategy delivers innovative software that empowers people to make better decisions and transform the way they do business. We provide our enterprise customers with world-class software and expert services so they can deploy unique intelligence applications. As a Software Engineer at MicroStrategy, you will provide our customers with the most powerful, scalable, and user-friendly platforms for analytics, mobility, and security. You play a role in enabling MicroStrategy products to be best-in-breed and optimized for leading organizations to analyze big data and distribute actionable business insight across their enterprise. You will design and build scalable software systems in a high-availability, high-performance programming environment. Motivation, Innovation, Passion, Integrity, Teamwork, Customer-Focus Additional Information  MicroStrategy is an equal employment and affirmative action employer F/M/Disability/Vet.  MicroStrategy is an Equal Employment Opportunity / Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures. If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at 703.848.8600.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T19:44:06.000Z"
+  },
+  "company": {
+    "name": "MicroStrategy",
+    "link": "https://www.linkedin.com/company/microstrategy"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85100,
+    "max_value": 115000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tysons Corner",
+    "region": "VA",
+    "postal_code": "22030",
+    "street_address": null,
+    "latitude": 38.912,
+    "longitude": -77.22755
+  }
+}

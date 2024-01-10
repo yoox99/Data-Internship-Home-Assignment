@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer ( Remote)",
+    "industry": "Management Consulting",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T21:22:30.000Z"
+  },
+  "company": {
+    "name": "Tiger Analytics",
+    "link": "https://www.linkedin.com/company/tiger-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington DC-Baltimore Area",
+    "region": null,
+    "postal_code": "21201",
+    "street_address": null,
+    "latitude": 38.873062,
+    "longitude": -77.007385
+  }
+}

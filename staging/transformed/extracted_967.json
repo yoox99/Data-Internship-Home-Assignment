@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Web Developer",
+    "industry": "Retail",
+    "description": "you discovered a company that dominates the products in their category – 1 out of 3 being sold by them? Is the undisputed market leader in their industry, by a wide margin, organically capturing 90% of their customers, and taking care of them with one of the highest customer service scores in retail? AND what if they are operating in a formidable stable industry that is never, ever going away? At David’s Bridal, we empower our customers and our team members to stay true to their dreams and find the one, whether that means the wedding dress that matches her personal style—or the corporate career that’s a perfect fit.  We are looking for a Senior Software Engineer that will champion their IT knowledge and help us tackle some of our largest requests in IT so far. A member of the team that will deliver fresh ideas with well – thought solutions to bring new light and expertise to our mission!  The Senior Software Engineer is responsible for contributing to the work product of the agile team.The Senior Software Engineer is responsible for solving challenging technical problems within a project with little guidance or supervision and helping to ensure that your work product and that of other members of the team is of high quality and adheres to the defined architecture best practices of the company. The Senior Software Engineer will take direction from the Development Lead for the projects and partner closely with enterprise and technical architects and other team members to ensure that you understand and have internalized the high-level design of the proposed solution.The Senior Software Engineer will help to break the proposed implementation into chunks of work that can be executed with the other software engineers on the agile team and will work closely with the team to timely resolve complex issues to help maximize productivity.The Senior Software Engineer will partner with team members (Development Lead, Architects, and Product Owners) to help to ensure that the deliverables meet the customer and business objectives of a given project as well as set an example and provide guidance and mentoring to other engineers to ensure their success and high productivity. BA/BS/Bachelor's Degree in Computer Science, Information Technology or other related degree 4-8 years in software development and design of highly scalable transactional websites using PHP, JavaScript, and React or Angular technologies. Strong written and verbal communication skills. Strong organizational and analytical problem-solving skills. Ability to work on multiple tasks concurrently. Strong teamwork and interpersonal skills. Self-motivated with attention to detail. Strong time management, organization and meeting management skills. Ability to mentor and review the work of other software engineers. Ability to work as an agile team with both internal and 3rd party resources (onshore / offshore) – A comprehensive benefits package is available. Our mission at David’s Bridal is to embrace the ideas of Diversity, Equity, and Inclusion. It is our goal to build a workforce that is representative as the customers we serve. We vow to create a culture where all forms of diversity are celebrated and seen as valuable. The preceding job description has been designed to highlight the general nature and level of work performed by employees within this classification.It is not designed to contain or be interpreted as a comprehensive description of all duties, responsibilities and qualifications required of employees assigned to this job.Actual duties and responsibilities will vary.  Apply Now",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T19:58:08.000Z"
+  },
+  "company": {
+    "name": "David's Bridal",
+    "link": "https://www.linkedin.com/company/david%27s-bridal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 71300,
+    "max_value": 152900,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Conshohocken",
+    "region": "PA",
+    "postal_code": "19429",
+    "street_address": null,
+    "latitude": 40.07803,
+    "longitude": -75.302185
+  }
+}

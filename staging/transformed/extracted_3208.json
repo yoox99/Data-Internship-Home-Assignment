@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Remote)",
+    "industry": "Internet",
+    "description": "We’re looking for a Software Engineer that is ready to grow their career and make an immediate impact in shaping the way our clients work. You will play a key role in everything from expanding and improving our current flagship product to building out additional products, micro services, analytics platform functionality, and 3rd party integrations.  FloQast is a SaaS based company innovating solutions in the task management software and accounting space. We believe that our fresh approach to the accounting close process represents a massive opportunity to dramatically improve the day to day lives of accountants and their teams. Our software helps save countless hours, days, and in some cases weeks of their time while also empowering them to achieve the highest degree of transparency, accuracy, and control of their process. Recognized as a 2020 Technology Fast 500 by Deloitte, FloQast is the leader in accounting workflow automation created by accountants for accountants to work smarter, not harder. The cloud-based, AI-enhanced software is trusted by more than 1,000 accounting teams, including those at Lyft, Twilio, Instacart, Zoom and The Golden State Warriors—and proud to be rated #1 across all user review sites. By automating common accounting workflows and helping to streamline and make them more efficient, FloQast is the place where accounting teams want to work so they can focus on what matters most, even when that’s just going home on time. Whether automating reconciliations, documentation requests or other workflows such as the month-end close, financial reporting or payroll, FloQast enhances the way accounting teams already work to help them work smarter. Learn more at floqast.com .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T04:34:25.000Z"
+  },
+  "company": {
+    "name": "FloQast",
+    "link": "https://www.linkedin.com/company/floqast"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

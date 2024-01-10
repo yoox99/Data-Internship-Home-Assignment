@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site-Reliability Engineer (100% remote)",
+    "industry": "Nonprofit Organization Management,Education Management,Maritime",
+    "description": "This person will be working with Site Reliability Engineering group. This role may require weekend work based on business needs (deployment, maintenance support, or critical issues).",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Spectraforce Technologies",
+    "link": "https://www.linkedin.com/company/spectraforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

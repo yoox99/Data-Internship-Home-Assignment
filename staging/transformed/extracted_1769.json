@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Executive Assistant to the C-Suite",
+    "industry": "Computer Software",
+    "description": "Materialize is the streaming SQL database company that makes it easy for any developer or analyst to understand streaming data, answer complex questions and build intelligent applications using standard technology. Whether it's delivering personalized experiences, accurately identifying fraud, building predictive AI, or discovering new business opportunities, the ability to run complex queries on multiple streams of data and keep their answers up to date is critical to making better decisions about the changing world around us. The Materialize team includes engineers who were early employees of Cockroach Labs, Datadog, Dropbox, Pure Storage, and YouTube. Our work builds on top of Timely Dataflow and Differential Dataflow, both created by our co-founder Frank McSherry, a world-leading computer scientist with decades of award-winning research in all aspects of data. Kleiner Perkins and Lightspeed Venture Partners. Additional investors include executives from Cockroach Labs, Datadog, and Rubrik. Executive Assistant to the C-Suite: New York, NY Base + Equity EA responsibilities to the C-Suite include a wide variety of tasks that facilitate Materialize leadership's ability to effectively lead the organization: You have 3-5 years of experience in an Executive Assistant role. We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to develop the exceptional product we are building. Our dynamic team has incredible perspectives to share, just as we know you do, and we take great pride in being an equal opportunity employer.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:18:18.000Z"
+  },
+  "company": {
+    "name": "Materialize",
+    "link": "https://www.linkedin.com/company/materializeinc"
+  },
+  "education": {
+    "required_credential": "associate degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

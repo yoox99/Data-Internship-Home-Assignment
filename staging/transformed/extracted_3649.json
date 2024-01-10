@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Mechanical or Industrial Engineering",
+    "description": "At Path we work to develop state-of-the-art artificial intelligence, machine learning, computer vision, and sensors systems to make industrial robots intelligent. We create world transforming technology, like our first robotic welding system, allowing hardware to do much more, with much less human input.  We are looking for a machine learning engineer who is eager to find novel solutions and methods to solve challenging problems. You will report to the Engineering Manager of AI/CV/ML and will join a team of dedicated, supportive, and enthusiastic people to help create the future of manufacturing. Who You Are At Path Robotics we love coming to work to solve interesting and tough challenges but also because our ideas are welcomed and valued. We encourage unique thinking and are dedicated to creating a diverse and inclusive environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T17:18:59.000Z"
+  },
+  "company": {
+    "name": "Path Robotics",
+    "link": "https://www.linkedin.com/company/path-robotics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Columbus",
+    "region": "OH",
+    "postal_code": "43272",
+    "street_address": null,
+    "latitude": 39.96276,
+    "longitude": -82.99629
+  }
+}

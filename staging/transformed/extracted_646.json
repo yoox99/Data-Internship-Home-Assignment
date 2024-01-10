@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer (REMOTE)",
+    "industry": "Insurance,Financial Services",
+    "description": "This technology role will report to the AVP of Data Architecture.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T23:45:37.000Z"
+  },
+  "company": {
+    "name": "Allied World",
+    "link": "https://bm.linkedin.com/company/allied-world"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 86300,
+    "max_value": 157000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

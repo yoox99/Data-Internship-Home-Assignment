@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Site Reliability Engineer (REMOTE)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "If you are a Lead Site Reliability Engineer looking for fully remote work, please read on!  We are a publicly traded, leading industrial technology company with roots in North America and Europe, along with a team of 12k+ employees. We're on a quest to become the #1 company in our sector and are looking for someone to Lead our new SRE Team to build fault tolerant systems and reliable software to help us design, deploy, scale, and maintain highly available distributed sensory networks and companion cloud applications.  What You Will Be Doing What You Need for this Position What's In It for You So, if you are a Lead Site Reliability Engineer looking for a change - please apply today - INTVs are being scheduled! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Bobby.June@Optello.com Bobby June - Recruiting Manager - Optello  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T17:46:32.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

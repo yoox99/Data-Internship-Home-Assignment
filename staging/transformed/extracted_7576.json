@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Agile Portfolio Manager",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software",
+    "description": "The Agile Portfolio Manager serves a critical role managing NI’s Information & Technology portfolio. You will lead the IT portfolio and resource planning processes including the definition, management, and governance of the Information Technology Portfolio planning practice to optimize delivery of value aligned to our company and IT strategy. This role collaboratively partners with IT leaders and key business stakeholders to ensure optimal portfolio planning and management processes and portfolio health metrics. NI does not petition for H-1B visas for this position There are many reasons to consider joining a company. Key among them are the people, the ideas, and the technology. At NI, we believe in the power and potential of connecting the three to create a path to success. : We’re looking for curious and creative problem solvers who value diversity and fresh perspectives, are bold and kind, and willing to take chances. : What did you want to be when you grew up? Did you want to program robots? Build flying cars? Leave the world better than you found it? At NI, we build on the big ideas of big dreamers to make their visions a reality. : With our tailored, software-connected approach, we support our customers through all phases of the product development cycle. From 5G and medical innovations to autonomous driving and the future of space travel, we help our customers Engineer Ambitiously every day.  We’ve long been globally recognized as a top employer. Our compensation and benefits are very competitive, as are our modern workspaces, career development and mobility opportunities, and a culture that fosters belonging and emphasizes community giving. We encourage our teammates to challenge the status quo and collaborate with one another to build innovative solutions.  No matter your career path, we’re here for you, for each other, and for the next generation of innovators who think bigger, aim higher, and go faster.  Are you up for the challenge of helping shape humanity for the next 100 years? If so, let’s get started, and let’s Engineer Ambitiously together.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:24:36.000Z"
+  },
+  "company": {
+    "name": "NI (National Instruments)",
+    "link": "https://www.linkedin.com/company/niglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76800,
+    "max_value": 113000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

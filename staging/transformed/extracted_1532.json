@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "PayScale is the world leader in modern compensation software. Our rich data and unique algorithms power the world’s largest real-time database of salary profiles, giving both employers and employees immediate visibility into the right pay for any position. We are bringing the dark art of compensation into the light by helping more than 6,500 businesses to stay competitive in the labor market and retain and manage their largest investment: their people.  We’re disrupting the compensation industry and are looking to bring on talented professionals with diverse perspectives. We foster a playful work atmosphere where highly motivated individuals can be truly innovative. Are you bright, tenacious, and inventive? If so, PayScale may be the perfect place for you to grow your career!  We are a fast-growing Warburg Pincus portfolio company who is thrilled to have brought the MarketPay product into our suite of offerings in 2016, and started a strategic alliance with Mercer in 2017. We can't wait for you to join us! Our team supports the millions of users that visit our site every month and builds features that contribute towards fair pay. Our team is metrics driven and projects are prioritized based on how much they can impact our company wide goals.  Do you want to make a huge impact while working on hard technical problems? We are looking for a Software Engineer to help us lead the way and would love to welcome you to the team! As a Software Engineer, a typical day may include the following… Prior to PayScale, I spent 10 years at various startups. It was a busy time, but I learned a lot about how to take a raw idea and turn it into a reality. I was attracted to PayScale by the people and the chance to slow down a little bit. PayScale has provided the opportunity for me to grow and expand my impact on the org. I don’t have a particular management style per say but I think candor, empathy and transparency goes a long way.  Additional Information",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T02:07:20.000Z"
+  },
+  "company": {
+    "name": "Payscale",
+    "link": "https://www.linkedin.com/company/payscale"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77800,
+    "max_value": 169800,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "RF Systems Integration Engineer WiFi Bluetooth",
+    "industry": "Consumer Electronics",
+    "description": "Do you want to impact billions of users by developing an extraordinary product with a prime focus on wireless accuracy and performance? You will become part of a hands-on development team that furthers engineering perfection, creativity, and innovation. Dynamic, inspiring people and innovative technologies are the norm here. We want you to join our team if you are a resourceful engineer with the desire to research and develop solutions that do not yet exist. Bring passion and dedication to your job and there's no telling what you could accomplish. Excellent understanding of RF fundamentals and communications theory  Solid fundamentals and relevant work experience programming in C or C++  You have a good working knowledge of RF calibrations and RF metrics  You understand antenna OTA testing  Hands-on experience with RF lab equipment including: spectrum analyzers, oscilloscopes, vector signal generators, power sensors, switch controllers, etc.  Your basic understanding of the WiFi and Bluetooth standards especially on the physical layer  We value your energy and drive to thrive because we operate like start-up environment  Knowledge of Object Oriented Programming (OOP) concepts & scalable software design principles  You love domestic and overseas traveling You will have the opportunity to contribute to the design and validation of RF systems across Apple’s newest products including iPhones, Watches, iPads and others. You will advance a system to guarantee the optimal and the most consistent RF performance for all Apple products. The design of such a system requires good RF fundamentals, communications theory background, and sound programing practices. This entails working closely across multiple Apple teams, chipset vendors, instrument vendors and contract manufacturers.   KEY QUALIFICATIONS:  -  Excellent understanding of RF fundamentals and communications theory  -  Ability to write efficient, scalable C or C++ code  -  You have a good working knowledge of RF calibrations and RF metrics  -  Understanding of antenna OTA testing  -  Hands-on experience with RF lab equipment including: spectrum analyzers, oscilloscopes, vector signal generators, power sensors, etc.  -  Basic understanding of the WiFi and Bluetooth standards especially on the physical layer  -  Strong energy and drive to thrive in a start-up like environment  -  Knowledge of Object Oriented Programming (OOP) concepts & scalable software design principles  -  Passion for domestic and overseas travel   We see the more you have to the following as a BONUS:  -  3+ years of industry experience or equivalent  -  Recent experience in developing test solutions for various wireless technologies  -  Recent experience developing new software applications or drivers on any platform  -  Recent experience with current and upcoming wireless RF standards (e.g. WiFi 802.11ax, 802.11ay, Bluetooth 5.0, 5G)  -  Proven track record designing calibration algorithms for Tx Power, RSSI, pre-distortion, or IQ mismatch  -  Familiarity with tools that enable high volume manufacturing of these technologies  -  Ability to write and maintain scripts in one or more of these languages: Python, PERL, or Ruby  -  Experience with machine learning and big data analysis  -  Experience with web design and related technologies (html, javascript, SQL, mongo-db) Your BSEE is needed and we highly value MSEE    Role Number: 200002916",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:37:23.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Remote)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Daxko powers health & wellness throughout the world. Every day our team members focus their passion and expertise in helping health & wellness facilities operate efficiently and engage their members.  Whether a neighborhood yoga studio, a national franchise with locations in every city, a YMCA or JCC--and every type of organization in between--we build solutions that make every aspect of running and being a member of a health and wellness organization easier and delightful. The is a role for the motivated coder/hacker/engineer that wants to solve problems at the root cause, in an elegant and sustainable way. If that's you, then you will be an instrumental part of our TechOps team, which exists to build and support the foundational tools that our product teams use to build products our customers love and trust. We care deeply about our delivery pipeline being simple, reliable, consistent, and fast. You will be successful in this role if you have a deep love for automation, building scalable systems, embracing new technologies, and sharing with teammates.  The Site Reliability Engineer reports to the Director, Technical Operations. Qualifications Additional Information  Daxko is dedicated to pursuing and hiring a diverse workforce. We are committed to diversity in the broadest sense, including thought and perspective, age, ability, nationality, ethnicity, orientation, and gender. The skills, perspectives, ideas, and experiences of all of our team members contribute to the vitality and success of our purpose and values. We truly care for our team members, and this is reflected through our offices, benefits, and great perks. All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Daxko",
+    "link": "https://www.linkedin.com/company/daxko"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 63200,
+    "max_value": 99300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Birmingham",
+    "region": "AL",
+    "postal_code": "35226",
+    "street_address": null,
+    "latitude": 33.522858,
+    "longitude": -86.80771
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Systems Engineer III",
+    "industry": "Information Technology and Services,Defense &amp; Space,Aviation &amp; Aerospace",
+    "description": "MAG Aerospace is looking for a Software Engineer - III to support our customer in creating capabilities and providing technical services and subject matter expertise in Mission Command and C2 Maneuver systems. You will provide primary technical support to the Joint Automated Deep Operations Coordination System (JADOCS) and/or the Advanced Field Artillery Tactical Data Systems (AFATDS). MAG Aerospace (MAG) is an Equal Opportunity/Affirmative Action Employer and is committed to Diversity and Inclusion. We encourage diverse candidates to apply to our positions.  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.  Click below for the “EEO is The Law” and “Pay Transparency Nondiscrimination” supplement posters.  https://www.dol.gov/agencies/ofccp/posters  MAG Aerospace (MAG) is committed to providing an online application process that is accessible to all, including individuals with a disability, by offering an alternative way to apply for job openings. This alternative method is available for those who cannot otherwise complete the online application due to a disability or need for accommodation.  MAG provides reasonable accommodation to applicants under the guidance of the Americans with Disabilities Act (ADA), Section 503 of the Rehabilitation Act of 1973, the Vietnam-Era Veterans’ Readjustment Assistance Act of 1974, and certain state and/or local laws.  If you need assistance due to a disability, please contact the MAG Aerospace Recruiting email:  Applicant.Assist@magaero.com or call (703) 376-8993.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:29:39.000Z"
+  },
+  "company": {
+    "name": "MAG Aerospace",
+    "link": "https://www.linkedin.com/company/magaerospace"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lawton",
+    "region": "OK",
+    "postal_code": "73502",
+    "street_address": null,
+    "latitude": 34.606377,
+    "longitude": -98.39682
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Scientist, Cell Culture Development",
+    "industry": "Research,Biotechnology,Hospital &amp; Health Care",
+    "description": "Medical Science & Computing (MSC), is searching for a Scientist, Cell Culture Development to provide support to the National Institutes of Health (NIH). This opportunity is a full-time position with MSC and it is on-site in Gaithersburg, Maryland. We are a trusted government partner that blends deep domain expertise with advanced technologies to help our customers solve complex problems that improve, protect, and save lives. As a rapidly growing company, we combine entrepreneurial spirit, customer focus, and an outcomes-based approach to support agency missions in health IT, life sciences, public safety, and grants management.  The Dovel Family of Companies offers employees an opportunity to advance beyond a specific role or contract, we offer a path to develop an enriching career. We believe in empowering a culture of innovation, customer success, and employee growth.  What you’ll get… We are an Equal Opportunity Employer with a commitment to diversity. All individuals, regardless of personal characteristics, are encouraged to apply. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, disability, or veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:21:11.000Z"
+  },
+  "company": {
+    "name": "Medical Science &amp; Computing (MSC)",
+    "link": "https://www.linkedin.com/company/medical-science-&amp;-computing-inc--msc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Gaithersburg",
+    "region": "MD",
+    "postal_code": "20884",
+    "street_address": null,
+    "latitude": 39.142185,
+    "longitude": -77.193405
+  }
+}

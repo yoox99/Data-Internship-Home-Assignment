@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, R&amp;D",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Headquartered in beautiful Santa Barbara, HG Insights is the global leader in technology intelligence. HG Insights uses advanced data science methodologies to help the world's largest technology firms and the fastest growing companies accelerate their sales, marketing, and strategy efforts.  We offer a competitive salary, growth potential, and a casual yet professional environment. Get your sweat on at one of our fitness classes or go for a run along the beach which is two blocks away. You can find employees riding bikes to lunch in the funk zone or hanging out in one of our collaboration spaces. We are passionate about our jobs with a get-it-done attitude, yet we don't take ourselves too seriously. While we work very hard, we also enjoy all that the Santa Barbara coast has to offer. This role is open to remote candidates residing in the U.S. except within the state of Colorado. HG Insights is looking for a talented Software Engineer to work on a small R&D team reporting directly to the CTO. This position will be a key contributor working on developing next generation projects, including expanding on core assets to unlock new opportunities for our customers and increase the quality and fidelity of our insights. This is an exciting opportunity to innovate in a manner that keeps HG Insights as the best technographic provider of insights on the planet. In this role, you will be working solving hard data problems using cutting edge technologies and be a part of a growing team. At HG Insights, we thrive in a collaborative environment and mentorship is an essential part of our team. Join us If you want to be a part of a team that values innovation, collaboration, and growth!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:26:19.000Z"
+  },
+  "company": {
+    "name": "HG Insights",
+    "link": "https://www.linkedin.com/company/hg-insights"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

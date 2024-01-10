@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Test Engineer",
+    "industry": "Information Technology and Services,Telecommunications,Financial Services",
+    "description": "At DISH, the Testing and Quality Assurance (TQA) team’s mission is to deliver software that meets business needs and allows for a positive customer experience. The Senior Software Test Engineer, as part of the software development family, is a leader in the development of automated test solutions to support the overall software delivery team in a fast-paced IT environment. They ensure software meets business requirements, coach and drive the team to design, execute, and test scenarios that exercise all required test conditions to ensure all deadlines are met. Compensation: $74,700.00/Yr. - $118,425.00/Yr.  From versatile health perks to new career opportunities, check out our benefits on our careers website .  Employment is contingent on Successful completion of a pre-employment screen, which may include a drug test.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:15:16.000Z"
+  },
+  "company": {
+    "name": "DISH Network",
+    "link": "https://www.linkedin.com/company/dish-network"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Englewood",
+    "region": "CO",
+    "postal_code": "80110",
+    "street_address": null,
+    "latitude": 39.649437,
+    "longitude": -104.98891
+  }
+}

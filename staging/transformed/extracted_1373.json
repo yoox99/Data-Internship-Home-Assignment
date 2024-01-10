@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer with Security Clearance",
+    "industry": "",
+    "description": "The Software Engineer develops, maintains, and enhances complex and diverse software systems (e.g., processing-intensive analytics, novel algorithm development, manipulation of extremely large data sets, real-time systems, and business management information systems) based upon documented requirements. Works individually or as part of a team. Reviews and tests software components for adherence to the design requirements and documents test results. Resolves software problem reports. Utilizes software development and software design methodologies appropriate to the development environment. Provides specific input to the software components of system design to include hardware/software trade- offs, software reuse, use of Commercial Off-the-shelf (COTS)/Government Off-the-shelf (GOTS) in place of new development, and requirements analysis and synthesis from system level to individual software components. Seven (7) years experience as a SWE, in programs and contracts of similar scope, type, and complexity is required. Bachelor's degree in Computer Science or related discipline from an accredited college or university is required. Four (4) years of additional SWE experience on projects with similar software processes may be substituted for a bachelor's degree.Required Skills: -Analyze user requirements to derive software design and performance requirements.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-18T22:44:36.000Z"
+  },
+  "company": {
+    "name": "Tailored Access, LLC",
+    "link": "https://www.linkedin.com/company/tailored-access-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Meade",
+    "region": "MD",
+    "postal_code": "20755",
+    "street_address": null,
+    "latitude": 39.09555,
+    "longitude": -76.75768
+  }
+}

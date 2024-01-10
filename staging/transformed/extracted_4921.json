@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, DevOps",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:30:43.000Z"
+  },
+  "company": {
+    "name": "Hart, Inc.",
+    "link": "https://www.linkedin.com/company/hartplatform"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kansas City",
+    "region": "MO",
+    "postal_code": "64113",
+    "street_address": null,
+    "latitude": 39.099792,
+    "longitude": -94.57856
+  }
+}

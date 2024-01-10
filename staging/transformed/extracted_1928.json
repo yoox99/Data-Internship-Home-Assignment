@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "At Workday, we help the world’s largest organizations adapt to what’s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we’re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. This is an opportunity to be part of a growth team focused on building predictive capabilities into our products, and part of the next generation of Workday technology.  We believe predictive products can be as transformative to the next generation of technology as mobile was to the last. As a senior software developer you will help develop tailored experiences for every user powered by  personalization and predictive analysis. You will work closely with ML engineers and other software developers to deliver mission critical infrastructure and software frameworks that enable personalized user experience across Workday’s product ecosystem. You will utilize modern software and data engineering stacks to enable training, deployment, and lifecycle management of a variety of ML models; supervised and unsupervised, deep learning and classical. You will own design & development of new APIs/microservices and deploy them using docker/kubernetes at scale.You will use Workday’s vast computing resources on rich, exclusive datasets to deliver value that transforms the way our customers make decisions and run their business.  We will challenge you to apply your best creative thinking, analysis, problem-solving, and technical abilities to make an impact on thousands of enterprises and millions of people.Who we are Workday is the cloud-based SaaS company providing industry-leading software for HR, financials, workforce planning and employee learning to more than 40% of the Fortune 500. We are the Machine Learning Product team at Workday. Our focus is on the application of machine learning and statistical analysis to Workday’s products to serve our end users. We leverage diverse datasets to build data-driven products, which help the world’s largest organizations uncover insights and make strategic decisions about their people, finances, and business. We routinely work on data with high velocity, volume and variety and we employ a modern machine learning distributed computing and big data software stack to deal with these challenges. At Workday we truly care about our people, that’s why we rank as the top 5 best places to work. To learn more about Workday ML, check out this video:https://bit.ly/34efgyg This is an opportunity to be part of a growth team focused on building predictive capabilities into our products, and part of the next generation of Workday technology.  We believe predictive products can be as transformative to the next generation of technology as mobile was to the last.    As a senior software developer you will help develop tailored experiences for every user powered by  personalization and predictive analysis. You will work closely with ML engineers and other software developers to deliver mission critical infrastructure and software frameworks that enable personalized user experience across Workday’s product ecosystem. You will utilize modern software and data engineering stacks to enable training, deployment, and lifecycle management of a variety of ML models; supervised and unsupervised, deep learning and classical. You will own design & development of new APIs/microservices and deploy them using docker/kubernetes at scale.    You will use Workday’s vast computing resources on rich, exclusive datasets to deliver value that transforms the way our customers make decisions and run their business.  We will challenge you to apply your best creative thinking, analysis, problem-solving, and technical abilities to make an impact on thousands of enterprises and millions of people.     Sound like your kind of challenge? Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:56:59.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 82300,
+    "max_value": 130000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

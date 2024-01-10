@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Python Data Engineer",
+    "industry": "Information Technology and Services,Computer Software,Management Consulting",
+    "description": "Tectonic is a leading technology and business services company serving mid-sized business to enterprise customers with a focus on Insight to Action automation in the cloud. Insight to Action is the intersection of big data, analytics, marketing automation, and CRM that provides an integrated approach to automating customer interaction  We are seeking a Python Data Engineer with the training and curiosity to make big-data discoveries, build the resources necessary to enable those discoveries, to be responsible for coordinating activities.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T03:22:06.000Z"
+  },
+  "company": {
+    "name": "Tectonic, an insight2action technology services company",
+    "link": "https://www.linkedin.com/company/tectonic-insight-to-action"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Englewood",
+    "region": "CO",
+    "postal_code": "80110",
+    "street_address": null,
+    "latitude": 39.649437,
+    "longitude": -104.98891
+  }
+}

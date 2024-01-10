@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Data Engineer",
+    "industry": "Internet",
+    "description": "Expected compensation: $90.00 - $110.00 per hour  HireArt is helping Toyota Research Institute (TRI) find a Machine Learning Data Engineer to contribute to state-of-the-art machine learning data infrastructure and relevant software specific to data management, data analysis, and data mining at unparalleled scale. In this role, you'll implement robust software and data pipelines for a tremendous amount of data, and analyze large scale data for the practical scenarios of autonomous driving. Last but not least, you will deploy your algorithms and systems to explore the meaningful scenarios in TRI's data sea and beyond.  The ideal candidate will possess the basic requirements outlined below as well as 2+ years of experience within the autonomous vehicle industry.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T11:21:53.000Z"
+  },
+  "company": {
+    "name": "Toyota Research Institute",
+    "link": "https://www.linkedin.com/company/toyota-research-institute"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Computer Networking,Computer Software,Computer &amp; Network Security",
+    "description": "At APCON, we are committed to setting the industry standard by engineering best-in-class network solutions. We're talented, driven, and willing to roll up our sleeves to make what seems impossible possible. As our industry grows, we are rapidly expanding and looking for talented, committed, and motivated employees to thrive in our fast-paced work environment. Join us and work with industry-leading hardware and software engineers as we develop some of the most innovative technologies shaping the future of network monitoring. The Software Engineer I will be responsible for writing Enterprise Application code in a team environment which includes research, design, debug, and test for next generation network management software systems while contributing to the existing product line.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T22:43:53.000Z"
+  },
+  "company": {
+    "name": "APCON",
+    "link": "https://www.linkedin.com/company/apcon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Staffing and Recruiting,Financial Services",
+    "description": "Yoh is seeking a to support our Retail Client in for a direct hire opportunity. You will have the opportunity to join our client's rapidly growing Data Science Team! This role will be responsible for leading advanced analytics projects using big data and advanced data science method & technologies supporting our client’s innovation and business goals. #Dice-SPG",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T00:56:30.000Z"
+  },
+  "company": {
+    "name": "Yoh, A Day &amp; Zimmermann Company",
+    "link": "https://www.linkedin.com/company/yoh-a-day-&amp;-zimmermann-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "St Louis",
+    "region": "MO",
+    "postal_code": "63121",
+    "street_address": null,
+    "latitude": 38.635357,
+    "longitude": -90.20099
+  }
+}

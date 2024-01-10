@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "LumApps teams across the world all share the same objective. We want to help teams in their quest to develop strong cultures and share knowledge across communities, the way we do every day.  LumApps helps organizations transform the way they communicate, collaborate, and engage with their customers, partners, and most importantly, their employees. Leading companies rely on our solutions, LumApps Social Collaborative Intranet and LumApps Employee Social Advocacy, to make their teams more productive. Our solutions contribute to smarter, more efficient, and better-connected workforces around the world. Because ultimately, our mission is to make people feel that they belong and have a purpose. LumApps is seeking to add a Migrations Engineer to our current team of 4. This individual will work predominantly with our customers as well as across multiple internal teams to develop, execute, test, and improve the process of data migration into LumApps. As the Migrations Engineer for LumApps you will provide your technical expertise and product knowledge to ensure successful project implementations and project migrations, working closely with customers and Professional Services teams as the SME of LumApps’ APIs, LumApps’ technical functionality and integrations, and LumApps’ migration expert. This position will allow you to work side by side with our customers to define technical expectations and to address technical roadblocks.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:44:51.000Z"
+  },
+  "company": {
+    "name": "LumApps",
+    "link": "https://fr.linkedin.com/company/lumapps"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

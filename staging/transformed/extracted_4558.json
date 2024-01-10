@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Defense &amp; Space",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:01:51.000Z"
+  },
+  "company": {
+    "name": "Wrench",
+    "link": "https://www.linkedin.com/company/wrench-io"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Annapolis Junction",
+    "region": "MD",
+    "postal_code": "20701",
+    "street_address": null,
+    "latitude": 39.121826,
+    "longitude": -76.78431
+  }
+}

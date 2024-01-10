@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Retail",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:16:49.000Z"
+  },
+  "company": {
+    "name": "Revel IT",
+    "link": "https://www.linkedin.com/company/revel-it"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Coraopolis",
+    "region": "PA",
+    "postal_code": "15108",
+    "street_address": null,
+    "latitude": 40.517517,
+    "longitude": -80.164444
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Product",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "DoorDash is building the world's most reliable on-demand, logistics engine for delivery! We're looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7, global infrastructure system that powers DoorDash’s three-sided marketplace of consumers, merchants, and dashers.  Product engineers work at the intersection of product and infrastructure to solve key business problems with elegant technical solutions. You'll operate our backend services and architecture that support all product functionality and will be challenged to consider the big picture -- collaborating cross-functionally, as well as evaluating and executing on trade-offs to maximize business impact for the company. DoorDash is a technology company that connects customers with their favorite local and national businesses in all 50 US states, Canada, and Australia. Founded in 2013, DoorDash empowers merchants to grow their businesses by offering on-demand delivery, data-driven insights, and better in-store efficiency, providing delightful experiences from door to door. By building the last-mile delivery infrastructure for local cities, DoorDash is bringing communities closer, one doorstep at a time. Read more on the DoorDash blog or at www.doordash.com. We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.  Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.l",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T01:15:03.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

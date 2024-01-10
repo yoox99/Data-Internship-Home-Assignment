@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Management Consulting,Information Technology and Services",
+    "description": "Delighters We accelerate the entire transformation life cycle, from strategy through implementation. We turn data into actionable insights and transform organizations for the digital era.  Our people, culture, and how we engage with our clients are differentiators. Brilliant, Creative, Human, and Fun exemplify who we are. We are regularly recognized as a Best Place to Work by Houston, Austin, Dallas, and St. Louis Business Journals. With operations in Austin, Atlanta, Columbus, Dallas, Houston, San Antonio, Minneapolis-St. Paul, and St. Louis we serve mid-market to Fortune 50 companies. We may be the only management consulting firm in the country where being brilliant isn’t enough to land you a job. Sense Corp people must be brilliant, creative, human, and fun all at once. In other words, we hire terrific, well-rounded people. It is one reason clients love working with us. And it is why we enjoy working with each other. We may not sound like typical consultants but that’s OK. We don’t think like them either.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-14T20:39:21.000Z"
+  },
+  "company": {
+    "name": "Sense Corp",
+    "link": "https://www.linkedin.com/company/sense-corp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 98200,
+    "max_value": 164000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77001",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Test Automation Engineer",
+    "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+    "description": "OneLogin, the leader in Unified Access Management, connects people with technology through a simple and secure login, empowering organizations to access the world™. The OneLogin Unified Access Management (UAM) platform is the key to unlocking the apps, devices, and data that drive productivity and facilitate collaboration. OneLogin serves businesses and partners across a multitude of industries, with over 2,500 customers worldwide. We are headquartered in San Francisco, California. For more information, visit www.onelogin.com, Blog, Facebook, Twitter, or LinkedIn. Our core values Bring your design, collaboration, and problem-solving skills from IT or another profession. We value employees with different backgrounds, education, experience, and perspective and strive to create an inclusive and welcoming work environment.  OneLogin is proud to provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. If you’d like more information about your EEO rights as an applicant, please email recruiting@onelogin.com  We also provide reasonable accommodations to individuals with disabilities in accordance with applicable laws.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:00:00.000Z"
+  },
+  "company": {
+    "name": "OneLogin",
+    "link": "https://www.linkedin.com/company/onelogin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

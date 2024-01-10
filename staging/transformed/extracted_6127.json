@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Developer Tools (Remote)",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Brex is reimagining financial systems so every growing company can realize their full potential. As the financial OS, we’re building software and services in one place—disrupting long-entrenched institutions with products and experiences that better serve the ambitions of our customers.  Working at Brex allows you to push your limits, challenge the status quo, and collaborate with some of the brightest minds in the industry. We’re committed to building a diverse team and inclusive culture and believe your potential should only be limited by how big you can dream. We make this a reality by empowering you with the tools, resources, and support you need to grow your career. It takes the same effort to dream big or dream small, so we say, dream big. The Engineering team includes Data, IT, Security, and Software, and is responsible for building innovative products and infrastructure for Brex and our customers. We believe that engineers should accelerate the business through technology, and collaborate across multiple teams to accomplish that.  Teams are autonomous, value inclusivity, eager to learn, teach and constantly improve how things work. The software we build today is the foundation for dozens of Brex systems in the future, so engineers have a strong sense of ownership and accountability and take pride in their craft.  What you’ll do  The Developer Tools team provides the tools to write, test, and debug code. experience that enables the engineering team at Brex to do the best work of their careers. Because this team is brand new, you’ll have the opportunity to contribute to an entirely new competency around developer tooling at Brex. We are looking for engineers who are excited about serving other engineers, and who will constantly challenge us to raise the bar on the experiences we deliver. Requirements* Bonus points",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:17:56.000Z"
+  },
+  "company": {
+    "name": "Brex",
+    "link": "https://www.linkedin.com/company/brexhq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

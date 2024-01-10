@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Frontend",
+    "industry": "Furniture",
+    "description": "We are looking for a talented Frontend Software Engineer to join our team. We have positions open on several different teams, covering all aspects of our business; everything from a heavy frontend, consumer focus to a heavy backend, operations focus, and several points in between. This position is for those who are experienced in the frontend and can help advocate, architect and design scalable client solutions, make major changes to our entire user experience and get their hands dirty with data/state management on a granular level. You don't need to have experience with all of these. We’re looking for talented and smart engineers who are willing to ramp up on these technologies.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T03:39:54.000Z"
+  },
+  "company": {
+    "name": "Feather",
+    "link": "https://www.linkedin.com/company/feather1"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Cash App",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Cash App is the fastest growing financial brand in the world. Built to take the pain out of peer-to-peer payments, Cash App has gone from a simple product with a single purpose to a dynamic money app with over 36 million active monthly users.  Loved by customers and by pop culture, we’ve held the #1 spot in finance on the App Store for almost two years, and our social media posts see more engagement in a day than most financial brands see in a year.  With major offices in San Francisco, New York, St. Louis, Portland, Kitchener-Waterloo, Toronto and Melbourne, Cash App is bringing a better way to send, spend, and save to anyone who has ever sought an alternative to today’s banking system. Machine Learning at Cash App has swiftly grown to become a central function of the business, with over 100 people working on solving some of the most cutting edge ML questions in FinTech. Our team is continuing to grow and we’re looking for Engineers with experience developing ML pipelines and infrastructure to join us and build out the next generation platform to power use cases across the company. Across the team, we employ methods ranging from simple heuristics to Deep Learning technology to improve our performance and services. We’re also excited to explore new directions with the team to continue pushing the boundaries of what’s possible. Our ML Engineers operate embedded in product-focused Workstreams and work in close collaboration with Data Scientists, ML Modelers and Software Engineers from across Cash App. The ML Identity team focuses on providing AI-based opportunities to establish and verify Cash App's customer identities across the services we provide. This team works to build out both security and accessibility for Cash App users. We're a small team of engineers focused on exploring AI longshots, balancing a passion for advancing what's possible with a commitment to positive real-world impact. The ML Identity engineering team is led by Kyle (who you'll report to) and this is a chance to work with us as a founding member. The Risk team applies ML to protect our customers and our company’s bottom line from an ever changing landscape of fraud and platform abuse. We are continually refining and searching for new ways to leverage ML to stay ahead of ever more sophisticated fraud and scam patterns. In addition, we are continually evolving our platform to scale up in line with Cash App’s global expansion, and to provide the rapid payments platform that our customers expect and demand. The Banking ML team focuses on all things ML related to the Cash Card and Banking at Cash. There is an element of risk and fraud prevention involved. From building pipelines and models to combat fraud on every Cash Card transaction and activation, to building out data models and pipelines to enable a large expansion of Cash Check Deposits. We are a new team that was created to support the fast growing banking space within Cash App. Our ultimate goal is to ensure that our customers experience safe and reliable Banking with Cash App. The Cash Customer Support ML team has a vision to provide customer support that’s better than humans through ML. We’re a mixed team of engineers and modellers that work together to deliver models that help us support our customers when they run into problems. We currently use ML automation on two support channels: email and in-app chat. We’re actively working towards making these perform better and we’re always looking for innovative solutions to help our customers with ML. We value general engineering skill and versatility over existing domain knowledge, but here’s a sample of what we currently use: Additional Information  We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Square is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.  We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible.  Additionally, we consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T21:34:44.000Z"
+  },
+  "company": {
+    "name": "Cash App",
+    "link": "https://www.linkedin.com/company/cash-app"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

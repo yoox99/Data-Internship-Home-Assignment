@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Core Services Engineering team members are strategic business partners and are the first to create innovative solutions exploiting Microsoft’s newest enterprise products and services. Core Services Engineering provides career growth opportunities, a rewarding and flexible work environment so you can better integrate professional and personal life. Unlike other organizations, Core Services Engineering employees make global impact on thousands of employees and millions of customers of Microsoft platforms and services.  We are seeking an incredibly talented Site reliability engineers to contribute to our efforts to envision, create and run our next generation services & drive live site culture. If you are passionate about reliability, performance, scalability, security, resiliency, and efficiency of a service and have a strong SE/Developer background this is a fantastic opportunity to join a team that supports critical services for Microsoft. Part of the role you will be working within a tightknit DevOps culture where everyone (Engineering/PM/SRE/Leadership) is deeply focused on Live Site and QoS. Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.  Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T21:00:02.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

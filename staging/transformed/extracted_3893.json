@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff JAVA Software Engineer",
+    "industry": "Civil Engineering",
+    "description": "Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our 22,000 employees do the can’t be done, solving the most daunting challenges facing our customers.  Peraton is seeking a Staff JAVA Software Engineer to work in our Annapolis Junction, MD office. You will design or implement complex algorithms requiring adherence to strict timing, system resource, or interface constraints; Perform quality control on team productsImplement recommendations for improving documentation and software development process standards. Oversee one or more software development teams and ensure the work is completed in accordance with the constraints of the software development process being used on any particular project. Confer with system engineers and hardware engineers to derive software requirements and to obtain information on project limitations and capabilities, performance requirements and interfaces. Coordinate software system installation and monitor equipment functioning to ensure operational specifications are met We are an Equal Opportunity/Affirmative Action Employer. We consider applicants without regard to race, color, religion, age, national origin, ancestry, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, or membership in any other group protected by federal, state, or local law.  #AJ2021",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:07:40.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 168,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Annapolis",
+    "region": "MD",
+    "postal_code": "21403",
+    "street_address": null,
+    "latitude": 38.97829,
+    "longitude": -76.49568
+  }
+}

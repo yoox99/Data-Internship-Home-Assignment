@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:22:39.000Z"
+  },
+  "company": {
+    "name": "ProFocus",
+    "link": "https://www.linkedin.com/company/profocus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oregon",
+    "region": "United States",
+    "postal_code": "97350",
+    "street_address": null,
+    "latitude": 43.938683,
+    "longitude": -120.558105
+  }
+}

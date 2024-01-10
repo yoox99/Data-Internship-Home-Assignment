@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Travel Inventory",
+    "industry": "Computer Software",
+    "description": "At TripActions, “It’s all about the user. All of them.” We’re passionate about providing a seamless one-stop experience for business travelers, no matter how they travel, where they stay, or where they’re going.  We are looking for passionate Senior Back-End Engineers to lead design and development of core product features and services that power the TripActions app used by thousands of travelers on a daily basis. You will work closely with a set of talented engineers, product managers, designers and data scientists to identify customer needs and build innovative solutions to solve them. Fast becoming the default for corporate travel and spend management, TripActions is the leading cloud-based T&E platform that combines industry-first technology with best-in-class travel agency service. Trusted by travel managers and finance teams alike at more than 5,000 companies globally, TripActions leverages real-time data to keep traveling employees safe, control costs, and save time.  TripActions’ investors include such visionaries as Andreeseen Horowitz, Lightspeed Ventures, GreenOaks Capital, Zeev Ventures, and entrepreneurs Lee Fixel and Elad Gil. In January 2021, TripActions announced its Series E funding of $155M at an upround valuation of $5B to help accelerate future growth plans.  At TripActions, we’re never satisfied with the status quo, and we know breakthrough ideas come from diverse perspectives. We are committed to cultivating a workplace that reflects the diversity of the customers we serve while fostering leadership and innovation. All voices are valued here and you’ll have the resources, tools, and training you’ll need to do the best work of your life. We realize benefits are important as they support keeping you at your best at all times. Our benefits are here for you if you get sick or hurt, help you save for now and later, encourage you to take time off work and travel, and provide perks specific to being a TripActions employee both in and out of the office. TripActions is an equal opportunity employer. We make all employment decisions based solely on merit. We provide equal employment opportunity to all applicants and employees without discrimination on the bases of race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We prohibit any such discrimination or harassment. This policy applies to all terms and conditions of employment, including hiring. TripActions complies with the Americans with Disabilities Act (ADA), as amended by the ADA Amendments Act, and all applicable state or local law. TripActions will reasonably accommodate qualified individuals with a disability in connection with applications for employment as required by law.  If you need any assistance or accommodations due to a disability, you are welcome to email us at [email protected] . Please review TripActions' Candidate Privacy Notice here .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:55:40.000Z"
+  },
+  "company": {
+    "name": "TripActions",
+    "link": "https://www.linkedin.com/company/tripactions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 127000,
+    "max_value": 220000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

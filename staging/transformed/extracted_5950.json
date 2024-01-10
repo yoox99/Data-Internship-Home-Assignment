@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "data scientist – AI/ML Solutions - Retail",
+    "industry": "Consumer Goods,Food &amp; Beverages,Retail",
+    "description": "This job contributes to Starbucks success by guiding business decisions through utilizing data analysis and consulting that results in predicting outcomes, understanding complex data relationships, and developing a quantitative return on investment. This position partners on a cross-functional team of data scientists, statisticians, and business analysts supporting strategic initiatives utilizing the latest in computing technologies and operating across customer transactions and data elements to unlock the opportunities to support our global business.  Models and acts in accordance with Starbucks guiding principles. Responsibilities and essential job functions include but are not limited to the following: Core Competencies Has a relentless focus on the customer. Understands what the customer wants and how to best deliver the experience. Listens and communicates well with others within and outside of Starbucks. Creates a team environment that is positive and productive. Takes personal responsibility to do the right thing, and persists in times of challenge or uncertainty. Adapts quickly to change and makes timely, thoughtful decisions. Continuously seek opportunities to improve self and others. Leads with trust, honesty and commitment to hire, coach and develop partners to achieve their potential. Understands what drives overall business success and is accountable to prioritize and deliver quality results. Demonstrates knowledge of core products and processes to get results. Anticipates obstacles and takes action to prevent or minimize their impact.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Starbucks",
+    "link": "https://www.linkedin.com/company/starbucks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

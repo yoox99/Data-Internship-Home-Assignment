@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Platform Engineer",
+    "industry": "Hospitality",
+    "description": "Created by hospitality operators for hospitality operators, Avero is the trusted technology partner for the hospitality industry. We empower 40,000+ hospitality professionals with the answers they need to transform their businesses and their lives, getting them out of the back office and into the kitchen with their staff, onto the floor with their guests, and at home with their families. We are a remote-first company with headquarters in New York City. Avero is looking for a Data Platform Engineer who will be responsible for working within an engineering team to implement against Avero’s point-of-sale integrations and data ingestion infrastructure. You will help foster a highly collaborative and quality-focused engineering culture that addresses the complex technical challenges of a large-scale data ingestion platform. This is a 100% remote role. The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not to be construed as an exhaustive list of all responsibilities, duties, and skills required of employees so classified. All employees may be required to perform duties outside of their normal responsibilities from time to time, as needed.  Please note that we are only able to hire permanent residents (green card holders) or U.S. citizens at this time.  Avero is an equal opportunity employer. We embrace humans of every background, appearance, race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, and disability status. If this role would make you excited to come to work every day, please apply! We look forward to connecting. Created by hospitality operators for hospitality operators, Avero is the trusted technology partner for the hospitality industry. We empower 40,000+ hospitality professionals with the answers they need to transform their businesses and their lives, getting them out of the back office and into the kitchen with their staff, onto the floor with their guests, and at home with their families. We are a remote-first company with headquarters in New York City.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:39:39.000Z"
+  },
+  "company": {
+    "name": "Avero",
+    "link": "https://www.linkedin.com/company/avero"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

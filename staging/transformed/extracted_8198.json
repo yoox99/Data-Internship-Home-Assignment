@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "The Position  Software Engineer  What We Need  An experienced Software Engineer to work on a cross-functional team to solve real-world problems for healthcare providers around the country. Using your technical expertise, you will design, build, test, and improve the features that will enable our customers to effectively run their business and provide patient care. If you like solving tough problems, being part of a fun team, and are tenacious, we would like to hear from you.  Your Area of Focus Our Values Kareo is an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-14T05:09:25.000Z"
+  },
+  "company": {
+    "name": "Kareo",
+    "link": "https://www.linkedin.com/company/kareo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Programmer",
+    "industry": "Biotechnology,Pharmaceuticals,Research",
+    "description": "Every day, we use our experience, agility, and innovative research strategies to help get drugs to market faster. Celerion offers one of the most experienced clinical pharmacology research networks in the industry.  Are you looking for an opportunity to support a business creating life-saving treatments? If so, we can't wait to meet you!  Come be part of our clinical pharmacology team as a .  This full-time position can be located at either at our Lincoln, Nebraska, Phoenix, AZ or Belfast, N.Ireland clinical trial facilities. The purpose of the Clinical Data Programmer I role is to develop and support clinical database programming activities and associated documentation involved in clinical trial set-up, conduct and close-out stages in line with protocol requirements, standard operating procedures (SOPs/PGs), Good Clinical Programming Practices (GXP), Clinical Data Interchange Standards (CDISC) and other applicable sponsor or regulatory requirements. Job Requirements Internal Celerion candidates with strong clinical data review, data management or IT background will also be considered. Are you ready to join our team?",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:06:06.000Z"
+  },
+  "company": {
+    "name": "Celerion",
+    "link": "https://www.linkedin.com/company/celerion"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 43800,
+    "max_value": 73300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lincoln",
+    "region": "NE",
+    "postal_code": "68583",
+    "street_address": null,
+    "latitude": 40.8136,
+    "longitude": -96.70261
+  }
+}

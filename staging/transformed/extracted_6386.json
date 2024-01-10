@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Insurance",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:21:23.000Z"
+  },
+  "company": {
+    "name": "Health IQ",
+    "link": "https://www.linkedin.com/company/healthiq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Scottsdale",
+    "region": "AZ",
+    "postal_code": "85266",
+    "street_address": null,
+    "latitude": 33.494907,
+    "longitude": -111.92606
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-01T19:18:45.000Z"
+  },
+  "company": {
+    "name": "InfoObjects Inc.",
+    "link": "https://www.linkedin.com/company/infoobjects-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

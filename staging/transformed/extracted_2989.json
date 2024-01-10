@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Construction,Marketing and Advertising,Financial Services",
+    "description": "The Site Reliability Engineer will be responsible for the planning, management, and maintenance of all Cambria-owned sites and platforms that power our company. Our team works cross-functionally to ensure that services are available and perform optimally to continue to scale our manufacturing operations. Education: Minimum 4-year technical degree or equivalent work experience Experience: 5 years working in a Site Reliability/Systems Engineering position Travel Requirements: This position may require travel to other Cambria locations Physical Requirements: This position requires the ability to lift up to 50lbs, be able to work in prolonged standing and/or sitting positions  Cambria offers a competitive benefits package that encompasses your health and well-being, financial health, retirement planning and time-off.  Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time with or without notice. We are an equal opportunity employer.  M/W/VET/DISABLED",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T07:47:36.000Z"
+  },
+  "company": {
+    "name": "Cambria",
+    "link": "https://www.linkedin.com/company/cambria"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Eden Prairie",
+    "region": "MN",
+    "postal_code": "55344",
+    "street_address": null,
+    "latitude": 44.854034,
+    "longitude": -93.46017
+  }
+}

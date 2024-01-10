@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Development Engineer in Test",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "System Software As a Sr SDET for the System Software team, you will be responsible for leading automated testing of low level drivers and firmware in a fast paced, dynamic environment. Prospective candidates will be hands-on leaders who will drive design and develop test automation to run on and off target. This will require collaboration with your partners in Development and Quality to help define and execute the test strategies in order to deliver high quality products. In addition, you will work with teams of industry-leading innovators across acoustics, mechanical engineering, software engineering, hardware engineering, and user experience. If you love music, solving challenging problems and delivering high-quality products, we want to talk with you!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:31:56.000Z"
+  },
+  "company": {
+    "name": "Sonos, Inc.",
+    "link": "https://www.linkedin.com/company/sonos-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

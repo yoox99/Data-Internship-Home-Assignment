@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Consumer Goods,Retail,Financial Services",
+    "description": "As a Senior Site Reliability Engineer, you will work with other members of our Operations & Internal Tooling teams to design and deliver the platforms, tools, and processes necessary to ensure that our customers have the best possible experience in the luxury e-commerce world. Your focus will be on evaluating runtime systems, building monitoring and incident response capabilities, and automating monitoring and automatic feedback systems for our development, staging, and production systems. You will work directly with development, quality assurance and operations, and product management team members to gather requirements, analyze the technical landscape, and deliver solutions. If you are passionate about solving problems in complex distributed systems, and eager to get hands-on with automation, democratizing access to operational information, and enabling ownership over scalable services, then we look forward to talking with you about the opportunities at Saks. Saks is a world-renowned luxury e-commerce destination. The company’s unique approach combines a focus on the digital customer experience with a strong connection to a network of extraordinary stores that extends that seamless experience into the real world.  On its website and app, Saks offers an unparalleled selection of curated merchandise across fashion for women and men, beauty, jewelry, home décor, and more. In addition to the shopping experience, customers come to Saks for inspiring editorial content, access to digital stylists, lifestyle experiences, and other world-class services. The company is currently in the midst of a dramatic expansion, driven by significant enhancements to its platforms and offerings, with the goal of becoming the preeminent destination for luxury internationally. In order to succeed in this role, you should be highly enthusiastic about technology, yet respectful and pragmatic about when and why to use specific solutions. You should be passionate about building strong, performant teams, but also be comfortable working with contractors and outsourcing firms as needed. Above all, you should be an effective communicator and a great collaborator, willing to work with a diverse group of people both within and without the product development organization. Saks provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, Saks complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.  Saks welcomes all applicants for this position. Should you be individually selected to participate in an assessment or selection process, accommodations are available upon request in relation to the materials or processes to be used.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Saks Fifth Avenue",
+    "link": "https://www.linkedin.com/company/saksfifthave"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

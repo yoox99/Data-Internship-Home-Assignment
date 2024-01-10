@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "VP-Site Reliability Engineer (SRE)",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Job Id: 21332225  The deployment automation team at Citi manages a platform that orchestrates releases across a very large number of enterprise applications. This is a mature platform running without major issues and supporting modern deployment strategies like canary, blue-green, containers, microservices, public cloud alongside some more traditional distributed systems and databases.  As we expand our continuous delivery product portfolio, we are looking for a SRE, hands-on engineer with experience running platforms as scale leveraging industry observability and automation platforms. Someone who brings fresh ideas, demonstrates a unique and informed viewpoint, and enjoys collaborating with a cross-functional team to develop real-world solutions and positive user experiences at every interaction.  Responsibilities: Essential Skills: Desired Skills: ------------------------------------------------- Technology  ------------------------------------------------- Systems & Engineering  ------------------------------------------------------ ------------------------------------------------------  Citi is an equal opportunity and affirmative action employer.  Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.  Citigroup Inc. and its subsidiaries (\"Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review .  View the \" \" poster. View the .  View the .  View the",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Citi",
+    "link": "https://www.linkedin.com/company/citi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irving",
+    "region": "TX",
+    "postal_code": "75063",
+    "street_address": null,
+    "latitude": 32.813877,
+    "longitude": -96.949936
+  }
+}

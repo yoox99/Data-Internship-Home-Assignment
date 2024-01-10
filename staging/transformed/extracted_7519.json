@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Network Engineer",
+    "industry": "Automotive,Retail",
+    "description": "We are a diverse team supporting all core networking functions for an automotive aftermarket retailer. We work closely with the computer and end user support teams to provide the best user experience possible. Worldpac is currently bringing aboard our sister company, Autopart International using Cisco Meraki technologies. Worldpac is also in an exciting phase of re-invention of its existing branches and distribution centers using newer technologies such as Cisco SD-Wan (Viptela), DNA Center, Umbrella DNS/SIG and upgrading to Cisco Wireless.  The will have a critical role in the company and will be called upon to perform the highest level of troubleshooting and configuration of our Cisco centric network. We are looking for someone with strong Cisco networking foundations who is willing to learn and grow with our dedicated and hardworking team to advance our vision. They can be located near our Experience in the following platforms also helpful We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age national origin, religion, sexual orientation, gender identity, status as a veteran and basis of disability or any other federal, state or local protected class.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:15:51.000Z"
+  },
+  "company": {
+    "name": "Advance Auto Parts",
+    "link": "https://www.linkedin.com/company/advance-auto-parts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Flower Mound",
+    "region": "TX",
+    "postal_code": "75028",
+    "street_address": null,
+    "latitude": 33.034065,
+    "longitude": -97.079636
+  }
+}

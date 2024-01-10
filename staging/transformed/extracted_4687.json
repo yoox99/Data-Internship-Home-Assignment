@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Central Data Coordinator - MB",
+    "industry": "Food &amp; Beverages",
+    "description": "Position Summary: This position is responsible for analyzing the adequacy and accuracy of pricing data requests received from numerous external sources. This information is used to create/update Product and Pricing tables which invoice Customers, Order Products, and inventory/shipment planning activities for Distribution Centers in North America and Asia. Position has the additional responsibility of creating and presenting custom ‘price book’ related reporting to internal and external Customers, processing customer ownership changes, etc. (and any related revisions to this information) which is used to invoice Customers, Suppliers, and Distribution Centers, and training new team members. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Due to the nature of our business in regard to such things as delivery schedules, order inputs, selection, and Department of Transportation Hours of Service, overtime, attendance and punctuality are essential job functions. Should an individual in this classification not be able to adhere to this requirement due to a disability, they should contact their Human Resources department to see what, if any, reasonable accommodation may be made.  As an Equal Opportunity Employer, Reyes Holdings companies will recruit and select applicants for employment solely on the basis of their qualifications. Our Practices and Procedures, including those relating to wages, benefits, transfers, promotions, terminations and self-development opportunities, will be administered without regard to race, color, religion, sex, sexual orientation and gender identity, age, national origin, disability, or protected veteran status and all other classes protected by the Federal and State Government. Drug Free Employer.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:09:28.000Z"
+  },
+  "company": {
+    "name": "Martin Brower",
+    "link": "https://www.linkedin.com/company/martin-brower"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Rosemont",
+    "region": "IL",
+    "postal_code": "60423",
+    "street_address": null,
+    "latitude": 41.991886,
+    "longitude": -87.86332
+  }
+}

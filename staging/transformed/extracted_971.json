@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Development Engineer in Test - System SW",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "At Sonos, we want to create the ultimate listening experience for our customers, and connect them to the content they want, where they want it. As part of the Sonos team, you’ll collaborate with people of all styles, skill sets, and backgrounds to realize our vision while fostering a community where everyone feels included and empowered to do to the best work of their lives.  As a Sr SDET for the System Software team, you will be responsible for leading validation efforts of low level software during early stages of new product development in a fast paced, dynamic environment. You will work closely with the development team to ensure new products and features have not regressed the existing product line. Prospective candidates will be hands on leaders who will drive design and develop test automation to run on and off target. This will require collaboration with your partners in Development and Quality to help define and execute the test strategies in order to deliver high quality products. In addition, you will work with teams of industry-leading innovators across acoustics, mechanical engineering, software engineering, hardware engineering, and user experience. If you love music, solving challenging problems and delivering high-quality products, we want to talk with you!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T17:15:08.000Z"
+  },
+  "company": {
+    "name": "Sonos, Inc.",
+    "link": "https://www.linkedin.com/company/sonos-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

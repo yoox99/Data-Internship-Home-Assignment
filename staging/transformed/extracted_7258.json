@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Health, Wellness and Fitness,Medical Devices,Information Technology and Services",
+    "description": "Teladoc Health is transforming how people access and experience healthcare. Recognized as the world leader in virtual care, we are partnering with over a thousand clients to serve hundreds of thousands (soon millions!) of people living with chronic conditions every day. Teladoc Health offers a whole person virtual care platform that empowers all people everywhere to live their healthiest lives by transforming the healthcare experience, from acute and primary care to chronic care, mental health, and specialty care. Our team of data scientists aggregate and interpret substantial amounts of health data and information to create actionable, personalized, and timely health signals for our members. This approach delivers better clinical and financial outcomes while creating a different and better healthcare experience for people everywhere.  The machine learning effort is part of the Data Science team at Teladoc Health. In your role as a Machine Learning Engineer, you will work closely with machine learning scientists, data engineering teams and different stakeholders to create scalable data processing, machine learning pipelines and services for Applied Health Signal platform capability that drives Teladoc Health’s products and business forward. Your efforts and your team’s contributions will have a big impact on leading personalized whole-person virtual care by better understanding members even better than themselves from diverse data sources.  This is an opportunity to use technical rigor to apply scalable data processing tools and machine learning algorithms to real-world business problems; and engineer, deploy, measure and iterate ML in production. :  Teladoc Health is transforming the healthcare experience and empowering people everywhere to live healthier lives. Recognized as the world leader in whole-person virtual care, Teladoc Health uses proprietary health signals and personalized interactions to drive better health outcomes across the full continuum of care, at every stage in a person’s health journey. In more than 175 countries and ranked Best in KLAS for Virtual Care Platforms in 2020, Teladoc Health leverages more than a decade of expertise and data-driven insights to meet the growing virtual care needs of consumers and healthcare professionals. :  Teladoc Health has been recognized as a top employer by numerous media and professional organizations. Talented, passionate individuals make the difference, in this fast-moving, collaborative, and inspiring environment. :  At Teladoc Health we believe that personal and professional diversity is the key to innovation. We hire based solely on your strengths and qualifications, and the way in which those strengths can directly contribute to your success in your new position. :  We’ve already made healthcare yet remain on the threshold of very big things. Come grow with us and support our mission to make a tangible difference in the lives of our Members.   As an Equal Opportunity Employer, we never have and never will discriminate against any job candidate or employee due to age, race, religion, color, ethnicity, national origin, gender, gender identity/expression, sexual orientation, membership in an employee organization, medical condition, family history, genetic information, veteran status, marital status, parental status or pregnancy (including breastfeeding – we have a mother’s room in both our offices). In our innovative and inclusive workplace, we prohibit discrimination and harassment of any kind.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T00:05:47.000Z"
+  },
+  "company": {
+    "name": "Teladoc Health",
+    "link": "https://www.linkedin.com/company/teladoc-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

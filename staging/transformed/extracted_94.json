@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Testing Engineer",
+    "industry": "Information Technology and Services,Computer Software,Information Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:19:55.000Z"
+  },
+  "company": {
+    "name": "Smarsh",
+    "link": "https://www.linkedin.com/company/smarsh"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Franklin",
+    "region": "TN",
+    "postal_code": "37064",
+    "street_address": null,
+    "latitude": 35.923653,
+    "longitude": -86.86783
+  }
+}

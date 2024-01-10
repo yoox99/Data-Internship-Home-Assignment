@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "We're committed to bringing passion and customer focus to the business. RapidSOS is hiring! Join an advanced emergency technology start-up in transforming emergency response for hundreds of millions of people globally.  In partnership with public safety, RapidSOS has created the world’s first emergency response data platform that securely links life-saving data from 350M+ connected devices directly to 911 and first responders in an emergency. Through the platform, we’re providing intelligent data that supports over 4,800 Emergency Communications Centers, protecting 90%+ of people in the US, across 150 million emergencies annually.  Partnering with innovative companies recognized as RapidSOS Ready, we’re striving to reach everyone. Together, we’re empowering a faster and smarter response by sending first responders critical data like your exact location, real-time health information, and crash data. We’re united in our commitment to a safer, stronger future where technology and people work seamlessly together to save lives.  RapidSOS is backed by top venture capital firms and the former C-suite of Apple, AT&T, Verizon, Vodafone, Virgin Group, Lucent, Raytheon, the FCC, Harvard Data Initiative, and MIT.  Video: At RapidSOS, we rely on insightful data to power our systems and solutions. We are looking for a motivated Machine Learning Engineer to join our team who will identify ways to make the Data Science organization more effective at ensuring data availability, quality, and consistency. You will work collaboratively with other data scientists, product managers, and our engineering teams to build a platform that provides life-saving data to dispatchers, currently covering over 92% of the US population. If you're curious to learn more about RapidSOS, you can check out our !  If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-26T01:29:20.000Z"
+  },
+  "company": {
+    "name": "RapidSOS",
+    "link": "https://www.linkedin.com/company/rapidsos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

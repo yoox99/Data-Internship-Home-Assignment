@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Internet",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T00:56:15.000Z"
+  },
+  "company": {
+    "name": "FreeWill",
+    "link": "https://www.linkedin.com/company/freewill"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83600,
+    "max_value": 180400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York City Metropolitan Area",
+    "region": null,
+    "postal_code": "10021",
+    "street_address": null,
+    "latitude": 40.748295,
+    "longitude": -73.98556
+  }
+}

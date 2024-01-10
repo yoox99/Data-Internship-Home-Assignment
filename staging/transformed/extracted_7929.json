@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Transport Cloud Engineer",
+    "industry": "Computer Hardware,Defense &amp; Space,Information Technology and Services",
+    "description": "Job ID 2115522 FLEXWORK , NY , US 2021-10-13 Engineering and Sciences Systems Engineer Full-time Day Job No TS/SCI Yes The SAIC Cloud One program is seeking a cloud engineer a part of a team to engineer, maintain, and trouble-shoot scalable, highly available data transport solutions using Apache NiFi clusters and other technologies. Cloud One is an existing global, interconnected, virtualized, hybrid, and IT infrastructure that hosts mission systems, applications, services, and data in support of DoD Services and Agencies. Cloud One incorporates the capabilities of Cloud Service Providers (CSPs) and DevSecOps principles to provide common services and facilitate cloud application migrations to IL-4, IL-5, and IL-6 AWS and Azure cloud environments. This job can be performed remotely anywhere within the U.S.  Responsibilities include Required Qualifications Desired Certifications COVID Policy Prospective and/or new employees will be required to adhere with SAIC's vaccination policy. All SAIC employees must be fully vaccinated and they must submit proof of vaccination on their first day of employment. Prospective or new employees may seek an exemption to the vaccination requirement at Contact Us and must have an approved exemption prior to the start of their employment. Customer site vaccination requirements, if more strict, will take precedence over SAIC's vaccination policy.  Target salary range $85,001 - $95,000. The estimate displayed represents the typical salary range for this position based on experience and other factors.  SAIC® is a premier Fortune 500® technology integrator driving our nation's technology transformation. Our robust portfolio of offerings across the defense, space, civilian, and intelligence markets includes secure high-end solutions in engineering, digital, artificial intelligence, and mission solutions. Using our expertise and understanding of existing and emerging technologies, we integrate the best components from our own portfolio and our partner ecosystem to deliver innovative, effective, and efficient solutions that are critical to achieving our customers' missions.  We are more than 26,500 strong; driven by mission, united by purpose, and inspired by opportunities. SAIC is an Equal Opportunity Employer, fostering a respectful work culture based on diversity, equity, and inclusion that values all contributors. Headquartered in Reston, Virginia, SAIC has annual revenues of approximately $7.1 billion. For more information, visit saic.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:50:47.000Z"
+  },
+  "company": {
+    "name": "SAIC",
+    "link": "https://www.linkedin.com/company/saicinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "",
+    "description": "The location for this job is Austin, TX (Remote until Covid)  Interview rounds Hackerrank and 2 Rounds of Interview    Need strong Testng, Selenium, Java Coding experience and Appium   Must have:   •       Bachelors or Masters in CS or related degrees.   •       Minimum of 6+ years with Master or 8+ years with Bachelors of hand on experience in software development in test automation, concurrent coding skills in Java.   •       Test automation experience using open source technologies and/or in-house frameworks -- MUST   •       Experience in API testing (SOAP and MicroServices).   •       Experience in UI and Mobile Testing.   •       Experience with test frameworks like Junit, TestNG.   •       Familiarity with BDD and/or Cucumber   •       Experience in Continuous Integration and Continuous Deployment.   •       Experience with code versioning tools (Git, SVN)   •       Excellent knowledge SQL and ability to write complex queries to validate.   •       Following Scrum/Agile development methodology.   •       Strong application debugging skills.   •       Experience with Jira or similar Agile process tools.   •       Experience with using defect management and test management tools.   •       Ability to thrive in a fast-paced environment where resourcefulness, determination, and strong problem-solving skills are necessary for success.   •       Positive attitude and the ability to complete assigned objectives with minimal supervision.   •       Excellent communications skills both written and verbal.        Nice-to-have:   •       Javascript and NodeJS, server-side experience is preferred.   •       Experience with shell scripting   •       Experience with Security Testing and/or ADA testing",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-14T17:01:00.000Z"
+  },
+  "company": {
+    "name": "Collabupp Corporation",
+    "link": "https://www.linkedin.com/company/collabupp-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

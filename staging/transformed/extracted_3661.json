@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITRE—and make a difference with us.  MITRE’s Advanced Processing and Exploitation Technologies department effectively combines the deep technical knowledge required to develop capabilities with critical domain knowledge to harness and shape those capabilities to meet multiple sponsor mission needs. We have the technical depth and breadth to thrive in mission focused R&D/S&T organizations and the well-earned sponsor credibility to execute work programs relating to research, analysis, prototyping, T&E, etc.  We seek motivated individuals who are interested in applying AI and machine learning algorithms for the exploitation of remote sensing data. Remote Sensing data refers to those collected using infrared imagery (OPIR), hyperspectral imagery (HSI), radar (SAR/GMTI), full motion video (FMV), Wide Are Motion Imagery (WAMI), and 3D data from a range of sources.  Come join a team that is committed to strong collaboration, intellectual rigor, and prototyping “game-changing” and “tip-of-the-spear” operational solutions for our government sponsors. In most cases, staff are granted substantial flexibility in their working environment, including flexible hours and remote work options. This requisition requires the candidate to have a minimum of the following clearance(s):  Top Secret Top Secret/SCI  MITRE is proud to be an equal opportunity employer. MITRE recruits, employs, trains, compensates, and promotes regardless of race, religion, color, national origin, gender, gender expression, sexual identity, disability, age, veteran status, and other protected status.  MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please contact MITRE’s Recruiting Help Line at 703-983-8226 or email at recruitinghelp@mitre.org.  Copyright © 1997-2021, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T23:17:48.000Z"
+  },
+  "company": {
+    "name": "MITRE",
+    "link": "https://www.linkedin.com/company/mitre"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

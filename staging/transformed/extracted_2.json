@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Microsoft’s WCB health team is looking for a Senior Software Engineer who loves to learn, solve challenges, and be a part of a team working to collaborate with healthcare partners to help people navigate complicated systems such as healthcare. You may have worked on similar projects, or you're looking for a new adventure.  To be successful in this role, you value open communication and breaking down technical complexity. You are energized by sharing the knowledge you hold to improve the team you are on. You are capable of visualizing and driving toward long-term success while addressing and solving for immediate uncertainties. You are comfortable dealing with the ambiguities that come from being the driving force for change in an industry. You embrace diversity of experience and thought.  You’re a tireless advocate for the customer and great engineering practices—enthusiastic about building and iterating on designs to discover what works best and applying your knowledge to create incredibly reliable, scalable and delightful consumer experiences. You're passionate about your interests, and you want to work on projects that will challenge your technical and collaborative capabilities.  You understand how to be on a collaborative team as a leader with the ability to solve difficult engineering problems, point out what's not quite right, mentor others towards better answers and smooth the customer’s journey through physical and digital footprints. You find ways to reduce the number of steps to secure and scalable systems by using every tool in the toolbox.  You’ll work in a focused team collaborating with large internal and external partners in healthcare. Bouncing ideas around, formulating plans, and charting the path forward for the future of healthcare. Qualifications Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.  Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:39:07.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 120000,
+    "max_value": 189000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

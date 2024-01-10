@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Full Stack",
+    "industry": "Financial Services",
+    "description": "Shape a brighter financial future with us.  Together with our members, we’re changing the way people think about and interact with personal finance.  We’re a next-generation fintech company using innovative, mobile-first technology to help our 2+ million members reach their goals. The industry is going through an unprecedented transformation, and we’re at the forefront.  We’re proud to come to work every day knowing that what we do has a direct impact on people’s lives, with our core values guiding us every step of the way. We are looking for a Full Stack Software Engineer with front-end experience to join our Growth team who will help build a cutting edge technology platform supporting our Growth Referrals, Rewards, and Experimentation solutions.  On our team, you will be in the middle of it all – implementing new functionality for web and backend, squashing bugs, maintaining the health of our code, and continually growing as an engineer. You will be involved in the entire product lifecycle, from ideation through building, testing, deploying, monitoring and supporting critical systems. You’ll face and solve a wide range of challenges: technical, product, and operational, shaping your personal growth and career along the way. SoFi provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion (including religious dress and grooming practices), sex (including pregnancy, childbirth and related medical conditions, breastfeeding, and conditions related to breastfeeding), gender, gender identity, gender expression, national origin, ancestry, age (40 or over), physical or medical disability, medical condition, marital status, registered domestic partner status, sexual orientation, genetic information, military and/or veteran status, or any other basis prohibited by applicable state or federal law.  Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T05:12:37.000Z"
+  },
+  "company": {
+    "name": "SoFi",
+    "link": "https://www.linkedin.com/company/sofi"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 98400,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

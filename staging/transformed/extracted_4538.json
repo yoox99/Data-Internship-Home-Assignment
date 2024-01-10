@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Entertainment",
+    "description": "WarnerMedia is a powerful portfolio of iconic entertainment, news, and sports brands. We bring people, technology, and the world’s best storytellers together to drive culture and meaningful connection. We believe the enduring power of stories can open our eyes to the world, to each other, and to new and different perspectives.  HBO Max is where storytelling takes center stage and where creatives find a home with the support and resources to do their best work, no matter the genre or format. Whatever the viewer wants to watch is front and center and more of what they crave is easily discovered. It is where our exclusive HBO Max Originals and iconic entertainment brands thrive, with HBO, Warner Bros., DC, Turner Classic Movies, Cartoon Network and more delivering the greatest array of series, movies and specials for audiences of all ages. HBO Max launched in the US in May 2020 and will launch in Latin America and Europe during 2021.  Join us. Shape your story here. We are the team responsible for the HBO Max data pipeline. The data pipeline is where we instrument, store and model engagement and reference data for use by analysts, data scientists and engineers to enhance and improve the overall customer experience across our products and content offerings.  At HBO as a Software Engineer I on the Data Pipeline team, you will design, develop and support the services and systems for instrumentation, validation, durable delivery, and integration into batch and stream based environments. We run services that support the interactions of millions of concurrent viewers in a 24/7 environment. We are experts in our craft and pride ourselves on being knowledgeable across a wide range of business needs and product functionality. You will also partner with our messaging and experimentation platform teams, to ensure that we have the ability to send messages to custom segments and test different experiences among multiple groups, to see which works the best. Warner Media, LLC and its subsidiaries are equal opportunity employers. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T05:50:10.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

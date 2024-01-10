@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Development Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "At Workday, we help the world’s largest organizations adapt to what’s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we’re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. At Workday, we help the world’s largest organizations adapt to what’s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we’re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. Our team builds scalable and highly relevant search functionality for the entire Workday product family using the latest technologies and patterns. Using Elasticsearch(and Lucene at its core), we power search for the hundreds of thousands of users and provide real-time visibility into data. We take pride in delivering robust functionality in a collaborative and energetic environment. We strive for creativity, embracing agile development, extensive automated testing, continuous deployment and service ownership. We are looking for skilled and enthusiastic software engineers to be part of our dynamic team to make a difference in developing the search platform and services used by Fortune 500 companies.This role requires strong skills in design, development, testing, release, support and enhancement of highly visible / customer-facing software using an agile development methodology.  You will collaborate with product management and development team members to define and drive solutions and track deadlines. Pursuant to the San Francisco Fair Chance Ordinance, Workday will consider for employment qualified applicants with arrest and conviction records.   Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:03:10.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 133000,
+    "max_value": 198000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

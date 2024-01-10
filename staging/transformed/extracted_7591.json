@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Environmental Scientist",
+    "industry": "Environmental Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:39:33.000Z"
+  },
+  "company": {
+    "name": "Weston Solutions, Inc.",
+    "link": "https://www.linkedin.com/company/weston-solutions-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Las Vegas",
+    "region": "NV",
+    "postal_code": "89159",
+    "street_address": null,
+    "latitude": 36.16909,
+    "longitude": -115.14058
+  }
+}

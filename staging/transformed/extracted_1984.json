@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Applications Developer",
+    "industry": "Internet",
+    "description": "Raytheon is seeking an Applications Developer to support applications development and operations and maintenance of a variety of systems and initiatives focused on streamlining operations, automating processes, and aligning customer solutions to the overarching digital architecture. The ideal candidate will help promote state-of-the-art IT solutions, collaborating with IT mission partners to share technology and lessons learned and ensure records management processes and requirements are included in the early design stages of IT solutions across the Intelligence Community. Additionally, this individual will work in concert with the customer technical interfaces to ensure future plans for technology are in line with the plans for the overall customer architecture. Required Skills:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:41:42.000Z"
+  },
+  "company": {
+    "name": "JobGet",
+    "link": "https://www.linkedin.com/company/jobget"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Haymarket",
+    "region": "VA",
+    "postal_code": "20168",
+    "street_address": null,
+    "latitude": 38.81271,
+    "longitude": -77.63754
+  }
+}

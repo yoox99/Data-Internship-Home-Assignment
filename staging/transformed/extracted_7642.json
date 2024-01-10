@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Machine Learning Engineer",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "We are looking for a Machine Learning (ML) Engineer to help us create artificial intelligence products. He/she will collaborate with product manager, product solution architect, tech leads and multi-disciplinary engineers to define, develop and deploy an actual production system that uses AI/ML. Minimum Qualifications... Option 1: Bachelors degree in Statistics, Economics, Analytics, Mathematics, Computer Science, Information Technology or related field and 2  years' experience in an analytics or related field. Option 2: Masters degree in Statistics, Economics, Analytics, Mathematics, Computer Science,  Information Technology or related field. Option 3: 4 years' experience in an analytics or related field. Preferred Qualifications... Data science, machine learning, optimization models, Master’s degree in Machine Learning, Computer Science, Information Technology, Operations Research, Statistics, Applied Mathematics, Econometrics, Successful completion of one or more assessments in Python, Spark, Scala, or R, Using open source frameworks (for example, scikit learn, tensorflow, torch) Primary Location...603 MUNGER AVE STE 400, DALLAS, TX 75202, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-24T08:03:43.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 79000,
+    "max_value": 112000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

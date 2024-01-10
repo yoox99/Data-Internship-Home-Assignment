@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Automation Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:20:35.000Z"
+  },
+  "company": {
+    "name": "Roku Inc.",
+    "link": "https://www.linkedin.com/company/roku"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

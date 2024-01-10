@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Video Product Data Scientist, Apple Media Products - Culver City",
+    "industry": "Consumer Electronics",
+    "description": "At Apple, great ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. If you are an ambitious, high-energy individual who is not afraid of challenges, we’re looking for you.   Apple is seeking an expert Data Scientist to join a team passionate about Data Science & Analytics for the media space. This role will primarily focus on the Video business, which includes subscription (Apple TV+, Apple TV Channels, third party services and Apple Fitness+) and transactional business (iTunes movies/tv shows).  This role will involve working with Internet-scale data across numerous product and customer touch points, undertaking in-depth quantitative analysis, building models and partnering with business stakeholders to drive product and strategy.  The team’s culture is centered around rapid iteration with open feedback and debate along the way. We encourage independent decision-making and taking calculated risks. AMP Data Science collaborates extensively with partners across product, design, engineering, content and business teams: our mission is to drive innovation at Apple through deep quantitive research of the App Store, Apple Music, Apple TV, and Apple Arcade amongst other services. 2+ years of experience in a Data Scientist or Data Analyst role, preferably for a digital media or digital subscription business  Strong proficiency with SQL-based languages. Experience with large scale analytics technologies such as Hadoop and Spark preferred  Curious product/business approach with an ability to condense sophisticated concepts and analysis into clear and concise takeaways that drive action.  Familiarity with Python/R, Git, and data visualization tools such as Tableau for full-stack data analysis, model building, insight synthesis and presentation. Knowledge of A/B test experimentation design preferred.  Excellent communication, social and presentation skills with meticulous attention to detail.  Strong time management skills with the ability to work with tight deadlines and pressure from executive requests. Dive deep into large-scale data to uncover trends and identify key insights that will advise business strategy.   Craft how best to monitor, measure and understand business performance and build out associated Keynote narratives, datasets, and dashboards.   Partner closely with the Product organization to help them make evidence-based decisions.   Collaborate with business, marketing, finance and executive teams to generate regular presentations for C-level.   Your creative problem solving skills will be utilized daily. Bachelor’s degree in Statistics, Mathematics, Computer Science, Engineering, Economics or related field. Ideally, Master’s or PhD in related field.    Role Number: 200239722",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:30:40.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Culver City",
+    "region": "CA",
+    "postal_code": "90232",
+    "street_address": null,
+    "latitude": 34.0225,
+    "longitude": -118.39429
+  }
+}

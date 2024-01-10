@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Machinery,Mechanical or Industrial Engineering",
+    "description": "Born out of MIT, VulcanForms is commercializing the first fully scalable industrial metal additive manufacturing (AM) solution. Building the world’s most powerful and advanced metal AM system is the first step towards our vision of lights-out, highest quality metal AM mass production. We are a team of leading technology and operational experts with decades of experience in advanced manufacturing, materials, automation, and robotics. We are continuously seeking contributors who demonstrate outstanding integrity, intelligence, hunger, accountability, and a passion for learning. VulcanForms is currently seeking a with a focus on operations to join our Machine Learning and Data Science team in . As a machine learning engineer, you will develop and maintain ML pipelines, deploy, and monitor ML models / data analytics in production for our cutting-edge metal Additive Manufacturing factory. You will have a unique opportunity to push the frontier of ML applications in additive manufacturing.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-25T05:08:45.000Z"
+  },
+  "company": {
+    "name": "VulcanForms Inc.",
+    "link": "https://www.linkedin.com/company/vulcanforms-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlington",
+    "region": "MA",
+    "postal_code": "01803",
+    "street_address": null,
+    "latitude": 42.504986,
+    "longitude": -71.19583
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Entertainment",
+    "description": "WarnerMedia is a powerful portfolio of iconic entertainment, news, and sports brands. We bring people, technology, and the world’s best storytellers together to drive culture and meaningful connection. We believe the enduring power of stories can open our eyes to the world, to each other, and to new and different perspectives.  Join us. Shape your story here. WarnerMedia seeks a Site Reliability Engineer to lead SRE efforts within our WarnerMedia Technology & Operations (WMTO) organization. The SRE team owns and manages the infrastructure stack for our unified video delivery platform, a core set of products and workflows that power video acquisition, encoding, delivery, and playback across our WarnerMedia brands.  As a hands-on Site Reliability Engineer, you will be a key contributor to maintain and improve our highly-available, highly-scalable video systems infrastructure using containers, cluster management, cloud services, and performance tools to keep our systems available in 24x7 environments. You will help to build platform automation, configuration management, and service administration for cloud and on-prem environments. You will work closely with our product developers to review cloud architecture footprints, setup cloud stack resources, contribute code for infrastructure needs, setup CI/CD pipelines, and develop new tooling. Our tech stack includes AWS, Kubernetes, Docker, Terraform, Postgres, Mongo, Jenkins, and Elasticsearch.  The Site Reliability Engineer will need to be strong in DevOps and SRE practices, combining software and systems engineering to build large-scale distributed fault-tolerant systems. You will need to lead full end-to-end SRE projects that include cloud solution design, environment creation and configuration, deploying and supporting cloud services, and writing strong technical documentation. You will assist with critical incident management and on-call rotations for after-hours support. Warner Media, LLC and its subsidiaries are equal opportunity employers. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T14:16:41.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

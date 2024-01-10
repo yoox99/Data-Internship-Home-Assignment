@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Software Engineer - Site Reliability Engineering",
+    "industry": "Consumer Electronics",
+    "description": "Imagine what you we could do together. At Apple, new insights have a way of becoming excellent products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.   JMET is an unusual security engineering group within Apple IS&T! We provide critical services for the company across every product line. From manufacturing to customer facing, our services span across the entire lifecycle of most Apple hardware. We are responsible to design, implement and support the ongoing need to improve customer safety and privacy by providing security services that are tightly coupled with hardware. Many of our services are seen in iOS Security Guide or publicly discussed on Internet forums.    As a Cloud Software Engineer - SRE, you will bring deep expertise designing and supporting highly-scalable, highly-available infrastructure and applications in Kubernetes, AWS as well as promoting micro service design patterns in sophisticated working environment. The successful candidate will design and implement innovative approaches and tools for continuous delivery, serve as a domain professional on all aspect of our containerized deployments, including development, configuration, scaling and upgrades. You will be joining a team of highly-skilled, hardworking and passionate engineers working on this groundbreaking and constantly evolving space. 5+ years of experience in production expertise in architecting production EKS and On-Prem Kubernetes Clusters.   5+ years experience operating and developing infrastructure and services in public cloud environments (AWS, GCP)  Experience in configuring and designing service mesh and discovery using LinkerD, Consul or Istio.   5+ years strong automation and designing expertise in cluster deployments using tools such as Ansible, Terraform and Packer along with security policies using Open Policy Agent.   Experience in building observability solution and exposing metrics that feed SLO’s and KPI’s.   Strong with one or more languages (Go, Python, Java) for automation or integration with multiple APIs.  Experience with common formats such as JSON and compression utilities.   Experience working with Kubernetes ingress services such as Contour and Envoy.  3+ years of experience in designing, automating custom modules or tooling to simplify the management of multiple clusters and writing detail solution specifications, diagrams, operational procedures.   Excellent communication skills, capable of working with multi-functional technical teams and business partners. We are looking for an engineer whose objective is to “make things scale”.    This includes building software that automates experiences, developing utilities that provides insights/metrics, and provide instrumentation for Engineering teams to more efficiently scale the platform.    This engineer will be responsible for maintaining JMET’s Kubernetes & AWS production and test environments and maintain high-volume clusters in multiple datacenters. BS Computer Science or relevant studies. Programming and Scripting Languages: Go, Python, Java, Bash  Container Orchestration: Kubernetes, Amazon EKS, Rancher.   Configuration Management: Ansible, Terraform, Packer.   Operation Systems: Linux (Red Hat) and OS X.   Containerization and Virtualization Technologies: Docker Enterprise, Rancher AWS, GCP, VMWare  Metrics and monitoring: ELK, PagerDuty, Prometheus, Grafana  Messaging: Kafka, RabbitMQ  Databases: Oracle, memcached, MySQL  Other tooling: Linkerd, Contour, Hashicorp Consul, Open Agent Policy Agent.    Role Number: 200244094",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T15:45:02.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

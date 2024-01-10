@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer 3",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Oracle CPQ leads the industry in cloud-based configuration, pricing and quoting software.  We are looking for a Senior UI developer with solid experience building web applications, and a knack for UI architecture. The ideal candidate possesses core technical skills, is career-minded, and values collaboration and taking initiative. Participate in UI development projects, actively engaging with project teams to deliver high-quality features on schedule. Support our agile development process with sufficient documentation, willingness to accept change, a customer focus, constant communication, and above all, technical excellence. Work is non-routine and can be very complex. This position requires advanced technical skills and a high level of professionalism and enthusiasm for delivering quality software. BS or MS degree or equivalent experience relevant to functional area.  3 years of software engineering or related experience.  Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.  As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.  Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience. Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It’s when everyone’s voice is heard and valued, that we are inspired to go beyond what’s been done before. That’s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.  Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:12:10.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Illinois",
+    "region": "United States",
+    "postal_code": "61709",
+    "street_address": null,
+    "latitude": 40.12414,
+    "longitude": -89.14863
+  }
+}

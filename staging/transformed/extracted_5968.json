@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Financial Services,Investment Banking,Investment Management",
+    "description": "Morgan Stanley is a leading global financial services firm providing a wide range of investment banking, securities, investment management and wealth management services. We advise, originate, trade, manage and distribute capital for governments, institutions and individuals. As a market leader, the talent and passion of our people is critical to our success. Together, we share a common set of values rooted in integrity, excellence and strong team ethic. We provide you a superior foundation for building a professional career where you can learn, achieve and grow. Technology is the key differentiator that ensures that we manage our global businesses and serve clients on a market leading platform that is resilient, safe, efficient, smart, fast and flexible. Technology redefines how we do business in global, complex and dynamic financial markets. We have a large number of award winning technology platforms that help to propel our Firm’s businesses to be the top in the market. Our India technology teams are based in Mumbai and Bengaluru. We have built strong techno-functional teams which partner with our offices globally taking global ownership of systems and products. We have a vibrant and diverse mix of technologists working on different technologies and functional domains. There is a large focus on innovation, inclusion, giving back to the community and sharing knowledge. Wealth Management Technology (WMIMT) is responsible for the design, development, delivery, and support of the technical platform behind the products and services used by the Business. Morgan Stanley Wealth Management (WM) is a product of the acquisition of Smith Barney from Citigroup, which was completed in June ‘13. Its core client base is individual investors, small- to medium-size businesses and institutions, and high net worth families and individuals. In the second half of ‘14, WM reached a milestone, with its business having surpassed $2 trillion in total client assets. We are seeking a Machine Learning Engineer with expertise in design and development of data and ML centric applications at scale. The right candidate would have a background in data engineering and requisite familiarity and experience working with Machine learning (ML) algorithms and Frameworks. The role is a confluence of engineering (programming), ML and data analysis. Knowledge of Data Science is a plus. This position is for the Strats team which is part of Artificial Intelligence and Knowledge Management group within Morgan Stanley Wealth Management. The team is comprised of members located in NY-United States, Mumbai-India and Bengaluru-India. The team partners with various businesses and IT groups within firm to develop analytics and ML powered solutions aimed at risk-analytics and vulnerability detection / assessment. The team accumulates data from a variety of internal and external upstream systems in order to develop statistics, models, dashboards and metrics for the Technology Risk team. Apr 30, 2021 Americas-United States of America-New York-New York Bachelor's Degree Development Full Time Vice President",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T00:33:23.000Z"
+  },
+  "company": {
+    "name": "Morgan Stanley",
+    "link": "https://www.linkedin.com/company/morgan-stanley"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76400,
+    "max_value": 111000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

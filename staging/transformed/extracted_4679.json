@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer -Web Development",
+    "industry": "Computer Software,Insurance,Financial Services",
+    "description": "We are not just offering a job but a meaningful career! Come join our passionate team!  As a Fortune 50 company, we hire the best employees to serve our customers, making us a leader in the insurance and financial services industry. State Farm embraces diversity and inclusion to ensure a workforce that is engaged, builds on the strengths and talents of all associates, and creates a Good Neighbor culture.  We offer competitive benefits and pay with the potential for an annual financial award based on both individual and enterprise performance. Our employees have an opportunity to participate in volunteer events within the community and engage in a learning culture. We offer programs to assist with tuition reimbursement, professional designations, employee development, wellness initiatives, and more!  Visit our Careers page for more information on our benefits, locations and the process of joining the State Farm team! Enterprise Technology is searching for a Software Developer to join Business Lines Modernization product team, where the focus is on owning and managing Activity and Agreement event messages that are triggered based on certain actions within policy transactions.  This is a remarkable opportunity for a passionate software development professional who has excellent technical and communication skills, solution provider mindset and thrives when given new challenges.  The individual will lead and drive quality software development by engaging in forward thinking detailed design discussions & solutions, influencing the use of best practices while leveraging continuous delivery frameworks. The successful candidate will effectively collaborate with business and technology partners and across products/product suites at multiple levels. *****Incumbency Period: This position will have an 18-month incumbency period, beginning on the effective date of the position, which must be met before the employee can post for any other lateral State Farm position. Employees may be considered for leadership or Technology Engineer openings at any time, and a promotional position within the same job structure (i.e. Professional/Technical or Para-professional/Support) after 6 months from the effective date of the position. In these cases, the remaining incumbency would be waived. The incumbency period does not affect the at-will relationship between State Farm and the employee and does not create an employment contract, nor contractual rights.*****  *****Applicants are required to be eligible to lawfully work in the U.S. immediately; employer will not sponsor applicants for U.S. work authorization (e.g. H-1B visa) for this opportunity*****  SFARM  #DSS",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:09:49.000Z"
+  },
+  "company": {
+    "name": "State Farm ®",
+    "link": "https://www.linkedin.com/company/state_farm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richardson",
+    "region": "TX",
+    "postal_code": "75080",
+    "street_address": null,
+    "latitude": 32.960762,
+    "longitude": -96.73352
+  }
+}

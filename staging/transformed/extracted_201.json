@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist  (Machine Learning)",
+    "industry": "Entertainment,Marketing and Advertising",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T19:04:10.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "Oregon Metropolitan Area",
+    "postal_code": "97215",
+    "street_address": null,
+    "latitude": 45.553497,
+    "longitude": -122.90853
+  }
+}

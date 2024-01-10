@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer IV",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "NCR Corporation (NYSE: NCR) is a leading software- and services-led enterprise provider in the financial, retail and hospitality industries. NCR is headquartered in Atlanta, Georgia, with 36,000 employees globally. NCR is a trademark of NCR Corporation in the United States and other countries.  TITLE: SW Engineer IV  LOCATION: Fort worth, TX Are you ready to work on a new set of market leading products poised to make a splash in the industry? You can as a Software Engineer within NCR Hospitality Division. NCR Hospitality Solutions is an entrepreneurial team focused on building innovative omni channel solutions for quick and table service restaurants. In this senior role, you will join a team building Point of Sale products augmented by a web-based Back Office and customer facing user interface. You will be hands on and enjoy creating new products. You desire to work in a team of full stack developers and love working in an Agile environment. We’re looking for someone who values and cares about the big picture but can execute today. Join us on the ground floor of The New NCR – a software and services innovator. We offer great opportunities and an attractive compensation package including bonus and the chance to work on a team of stellar people. Areas of Responsibility Offers of employment are conditional upon passage of screening criteria applicable to the job. Integrated into our shared values is NCR's commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment without regard to sex, age, race, color, creed, religion, national origin, disability, sexual orientation, gender identity, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment. To ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:39:06.000Z"
+  },
+  "company": {
+    "name": "NCR Corporation",
+    "link": "https://www.linkedin.com/company/ncr-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Worth",
+    "region": "TX",
+    "postal_code": "76116",
+    "street_address": null,
+    "latitude": 32.749905,
+    "longitude": -97.33034
+  }
+}

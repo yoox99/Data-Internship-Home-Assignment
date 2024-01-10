@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Vehicle Diagnostics Software Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Automotive,Mechanical or Industrial Engineering",
+    "description": "Xos is an innovative electric vehicle company on a mission to decarbonize transportation. Our zero-emission commercial vehicles and next-generation technologies empower fleets of Fortune 500 companies and positively impact our environment. The market is growing. The need is rising. The time is now.  At Xos, we design vehicles from scratch, invent efficient and durable battery systems, write software to control the vehicle and its interactions with the driver, and entice fleet owners into an electrified future with groundbreaking service.  We are a team of passionate doers that have banded together to do our part in the battle for a cleaner planet. We’re go-getters, change-makers, and future-creators. Will you join us? We are looking for a vehicle diagnostics software engineer who will work on developing diagnostics software for fault management and service test communications based on industry-standard protocols (J1939, J1708) for commercial vehicles. This person will perform testing and validation of the software both on the bench (HIL) and in the vehicle and communicates cross-functionally on design directions and requirements. An ideal candidate will have confidence in his ability to contribute significantly and independently to the vehicle-build as well as bring innovative ideas to the team.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-26T08:42:25.000Z"
+  },
+  "company": {
+    "name": "Xos Trucks",
+    "link": "https://www.linkedin.com/company/xostrucks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

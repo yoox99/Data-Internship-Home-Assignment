@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer - ePay",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The Principal Software Engineer (SWE V) will design and develop web based solutions using the latest Microsoft .Net technologies.  Candidate must be well-versed and comfortable working in all aspects of a multi-tiered architecture ,demonstrate excellent problem-solving skills, self-motivated, highly detail oriented, able to context switch easily, able to work with vendor/offshore team(s), good team player.  The Principal Software Engineer will work with other engineers, managers, Product Management, QA, and Operations teams to develop innovative solutions that meet company initiatives with respect to functionality, performance, scalability, reliability, realistic implementation schedules, and adherence to development goals and principles.  We are open Contract to Hire or Permanent (FTE). The ideal candidate will be located near Louisville, CO, and able to join the team at our office 2-3 times per week, however we are willing to hire someone remotely.  Principal duties and responsibilities Global Healthcare Exchange (GHX) enables better patient care and billions in savings for the healthcare community by maximizing automation, efficiency and accuracy of business processes.  GHX is a healthcare business and data automation company, empowering healthcare organizations to enable better patient care and maximize industry savings using our world class cloud-based supply chain technology exchange platform, solutions, analytics and services. We bring together healthcare providers and manufacturers and distributors in North America and Europe — who rely on smart, secure healthcare-focused technology and comprehensive data to automate their business processes and make more informed decisions.  It is our passion and vision for a more operationally efficient healthcare supply chain, helping organizations reduce - not shift - the cost of doing business, paving the way to delivering patient care more effectively. Together we take more than a billion dollars out of the cost of delivering healthcare every year. GHX is privately owned, operates in the United States, Canada and Europe, and employs more than 800 people worldwide. Our corporate headquarters is in Louisville, Colorado, just outside of Denver, with additional offices in Europe, Chicago, Illinois, Atlanta, Georgia and Omaha, Nebraska.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:49:53.000Z"
+  },
+  "company": {
+    "name": "GHX",
+    "link": "https://www.linkedin.com/company/ghx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Louisville",
+    "region": "CO",
+    "postal_code": "80027",
+    "street_address": null,
+    "latitude": 39.976837,
+    "longitude": -105.13214
+  }
+}

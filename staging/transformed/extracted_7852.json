@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Cloud (WAH - US)",
+    "industry": "Insurance",
+    "description": "The Site Reliability Engineer - Cloud at the Edge will have the chance to influence the decisions of a new organization. Cloud Engineers within the Edge team are trusted to own major parts of the cloud infrastructure, and we expect you to thrive as a leader in spearheading and shaping the technology direction, with support from your peers. The Site Reliability Engineer - Cloud works with cloud infrastructure, software engineering and test teams to drive products from design completion to production release. In this role performs cloud engineering tests to verify and validate product designs, including availability, performance and security. Ensures that product implementation schedules are followed, participates in routine planning of cloud infrastructure services that support new product features and engineering requirements, and cloud services meet specifications, scalability, security and quality requirements. Interacts with product teams, service delivery leaders and engineering to analyze and provide technical support to help resolve cloud infrastructure related problems/issues. Works with Cloud Infrastructure, Security and Technology leadership to develop and maintain cloud operational excellence. 40",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-30T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Humana",
+    "link": "https://www.linkedin.com/company/humana"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65400,
+    "max_value": 92500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Louisville",
+    "region": "KY",
+    "postal_code": "40270",
+    "street_address": null,
+    "latitude": 38.256077,
+    "longitude": -85.75157
+  }
+}

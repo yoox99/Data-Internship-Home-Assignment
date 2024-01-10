@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "What We Are Looking For:  We are growing the Clinical Insights team at DeepIntent. As a Data Scientist you will be working closely across DeepIntent Analytics teams located in New York City, India, and Bosnia. The role will support internal and external business partners in defining patient and provider audiences, and generating analyses and insights related to measurement of campaign outcomes, Rx, patient journey, and supporting evolution of DeepIntent product suite. Activities in this position include creating and scoring audiences, reading campaign results, analyzing medical claims, clinical, demographic and clickstream data, performing analysis and creating actionable insights, summarizing, and presenting results and recommended actions to internal stakeholders and external clients, as needed.  Key Responsibilities: Who You Are: What You have Accomplished: What We Offer: DeepIntent is committed to bringing together individuals from different backgrounds and perspectives. We strive to create an inclusive environment where everyone can thrive, feel a sense of belonging, and do great work together.  DeepIntent is an Equal Opportunity Employer, providing equal employment and advancement opportunities to all individuals. We recruit, hire and promote into all job levels the most qualified applicants without regard to race, color, creed, national origin, religion, sex (including pregnancy, childbirth and related medical conditions), parental status, age, disability, genetic information, citizenship status, veteran status, gender identity or expression, transgender status, sexual orientation, marital, family or partnership status, political affiliation or activities, military service, immigration status, or any other status protected under applicable federal, state and local laws. If you have a disability or special need that requires accommodation, please let us know in advance.  DeepIntent’s commitment to providing equal employment opportunities extends to all aspects of employment, including job assignment, compensation, discipline and access to benefits and training.  Powered by JazzHR  3PQF8hyNhM",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T19:15:03.000Z"
+  },
+  "company": {
+    "name": "DeepIntent",
+    "link": "https://www.linkedin.com/company/deepintent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97600,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

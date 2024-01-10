@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "We’re looking for problem solvers, innovators, and dreamers who are searching for anything but business as usual. Like us, you’re a high performer who’s an expert at your craft, constantly challenging the status quo. You value inclusivity and want to join a culture that empowers you to show up as your authentic self. You know that success hinges on commitment, that our differences make us stronger, and that the finish line is always sweeter when the whole team crosses together.  Alteryx is revolutionizing data analytics by providing a complete end to end, self-service platform that allows users to get from business questions to business answers at incredible speeds. Why work for just any analytics company? At Alteryx, we are explorers, dreamers and innovators. We’re on a journey to build the best analytics platform in the world, but we can’t do it without people like you, leading the way. Forget the stereotypical tech companies of the past. Embrace the unconventional, exercise your imagination and help alter the future with Alteryx. Alteryx supports many different data connections ranging from local file types to data sources in the cloud and the list will continue to grow. The Data Connectors team is responsible for the full integration of data connections, which involves the implementation of user interfaces and back-end processing using 3rd party libraries. The ideal candidate will have experience in maintaining and modernizing, as well as the curiosity and drive to work within a large, complex system using a variety of programming languages and technologies, all while ensuring security and quality best practices. Your work will be customer facing and have a significant impact on the user experience of a product used and loved by many people in a variety of industries. Alteryx is committed to fair and equitable compensation practices. The salary range for this role in Broomfield, CO is $88,400 - $150,300. Compensation will ultimately be in line with the location in which the position is filled. Final compensation for this role will be determined by various factors such as a candidate’s relevant work experience, skills, certifications, and geographic location. This role is eligible for variable compensation including bonus and stock grants.  Find yourself checking a lot of these boxes but doubting whether you should apply? At Alteryx, we support a growth mindset for our associates through all stages of their careers. If you meet some of the requirements and you share our values, we encourage you to apply. As part of our ongoing commitment to a diverse, equitable, and inclusive workplace, we’re invested in building teams with a wide variety of backgrounds, identities, and experiences . Alteryx has amazing benefits for all Associates which can be viewed here .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:18:43.000Z"
+  },
+  "company": {
+    "name": "Alteryx",
+    "link": "https://www.linkedin.com/company/alteryx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Broomfield",
+    "region": "CO",
+    "postal_code": "80020",
+    "street_address": null,
+    "latitude": 39.923985,
+    "longitude": -105.08166
+  }
+}

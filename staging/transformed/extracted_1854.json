@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (Remote)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:09:54.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

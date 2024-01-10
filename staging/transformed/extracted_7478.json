@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer in Test",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Every day we deliver safe and secure energy to homes, communities, and businesses. We are there when people need us the most. We connect people to the energy they need for the lives they live. The pace of change in society and our industry is accelerating and our expertise and track record puts us in an unparalleled position to shape the sustainable future of our industry.  To be successful we must anticipate the needs of our customers, reducing the cost of energy delivery today and pioneering the flexible energy systems of tomorrow. This requires us to deliver on our promises and always look for new opportunities to grow, both ourselves and our business. We are looking for a Software Engineer in Test or Sr Quality Engineer who can build the knowledge of our systems and implement improvements for our Customer experience and engineering processes. We also want professionals who want to use their technical skills to build an intuitive and SAfe digital experience. This role will drive the test strategy execution as well as support efforts to build upon our automation solutions and establish overall Quality Engineering strategy to manage NationalGrid’s product(s)/platform(s) quality life cycle. This position has a career path which provides for advancement opportunities within and across bands as you develop and evolve in the position; gaining experience, expertise and acquiring and applying technical skills. Internal candidates will be assessed and provided offers against the minimum qualifications of this role and their individual experience.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:23:07.000Z"
+  },
+  "company": {
+    "name": "National Grid",
+    "link": "https://uk.linkedin.com/company/national-grid"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Waltham",
+    "region": "MA",
+    "postal_code": "02154",
+    "street_address": null,
+    "latitude": 42.37617,
+    "longitude": -71.23899
+  }
+}

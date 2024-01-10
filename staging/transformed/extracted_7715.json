@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Biotechnology,Pharmaceuticals",
+    "description": "As a Software Engineer, you will be a part of a collaborative team that develops with others in Resilience to provide applications and solutions for instruments and analytical software for novel therapeutics. This role will work with stakeholders to develop software-based solutions to manufacturing challenges and develop next-generation therapies and instruments. You will join a dynamic, fast-paced organization and team developing innovative solutions, and you will need to work independently in a collaborative team.  Resilience is looking for intelligent, motivated software engineers who enjoy taking on complex challenges, work well in an agile, dynamic environment, and care about high-quality engineering best practices.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-01T17:47:11.000Z"
+  },
+  "company": {
+    "name": "Resilience",
+    "link": "https://www.linkedin.com/company/weareresilience"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "California",
+    "region": "United States",
+    "postal_code": "93266",
+    "street_address": null,
+    "latitude": 37.254673,
+    "longitude": -119.61728
+  }
+}

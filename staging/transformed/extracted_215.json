@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Marketing and Advertising,Internet,Consumer Goods",
+    "description": "Data is at the center of everything we do at Forum Brands, whether it be for data centric applications or driving business decisions through data science and AI/ML. Data informs every one of our critical business decisions, which can span from product research to customer purchase behaviors. We take it so seriously we even made it a Principle.  You will develop data engineering solutions to support and make data more available across multiple teams and products. You will also design and automate our data engineering products that will have a large impact on the engineering team's day to day operations. We are at the forefront of disrupting the direct-to-consumer industry, and you have the opportunity to be part of this process.  Forum Brands is a high-growth, Series-A startup building a technology-enabled platform of leading ecommerce brands. We're taking an innovative approach to brand-building in the direct-to-consumer sector by acquiring the highest quality, independently owned brands currently sold on 3rd party marketplaces (e.g. Amazon.com, Walmart.com) and applying domain expertise, operating infrastructure, and a passion for improving the lives of the everyday consumer.  We're not just thinking differently, we're also hiring differently. We've built a diverse team, with a differentiated set of experience across digital marketplaces, consumer brands, ecommerce technology, and investing. In executing against our strategy to grow brands into category leaders, we lead with the collective power of our people.  Forum is backed by Norwest Venture Partners (a global venture capital and growth equity investment firm), NFX (a leading marketplace and ecommerce venture capital firm), Concrete Rose, and a set of world-class consumer and technology operators.  What You'll Do  What You'll Do Specific ownership of initiatives and day-to-day responsibilities will include, but not be limited to NOTE This is a remote role through Q3 2021, at which point we expect to transition the team back into company headquarters located in New York, NY. Nice to have We believe that true innovation happens when everyone has a seat at the table and the opportunity to excel. We’re committed to growing and empowering a more inclusive community within our company and in ecommerce overall. That’s why we commit ourselves to hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. Forum Brands, Inc. an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. Forum Brands, Inc. does not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-30T23:20:36.000Z"
+  },
+  "company": {
+    "name": "Forum Brands",
+    "link": "https://www.linkedin.com/company/forumbrands"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer Developer",
+    "industry": "Computer Hardware,Computer Software,Consumer Electronics",
+    "description": "We are looking for machine learning engineers with experience over a large diverse machine learning landscape to join our team in Austin, Texas. Candidates should have a deep familiarity with reinforcement learning, genetic algorithms, predictive modeling, complex systems, and analysis/manipulation of high dimensional data. Fluency in deep learning and its' best practices is also preferred. With competitive salaries and a generous benefits package, we are widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our exclusive engineering teams are rapidly growing. If you're a creative and autonomous engineer with a real passion for technology, we want to hear from you.  NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.#deeplearning",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:30:23.000Z"
+  },
+  "company": {
+    "name": "NVIDIA",
+    "link": "https://www.linkedin.com/company/nvidia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

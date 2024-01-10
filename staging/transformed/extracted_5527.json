@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer - Automation (R3924)",
+    "industry": "Computer Software",
+    "description": "Avalara, Inc., (www.Avalara.com), is the leading provider of cloud-based software that delivers a broad array of compliance solutions related to sales tax and other transactional taxes.  What is it like to work at Avalara? Come find out! We are committed to the following success traits that embody our culture and how we work together to accomplish great things: Fun. Passion. Adaptability. Urgency. Simplicity. Curiosity. Humility. Ownership. Optimism.  We are building cloud-based tax compliance solutions to handle every transaction in the world. Imagine every transaction you make - every tank of gas, cup of coffee, or pair of sneakers, every movie ticket, or streamed song, every sensor-to-sensor ping. Nearly every time you make a purchase, physical or digital, there is an accompanying unique and nuanced tax compliance calculation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:36:37.000Z"
+  },
+  "company": {
+    "name": "Avalara",
+    "link": "https://www.linkedin.com/company/avalara"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

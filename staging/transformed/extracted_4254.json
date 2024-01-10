@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Financial Services,Real Estate,Hospitality",
+    "description": "We started with just one home and an idea: to bring homeowners and renters together with smart technology and caring local teams. Today, we’re the largest full-service vacation rental company in the US thanks to the people who give us their best every day. You’ll fit right in here if you’re curious, collaborative, innovative, and thrive in a rapid-growth environment. We build the industry-leading technology that enables Vacasa to manage over 25,000 homes and service more than 2 million guest stays per year--a scale that is otherwise unprecedented in the vacation rental management industry and continues to grow. We have big ambitions and aim to move fast.  We live in the cloud (AWS), empower our teams to design and operate their own applications & services, and release software into production systems many times per day. As a Software Engineer, you’ll be a key contributor on your team, solving mission-critical problems working on our ever-evolving systems. We believe to shine in this role, you’re good at: Please visit our careers page to review our full benefits offerings",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Vacasa",
+    "link": "https://www.linkedin.com/company/vacasa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boise",
+    "region": "ID",
+    "postal_code": "83712",
+    "street_address": null,
+    "latitude": 43.61579,
+    "longitude": -116.20158
+  }
+}

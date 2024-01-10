@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "At Amazon, we're working to be the earth’s best employer. To get there, we need exceptionally talented, bright, and driven people. Amazon’s Employee Resource Center (ERC) provides HR assistance to employees through accurate, consistent, and timely responses to inquiries from various contact channels – phone, web case, and chat. We are looking for a smart, passionate candidate with experience in modeling to dive deep, create insights, and produce recommendations for our new 24-hour Promise Team. This team will diagnose causes for repeat contacts, define mechanisms, shape product features, and determine root cause fixes for technical solutions in order to resolve employee inquiries in 24 hours or less. You will be involved in all phases of research and experiment design and analysis, including defining research questions, designing experiments, identifying data requirements, conducting statistical or machine learning-based modeling, and communicating insights and recommendations that will directly impact the employee experience. As a Data Scientist, you will be responsible for technical documentation of all experiments, requirements and outcomes. You will work within a team-based setting comprised of topical experts across the ERC organization, database architects, data analysts, product and program managers to collectively take projects from ideation to final deployment. You will analyze data across multiple data sources, apply the right machine learning models, and visualize insights for senior leaders and business partners. - Amazon.com Services LLC  Job ID: A1673922",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T09:44:06.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66900,
+    "max_value": 112000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

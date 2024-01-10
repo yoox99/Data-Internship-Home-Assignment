@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer/Application Developer , Supply Chain Systems",
+    "industry": "Consumer Electronics",
+    "description": "Imagine what you could do here! At Apple, outstanding ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.   As an Application engineer, you will be part of the team that builds top-notch business applications for World’s leader in Supply Chain, Apple Inc.    As a part of IS&T SCI team, you will play a pivot role in building end-to-end, best-in-class software solutions for Apple Supply Chain needs varying from Supply and demand Planning, Product distribution and so on. You will partner with various stakeholders to define and implement solutions that optimize our internal business processes. 8+ years of meaningful experience in enterprise level application development using sophisticated Oracle database technologies.   5+ years of programming experience Python Data Analytics platforms,Pandas Data frames, sqlalchemy, numpy, etc   Hands on Experience with large volume databases for both OLTP and OLAP environment.   Experience in distributed data processing systems.   In depth Python programming experience with building high scale enterprise application, specialized in queues/multiprocessing/multithreading   Experience in Application database design/architecture (Oracle/no-sql/graph databases)   Experience with REDIS data store, any in-memory data structure platforms   Experience in spark, kafka, big data technologies   Experience in building Django / Flask / wildfly Java based App server    Good experience in consuming or exposing web services (i.e. SOAP, REST)   Thorough knowledge on UNIX/Linux platforms. Scripting experience with Shell, JSON, Advanced SQLs, Oracle PL/SQLs   Experience in developing business applications for Supply Chain domain.   Validated ability in supporting the expansion and maintenance of various Oracle database based solutions.   Ability to reliably handle and collaborate with contractors   Experience in full system implementation life-cycles using Agile / Waterfall   Ability to multi-task ,work independently with minimal supervision;   Excellent verbal and written communication skills   Comfortable working in a multi-discipline, geographically dispersed team. You will Interface with application owners, developers , QA, project managers, Support teams and end users. Lead proof-of-concept and pilot implementations to demonstrate new ideas or illustrate the use of new technologies and how to apply it into our systems.   Strive for top quality results and continuously look for ways to improve and enhance system reliability, performance, and security.    He or she must be able to perform regular design and code reviews and participate in debugging and coding to resolve issues. Provide technical guidance and mentoring to a small team of software engineers; Develop critical system components as well as take bottom line for team’s timely work you're doing quality and performance   Demonstrates understanding of information management, data modeling, system integration, development methodologies (including unit testing) and web technologies.   Participate in architectural design meetings for data/system integration projects   Team lead experience is a plus. Occasionally will need to handle Application Production (warranty) support.   Working with highly bred to bear outsourcing model B.S / M.S in Computer Science or equivalent. 7+ years of proven experience.    Role Number: 200241072",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:44:53.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 75100,
+    "max_value": 163100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

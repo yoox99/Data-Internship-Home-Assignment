@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Entry Level Software Engineer",
+    "industry": "Food &amp; Beverages,Food Production,Consumer Goods",
+    "description": "The AppHarvest Technology Group is redefining agriculture by developing a new class of advanced farming facilities that will be deployed at scale. By combining the latest innovations in agriculture with our proprietary technology, we will make sustainably grown, chemical free food the global standard.  Our flagship facility is located in Morehead KY. This 60-acre indoor growing environment produces 30x more produce per-acre, uses 90% less water and its location near major urban centers has allowed us to reduce diesel use in transportation by 80%. But this is just the beginning and as a member of the Appharvest Technology Group you will be at the forefront of driving the innovations that will transform the worlds food supply.  AppHarvest is proud to verify our commitment to people and the planet by being a Certified B Corporation. As one of only four public B Corps in the United States, we are focused on balancing people and profit. Our goal is to promote a future of sustainable change in the agriculture industry while reducing our impact on the planet. And we're doing it all while creating jobs and helping Appalachia build a more resilient economy!  This is Farming Now. As an Entry Level Software Engineer at AppHarvest, you will join a team at the forefront of sustainable agriculture by helping architect and build new, innovative solutions to expand our product capabilities.  You will work closely with our Technology team, Greenhouse Operations, vendors, and customers to build and optimize products as well as advise on opportunities to work with external partners to grow the value of our technology echo system. Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. AppHarvest reserves the right to change duties, responsibilities and activities at any time with or without notice.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T00:00:00.000Z"
+  },
+  "company": {
+    "name": "AppHarvest",
+    "link": "https://www.linkedin.com/company/appharvest"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

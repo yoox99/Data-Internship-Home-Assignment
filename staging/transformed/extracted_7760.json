@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Operations Data Science",
+    "industry": "Information Services,Internet",
+    "description": "Note: Google’s hybrid workplace includes remote and in-office roles. By applying to this position you will have an opportunity to share your preferred working location from the following: Minimum qualifications: Preferred qualifications: At Google, data drives all of our decision-making. Data Scientists work all across the organization to help shape Google's business and technical strategies by processing, analyzing and interpreting huge data sets. Using analytical rigor and statistical methods, you mine through data to identify opportunities for Google and our clients to operate more efficiently, from enhancing advertising efficacy to network infrastructure optimization to studying user behavior. As an analyst, you do more than just crunch the numbers. You work with Engineers, Product Managers, Sales Associates and Marketing teams to adjust Google's practices according to your findings. Identifying the problem is only half the job; you also figure out the solution.  As a member of the Operations Data Science team, you will apply operations research and statistical methods to solve challenges related to compute, storage, network, and datacenter capacity for both Google’s internal services and Google Cloud Platform. You will work broadly across Google’s Platforms Engineering, Systems Infrastructure, and Site Reliability Engineering teams to optimize our deployment of resources and drive innovation in our software stack, allowing for efficient use of resources.  As a Data Scientist, you will think critically and strategically about Google’s cloud as a technology, a business, and as an operation. You will be comfortable discussing total cost of management with hardware engineers, resource optimization with software engineers, or reviewing fleet plans and deployment policies with operations executives, all based upon the analytical models that you will be developing.  Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We're always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible. (Colorado only*) Minimum salary of $95,000 + bonus + equity + benefits. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-10T07:17:10.000Z"
+  },
+  "company": {
+    "name": "Google",
+    "link": "https://www.linkedin.com/company/google"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94035",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

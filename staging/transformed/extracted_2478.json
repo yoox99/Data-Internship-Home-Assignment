@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Telecommunications",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T16:49:56.000Z"
+  },
+  "company": {
+    "name": "B-Yond",
+    "link": "https://www.linkedin.com/company/b-yond"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Phoenix Area",
+    "region": null,
+    "postal_code": "85003",
+    "street_address": null,
+    "latitude": 33.44547,
+    "longitude": -112.06631
+  }
+}

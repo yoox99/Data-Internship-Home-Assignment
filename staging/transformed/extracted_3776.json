@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.  We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! Workfront, an Adobe company, is the leader in enterprise work management. Together, Adobe and Workfront provide companies a single system to support planning, collaboration, and governance to unlock organizational productivity and create exceptional experiences. Workfront helps people do their best work so companies can thrive in a digital world. Workfront is built for people, effortlessly connecting teams and easily integrating into existing applications and systems. The ability to see, measure, and analyze critical factors such as resources, outcomes, and priorities keeps everyone on the same page, with a clear understanding of why their work matters. As a Software Engineer, you will use your coding skills to develop, test and release features assigned to you and your software engineering team. You will be challenged daily to solve problems, expand your knowledge of the Workfront platform and the technologies that can be used to continuously improve it. You will grow as we do and your technical skills and ownership responsibilities will gradually increase as you move toward the next level. To us, company values are more than just words on a wall; they best describe who we are and how we get our work done. At Workfront, an Adobe company, you will be immersed in an exceptional work environment that is recognized around the world. You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely. If you’re looking to make an impact, we’re the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T10:01:17.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 84900,
+    "max_value": 122000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lehi",
+    "region": "UT",
+    "postal_code": "84043",
+    "street_address": null,
+    "latitude": 40.387875,
+    "longitude": -111.84917
+  }
+}

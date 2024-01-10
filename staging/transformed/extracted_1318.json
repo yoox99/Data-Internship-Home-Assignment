@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Experience",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Daily Harvest makes nourishing food built on fruits and vegetables accessible. We do this by delivering thoughtfully sourced, chef-crafted food to customers' doorsteps, all ready to enjoy in minutes. We're on a mission to take care of food, so food can take care of you.  Our team is collaborative, driven, and future-thinking. We're constantly learning, experimenting, and iterating, and celebrate failure just as much as success. We take risks, try new things, and we get things done. We love adaptogens and cruciferous vegetables but never say no to cake. Everything we do, we do in the service of our community. Daily Harvest is looking for a Software Engineer to join the Engineering team. The Engineering team focuses on architecting, developing, and delivering highly scalable and innovative software that meets the needs of the Daily Harvest business and our customers.  As a member of our software engineering team, you'll be part of a team that crafts and ships the code that powers our entire business and enables us to take care of food -- from user-facing web experiences, to code that interfaces with our RESTful API services. You'll be joining a team of inspired engineers who enjoy working together. [Position Summary]",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T05:15:02.000Z"
+  },
+  "company": {
+    "name": "Daily Harvest",
+    "link": "https://www.linkedin.com/company/daily-harvest"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81400,
+    "max_value": 177400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

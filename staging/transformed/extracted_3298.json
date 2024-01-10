@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Experimentation",
+    "industry": "Hospitality",
+    "description": "As a tech-enabled disruptor in the vacation rental industry, our ability to confidently and quickly learn from experiments across business functions is rapidly becoming an indispensable lever to future growth. In this role, you’d be a key voice in defining the future of experimentation at Evolve, tackling the most challenging problems around scalability and statistical robustness, and expanding current methodology to learn in new areas of the business.  Come join our fast-paced growth-stage culture working alongside other talented data professionals in an environment that invites and necessitates professional growth and learning. Evolve has a flexible working environment so teammates can work remotely anywhere in the state of Colorado, in our beautiful downtown Denver office, remotely or a hybrid of both! We're currently all working remotely and will be opening up the office in the near future for our in office and hybrid options. For this role our salary range is $95,000 to $115,000 depending on relevant experience. At Evolve, we care for our teammates by supporting their physical, mental, and financial wellbeing through a comprehensive Total Rewards Program. But wait, there’s more… optional benefits offered include commuter benefits, pet insurance and travel perks. Opportunity: Our leadership and management teams are dedicated to creating meaningful learning and growth opportunities for all Evolvers, as well as providing clear expectations and continuous feedback.  Community: It’s easy to make friends at Evolve. We support maintaining a strong community through our teammate-led groups focused on learning, inclusion, environmental wellness, and more.  Transparency: Every month, our leadership team shares how the company is performing, explaining where we’re headed next, and recognizing team members for jobs well done.  Values: They mean more to Evolve than just bullets on a page, they drive our daily decisions and impact how we work as a hospitality company. Which value sounds the most like you?",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-24T05:09:35.000Z"
+  },
+  "company": {
+    "name": "Evolve",
+    "link": "https://www.linkedin.com/company/evolve-vacation-rental"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pueblo-Cañon City Area",
+    "region": null,
+    "postal_code": "81001",
+    "street_address": null,
+    "latitude": 38.27385,
+    "longitude": -104.52035
+  }
+}

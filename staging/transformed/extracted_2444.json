@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer – San Francisco, CA",
+    "industry": "Oil &amp; Energy",
+    "description": "California, United States of America Information Technology (IT) Regular July 20, 2021 Experienced Professionals Do you enjoy working with a highly motivated and talented team to deliver mission critical software? Shell Renewables and Energy Solutions is growing and we as Site Reliability Engineering team play a key role we help deploy, manage, troubleshoot, and enhance our complex cloud-based services for a wide variety of customers. As a Site Reliability Engineer you will design and implement web applications and REST API services using a microservice-based infrastructure. The new technology stack includes (AWS), Docker/K8S, NoSQL/SQL database, and a range of monitoring tools. Your focus will be on maximizing system uptime. Team members all participate in an on-call rotation.  You will build innovative automated solutions and tools to help debug and resolve problems in production and prevent them from recurring. Further, you will proactively seek out system weaknesses and find ways to fix them before they cause production issues using monitoring data, watching trends, and using Chaos Engineering. There’s never been a more exciting time to work at Shell. Everyone here is helping solve one of the biggest challenges facing the world today: bringing the benefits of energy to everyone on the planet, whilst managing the risks of climate change.  Join us and you’ll add your talent and imagination to a business with the power to shape the future – whether by investing in renewables, exploring new ways to store energy or developing technology that helps the world to use energy more efficiently. To power progress together, we need to attract and develop the brightest minds and make sure every voice is heard. Here are just some of the ways we’re nurturing an inclusive environment – one where you can express your ideas, extend your skills and reach your potential… Combine our creative, collaborative environment and global operations with an impressive range of benefits and joining Shell becomes an inspired career choice.  We’re huge advocates for career development. We’ll encourage you to try new roles and experience new settings. By pushing people to reach their potential, we frequently help them find skills they never knew they had, or make career moves they never thought possible. Please note: We occasionally amend or withdraw Shell jobs and reserve the right to do so at any time, including prior to the advertised closing date. Before applying, you are advised to read our data protection policy. This policy describes the processing that may be associated with your personal data and informs you that your personal data may be transferred to Royal Dutch/Shell Group companies around the world. The Shell Group and its approved recruitment consultants will never ask you for a fee to process or consider your application for a career with Shell. Anyone who demands such a fee is not an authorised Shell representative and you are strongly advised to refuse any such demand. Shell participates in E-Verify. All qualified applicants will receive consideration for employment without regard to race, color, sex, national origin, age, religion, disability, sexual orientation, gender identity, protected veteran status, citizenship, genetic information or other protected status under federal, state or local laws. Shell is an Equal Opportunity Employer - Minorities/Females/Veterans/Disability. As a US Federal Contractor, hiring selections are subject to periodic audit review and documentation of your selections should be maintained for a period of three calendar years. It is the policy of Shell in the U.S. (“Shell”) to provide equal opportunity to all individuals, employees and all qualified applicants for employment consistent with employment requirements and qualifications. Shell prohibits discrimination based on race, color, sex, national origin, age, religion, disability, sexual orientation, gender identity, veteran status, citizenship, genetic information, or other protected status under federal, state or local laws. All employees are expected to support this policy and contribute to an environment of equal opportunity. If you need an accommodation for a disability during the resourcing process, please speak with an HR representative.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T21:14:21.000Z"
+  },
+  "company": {
+    "name": "Shell",
+    "link": "https://nl.linkedin.com/company/shell"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

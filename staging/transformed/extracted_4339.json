@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Hospital &amp; Health Care",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-12T12:46:09.000Z"
+  },
+  "company": {
+    "name": "Strategic Staffing Solutions",
+    "link": "https://www.linkedin.com/company/strategic-staffing-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bloomfield",
+    "region": "CT",
+    "postal_code": "06002",
+    "street_address": null,
+    "latitude": 41.830956,
+    "longitude": -72.73743
+  }
+}

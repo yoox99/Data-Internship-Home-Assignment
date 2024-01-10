@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Do you want to own cutting-edge technology, solve new problems that didn’t exist before, and have the ability to see the impact of your successes?  We are looking for MLEs who move fast, are capable of breaking down and solving complex problems, and have a strong will to get things done. MLEs at Amazon work on real world problems at scale, own their systems end to end and influence the direction of our technology that impacts customers.  At Amazon an MLE can expect to design flexible and scalable solutions, and work on some of the most complex challenges in large-scale computing by utilizing your skills in data structures, algorithms, and object oriented programming.  Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us. Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.  Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records - Amazon.com Services LLC  Job ID: A1757944",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-02T11:27:14.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 89500,
+    "max_value": 129000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

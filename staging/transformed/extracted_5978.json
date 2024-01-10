@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "E-Learning",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T12:15:27.000Z"
+  },
+  "company": {
+    "name": "BYJU'S",
+    "link": "https://in.linkedin.com/company/byjus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "IN",
+    "locality": "Bangalore Urban",
+    "region": null,
+    "postal_code": "577566",
+    "street_address": null,
+    "latitude": 12.951727,
+    "longitude": 77.593636
+  }
+}

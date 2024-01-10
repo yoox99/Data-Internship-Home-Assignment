@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Insurance,Financial Services",
+    "description": "We are not just offering a job but a meaningful career! Come join our passionate team!  As a Fortune 50 company, we hire the best employees to serve our customers, making us a leader in the insurance and financial services industry. State Farm embraces diversity and inclusion to ensure a workforce that is engaged, builds on the strengths and talents of all associates, and creates a Good Neighbor culture.  We offer competitive benefits and pay with the potential for an annual financial award based on both individual and enterprise performance. Our employees have an opportunity to participate in volunteer events within the community and engage in a learning culture. We offer programs to assist with tuition reimbursement, professional designations, employee development, wellness initiatives, and more!  Visit our Careers page for more information on our benefits, locations and the process of joining the State Farm team!  As a Machine Learning Engineer, you will play in integral role within State Farm for helping build and support advanced analytic solutions that are used across the enterprise. Machine Learning Engineers are responsible for helping deploy data science solutions, build solutions that optimize analytic workflows, and assisting with analytic research requests. With this role, your work will help increase use of advanced analytics for decision making throughout the company. Being part of the Engineering team within our Enterprise Technology (ET) department will help facilitate your professional growth across multiple development areas.  First, you will strengthen your communication skills through interactions with key business partners that require you to articulate technical concepts in a non-technical way. Additionally, the variety of projects that you work on will allow you to refine your knowledge for advanced analytic topics, software development practices, and tool development for use by the department. Finally, to help keep your skills sharp, this role includes an opportunity for practical research and continued professional development with opportunities to learn and leverage cutting edge tools and many different programming languages.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T19:53:24.000Z"
+  },
+  "company": {
+    "name": "State Farm ®",
+    "link": "https://www.linkedin.com/company/state_farm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dunwoody",
+    "region": "GA",
+    "postal_code": "30084",
+    "street_address": null,
+    "latitude": 33.94232,
+    "longitude": -84.31601
+  }
+}

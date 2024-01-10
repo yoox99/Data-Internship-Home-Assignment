@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "zOS RACF Programmer*",
+    "industry": "Information Technology and Services",
+    "description": "The Opportunity: VSO is seeking a zOS logical security programmer to provide logical security support on an existing zOS environment with 3-5 years experience with RACF, CA-ACF2, CA-TopSecret, Global Security Settings, SSL and Digital Certificate, risk assessment. As part of the VSO company, you will be part of a virtue-centered team who value their work and teammates. . We provide ongoing learning and development opportunities to foster continuous growth. We offer competitive salaries, health benefits, and flexible work arrangements. : VSO is a hybrid cloud and managed services consulting firm. Much of VSO’s success can be attributed to our deep partnerships with IT services industry leaders such as AWS, IBM, Microsoft and others. VSO leverages numerous other partner relationships so as to provide our customers with optimal support. Additionally, we take pride in taking care of our employees. We offer a wide variety of benefits for eligible employees related to health, retirement, professional development, and more! For more information, please visit our website at",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:07:32.000Z"
+  },
+  "company": {
+    "name": "Virtual Service Operations",
+    "link": "https://www.linkedin.com/company/virtual-service-operations"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

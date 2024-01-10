@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Remote (US) Our Retention Team is looking for a Data Scientist. The ideal candidate will have experience in extracting insights from relational databases and conveying them to a business audience. In this role, you will use your experience with data and statistics to drive customer retention and expansion through various data science techniques such as churn prediction, customer segmentation, and feature recommendation. Excellent communication skills are also required, as this is a highly visible and influential role that will collaborate with cross-functional teams and present information to business leaders. Posted 17 Days Ago Full time R-2021-6304  At LogMeIn, Inc., we build category-defining products that unlock the potential of the modern workforce, making it possible for millions of people and businesses around the globe do their best work, whenever, however, and most importantly, wherever. We’re a pioneer in remote work technology and a driving force behind today’s work-from-anywhere movement, and have become one of the world’s largest SaaS companies with tens of millions of active users, more than 3,500 global employees, over $1.2 billion in annual revenue and more than 2 million customers worldwide who use our software as an essential part of their daily lives. We’re headquartered in Boston, Massachusetts with additional locations in North America, South America, Europe, Asia and Australia.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-30T18:06:09.000Z"
+  },
+  "company": {
+    "name": "LogMeIn",
+    "link": "https://www.linkedin.com/company/logmein"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

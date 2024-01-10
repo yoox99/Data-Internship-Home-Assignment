@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Medical Devices,Computer Software,Hospital &amp; Health Care",
+    "description": "LVIS is a leader in cutting-edge neural information analysis technologies that can decode brain networks and find cures for neurological diseases. LVIS owns patented technologies and our team includes leaders with strong expertise in neuroscience and engineering from Stanford University. LVIS has been selected to be a member of the Stanford StartX community and the NVIDIA inception program. We have an international team with our headquarter located in Palo Alto, California, USA and we have an office in Gangnam, Seoul, South Korea. We are looking for talented individuals to join us in transforming the neurology health care industry. Other Information",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T03:27:42.000Z"
+  },
+  "company": {
+    "name": "LVIS Corporation",
+    "link": "https://www.linkedin.com/company/lvis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

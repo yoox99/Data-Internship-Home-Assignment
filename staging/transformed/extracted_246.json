@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services",
+    "description": "Are you excited by turning unstructured data into actionable insights and recommendations? Then this opportunity is for you!  Bodhala is looking to add a talented and motivated Machine Learning Engineer to our growing technology team! As a data scientist, you will collaborate with product managers and domain experts to develop new capabilities and features for Bodhala's products. We need a person who can work hands-on as an engineer, solving complex problems and building advanced software systems.  We are committed to using data to drive impact, growing together as a team, embracing openness and positivity - and we're looking for individuals who are motivated by those same principles. Experts are of course welcome, non-experts are also encouraged to apply! We're all here to learn. Why work at Bodhala  At Bodhala, we look for individuals who are motivated by complex and challenging work. We want to work with people who share compelling solutions to those challenges, solutions informed by their unique experiences, passions, and expertise. Bodhala is a legal spend management platform founded to provide in-house counsel and their legal operations teams with spend optimization solutions and real-time market intelligence. Bodhala's platform applies data science, machine-learning, and AI to help companies find the right lawyer, at the right firm, for the right price. Founded by attorneys, the company serves customers across the Fortune 500 and critical services economy industries. Bodhala was recently named One to Watch in Legal Technology by the Financial Times and Legal Tech Innovation of 2020 by Legal Tech Breakthrough Awards.  Headquartered in New York City, Bodhala tripled its headcount last year and is positioned for continued fast-paced growth, with locations across the United States and in Europe.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-12T00:36:52.000Z"
+  },
+  "company": {
+    "name": "Bodhala",
+    "link": "https://www.linkedin.com/company/bodhala"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Ann Arbor",
+    "region": "MI",
+    "postal_code": "48106",
+    "street_address": null,
+    "latitude": 42.281418,
+    "longitude": -83.748474
+  }
+}

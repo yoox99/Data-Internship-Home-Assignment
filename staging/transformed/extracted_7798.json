@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist I",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "Candidate will assist model development groups with review and remediation of model development documentation prior to validation submission.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-21T21:42:41.000Z"
+  },
+  "company": {
+    "name": "Bank of America",
+    "link": "https://www.linkedin.com/company/bank-of-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

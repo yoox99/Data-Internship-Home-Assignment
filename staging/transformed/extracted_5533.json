@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Realtime Software Developer",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "Our client develops novel technologies to detect and characterize threats for Homeland Security applications, and to provide decision support to operators and analysts. The client is in need of a software developer for two related programs developing real time software systems. The developer will be working with a small team of other software developers to develop, test, and deploy real-time software for operational use in the field. A strong background in DevSecOps, AWS, Python, and willingness to learn are essential. In addition, strong communication skills and experience working with a team in rapid (Agile) development cycles is required. : Full lifecycle application development. Designing, coding and debugging applications in various software languages. Software analysis, code analysis, requirements analysis, software review, identification of code metrics, system risk analysis, software reliability analysis. Object-oriented Design and Analysis (OOA and OOD). Software modeling and simulation. Front end graphical user interface design. Software testing and quality assurance. Performance tuning, improvement, balancing, usability, automation. Supports, maintains and documents software functionality. Integrates software with existing systems. Evaluates and identifies new technologies for implementation. Maintains standards compliance. Implements localization or globalization of software  Li-IM-1 This job posting sets forth the authorities and responsibilities of this position, which may be changed from time to time as shall be determined is an innovative small business committed to providing world-class technical, management, and training support services to government and public sector clients. We focus on people, processes, and performance to deliver superior results. Since our inception in 1997, our commitment to mission success and customer satisfaction has been recognized with exponential growth and exceptional past performance ratings. We accept challenging assignments and drive projects from the planning stages, through implementation, and into operations and support. Final compensation for this position will be determined by various factors such as the Federal Government contract labor categories and contract wage rates, relevant work experience, specific skills and competencies, geographic location, education, and certifications.  Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:41:28.000Z"
+  },
+  "company": {
+    "name": "Odyssey Systems",
+    "link": "https://www.linkedin.com/company/odysseyconsult"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lexington",
+    "region": "MA",
+    "postal_code": "02420",
+    "street_address": null,
+    "latitude": 42.44817,
+    "longitude": -71.224724
+  }
+}

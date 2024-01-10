@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer In Test",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:40:22.000Z"
+  },
+  "company": {
+    "name": "Mindtree",
+    "link": "https://in.linkedin.com/company/mindtreeltd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62300,
+    "max_value": 115000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

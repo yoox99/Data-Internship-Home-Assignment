@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Games,Computer Software,Entertainment",
+    "description": "At the core of Epic and Psyonix’s success are talented, passionate people. Psyonix prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that enables others to make visually stunning interactive experiences, we’re always innovating.  Being Epic means being a part of a team that continually strives to do right by our community and users. We’re constantly innovating to raise the bar of engine and game development. We are looking for a qualified and passionate Data Scientist to join us on the Analytics team. You will lead in-depth analyses into our raw player behavior data, surface actionable insights and opportunities to the organization, and work with the team to transform your findings into processes and systems supporting our fundamental goal of making Rocket League better. Our intent is to cover all things that are medically necessary and improve the quality of life. We pay for 100% of the premiums for both you and your dependents. We offer coverage for Medical, Dental, Vision HRA, Long Term Disability, AD&D and Life Insurance, 401k.  All Epic employees enjoy drinks, snacks, and lunches every day, free of charge - and we offer plenty of annual celebrations for employees and family members to show the love we have for our people. Additionally, each year, we celebrate the Epic family with company-wide paid breaks, generous paid time off, and recognize individuals for 7 years of employment with a paid sabbatical - we think our people are pretty awesome! Epic Games deeply values diverse teams and an inclusive work culture, and we are proud to be an Equal Opportunity employer. Learn more about our Equal Employment Opportunity (EEO) Policy here .  Epic Games deeply values diverse teams and an inclusive work culture, and we are proud to be an Equal Opportunity employer. Learn more about our Equal Employment Opportunity (EEO) Policy here .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-09T16:10:48.000Z"
+  },
+  "company": {
+    "name": "Epic Games",
+    "link": "https://www.linkedin.com/company/epic-games"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

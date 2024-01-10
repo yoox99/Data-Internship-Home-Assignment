@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Network Engineer",
+    "industry": "Computer Hardware",
+    "description": "Description: .  Requirements:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T06:06:54.000Z"
+  },
+  "company": {
+    "name": "Semcon",
+    "link": "https://se.linkedin.com/company/semcon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 180,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Egg Harbor Township",
+    "region": "NJ",
+    "postal_code": "08234",
+    "street_address": null,
+    "latitude": 39.38301,
+    "longitude": -74.607956
+  }
+}

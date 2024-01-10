@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Back-End Software Engineer",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T06:12:58.000Z"
+  },
+  "company": {
+    "name": "ZaiNar, Inc.",
+    "link": "https://www.linkedin.com/company/zainar"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Belmont",
+    "region": "CA",
+    "postal_code": "94003",
+    "street_address": null,
+    "latitude": 37.508537,
+    "longitude": -122.291954
+  }
+}

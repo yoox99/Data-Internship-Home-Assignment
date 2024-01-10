@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Kinship is here to help everyone pet parent like a pro. We’re a data-driven collective, building the future of pet care with interconnected solutions that reimagine every experience across the pet parent journey. We combine insights, products, and services to help people be the best pet parents they can be, and ultimately create a better world for pets. That includes our world-leading WISDOM PANEL ™ genetic health screening and DNA testing for dogs, the award-winning WHISTLE ™ GPS dog tracker and health monitor, Pet Insight Project, our ground-breaking science team that uses AI to turn billions of data points into actionable insights, and our partnerships like the LEAP VENTURE STUDIO accelerator that supports innovators and start-ups, allowing Kinship to bring new solutions to pet parents.  Kinship is a business division of Mars Petcare, the global leader in pet health, nutrition, and services, and dedicated to one purpose: A Better World for Pets . Learn more at www.kinship.co . The Kinship Data & Analytics team is a multifaceted team with global impact on the Kinship businesses. This team, a mixture of engineering, product insights, and data science associates, will partner with internal and Mars Petcare teams to build a rich understanding of pets and pet-owners and power our business and the Kinship data ecosystem. We are using an evolving, cutting edge tech stack to help us ingest, process, model and democratize data from across the segment to create robust pet-centric views of our clients. As a member of a team that is still growing, you will have the opportunity to help shape our team’s identity and footprint. The ideal candidate possesses strong technical skills, is comfortable working on ever-changing problems, works well cross-functionally, has a sharp eye for details, proactively owns and solves problems, and is always excited to learn. As Kinship people, we have three pillars that set out how we aim to be--in our everyday work, and in how we approach each other. We call these our Cultural Pillars. In all of the roles that we hire for, we look for people who are Optimistic, Purposefully Inquisitive, and Open to All. And for this role, you’ll need these skills to knock it out of the dog park:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-20T10:54:45.000Z"
+  },
+  "company": {
+    "name": "Kinship",
+    "link": "https://www.linkedin.com/company/kinshipco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

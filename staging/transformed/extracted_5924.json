@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - (QT/C++ - Up to 150k Base!)",
+    "industry": "Hospital &amp; Health Care",
+    "description": "Title: Senior Software Engineer  Location: Irvine, CA (Relocation Packages are Available if Needed)  Compensation: Competitive 130k - 150k (DOE)  Requirements: UI, QT/C++, Embedded Linux (5+ years of total experience)  Preferred candidates have: Medical Device experience  If you are a Senior Software Engineer with solid QT/C++ experience, please read on!  We are developing an innovative medical device to treat patients in-home; removing the burden and ultimately increasing the patient's quality of life. Despite the cost of this treatment increasing, only about 1/8 people receive this treatment in-home. Our solution will not only improve the lives of others but also decrease the cost of care.  We are well-funded and seeking a QT/C++ Engineer with embedded Linux . If you are interested, please read on!  What You Will Be Doing What You Need for this Position Medical Device Experience is a huge plus!  What's In It for You So, if you are qualified, interested in healthcare and improving the lives of many, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Nick.Savard@CyberCoders.com Nick Savard - Sr. Executive Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:49:29.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 67100,
+    "max_value": 85100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

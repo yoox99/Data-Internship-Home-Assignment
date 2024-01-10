@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software",
+    "description": "This position is responsible for contributing to the software codebase that StoneAge has created and maintains. This includes but is not limited to developing new features, supporting training, resolving bugs, and managing deployed infrastructure in cloud platforms  Further, this position collaborates cross-departmentally with the marketing, sales, finance, IT, and operations teams on matters of mutual concern. This includes assisting in interviewing technical positions, conducting trade studies, and making recommendations on technology selection and integration, as well as provide support in outside consultant selection and management. As a part of larger initiatives, this position requires the ability to provide candid feedback on timelines, risks, and capabilities. StoneAge offers a comprehensive benefits program that includes group health, dental, and vision insurance, life insurance, long-term disability insurance, paid time off, paid holidays, a 401(k) plan with a guaranteed match, paid parental leave, a wellness rewards program, and much more.  We are an employee-owned company with profit-sharing and an Employee Stock Ownership Plan (\"ESOP\"), in which shares of company stock are allocated to eligible employees each year.  Our \"Own It\" mindset captures what many of us consider the biggest benefit of all a highly engaged, collaborative workplace where everyone matters and every employee has a huge impact.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T03:22:01.000Z"
+  },
+  "company": {
+    "name": "StoneAge Waterblast Tools",
+    "link": "https://www.linkedin.com/company/stone-age-waterblast-tools"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 56100,
+    "max_value": 110000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Durango",
+    "region": "CO",
+    "postal_code": "81303",
+    "street_address": null,
+    "latitude": 37.28225,
+    "longitude": -107.87776
+  }
+}

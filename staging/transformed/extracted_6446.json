@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Equipment Data Analyst",
+    "industry": "Machinery",
+    "description": "At Peterson our Vision is to be our . We put our customers first and continually strengthen our partnerships through our employee’s hard work, ingenuity and determination. Our 85 year history is a reflection of our collective efforts and focus.  We provide a family oriented environment that promotes safety, personal growth and professional achievement. Critical to our continued success is . We are deeply committed to providing an environment necessary to attract and retain engaged employees who will relentlessly strive to reach Peterson’s strategic goals and vision. We have high standards for our employees, with good reason. They represent Peterson, our family, our brand, and our values to customers and our team members.  Why Peterson?  We have high expectations and so do you. We offer competitive wages, generous benefits, and promotional opportunities at a family owned and operated business that really cares about employees. If you want to work side-by-side with others who are passionate about customer service, consider joining our team. You can help us write more chapters in our success story as we move towards celebrating our 100 year anniversary. The person in the position organizes and performs Machines–Engines Inventory/Population data cleanup and maintenance in DBS-OLGA-ED-CRM for all Peterson CAT locations (CA and OR). Responsible to review and perform monthly cleanup and update duties for all DBS-OLGA-ED-CRM (Dealer-Business Systems - Opportunity Lead Generation Analyzer – Equipment Data) specific system maintenance and reports. Responsible to update customers’ Machines-Engines population records as requested by Product Support Reps, Machines-Engines Salesman and Sales Managers and other Peterson CAT employees as defined by the Product Support Analytics & Program Manager The following reflects management’s definition of essential functions for this job but does not restrict the tasks that may be assigned. Management may assign or reassign the functions to this job at any time due to reasonable accommodation or other reasons. Job functions include the following. Other duties may be assigned. Associate's degree (A. A.) or equivalent from two-year College or technical school; and at least two years of work experience with data analysis and inputs; or equivalent combination of education and experience.  Experience with DBS, CAT Machines-Engines Equipment database and Tableau knowledge is strongly preferred. Knowledge and working experience with Microsoft Office (Excel-Word-PowerPoint) programs is a requirement.  Peterson Holding Company is committed to equal employment opportunity and affirmative action. Minorities, females, veterans, and individuals with disabilities are encouraged to apply. A drug screen and background check is required.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T23:55:26.000Z"
+  },
+  "company": {
+    "name": "Peterson Cat",
+    "link": "https://www.linkedin.com/company/peterson-cat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 54600,
+    "max_value": 82600,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Leandro",
+    "region": "CA",
+    "postal_code": "94577",
+    "street_address": null,
+    "latitude": 37.728363,
+    "longitude": -122.158615
+  }
+}

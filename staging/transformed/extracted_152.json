@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Want to help everyday Americans invest and build wealth? Financial inequality is increasing, and too many people are getting left behind. At Stash, we are passionate about democratizing wealth creation through education, advice, and products that help customers achieve greater financial freedom.  Stash is seeking Principal Machine Learning Engineers to join our engineering team.  This role focuses on shipping ML-driven features that enhance the steady building of wealth and spend management for millions of our customers.  As a senior technical leader, you will work across many functions in the company from Design, Modeling, Engineering, Growth, Support and Fraud Prevention to enable sophisticated AI solutions at scale. We are looking for a technical leader with motivation to build beautiful, intuitive products with empathy for our customers. This is a career-defining opportunity, where you can help bring to market new categories of products including crypto products. At Stash it is our mission to help everyday Americans invest and build wealth. That includes people of all races, genders, and abilities, so it is important to us to acknowledge and address the issues of inequality in financial services head on.  Diversity and inclusion are essential to living our values, promoting innovation, and building the best products. Our success is directly related to our employees and we believe that our team should reflect the diversity of the customers that we serve. As an Equal Opportunity Employer, Stash is committed to building an inclusive environment for people of all backgrounds.  If you require any reasonable accommodations to make your application process more accessible please reach out to recruiting@Stash.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T17:24:31.000Z"
+  },
+  "company": {
+    "name": "Stash",
+    "link": "https://www.linkedin.com/company/stashfinancial"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

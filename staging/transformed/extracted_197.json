@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer-Sales Force",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "This role provides you with the opportunity to join a SAAS/cloud-first, innovative, fast-paced technology team within Asset Management Technology supporting FIAM, responsible for application development and support for Sales applications for institutional sales team. Your focus will be to continuously develop and improve Sales and Relationship management functionalities in our CRM Salesforce platform, redefining Sales, servicing & client experience.  As a senior developer, you will also play a key role in promoting Salesforce development best practices across various teams in the product area. The role is based out of Smithfield-RI, Boston-MA, Merrimack-NH, Westlake-TX. Asset Management’s FIAM business unit is a distribution/client service organization dedicated to the institutional marketplace. This is one of the largest organizations serving the U.S. institutional marketplace with more than $540 billion in assets under administration and over 750 institutional customers. We serve as a gateway to Fidelity’s broad and deep institutional investment management capabilities.  You will be part of a tremendously hardworking and diverse team responsible for building and maintaining multiple environments. You will be part of a team that has a passion for technology tempered by a level-headed approach to problem solving, and experience with build and deployment software.  This position requires excellent communication skills, ability to work across a culturally diverse teams, providing release/production support on a need basis. This is an exciting and challenging position for anyone who can think beyond the obvious. This role requires a strong engineering background and mindset in building and implementing technology solutions. Company Overview  At Fidelity Investments, our customers are at the heart of everything we do. As a privately held company with a rich 75-year history, our mission has remained the same since our founding: . We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money.  Join Us  At Fidelity, you’ll find endless opportunities to build a meaningful career that positively impacts peoples’ lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. And you don’t need a finance background to succeed at Fidelity—we offer a range of opportunities for learning and growth so you can build the career you’ve always imagined. We welcome associates from different backgrounds and with different perspectives to help us innovate and make a difference for our customers and our communities.  We invite you to at fidelitycareers.com.  Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.  Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Leave of Absence/Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 2.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:28:15.000Z"
+  },
+  "company": {
+    "name": "Fidelity Investments",
+    "link": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Smithfield",
+    "region": "RI",
+    "postal_code": "02917",
+    "street_address": null,
+    "latitude": 41.879116,
+    "longitude": -71.48336
+  }
+}

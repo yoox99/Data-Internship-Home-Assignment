@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Systems Administrator",
+    "industry": "Construction,Information Technology and Services,Financial Services",
+    "description": "Reporting to the Senior Managing Director of IT & Infrastructure, as Senior Systems Administrator/DevOps Engineer you are responsible for the core network and software development. This position requires technical acumen, customer focus, and a personable, professional and collaborative style to solve a range of issues. The focus of this position will be on the development of software and automation for our exhibits and mobile devices. The Senior Systems Administrator/DevOps Engineer is also responsible for the core network that runs our public- and staff-related systems, including a wide range of Cisco equipment, our Mac-based exhibit technology, AV systems, IP phone system, Comcast broadband, routing and switching, fail-over and redundancy technologies, and our internal copper and fiber and Wi-Fi technologies.  What You Will Be Doing What You Need for this Position So, if you are a Senior Systems Administrator with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Kyle.Martin@CyberCoders.com Kyle Martin - Recruiting Manager - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:32:20.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

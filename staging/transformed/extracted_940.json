@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend (LA/Austin)",
+    "industry": "Computer Games",
+    "description": "The fastest-growing High School and College sport in America isn’t basketball or football—it’s esports—and PlayVS is the official platform for High School and Collegiate esports. We offer an incredible, full-stack esport platform—game integrations, team building tools, leagues, tournaments, and schedules—and our software products tie everything together into a cohesive experience.  We are looking for a passionate backend Software Engineer to join our team. You will be responsible for helping us build new, and maintain existing, APIs and services. PlayVS is an equal opportunity employer and is proud to be a majority minority company. We provide equal employment opportunities and are committed to maintaining an inclusive environment for our customers, employees, and applicants. We prohibit discrimination and harassment of any type regardless of race, color, religion, age, sex (including pregnancy and gender identity), national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, parental status, or any other characteristic protected by federal, state or local laws.  If you have a disability or special need that requires an accommodation, please contact us at accommodations@playvs.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-22T17:15:44.000Z"
+  },
+  "company": {
+    "name": "PlayVS",
+    "link": "https://www.linkedin.com/company/playversus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

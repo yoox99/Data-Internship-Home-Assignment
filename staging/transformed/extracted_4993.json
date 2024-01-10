@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Electrical Engineer",
+    "industry": "Computer Software",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:41:24.000Z"
+  },
+  "company": {
+    "name": "Pony.ai",
+    "link": "https://www.linkedin.com/company/pony-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 145000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "This Jobot Job is hosted by Craig Rosecrans  Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.  Salary $100,000 - $185,000 per year Jobot is seeking a Machine Learning Engineer who will be part of a team that leads the way in bringing artificial intelligence and machine learning into the very processes and systems that impact how customers are served. This is an exciting opportunity to make an impact with by leveraging AI and ML techniques to create production level systems through application of machine learning models. We are the fastest growing startup in NC & are known for our incredibly tight knit culture. We love what we do & believe in empowering our people to be as creative and entrepreneurial as humanly possible! We are looking for a Senior Machine Learning Engineer to join our talented team of Engineers and Scientists. Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T21:51:32.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Durham",
+    "region": "NC",
+    "postal_code": "27717",
+    "street_address": null,
+    "latitude": 35.99695,
+    "longitude": -78.899025
+  }
+}

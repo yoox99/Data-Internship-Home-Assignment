@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr. Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "We are looking for a Jr Software Engineer is responsible for providing software design, implementation, and testing of clinical information software used in healthcare institutions to chart review and analyze patient clinical data. This role requires functional knowledge of all of the component parts within software creation. You will perform software design based on input from the design team and clinical users, characteristics of the existing software base; in consultation with other engineering staff, and system functional requirements. You will work with a team of world class engineers, contributing to the overall design and architecture of products that support the current and next generation of electronic health records. The role will involve working effectively on an independent and team basis in contributing to a cutting edge architectural system. The start of the security clearance process is up to the discretion of the company and may begin no later than the successful completion of the first 90 days of employment, and commensurate with job requirements and the needs of the business. Successful completion of the security clearance process may not be required for every position but all candidates must be willing to submit to the process if requested by their manager according to the requirements of the position and business needs  CliniComp is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status. We comply with the Americans with Disabilities Act and consider reasonable accommodation measures that may be necessary for eligible applicants/employees to perform essential functions. EEO/AA/M/F/Veteran/Disabled CA Resident Employees receive 100% covered Medical and Dental premiums for you & your dependants  Generous 401(k) plan and contribution  Events and weekly lunches  Engaging wellness activities  Corporate Social Responsibility Program  So many more to list…  CliniComp complies with the Americans with Disabilities Act and considers reasonable accommodation measures that may be necessary for eligible applicants/employees to perform primary responsibilities. EEO/AA/M/F/Veteran/Disabled",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T03:39:04.000Z"
+  },
+  "company": {
+    "name": "CliniComp",
+    "link": "https://www.linkedin.com/company/clinicomp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 57300,
+    "max_value": 82500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

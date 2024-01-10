@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (JoinOCI-Ns2)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The Oracle Cloud Infrastructure (OCI) team can provide you the opportunity to build and operate a suite of massive scale, integrated cloud services in a broadly distributed, multi-tenant cloud environment. OCI is committed to providing the best in cloud products that meet the needs of our customers who are tackling some of the world’s biggest challenges.  We offer unique opportunities for smart, hands-on engineers with the expertise and passion to solve difficult problems in distributed highly available services and virtualized infrastructure. At every level, our engineers have a significant technical and business impact designing and building innovative new systems to power our customer’s business critical applications. We are building the next generation IaaS cloud service and are providing a world class cloud support experience. We are building a team of energetic, customer-focused service operations engineers that blend system admin, incident command, and NOC engineering disciplines. You’ll be part of a dynamic team that learns broadly how our cloud platform works so you can be the bridge between product engineering and our partners. As part of the broader Engineering organization, you will act as the voice of the customer to influence product features and plans to improve the customer experience. This role is integral to the success of our customer relationships and is critical to the success of the platform. This role will support Oracle’s Government customers. Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.  As a member of the software engineering division, you will take an active role in the definition and evolution of standard practices and procedures. You will be responsible for defining and developing software for tasks associated with the developing, designing and debugging of software applications or operating systems.  Work is non-routine and very complex, involving the application of advanced technical/business skills in area of specialization. Leading contributor individually and as a team member, providing direction and mentoring to others. BS or MS degree or equivalent experience relevant to functional area. 7 years of software engineering or related experience. Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It’s when everyone’s voice is heard and valued, that we are inspired to go beyond what’s been done before. That’s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.  Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T11:00:49.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

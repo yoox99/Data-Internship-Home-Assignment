@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Embedded Software Engineer - C /C++ / Linux",
+    "industry": "Computer Software",
+    "description": "We are a disruptive medical device startup that is revolutionizing the way that the world thinks about diagnostics! We value our relaxed and fun company culture, and we're looking for someone who isn't solely money motivated; but instead sees the true potential of a stable, VC-funded (50M) company that has been in business for 10+ years!  What's In It for You What You Need for this Position What You Will Be Doing So, if you have the experience above, please apply today or email me directly at edwin.ocampo@cybercoders.com! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Edwin.Ocampo@CyberCoders.com Edwin Ocampo - Recruiting Manager - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:01:02.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

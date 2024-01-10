@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Consumer Services",
+    "description": "Quinn started as a dream our founders had a long, long time ago, dreamt up during a free period of middle school. They're operators at heart and enjoy working with world-class talent.  We're exceptionally proud of the company we've built so far and humbled by the work we have yet to accomplish. Our people are Quinn's most significant competitive advantage, and we'll continue investing in them as a cornerstone of our culture. As a Machine Learning Engineer focused on search and recommendations, you’ll help us build out our core product by developing high-impact, user-facing features. You’ll be developing in a fast-paced environment, working with a high-performing team, touching all parts of the product. You’ll be learning and growing, and you’ll be doing it quickly. This is a high-impact role as you’ll be working directly with our founders.  You'll design and implement your features to be scalable and resilient. That might include hurdles like the complexities of a real-time, single-page web application, scaling backend services under high load, and developing algorithms to enable unique features. You'll develop tools for other teams that will make their lives easier while also advancing the product for our customers. As an early hire, you will have a significant impact as a positive driver of Quinn's engineering culture, processes, and technology.  We will measure your success by your ability to ship fast, learn quickly, and contribute to our culture of continuous improvement. You will have the opportunity to manage your own projects and fully understand how your work impacts the business. You’ll have the opportunity to work with an amazing team solving problems that will change the way people use computers. We are an incredibly supportive team–we love to pitch in when difficulties arise and give excellent peer feedback to help each other grow. We are passionate about lots of things--automation, maximizing human potential, automation that feels human, and a remarkable user experience--and we love sharing those passions. Our tech stack centers around NodeJS / GraphQL and React. However, we’re always open to working with other new and emerging technologies. IS THIS ROLE NOT AN EXACT FIT?  Sign up to stay in touch, we'll let you know when we have new positions on the team.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T15:30:12.000Z"
+  },
+  "company": {
+    "name": "Quinn",
+    "link": "https://www.linkedin.com/company/usequinn"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

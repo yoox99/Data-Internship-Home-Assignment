@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Networking,Computer Software,Internet",
+    "description": "We believe work is not a place, but rather a thing you do. Our technology revolves around this core philosophy. We are relentlessly committed to helping people work and play from anywhere, on any device. Innovation, creativity and a passion for ever-improving performance drive our company and our people forward. We empower the original mobile device: YOU! You are a Software Engineer with two plus years of experience in one or more object oriented programming language(s) (C#/Java). You have gained hands on programming skills and have extensive knowledge of programming constructs, data structures, algorithms and scripting languages/framework. You have a passion for solving sophisticated problems and enjoy working in a dynamic, fast-paced environment to deliver innovative solutions that enable our customers to transform their business by leveraging the latest cloud technologies. In this position, you will be developing leading edge software as part of a talented team of software professionals to create innovative cloud solutions. Responsibilities range from conceptualizing ideas, targeted research with rapid prototyping to resolve feasibility, risk evaluation and then create well-thought-out software designs and implementation. The position will initially focus on the development & maintenance of Citrix Cloud product line, which will present you with a unique opportunity to expand problem-solving situations that will become an invaluable individual career asset. Our Corporate culture is a unique blend that combines the structured vision and process maturity of a well-established software company with the dynamism and vibrancy of a small startup. Our technology is built on the idea that everyone should be able to work from anywhere, at any time, and on any device. It’s a simple philosophy that guides everything we do — including how we work. If you’re an engineer, we’ll give you plenty of ways to test your skills on cutting edge technology. We want employees to do what they do best, every day.  Be bold. Take risks. Imagine a better way to work. If this sounds like you then we’d love to talk. Software Development Citrix is a cloud company that enables mobile workstyles. We create a continuum between work and life by allowing people to work whenever, wherever, and however they choose. Flexibility and collaboration is what we’re all about. The Perks: We offer competitive compensation and a comprehensive benefits package. You’ll enjoy our workstyle within an incredible culture. We’ll give you all the tools you need to succeed so you can grow and develop with us.  Citrix Systems, Inc. is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination on the basis of age, race, color, gender, sexual orientation, gender identity, ethnicity, national origin, citizenship, religion, genetic carrier status, disability, pregnancy, childbirth or related medical conditions, marital status, protected veteran status and other protected classifications.  Citrix uses applicant information consistent with the Citrix Recruitment Policy Notice at https://www.citrix.com/about/legal/privacy/citrix-recruitment-privacy-notice.html  Citrix welcomes and encourages applications from people with disabilities. Reasonable accommodations are available on request for candidates taking part in all aspects of the selection process. If you are an individual with a disability and require a reasonable accommodation to complete any part of the job application process, please contact us at (877) 924-8749 or email us at ASKHR@citrix.com for assistance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:07:46.000Z"
+  },
+  "company": {
+    "name": "Citrix",
+    "link": "https://www.linkedin.com/company/citrix"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Lauderdale",
+    "region": "FL",
+    "postal_code": "33325",
+    "street_address": null,
+    "latitude": 26.124163,
+    "longitude": -80.143585
+  }
+}

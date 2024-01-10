@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Staff Network Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "ServiceNow is making the world of work, work better for people. Our cloud‑based platform and solutions deliver digital workflows that create great experiences and unlock productivity for employees and the enterprise. We're growing fast, innovating faster, and making an impact on our customers' and employees' lives in significant and important ways. With over 6,900 customers, we serve approximately 80% of the Fortune 500, and we're on the 2020 list of FORTUNE World's Most Admired Companies.®  We’re looking for people who are ready to jump right in and help us build on our incredible momentum, our diverse, engaged workforce, and our purpose to make the world of work, work better.  Learn more on Life at Now blog and hear from our employees about their experiences working at ServiceNow. ServiceNow is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.  If you require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at talent.acquisition@servicenow.com for assistance.  For positions requiring access to technical data subject to export control regulations, including Export Administration Regulations (EAR), ServiceNow may have to obtain export licensing approval from the U.S. Government for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by the U.S. Government.  Please Note: Fraudulent job postings/job scams are increasingly common. Click here to learn what to watch out for and how to protect yourself. All genuine ServiceNow job postings can be found through the ServiceNow Careers site.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:40:11.000Z"
+  },
+  "company": {
+    "name": "ServiceNow",
+    "link": "https://www.linkedin.com/company/servicenow"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 112000,
+    "max_value": 146000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kirkland",
+    "region": "WA",
+    "postal_code": "98034",
+    "street_address": null,
+    "latitude": 47.675507,
+    "longitude": -122.20336
+  }
+}

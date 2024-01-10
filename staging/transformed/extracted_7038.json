@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Computer Networking",
+    "description": "We are a part of Emerging Technologies and Incubation Group passionate about identifying breakthrough emerging solutions that build new markets and businesses for Cisco. We incubate these new opportunities in partnership with our business groups, partners and other startups. The team also continues to progress Cisco’s important work with Standards bodies and manage research partnerships with leading-edge Universities. As an SRE team member, you will be responsible for crafting and evolving the environments, tooling, and practices used by continually evolving application teams as they transform research ideas into products that will be taken to market to make a significant difference for Cisco and the industry. Specifically, you will  Use sound systems design to deliver available, observable, and scalable common services  Collaborate with our partners from the multiple application teams who are demonstrating our services, working to ensure their success  Participate in evaluations and build vs. buy decisions across open source and the greater Cisco community for each service required, as well as its implementation, including deployment, monitoring, and evolution  Develop software – code, scripts, and configuration – to optimally and repeatedly deploy, monitor, and evolve services.  Develop standards and practices used by all teams – application and platform – to build operable services  Participate in the on-call rotation for the services delivered by the SRE/Platform team  Participate in “Incident Command”, assisting application service owners with triage, remediation, and postmortems for their incidents, ensuring lessons learned are implemented across all teams The Emerging Technologies and Incubation (ET&I) team is a highly visible group which reports directly to Cisco’s CEO. ET&I focuses on the next wave of innovation by anticipating, investing in, and incubating new technologies and business ventures.  You will be part of the Incubation team in the US, to develop new solutions, and bring them to market in a startup like environment. Start-up experience strongly preferred; you have worked in startups or startup ventures within larger organizations  Outstanding verbal and written communication skills.  Systems-level thinker; you consider where a problem should be solved, not just how.  Ability to thrive in a multifaceted, ever-changing environment.  Willingness to lead and do; while this is an individual contributor role, you will be responsible for taking the initiative to drive your own projects to completion, as well as ensuring the success of those who you are building for.  Expertise and experience in delivering large-scale systems using cloud technologies including but not limited to public cloud platforms such as GCP, Azure & AWS.  Well versed with engineering, QA and technical operations practices with agile application development and delivery vehicles.  2+ years’ experience with software development. We build repeatable systems through automation  2+ years’ experience with “DevOps” or infrastructure-as-code tools such as Puppet, Chef, Ansible, or Terraform  Bachelor’s Degree in Computer Science, CIS, Engineering, or related field or equivalent experience #WeAreCisco, where each person is unique, but we bring our talents to work as a team and make a difference. Here’s how we do it.  We embrace digital, and help our customers implement change in their digital businesses. Some may think we’re “old” (30 years strong!) and only about hardware, but we’re also a software company. And a security company. An AI/Machine Learning company. We even invented an intuitive network that adapts, predicts, learns and protects. No other company can do what we do – you can’t put us in a box!  But “Digital Transformation” is an empty buzz phrase without a culture that allows for innovation, creativity, and yes, even failure (if you learn from it.)  Day to day, we focus on the give and take. We give our best, we give our egos a break, and we give of ourselves (because giving back is built into our DNA.) We take accountability, we take bold steps, and we take difference to heart. Because without diversity of thought and a commitment to equality for all, there is no moving forward.  So, you have colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:18:01.000Z"
+  },
+  "company": {
+    "name": "Cisco",
+    "link": "https://www.linkedin.com/company/cisco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

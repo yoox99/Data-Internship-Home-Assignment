@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "It's fun to work in a company where people truly BELIEVE in what they're doing! Since launching in 2010, WP Engine has become the world’s leading WordPress Digital Experience Platform (DXP), now with over 100,000 customers in 140 countries. We’re proud of the technology and service we offer our customers that move their businesses forward faster. At WP Engine, we strive to do the best work of our careers, and feel empowered to do what is right for our customers. We love investing in employee success and uncovering opportunities for you, the best, to get better. 99 percent of employees believe you’re made to feel welcome at WP Engine. Be you. Be here. WP Engine is on a mission to help our customers win online! Whether that’s helping an aspiring entrepreneur to turn a hobby into an online business or a multinational corporation to launch a new campaign in weeks instead of months, our platform is there to help them win — whatever that means for them.  We are searching for an experienced engineer to help shape the future of Headless WordPress. Leading our Headless Framework initiatives, you will have a direct impact on the way headless WordPress sites are built with modern tools like Node and React. Your work will fundamentally change the way front end developers work with WordPress. This software will be Open Source, so you’ll also be directly interacting with the community that you will help develop.  Our culture is renowned; we believe it is meaningful to hire the best and ensure that we provide an environment where the best get better. If you are a hard worker with excellent interpersonal skills, great at solving problems, and enjoy working across different time zones and cultures, you may be the engineer that we are looking for! At WP Engine, we strive to have the broadest possible view of diversity, going beyond visible differences to include the background, experiences, skills, and perspectives that make each person unique. WP Engine is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran status, or any other basis protected by federal, state, or local law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:19:50.000Z"
+  },
+  "company": {
+    "name": "WP Engine",
+    "link": "https://www.linkedin.com/company/wpengine"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Scottsdale",
+    "region": "AZ",
+    "postal_code": "85266",
+    "street_address": null,
+    "latitude": 33.494907,
+    "longitude": -111.92606
+  }
+}

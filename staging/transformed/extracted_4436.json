@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "SGSS Network Engineer",
+    "industry": "Security and Investigations",
+    "description": "Peraton has an opening for a at the White Sands Complex in Las Cruces, NM. The Network Engineer will join a team of professionals responsible for configuring and monitoring parameters for networked equipment pools.  Peraton is the prime contractor for NASA at the White Sands Complex (WSC) near Las Cruces, New Mexico. Operating here are two functionally identical satellite ground terminals: The White Sands Ground Terminal, and the Second TDRSS Ground Terminal. These ground terminals ensure uninterrupted communications between various ground stations, NASA’s orbiting constellation of Tracking and Data Relay Satellites (TDRS), customer spacecraft (satellites), and the computer systems which support such spacecraft. WSC serves as an interface for distributing satellite data to control centers and scientists who then use the daily influx of data to expand our ever-growing knowledge of the Earth and the universe. Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our 22,000 employees do the can’t be done, solving the most daunting challenges facing our customers.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:13:12.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 64000,
+    "max_value": 93100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Las Cruces",
+    "region": "NM",
+    "postal_code": "88011",
+    "street_address": null,
+    "latitude": 32.31624,
+    "longitude": -106.78045
+  }
+}

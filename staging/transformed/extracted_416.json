@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer - Java / Full Stack",
+    "industry": "Consumer Services,Financial Services,Information Technology and Services",
+    "description": "As the world’s leader in digital payments technology, Visa’s mission is to connect the world through the most creative, reliable and secure payment network - enabling individuals, businesses, and economies to thrive. Our advanced global processing network, VisaNet, provides secure and reliable payments around the world, and is capable of handling more than 65,000 transaction messages a second. The company’s dedication to innovation drives the rapid growth of connected commerce on any device, and fuels the dream of a cashless future for everyone, everywhere. As the world moves from analog to digital, Visa is applying our brand, products, people, network and scale to reshape the future of commerce.  At Visa, your individuality fits right in. Working here gives you an opportunity to impact the world, invest in your career growth, and be part of an inclusive and diverse workplace. We are a global team of disruptors, trailblazers, innovators and risk-takers who are helping drive economic growth in even the most remote parts of the world, creatively moving the industry forward, and doing meaningful work that brings financial literacy and digital commerce to millions of unbanked and underserved consumers.  You’re an Individual. We’re the team for you. Together, let’s transform the way the world pays. As part of the Network Processing Product Development organization, you will be responsible for system development, implementation, maintenance and support of Visa's Clearing and Settlement systems, which clear, settle, and deliver transactions to issuer and acquirer financial institutions globally. Through this challenging job, you will gain experience collaborating with various parts of the business in understanding requirements for system enhancements, identifying areas of improvement and implementing changes to the system where it is needed. The product that you oversee will be of the highest quality meeting all requirements within the scheduled timeframe. You! We are looking for a Senior Lead Engineer with application design and development experience who will take ownership and/or lead the engineering responsibility for multiple components in a project. You are a great teammate, making sure that everyone on your team feels valued and is excited to work with you. Location, time pressure, distractions, none of it matters: no matter the environment, you know you can code and build amazing, high-performing, and bug-free products. . No matter the challenge, you know you can find a solution and encourage others to think the same. You recognize when to ask for help and when to collaborate with others, working across departments and influencing in areas beyond immediate control. Above all, you are someone who takes initiative and thinks like an owner - you've defined your everywhere and lead others to find theirs all while launching Visa ahead of the game. Working at Visa is challenging. The problems that we face and solve and the decisions that we make affect the world. Visa is all about helping people around the world reach their Everywhere, the place where their personal, professional and financial goals intersect. As the premier payments technology company, we're proud to boast that our commerce platforms touch the lives of billions, all over the globe. If you have ambition, focus and drive, and are interested in joining a global team focused on changing the way the world pays and is paid, you'll find your everywhere at Visa. This position requires the incumbent to be available during core business hours. This position do not requires the incumbent to travel. This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers, and reach with hands and arms. Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.  Job Number: REF35079P",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:13:17.000Z"
+  },
+  "company": {
+    "name": "Visa",
+    "link": "https://www.linkedin.com/company/visa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

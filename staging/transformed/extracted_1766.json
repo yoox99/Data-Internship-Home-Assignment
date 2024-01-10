@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Programmer Writer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Bluehawk Consulting is looking for a Technical Writer / Documentation to be part of our client’s Conversation Platform Developer Experience team. This is a meaningful role in supporting developers while sustaining a relationship that fuels every developer's journey to learn, know, and love the platform. We are looking for someone that will be a hands-on advocate who can go wide and deep on developer enablement and solution positioning for developers and partners' growth. If you thrive in an environment working closely with developers and business partners this is the position for you! Bluehawk Consulting is a Kirkland, Washington-based management consulting firm helping Fortune 500 clients improve their performance, increase their efficiency, and enhance organizational value while reducing costs.  We are a team who love to accomplish great things together!  We excel at hiring talented people who are driven to create solutions for our client’s most challenging projects. Uniting amazing talent with meaningful work experiences is our passion; fostering an environment that embraces individuality and unique gifts embodies our values and fuels our purpose. We work hard to create a supportive environment, where employees enjoy a very competitive pay and benefits package, including an optional, full-benefits package that includes medical, dental, vision, 401K, holidays and paid-time-off (PTO). Bluehawk also provides training opportunities and rewards leadership, diligence and the desire to achieve more.  Bluehawk is committed to employing a diverse workforce. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability. www.bluehawkconsulting.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:26:33.000Z"
+  },
+  "company": {
+    "name": "Bluehawk Consulting",
+    "link": "https://www.linkedin.com/company/bluehawk-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

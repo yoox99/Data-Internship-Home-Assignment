@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Recommendations",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Multi Media, LLC owns and operates one of the most popular live streaming entertainment platforms on the internet, earning spots on Alexa’s most visited websites, top 50 globally and top 20 in the United States.  As a Machine Learning Engineer on the Data team, you will introduce models to power recommendations and content ranking for millions of users on a daily basis. We are looking for individuals with hands-on experience building end-to-end recommendations systems at scale.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T10:54:23.000Z"
+  },
+  "company": {
+    "name": "Multi Media, LLC",
+    "link": "https://www.linkedin.com/company/multimedia-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "West Hollywood",
+    "region": "CA",
+    "postal_code": "90069",
+    "street_address": null,
+    "latitude": 34.090683,
+    "longitude": -118.37175
+  }
+}

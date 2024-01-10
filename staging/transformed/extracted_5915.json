@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Firmware Engineer - Embedded C, Cloud, Wearables, IoT",
+    "industry": "Construction,Information Technology and Services,Financial Services",
+    "description": "If you are a Firmware Engineer with experience, please read on!  With locations around the world, we are a fast-growing developer and manufacturer of medical devices. We are seeking an experienced Firmware Engineer with C programming skills who ideally has worked with embedded systems/firmware for wearable devices collecting real-time data. As a Senior Engineer, you'll be responsible for product ownership and have a great deal of say and autonomy with system architecture including design, development, and implementation.  Employee development, career growth, and employee autonomy are all important aspects of our company culture. Your input is valuable, encouraged and celebrated. If this is you, please apply today!  Top Reasons to Work with Us What You Will Be Doing What You Need for this Position What's In It for You For your hard work and dedication, you will be rewarded with a competitive base salary, benefits and work environment including but not limited to So, if you are a Firmware Engineer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Pat.Befort@CyberCoders.com Pat Befort - Recruiting Manager - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:39:53.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redwood City",
+    "region": "CA",
+    "postal_code": "94064",
+    "street_address": null,
+    "latitude": 37.4805,
+    "longitude": -122.21528
+  }
+}

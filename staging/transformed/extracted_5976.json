@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "NLP Machine Learning Engineer",
+    "industry": "Consumer Electronics",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T11:09:46.000Z"
+  },
+  "company": {
+    "name": "Samsung Electronics",
+    "link": "https://kr.linkedin.com/company/samsung-electronics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "IN",
+    "locality": "Noida",
+    "region": null,
+    "postal_code": "201306",
+    "street_address": null,
+    "latitude": 28.58467,
+    "longitude": 77.352005
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Site Reliability Engineer",
+    "industry": "Internet,Information Technology and Services",
+    "description": "Momentive (formerly SurveyMonkey) is a leader in agile experience management, delivering powerful, purpose-built solutions that bring together the best parts of humanity and technology to redefine AI. Momentive products, including GetFeedback, SurveyMonkey, and its brand and market insights solutions, empower decision-makers at 345,000 organizations worldwide to shape exceptional experiences. More than 20 million active users rely on Momentive to fuel market insights, brand insights, employee experience, customer experience, and product experience. Ultimately, the company's vision is to raise the bar for human experiences by amplifying individual voices. Learn more at momentive.ai. As a member of the new SRE team at SurveyMonkey, you will automate away toil, help teams in AWS, and build tools to make development seamless. The SRE team is embedded amongst several developments that are responsible for some of the most trafficked applications within SurveyMonkey. The SRE team will be fully remote across North American time zones. This role presents a prime opportunity to ensure reliability, maintainability, performance, scalability, and security are at the forefront of our teams' products. The Staff Site Reliability Engineer will partner with the application development and main infrastructure teams to architect and operate reliable, scalable, and performant services. You will have a huge impact on how we do things and help take our engineering excellence to the next level. You will report to the Senior Manager of Site Reliability Engineering. Momentive is a place where the curious come to grow and shape what's next. By embedding inclusion into our processes, policies, and culture for our 1,400+ employees across North America, Europe, and APAC, we're building a workplace where people of every background can excel. We've won multiple awards and received recognition for our forward-looking policies, including extended parental and bereavement leave, vendor benefits standards, and Take 4 sabbaticals.  Momentive is featured as a Glassdoor 2021 Best Place to Work and National Capital Region's Top Employer in Canada (2021). In 2020, Momentive was recognized as a top place to work by Glassdoor Best Places to Work, Fortune Best Places to Work in the Bay Area, Parity.org's Best Companies for Women to Advance, and National Capital Region's Top Employers in Canada. Momentive has consistently been recognized by Great Place to Work® and Fortune as a top workplace since 2018, and we have also won numerous awards as a leader in global survey software, including being named among the G2 Best Software Companies, CNBC's Disruptor 50, and the Forbes Cloud 100. Momentive is an equal opportunity employer and is committed to providing a workplace free from harassment and discrimination. We celebrate the unique differences of our employees because that is what drives curiosity, innovation, and the success of our business. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, gender identity or expression, age, marital status, veteran status, disability status, pregnancy, parental status, genetic information, political affiliation, or any other status protected by the laws or regulations in the locations where we operate. Accommodations are available for applicants with disabilities.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T04:15:04.000Z"
+  },
+  "company": {
+    "name": "Momentive.ai",
+    "link": "https://www.linkedin.com/company/momentive.ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

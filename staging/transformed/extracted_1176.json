@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer - Air Traffic",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The ERAM program within the Civil group at Leidos is seeking a who will be a member of a dynamic team working on the Federal Aviation Administration's En-Route Automation Modernization (ERAM) technology. ERAM is the heart of the Next Generation Air Transportation System and the pulse of the National Airspace System advancing our transition from a ground-based system of air traffic control to a satellite-based system of air traffic management. ERAM is vital to the future of air navigation, providing the foundational platform required for FAA to enable NextGen solutions, via modernization programs such as System Wide Information Management, Data Communications, and Automatic Dependent Surveillance- Broadcast. ERAM will provide benefits for users and the flying public by increasing air traffic flow. As a on our diverse and collaborative team, you will work alongside our expert Scientists and Engineers, contributing to cutting- edge technology with global impact on security detection. This is not your run-of-the-mill software development – you will be honing your engineering skills with embedded products, real-time programming, and object-oriented design, all with the support of a management team focused on your professional growth and advancement. The uses knowledge and experience with Object-Oriented C++ development to perform job functions. Individual will be responsible for developing applications for our distributed turn-key systems. Working under general supervision in a small team environment, your primary responsibility will be to modify, develop, and troubleshoot multi-tiered distributed applications and systems. The duties and responsibilities may change from time to time without notice and include but are not limited to the duties described below. tsfaa Ineligible Yes, 100% Public Trust No #Remote",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:18:57.000Z"
+  },
+  "company": {
+    "name": "Leidos",
+    "link": "https://www.linkedin.com/company/leidos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Gaithersburg",
+    "region": "MD",
+    "postal_code": "20884",
+    "street_address": null,
+    "latitude": 39.142185,
+    "longitude": -77.193405
+  }
+}

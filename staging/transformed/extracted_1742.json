@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Javascript (Remote)",
+    "industry": "Computer Software,Information Technology and Services,Computer &amp; Network Security",
+    "description": "Braintree lets you move money from one place to another safely and securely. Every time you pay for an Uber ride, book a stay through Airbnb, or pay with PayPal when you check out online, you’re using our product. It sounds complex (and it is), but we make it so simple you can’t tell we’re there.  We solve world-scale problems and provide opportunities to match. We build diverse teams that recognize our strengths and allow us to work on our weaknesses. You bring skills and a relentless focus on the customer, and we'll provide the support you need to do the best work of your life.  Check us out: GitHub | Blog | Twitter | LinkedIn | Facebook | The Muse | Glassdoor | Product and Tech Blog Our focus is teaming with smart engineers who are passionate about their craft and excited to build software for our unique solutions in the space.  At Braintree, developers have the chance to work on various teams and stacks. Although much of our platform software is written in Ruby, we believe in using the best tool for the job. For example, we’ve written data platforms in Clojure, payment gateways in Java, and contextual commerce in Python. The Braintree SDK team is looking for a JavaScript developer to help us develop and maintain the tools merchants use to integrate with PayPal. The team handles client SDKs (iOS/Android/JS), server libraries, and backend services that help them run. Since we rotate pairs frequently, there will be opportunities to learn from & teach teammates working on the other client SDKs and the server SDKs. SDKs (JavaScript) - You'll work on developing and maintaining the JavaScript client SDKs merchants use to integrate with PayPal & Braintree. That involves writing new code in TypeScript or JavaScript, in addition to maintaining and updating legacy JavaScript code. Since we rotate pairs frequently, there will be opportunities to learn from & teach teammates working on the other client SDKs and the server SDKs.  Braintree's Core Values (Ask Why, Care A Lot, Solve Together) drive our work and interactions. We ask hard questions; we support each other; we team up to solve tricky problems. And at the end of the day, we close our computers and disconnect. We know the confidence gap and imposter syndrome can get in the way of meeting spectacular candidates. Please don’t hesitate to apply. You can also check out our FAQ!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:18:41.000Z"
+  },
+  "company": {
+    "name": "Braintree",
+    "link": "https://www.linkedin.com/company/braintree"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

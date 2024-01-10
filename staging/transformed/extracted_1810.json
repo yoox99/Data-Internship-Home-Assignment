@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Embedded Linux Software Engineer - C, ARM",
+    "industry": "Electrical/Electronic Manufacturing",
+    "description": "If you are a Senior Embedded Linux Software Engineer with experience, please read on! Design, develop, maintain, test, and evaluate software for CNC computer control system under limited supervision of the Software Engineering Supervisor. This level of engineering calls for an experienced engineer with expertise in particular area(s) of embedded software and mathematics.  What You Will Be Doing  Proposes problem solutions through analysis, problem definition, requirement generation and implementation of proposed solutions. Creates documentation and supporting diagrams supporting solutions. Prepares and installs source code into source control by determining compliance of software changes with system specifications, programming best practices, and ensuring these changes are free from defects. Improves workflow by conducting analysis, and recommending changes in policies and procedures to management. Creates bug reports through investigation and by collecting, and analyzing data, and providing clear documentation on reproduction of observed issues. Must be an active coder. Communicate technical ideas clearly, able to use Microsoft Office applications when appropriate. Employees are expected to follow instructions, procedures and to escalate any issue impacting workflow, quality, etc. Additionally, there are high value items that require proper care and protection.  What You Need for this Position  5+ years of coding experience. Expertise in C and C++ (Java is a plus). OOP (Object Orientated Programming) experience is a plus. Experience reading and writing bash and batch scripts (intermediate to expert). Experience in developing and maintaining board support packages (BSP) for embedded systems. (ARM Cortex-A systems is a plus). Experience in applying patches to and debugging the Linux kernel. Experience in writing and debugging Linux device drivers (SPI, PCIe, UART, etc.). Comfortable working in Windows and Linux environments. Linux is a requirement. Experience with inter-process communication (Google Protocol Buffers is a plus). Experience in writing and debugging multi-threaded applications. Strong understanding of real time systems, XML , file systems, networking, multi-threaded applications, computer graphics, linear algebra, calculus, geometry, and trigonometry, human-computer interaction/User Interface design, design patterns, encryption, hashing, checksum, and CRCs (Cyclical Redundancy Check). Communicate technical ideas clearly, able to use Microsoft Office applications when appropriate. Experience in reading and writing technical requirement documentation. Experience working with source-control system. Experience with Eclipse/Visual Studios. Can reverse engineer source code written in C and generate requirements, and write equivalent code in a higher level language. Employees must exhibit honesty and integrity as well as demonstrate adherence to rules, procedures and policies.  Masters Degree MSCS or MSCE, from a four-year college or university is required, plus an additional 5+ years related experience or Bachelors Degree BSCS/BSCE with 7+ years plus an additional of related experience, training and/or equivalent combination of education and experience.  So, if you are a Senior Embedded Linux Software Engineer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Stephen.Maroda@CyberCoders.com Stephen Maroda - Lead Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:06:16.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oxnard",
+    "region": "CA",
+    "postal_code": "93036",
+    "street_address": null,
+    "latitude": 34.197662,
+    "longitude": -119.17595
+  }
+}

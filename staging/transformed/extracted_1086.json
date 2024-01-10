@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Construction,Mechanical or Industrial Engineering",
+    "description": "Randstad is seeking a Software Engineer with experience in Aerospace or the Automotive industry to support the Embedded development of a state-of-the-art alternative fuel Aircraft Propulsion System. You will work with a diverse international team and head up the design and development of the Control Systems. Your work will truly revolutionize air transportation across North America and Europe.  location: Everett, Washington job type: Permanent salary: $135,000 - 145,000 per year work hours: 8am to 4pm education: Bachelors Equal Opportunity Employer: Race, Color, Religion, Sex, Sexual Orientation, Gender Identity, National Origin, Age, Genetic Information, Disability, Protected Veteran Status, or any other legally protected group status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:12:35.000Z"
+  },
+  "company": {
+    "name": "Randstad USA",
+    "link": "https://www.linkedin.com/company/randstadusa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Everett",
+    "region": "WA",
+    "postal_code": "98201",
+    "street_address": null,
+    "latitude": 47.97913,
+    "longitude": -122.19589
+  }
+}

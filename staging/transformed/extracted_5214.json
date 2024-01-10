@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Assc Dir- Data Engineer",
+    "industry": "Financial Services",
+    "description": "At Moody’s Analytics Know Your Customer (KYC) / Know Your Supplier (KYS), we solve problems that matter. We are a cross-functional team of sales and marketing, technology and product professionals who are all passionate about preventing criminal infiltration of the world’s financial system and bringing transparency to global supply chains by detecting fraud, terrorism, human trafficking, and other criminal threats. We combine the agility, passion and dynamism of a startup with the strong positioning and stability of a large corporation, providing our people with dynamic career paths and mobility options across the US, Europe, and APAC, all while having access to the entire Moody’s network. We empower our people and are committed to helping them reach their goals.  As a database engineer, you will be a core member of a cross-functional team responsible for developing and executing on a vision for how to grow the KYC/KYS business monumentally through new product innovation. We practice an agile, highly customer focused, and learning-based approach to product development that aims to bring new products to market in 9-12 months.  You will be responsible for building and maintaining high quality data pipelines that drive analytic solutions. These solutions will draw on Moody’s Analytics unique and rich data sources to generate insights for innovative products that create a new standard in the KYC/KYS space. You bring not only a deep understanding of data architecture, data engineering, data analysis, reporting, and a basic understanding of data science techniques and workflows, but also a passion for translating those skills into business impact for our customers. Know Your Customer OU (KYC OU) 22795BR Moody's Analytics (MA) Know Your Customer OU (KYC OU) Regular New York Engineering & Technology Software Engineering Experienced Hire Moody's (NYSE: MCO) is a global integrated risk assessment firm that empowers organizations to make better decisions. Our data, analytical solutions and insights help decision-makers identify opportunities and manage the risks of doing business with others. We believe that greater transparency, more informed decisions, and fair access to information open the door to shared progress. With over 11,000 employees in more than 40 countries, Moody's combines international presence with local expertise and over a century of experience in financial markets. Learn more at moodys.com . Moody’s Analytics provides financial intelligence and analytical tools supporting our clients’ growth, efficiency and risk management objectives. The combination of our unparalleled expertise in risk, expansive information resources, and innovative application of technology, helps today’s business leaders confidently navigate an evolving marketplace. Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, gender, age, religion, national origin, citizen status, marital status, physical or mental disability, military or veteran status, sexual orientation, gender identity, gender expression, genetic information, or any other characteristic protected by law. Moody’s also provides reasonable accommodation to qualified individuals with disabilities in accordance with applicable laws. If you need to inquire about a reasonable accommodation, or need assistance with completing the application process, please email accommodations@moodys.com . This contact information is for accommodation requests only, and cannot be used to inquire about the status of applications.  For San Francisco positions, qualified applicants with criminal histories will be considered for employment consistent with the requirements of the San Francisco Fair Chance Ordinance. For New York City positions, qualified applicants with criminal histories will be considered for employment consistent with the requirements of the New York City Fair Chance Act. For all other applicants, qualified applicants with criminal histories will be considered for employment consistent with the requirements of applicable law.  Click here to view our full EEO policy statement. Click here for more information on your EEO rights under the law. Click here to view our Pay Transparency Nondiscrimination statement. Candidates for Moody's Corporation may be asked to disclose securities holdings pursuant to Moody’s Policy for Securities Trading and the requirements of the position. Employment is contingent upon compliance with the Policy, including remediation of positions in those holdings as necessary.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:13:17.000Z"
+  },
+  "company": {
+    "name": "Moody's Analytics",
+    "link": "https://www.linkedin.com/company/moodysanalytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Cloud Data Engineer",
+    "industry": "Retail",
+    "description": "The Cloud Engineer will provide a strong leadership role in developing the Enterprise data architecture of Digital and Retail businesses across different guitar Center brands, providing technical guidance, architecture, and enforcing technical standards. Provides assessments and prototyping of new concepts and technologies and often develops capabilities to be handed off to operational development teams. Provides analysis on complex problems as well as be an active member of enterprise technology design decisions. The Guitar Center Company embodies the world of creativity and music by encouraging our teammates to find their own individual sound. Our mission is to develop and nurture lifelong musicians and make a difference in the world by enabling musicians and non-musicians alike to experience the joy that comes from creating music. We believe in putting our customers first, engaging with respect and integrity, and fulfilling our mission with passion.  The Guitar Center Company operates through several business divisions. Guitar Center is the world's largest retailer of guitars, amplifiers, drums, keyboards, recording, live sound, DJ, and lighting equipment, with more than 290 stores across the United States.  2014 marked the milestone 50th anniversary of the Guitar Center Company as the organization continues to help people make music from coast to coast.     E-Commerce brands Guitar Center, Musician's Friend and WWBW offer online sales of a broad selection of music products. The Music & Arts division operates more than 220 stores specializing in band & orchestral instruments for sale and rental, serving teachers, band directors, college professors, and students since 1952. AVDG and GCPro headline the enterprise audio-visual integration business, delivering a best-in-class commercial and residential customer experience. With a career at Guitar Center, you become part of the world's largest multichannel musical instrument retailer. Whether at our Stores, Contact Centers, Distribution Centers, or Support Center, Guitar Center employees have a common goal: to help people find their sound and fill the world with more music. Send your resume and cover letter today along with salary expectations!  Guitar Center is an Equal Opportunity Employer and provides fair and equal employment opportunity to all employees and applicants regardless of race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, veteran status or any other protected status prohibited under Federal, State, or local laws. All employment decisions are based on valid job‐related requirements.  If you are a qualified individual with a disability or a disabled veteran and are unable or limited in your ability to use or access our website, you may request a reasonable accommodation to express interest in a specific opening. You can request a reasonable accommodation by sending an email to .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:09:55.000Z"
+  },
+  "company": {
+    "name": "Guitar Center",
+    "link": "https://www.linkedin.com/company/guitar-center"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westlake Village",
+    "region": "CA",
+    "postal_code": "91363",
+    "street_address": null,
+    "latitude": 34.14381,
+    "longitude": -118.799644
+  }
+}

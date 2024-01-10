@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Retail Data Analyst - Store Labor",
+    "industry": "Retail",
+    "description": "Guitar Center embodies the world of creativity and music by encouraging staff to find their own individual sound. Our mission is to develop and nurture lifelong musicians and make a difference in the world by enabling musicians and non-musicians alike to experience the joy that comes from creating music. We believe in creating inclusive environments that put our customers first all the while fulfilling our mission.  As our Retail Reporting Analyst, you will be responsible for handling all data and system-related reporting to promote growth and improved performance in all programs managed by the Store Operations team all while supporting our culture of integrity, inclusion, musical passion, and respect.  A few special that make our Retail Reporting Analysts :",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:05:28.000Z"
+  },
+  "company": {
+    "name": "Guitar Center",
+    "link": "https://www.linkedin.com/company/guitar-center"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westlake Village",
+    "region": "CA",
+    "postal_code": "91363",
+    "street_address": null,
+    "latitude": 34.14381,
+    "longitude": -118.799644
+  }
+}

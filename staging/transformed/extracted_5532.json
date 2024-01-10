@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "QA Engineer",
+    "industry": "",
+    "description": "We are looking for a versatile, curious, and motivated QA engineer to help define the way we build and test our products in a start-up like environment. If you are passionate about pioneering new technologies into software testing, have your voice and ownership in quality, improving product performance, security and more, we would like to connect with you. As a Quality Assurance Engineer (QA), you will join a team of hands-on, passionate engineers to ensure the highest quality for our products. You will help build and own various test frameworks for both the front-end and backend. This role is an integral part of creating products with first class user experience as well as sustaining a fast-growing customer base.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:37:28.000Z"
+  },
+  "company": {
+    "name": "Prendio",
+    "link": "https://www.linkedin.com/company/prendio-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Woburn",
+    "region": "MA",
+    "postal_code": "01815",
+    "street_address": null,
+    "latitude": 42.479126,
+    "longitude": -71.1518
+  }
+}

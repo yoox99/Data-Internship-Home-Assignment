@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Big Data Platform",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "The Role  Tesla is on mission is to accelerate the world's transition to sustainable energy. We are looking for a Site Reliability Engineer to join our data platform team. We are a small, expert, cross-functional team made of data engineers and SREs. We are building a fairly large platform that other teams ranging from autopilot to service technicians leverage to collect and access data. We are already processing trillions of events per day but with more and more cars on the road, more and more Superchargers, Powerwalls, solar installations, new factories in China and Europe, and, of course, new products coming to markets, we need to think about scaling up our hybrid infrastructure to the next level.  What we are building Responsibilities  You’ll work on high impact projects that improve data availability, scalability, and reliability of our data infrastructure. Requirements Preferred",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T08:13:58.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Palo Alto",
+    "region": "CA",
+    "postal_code": "94310",
+    "street_address": null,
+    "latitude": 37.445103,
+    "longitude": -122.16036
+  }
+}

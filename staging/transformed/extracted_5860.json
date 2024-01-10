@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Biotechnology",
+    "description": "Seeking a Senior Software Engineer, Architect who will develop complex software for low power and battery powered medical devices. Come join a team of professionals where your experience will be a Value add.  What You Will Be Doing  Develop Linux applications that communicate with firmware running on development boards  Design and implement Architecting the firmware system design  Ensure high reliability suitable for verification and validation  What You Need for this Position  Bachelor's Degree in Computer Science or a related field  5+ years of Software Engineer experience  Implement secure data streaming and synchronization over BLE/USB  Implement streaming and synchronization using REST APIs  Support group efforts toward high quality documentation Familiarity with Qt, Linux systems and implementing applications that communicates with firmware  Knowledge of QMS, FDA design controls and GMP regulation  Experience working in both large structured and small entrepreneurial organizations  For your hard work and dedication earn a generous salary, bonus and stock option along with a comprehensive benefits package including 401k and much more.  Relocation assistance could be available for an ideal candidate. Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Nyna.Goldberg@CyberCoders.com Nyna Goldberg - Principal Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:38:27.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 67100,
+    "max_value": 85100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lake Forest",
+    "region": "CA",
+    "postal_code": "92609",
+    "street_address": null,
+    "latitude": 33.66746,
+    "longitude": -117.6885
+  }
+}

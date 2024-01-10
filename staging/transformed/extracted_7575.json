@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Manufacturing SDE",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:28:56.000Z"
+  },
+  "company": {
+    "name": "CSI Interfusion",
+    "link": "https://www.linkedin.com/company/csi-interfusion"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - (100% REMOTE)",
+    "industry": "Computer Software,Financial Services,Real Estate",
+    "description": "eXp Realty is one of the fastest growing real estate brands in North America, with thousands of agents operating across the United States, Canada and around the world. As a full-service real estate brokerage, eXp Realty provides 24/7 access to collaborative tools, training and socialization for real estate brokers and agents through its 3-D, fully-immersive, cloud office environment.  eXp Realty attracts the most talented people from all fields. Whether you're a real estate professional, engineer, marketer, accountant or another field, you'll be challenged and inspired every day. Join us on this incredible journey!  We are fully remote! eXp Realty is hiring a Site Reliability Engineer (SRE) to join our DevOps Engineering Team. This role is for a high-performing, hands-on Engineer committed to the practices required to support critical customer-facing platforms requiring consistent uptime while driving continuous improvement and innovation. We are building the next generation SaaS Operations Organization to enable our product development Teams to effectively deliver SaaS Products and Service offerings to our Customers.  This SRE role will be focused on continually improving our operational practices and automating them to reduce toil, through code, or use of modern tools, along with being engaged in activities for improving availability and reliability of our Infrastructure, Systems and Services.  Focus will be around designing effective monitoring / alerting (for conditions such as application-errors, high memory usage) and log aggregation approaches (to quickly access logs for troubleshooting, or generate reports for trend analysis) to proactively notify stakeholders of issues and communicate metrics. eXp Realty is an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status or disability or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:14:09.000Z"
+  },
+  "company": {
+    "name": "eXp Realty",
+    "link": "https://www.linkedin.com/company/exp-realty"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

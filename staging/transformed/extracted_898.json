@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "The Data Scientist is responsible for overseeing the collection, storage, and interpretation of data for the enterprise scale big-data analytics platform. The focus of this position is to use data to surface relevant insights which deliver value toward achieving national security goals.  The Data Scientist will work with a small team of professionals with network, security and database management and data visualization skills and experience to enable our customers to analyze large amounts of different kinds of data and surface patterns and insights that are relevant to accomplishing national security goals. The ideal candidate should have national security analysis experience, and use systems engineering and analytical approaches for applying mathematical and statistical principles. Critical thinking and problem-solving skills are essential. A passion for advanced technology research continual learning is desired.  Our goal is to enable our customer to use their enterprise scale big data analytics platform to systematically apply an analytically rigorous foundation for making better decisions. The ideal candidate will possess skills in key areas, such as: JCS Solutions LLC is an IT Government Contracting company dedicated to providing the highest quality of services and solutions. Our employees enjoy a work culture that promotes innovation, and we've been certified as a Great Place to Work!  JCS Solutions LLC benefits include 401k retirement plans, paid time off, health insurance, dental insurance, vision insurance, life insurance, long term disability, short term disability, and opportunities for professional development.  It is JCS’s policy to promote equal employment opportunities. All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law.  If you require additional accommodation, please contact us at HR@jcssolutions.com or (703) 972-9115.  Powered by JazzHR  kesILKskL9",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-10T07:45:48.000Z"
+  },
+  "company": {
+    "name": "JCS Solutions LLC",
+    "link": "https://www.linkedin.com/company/jcs-solutions-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Stafford",
+    "region": "VA",
+    "postal_code": "22430",
+    "street_address": null,
+    "latitude": 38.422035,
+    "longitude": -77.408195
+  }
+}

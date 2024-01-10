@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer Azure",
+    "industry": "Higher Education",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:22:31.000Z"
+  },
+  "company": {
+    "name": "DeVry University",
+    "link": "https://www.linkedin.com/company/devry-university"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Naperville",
+    "region": "IL",
+    "postal_code": "60563",
+    "street_address": null,
+    "latitude": 41.771496,
+    "longitude": -88.148
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Network Engineer",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:58:04.000Z"
+  },
+  "company": {
+    "name": "Integral Blue",
+    "link": "https://www.linkedin.com/company/integral-blue"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Madison Heights",
+    "region": "MI",
+    "postal_code": "48071",
+    "street_address": null,
+    "latitude": 42.504738,
+    "longitude": -83.10574
+  }
+}

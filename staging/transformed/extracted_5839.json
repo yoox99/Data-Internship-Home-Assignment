@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote - Sr. Frontend Software Engineer (Angular)",
+    "industry": "Computer Software",
+    "description": "If you are a Remote - Sr. Frontend Software Engineer (Angular) with experience, please read on!  Founded by the same folks behind Cameo and Twitter, our founders were medical students looking for a more unconventional study method. They created an online learning platform that helps medical students study and learn in a more engaging and fun way! Since 2012, we have experienced steady growth and are well-funded, but we aren't done yet. That's where you come in...  We are looking to continue our growth this year by adding members to our Frontend, Backend, and Data Engineering Team. A company that tries to break the norm and add excitement to learning, we offer an amazing company culture, full benefits, work-from-home office, career growth opportunities, and competitive compensation. If you are a strong Frontend Engineer with Angular experience and enjoy working on web applications that help our users learn in a more exciting way, this is the position for you!  What You Will Be Doing  This position will be focused on creating a comprehensive and feature-rich web application utilizing Angular. What You Need for this Position Our Tech Stack is a combination of Java, Ruby, Angular, and SQL  What's In It for You If you're interested, please email Justin.Johnson@cybercoders.com Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Nitu.Gulati-Pauly@CyberCoders.com Nitu Gulati-Pauly - VP of Recruiting - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.  CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:35:42.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Engineer, Frontend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "As a Sr. Software Front-End Engineer you will be using your deep understanding of JavaScript, HTML, and CSS to improve the Slack web client, a complex in-browser application relied on by more than 10 million users every single day. You will work with real-time data streams, optimize for performance and reliability across browsers, and collaborate closely with Product, Design, Search Infrastructure Engineers, Machine Learning Engineer, and Quality Engineers to spec, build, test, and deploy new features. We have frontend engineers in almost every team across Slack, and in that role, you’ll be making some of the most significant decisions for the company. Slack is a layer of the business technology stack that brings together people, data, and applications – a single place where people can effectively work together, find important information, and access hundreds of thousands of critical applications and services to do their best work. From global Fortune 100 companies to corner markets, businesses and teams of all kinds use Slack to bring the right people together with all the right information. Slack is headquartered in San Francisco, CA and has ten offices around the world. For more information on how Slack makes teams better connected, visit slack.com.  Ensuring a diverse and inclusive workplace where we learn from each other is core to Slack’s values. We welcome people of different backgrounds, experiences, abilities and perspectives. We are an equal opportunity employer and a pleasant and supportive place to work.  Come do the best work of your life here at Slack.  At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits.  Salesforce.com and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce.com and Salesforce.org will not pay any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org.  Salesforce welcomes all.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:14:55.000Z"
+  },
+  "company": {
+    "name": "Slack",
+    "link": "https://www.linkedin.com/company/tiny-spec-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

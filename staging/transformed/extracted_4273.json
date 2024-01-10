@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data &amp; Applied Scientist",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Answers Ranking - Applied Scientist  The Bing team is looking for an applied scientist for Universal Triggering team. The team is responsible for determining to show or not to show one answer in search result page, and placing the shown answers at a proper position in the page.  The task requires not only the good understanding on the intent of the query and the intent of the answers, but also good understanding on the users’ interaction with Bing search result to know if the placement of answers satisfy users or not.  Nearly half a billion users visit Bing.com worldwide monthly, and this gives us PBs of data to work with. This role is a great opportunity to make solid impact on the org, train models and come up with heuristics that can improve ranking and on how users can be more productive with search.  As an applied scientist in this team, you will be analyzing and parsing PBs of search logs and train models using these logs to understand what the user’s intent really is. You will have ample opportunity to innovate in improving the model’s structure, PR and other core metrics to satisfy the users intent and continue to build upon our data driven culture at Microsoft. Familiarity with search engines is a HUGE plus.  Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.  Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T22:46:07.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

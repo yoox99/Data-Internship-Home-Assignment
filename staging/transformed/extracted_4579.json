@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Puget Sound Energy is looking to grow our community with top talented individuals like you! With our rapidly growing, award winning energy efficiency programs, our pathway to an exciting and innovative future is now.  PSE's Planning team is looking for qualified candidates to fill an open position! PSE is looking for a Data Scientist to join Asset Management under the Planning organization. This individual will collaborate with the business partners to answer their business questions by using advanced data analysis techniques. They will work closely with the Information Architect, Data Architect, Data Engineer, and Business SME’s to design and develop solutions to improve business values and end-user experience. Through their work, they will lay foundation of best practices and framework that others can follow.  The ideal candidate will have experience with introducing and implementing data management standards, designing and developing machine-learning-models, creating predictive and prescriptive analytics algorithms, data preparation processes, data quality assessment and remediation strategies, data cataloging, tagging and decision-tree management. They should also be capable of mentoring Associate or Citizen Data Scientists as they work through various data modeling and analytical projects. Initially their task will be to help support PSE’s Vegetation Management and Wildfire strategies. They will provide tools and predictive solutions to help drive decision around developing a vegetation management and Wildfire strategies that will meet internal, external, and regulatory requirements. Following this, they will provide support for other asset management jobs and help influence capital spending decisions. This role will also support Department of Planning’s reliability, resiliency, and asset management programs.  This person will be expected to uphold the safety compliance standards inherent in PSE’s operating and/or field procedures related to work responsibilities. They will promotes and support a culture of total safety.  This position may be subject to random DOT drug and/or alcohol testing. Families and businesses depend on PSE to provide the energy they need to pursue their dreams. Our steadfast commitment to serving Washington communities with safe, dependable and efficient energy started in 1873. Today we're building the Northwest's energy future through efforts like our award winning energy efficiency programs and our leadership in renewable energy.  At PSE we value and respect our employees and provide them opportunities to excel. We offer an expansive pay package that includes competitive compensation, annual goals-based incentive bonuses, comprehensive benefits, 401(K), a company paid retirement pension plan, and an employee assistance and wellness program.  Puget Sound Energy is committed to providing equal employment opportunity to all qualified applicants. We do not discriminate on the basis of race, color, religion, sex, national origin, age, sexual orientation, gender identity, marital status, veteran status or presence of a disability that with or without reasonable accommodation does not prevent performance of the essential functions of the job, or any other category prohibited by local, state or federal law.  Should you have a disability that requires assistance and/or reasonable accommodation with the job application process, please contact the Human Resources Staffing department at jobs@pse.com or 425-462-3017.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T08:02:00.000Z"
+  },
+  "company": {
+    "name": "Puget Sound Energy",
+    "link": "https://www.linkedin.com/company/pugetsoundenergy"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 96400,
+    "max_value": 125000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

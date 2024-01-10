@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "Senior Software Engineer  Are you passionate about developing cutting-edge technical solutions to enhance the consumer-facing experience? As a member of our Engineering organization, you’ll be viewed as a subject matter expert who is capable of taking our competencies to the next level. The work you do will help us to define a best-in-class user experience while positioning Walmart as a cutting-edge company, one that puts innovation at the forefront.  The Senior Software Engineer position is one that calls for a technical expertise which puts the end-user experience at the center. You’ll apply your coding capabilities and distributed systems competencies to the improvement of existing products and the development of new software solutions at an enterprise-scale.  You’ll sweep us off our feet if…. You’ll make an impact by… What you’ll do… What you’ll bring… Imagine working in an environment where one line of code can make life easier for hundreds of millions of people and put a smile on their face. That’s what we do at Walmart Global Tech. We’re a team of 15,000+ software engineers, data scientists and service professionals within Walmart, the world’s largest retailer, delivering innovations that improve how our customers shop and empower our 2.2 million associates. To others, innovation looks like an app, service or some code, but Walmart has always been about people. People are why we innovate, and people power our innovations. We’re virtual  Working virtually this year has helped us make quicker decisions, remove location barriers across our global team, be more flexible in our personal lives and spend less time commuting. Today, we are reimagining the tech workplace of the future by making a permanent transition to virtual work for most of our team. Of course, being together in person is an important part of our culture and shared success. We’ll collaborate in person at a regular cadence and with purpose.  Walmart, Inc. is an Equal Opportunity Employer – By Choice. We believe we are best equipped to help our associates, customers and the communities we serve live better when we really know them. That means understanding, respecting and valuing diversity- unique styles, experiences, identities, ideas and opinions – while being inclusive of all people. Bachelor’s degree in Computer Science and 3 years’ experience in software engineering or related field OR 5 years’ experience in software Master’s degree in Computer Science or related field and 2 years' experience in software engineering or related field Primary Location...800 W California Ave, Sunnyvale, CA 94086, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:33:08.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81600,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

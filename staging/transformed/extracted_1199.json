@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer for Training Systems",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Leidos currently has an immediate opening for a Scientific Computing Software Engineer/Team Lead, supporting multiple US Navy programs located at Manassas, VA. Leidos’ High Fidelity Simulation Business Area is responsible for architecting and implementing large-scale System of Systems solutions in support of world class simulation, training, and analysis products for the US Navy. This position requires US citizenship and the ability to obtain an active DoD Secret clearance.  You will develop sophisticated, real-time, software to enhance the fidelity of training and simulation systems. You will also be responsible for leading a very cohesive team of high performing software developers. The work may include developing numerical models, sonar system simulation/stimulation software, data visualization software, message passing and data distribution software, and/or trainer command and control software. This code is used in a variety of naval training and simulation systems. All software is developed in a Linux environment, and written primarily in C++, Java, and Python, utilizing various software packages (boost, NumPy, and MPI). Software development will include requirements analysis, designing, coding, unit testing, integration testing, and verification and validation testing. Work will include the development of new code and the maintenance and extension of existing code. A background in physics or mathematics is useful to implement physics-based enhancements to the training and simulation systems. Our team employs an agile development approach.  Travel is required to trainer sites at various naval bases, and will account for less than 10% of the job. Eligible $3,000 No Secret Yes, 10% of the time",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:18:57.000Z"
+  },
+  "company": {
+    "name": "Leidos",
+    "link": "https://www.linkedin.com/company/leidos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Manassas",
+    "region": "VA",
+    "postal_code": "20108",
+    "street_address": null,
+    "latitude": 38.75077,
+    "longitude": -77.47509
+  }
+}

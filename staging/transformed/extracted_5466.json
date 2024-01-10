@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer-Supercomputing",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "Tesla is currently looking for a seasoned Site Reliability Engineer (SRE) to join the Supercomputing team.  As an Infrastructure Engineer on the Supercomputing team, you will be working directly with the high-performance computing and machine learning infrastructure that drives the development of all the innovations in engineering and autopilotAI work that makes Tesla a world leader in EV technology. Continued development and automation of this infrastructure management processes is imperative to the success of our many R&D teams and the company as a whole.  You are expected to have deep understanding of resource management and scaling for distributed computing systems. With the ever-growing need for more data and more compute resources - cluster builds are getting larger and more complex – and in need of more automated processes for deployment, monitoring, self-healing (when possible), and alerting. You’ll be working in a cross-functional and highly versatile team that designs, implements, and maintains all Tesla supercomputing resources. You will be responsible for ensuring greatly improved processes in rapid compute deployments in geographically distributed areas to help provide maximum system efficiency. Nice to have",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T04:03:43.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Full-stack)",
+    "industry": "E-Learning",
+    "description": "TeachFX is changing how schools around the world use data to improve teaching and learning. We use machine learning over classroom audio to provide teachers with insights about their instruction, including insights on their teacher-to-student talk ratio, lesson design, use of academic language and \"uptake\", open- and closed-ended questioning technique, think time, and other high-leverage instructional strategies that education research shows improve student outcomes and increase equity in the classroom. In school- and district-wide implementations, the data is anonymized and aggregated to empower instructional leaders to pinpoint equity issues and drive change for students most in need of additional support. We’re supported by best-in-class investors including Ulu Ventures, Newfund, Brighteye Ventures and Reach Capital, and we’re a mission-driven team looking for talented, scrappy, and mission-driven engineers to join our crew.  As an early software engineer at TeachFX, you'll be a key leader of our company as we scale, and you’ll help define TeachFX’s engineering culture. You’ll help build the systems that will support our growth, and will have the ability to take ownership of projects from inception to completion. We are a deeply mission-driven company, working hard to develop tech that revolutionizes teacher professional learning -- and we’re looking for engineers who want to use their skills to power our mission. : We use React and React Native for our frontend, and Django with GraphQL for our backend. In addition, we use Airflow, Docker, Expo, SQL, BigQuery, Data Studio, and other Google Cloud Platform services.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T01:18:51.000Z"
+  },
+  "company": {
+    "name": "TeachFX",
+    "link": "https://www.linkedin.com/company/teachfx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

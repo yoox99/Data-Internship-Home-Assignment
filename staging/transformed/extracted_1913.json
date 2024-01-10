@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full-Stack Software Engineer - JavaScript, Web Development, HTML",
+    "industry": "Government Administration",
+    "description": "If you are a Full-Stack Software Engineer with experience, please read on!  Top Reasons to Work with Us What You Will Be Doing  Seeking a strong technical generalist who will be directly developing and deploying client projects as well as providing technical guidance and assistance to other engineers.  Our projects span from responsive web to native mobile, from consumer B2C to enterprise B2B, so the ideal candidate will enjoy a lot of variety, and must have the ability to operate seamlessly across multiple projects.  We operate like a fast-growing startup, so this role offers the opportunity to constantly develop new skills, be a self-starter, explore new target markets, and strongly influence product direction.  What You Need for this Position  4+ years as a full-stack developer Strong understanding of fundamental web concepts (client/server relationships, RESTful APIs, JS, HTML/CSS, etc) Experience with the full web development process, from concept to development to deployment to assessment Familiar with lean/agile development methodologies Comfortable with developer collaboration workflows like Git Self-sufficient and self-reliant Strong communication skills  What's In It for You So, if you are a Full-Stack Software Engineer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Conin.Oishi@CyberCoders.com Conin Oishi - Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:28:52.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

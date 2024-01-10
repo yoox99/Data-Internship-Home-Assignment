@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "TIDAL is a global music and entertainment streaming platform committed to creating a deeper connection between artists and fans through its library of more than 70 million songs, over 250,000 high quality videos, and available in over 60 countries. In addition, TIDAL offers its subscribers exclusive access to high-profile music and music videos, original content series, podcasts, documentaries, livestream concerts, tickets, merchandise and live experiences. Together, TIDAL and Square will be music-obsessed and artist-focused while we explore new artist tools, listener experiences, and access to financial systems that help artists be successful. We are in search of a Data Scientist who can help unlock a greater understanding of our customers and our platform. You will lead the development of various technical solutions that address the data and information needs for teams across the company, with a particular focus within the marketing organization.  You will become an integral part of TIDAL and will develop the core of our marketing analytics and customer understanding. Those solutions will help bring to light actionable insights to improve business decisions and provide better experiences for our customers. Our tech stack currently includes AWS, Spark, Redshift, Postgres, Airflow, Tableau, and Databricks. You will report to the Head of Analytics. We’re working to build a more inclusive economy where our customers have equal access to opportunity, and we strive to live by these same values in building our workplace. Square is a proud equal opportunity employer. We work hard to evaluate all employees and job applicants consistently, without regard to race, color, religion, gender, national origin, age, disability, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.  We believe in being fair, and are committed to an inclusive interview experience, including providing reasonable accommodations to disabled applicants throughout the recruitment process. We encourage applicants to share any needed accommodations with their recruiter, who will treat these requests as confidentially as possible. Additionally, we consider qualified applicants with criminal histories for employment on our team, and always assess candidates on an individualized basis. We want you to be well and thrive. Our global benefits package includes:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T03:53:34.000Z"
+  },
+  "company": {
+    "name": "Square",
+    "link": "https://www.linkedin.com/company/joinsquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62100,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

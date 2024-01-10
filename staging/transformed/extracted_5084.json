@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "",
+    "description": "Job Title: Machine Learning Support (Fulltime) Location: Washington  EXP: 0-5 Years  JD: Summary View  •\tMinimum 3 + years’ Experience on programming languages such as C#, Java & C++.  •\tExperienced and fully engaged in Software Development Life Cycle (SDLC). •\tDesign, code and debug applications in various software languages •\tExperience in a technical role such as software engineer, solutions engineer, or similar.  •\tKnowledge on Code analysis, requirements analysis, software review, identification of code metrics, system risk analysis, software reliability analysis •\tGood communication skills and ability to articulate tech issues accurately and succinctly in a manner that business users can understand and support. •\tAzure Knowledge is an added advantage. •\tExperience in production support and customer interaction •\tDelivers Professional Services to sound technical, business, and professional standards while ensuring strong customer satisfaction and success.  •\tProvides technical design and construction expertise to Customer implementations and deployments.      •\tSoft Skills o\tLeadership - handle technically challenging and politically sensitive customer situations o\tStrong communications skills – Excellent spoken and written English communication skills  o\tEffective, polished interaction with customer to gather information quickly; explain customer responsibilities in resolving issue; communicate next steps and status; and inspire confidence o\tThe successful Support Engineer has the drive and intellectual horsepower to resolve difficult customer issues; directly supports customers through telephone, email, and chat services as applicable o\tDemonstrable troubleshooting skills o\tCross-team collaboration  •\tAzure Cognitive & Machine Learning Skills •\tExperience on C#, Jave and C++  •\tBasic knowledge on Windows Azure cloud platform (IaaS and PaaS) and Azure CLI & Azure PaaS, Storage, IaaS, Resource Groups and other services. •\tExperience in production support and customer interaction   •\tExperience analyzing telemetry and logs  •\tGood debugging skills  •\tExperience in production support and customer interaction   •\tWillingness to learn and adapt  •\tTime of operation: This track will be in 24X7 shift model. Therefore, candidates should be flexible to cover during holidays and weekends to accommodate MS roster    Skill Requirement: (list top 3-4 skills):  Technical / Soft Skills\tExpertise Level (Expert / Good / Knowledge) C# and Java  \tExpert C++\tGood Communication Skills \tExpert Azure \tGood",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T14:21:38.000Z"
+  },
+  "company": {
+    "name": "Diamondpick",
+    "link": "https://in.linkedin.com/company/diamondpick"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

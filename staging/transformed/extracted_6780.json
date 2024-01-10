@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Research or Sr. Research Scientist, Bioprocess",
+    "industry": "Biotechnology",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:58:53.000Z"
+  },
+  "company": {
+    "name": "Eppendorf Group",
+    "link": "https://de.linkedin.com/company/eppendorf"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Enfield",
+    "region": "CT",
+    "postal_code": "06083",
+    "street_address": null,
+    "latitude": 41.9765,
+    "longitude": -72.59199
+  }
+}

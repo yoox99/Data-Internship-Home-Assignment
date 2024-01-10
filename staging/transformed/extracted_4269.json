@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services",
+    "description": "Are you interested in joining a fast-paced organization where you can make an immediate impact on the business? Do you want to be an Artificial Intelligence (AI)/Machine Learning (ML) advocate, using data to answer important questions and shape strategy for leadership? You can be a part of the Fidelity Technology that constantly pushes the potential of data to drive the business forward!  The Fidelity Fund & Investment Operations (FFIO) technology team is looking for a to join their Business Process Automation and Analytics team in Westlake, TX. This role will be responsible for developing and delivering Data Science solutions on multiple business automation initiatives using analytical platforms. Additionally, the person will be responsible for collaborating with key partners (e.g. business unit technology teams, Data architecture, analytics designers) in the implementation of data science solutions. Fidelity Fund & Investment Operations (FFIO) technology team crafts and maintains technology solutions and products that enable FFIO to provide accounting and investment management support services to Fidelity businesses and fund shareholders. As part of FFIO, Business Automation and Analytics team is responsible for providing thought-leadership in implementation of data science and analytical deliverables for improving operational excellence and delivering business operations insights.  FFIO delivery teams are organized as small, multi-functional squads delivering specific business & technology goals defined by the Tribes Company Overview  At Fidelity Investments, our customers are at the heart of everything we do. As a privately held company with a rich 75-year history, our mission has remained the same since our founding: . We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money.  Join Us  At Fidelity, you’ll find endless opportunities to build a meaningful career that positively impacts peoples’ lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. And you don’t need a finance background to succeed at Fidelity—we offer a range of opportunities for learning and growth so you can build the career you’ve always imagined. We welcome associates from different backgrounds and with different perspectives to help us innovate and make a difference for our customers and our communities.  We invite you to at fidelitycareers.com.  Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.  Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Leave of Absence/Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 2.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T08:16:14.000Z"
+  },
+  "company": {
+    "name": "Fidelity Investments",
+    "link": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Westlake",
+    "region": "TX",
+    "postal_code": "76299",
+    "street_address": null,
+    "latitude": 32.99391,
+    "longitude": -97.19771
+  }
+}

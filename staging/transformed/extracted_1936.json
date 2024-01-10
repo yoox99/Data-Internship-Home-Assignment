@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Engineer II, Software Development",
+    "industry": "Financial Services",
+    "description": "Routinely impacts quality, timelines of results, planning and revenues or budgets of own team and related teams and frequently sets policies, procedures and standards The Application Development Manager will be for responsible managing and leading application development team focused on service delivery, talent and resource management, aligning to our overall technology strategy and roadmap. At S&P Global, we don’t give you intelligence—we give you essential intelligence. The essential intelligence you need to make decisions with conviction. We’re the world’s foremost provider of ratings, benchmarks and analytics in the global capital and commodity markets. Our divisions include:  S&P Global Ratings, which provides credit ratings, research and insights essential to driving growth and transparency.  S&P Global Market Intelligence, which provides insights into companies, markets and data so that business and financial decisions can be made with conviction.  S&P Dow Jones Indices, the world’s largest resource for iconic and innovative indices, which helps investors pinpoint global opportunities.  S&P Global Platts, which equips customers to identify and seize opportunities in energy and commodities, stimulating business growth and market transparency.  20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.1 - Middle Professional Tier I (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning) 259148 2021-03-23 Centennial, Colorado, United States",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:42:46.000Z"
+  },
+  "company": {
+    "name": "S&amp;P Global Ratings",
+    "link": "https://www.linkedin.com/company/spglobalratings"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 98300,
+    "max_value": 132000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Centennial",
+    "region": "CO",
+    "postal_code": "80018",
+    "street_address": null,
+    "latitude": 39.597305,
+    "longitude": -104.85381
+  }
+}

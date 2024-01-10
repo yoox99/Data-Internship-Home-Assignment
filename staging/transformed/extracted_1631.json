@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist I",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "The Organizational Research and Measurement (ORM) Team within World Wide Consumer guides the talent strategy for Amazon’s largest workforce comprised of over one million Amazon global employees across order fulfillment, transportation, corporate, consumer, and customer service organizations. We are an interdisciplinary team that combines the talents of science and engineering to develop and deliver research insights, data products, and solutions across the employee lifecycle including on-boarding; high-potential identification; talent development; engagement; movement; retention; and attrition. We are looking for a truly innovative data scientist who is able to contribute to the research and engineering of end-to-end solutions for complex science and business problems around the future of talent evaluation, development, and management at Amazon. You will work closely with I/O psychologists, economists, engineers, and business partners to estimate and validate models on large scale data, and turn the results of these analyses into products, policies, programs, and actions that have a major impact on Amazon’s business. We are looking for creative thinkers who can combine strong data science, software engineering, and product development skillsets with a desire to innovate, and who know how to execute and deliver on big ideas. Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, visit https://www.amazon.jobs/en/disability/us . - Amazon.com Services LLC Job ID: A1645645",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T09:08:45.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

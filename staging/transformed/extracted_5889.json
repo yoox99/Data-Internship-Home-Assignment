@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Analytics Engineer - Remote",
+    "industry": "Hospital &amp; Health Care,Insurance,Pharmaceuticals",
+    "description": "Our work matters. We help people get the medicine they need to feel better and live well. We do not lose sight of that. It fuels our passion and drives every decision we make. Senior Analytics Engineer - Remote The Senior Analytics Engineer is an integral member of the data analytics organization and is responsible for managing, optimizing, overseeing and monitoring the retrieval, storage and distribution of large data sets to enable data driven business processes and deliver actionable business insights through dashboards, reports and other self-service visualizations tools.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:43:16.000Z"
+  },
+  "company": {
+    "name": "Prime Therapeutics",
+    "link": "https://www.linkedin.com/company/prime-therapeutics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Eagan",
+    "region": "MN",
+    "postal_code": "55306",
+    "street_address": null,
+    "latitude": 44.818874,
+    "longitude": -93.16721
+  }
+}

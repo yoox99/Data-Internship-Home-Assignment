@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Robotics Engineer",
+    "industry": "Construction,Information Technology and Services,Financial Services",
+    "description": "Job Title: Robotics Engineer ( Hardware/ Firmware Engineer )  Salary: $100-120K Entry Level (college -3 years of experience) $120-150K Mid-level (4-6 years of experience) $160K+ for 6-10 years of experience  Location: Onsite San Jose for at least the first few months, this is a very hands-on role but can move to more of a hybrid position after a few months  Top Reasons to Work with Us  We are a venture-backed Silicon Valley startup in San Jose, CA that revolutionizes the way work is done in warehousing, logistics, and supply chain with innovative robotic solutions.  What You Will Be Doing  Candidate will develop and support firmware coding designs that interface to and control analog, power and digital circuit boards, utilizing embedded microprocessor firmware code written on C++. The candidate would also support and develop Python scripts for testing and develop and maintain critical safety-related firmware, developed on specialized Programmable Logic Controllers. The candidate would also be heavily involved in hardware design.  You will be a key member of the Hardware team, responsible for collaborating cross-functionally with electrical, mechanical, firmware, and software teams in order to define and develop the embedded firmware to support existing designs and also to evaluate new technologies and features. You will be a contributor to the transition of hardware designs from concept, through prototype into production. The candidate will also develop and support new firmware and hardware features for current and future products  What You Need for this Position What's In It for You  Medical, dental, vision, life and AD&D  Flexible time off - work hard & play hard  Awesome company culture and ability to work with robots!  So, if you are a Hardware/ Firmware Engineer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Ashley.Upchurch@CyberCoders.com Ashley Upchurch - Lead Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:30:51.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

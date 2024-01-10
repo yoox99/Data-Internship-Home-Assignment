@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Internet,Health, Wellness and Fitness,Mental Health Care",
+    "description": "BetterHelp is looking for a Data Scientist to help us scale and increase our impact. You will use data to drive insight into the product and business with a focus on new user growth, retention and quality. The ideal candidate would have experience analyzing large and complex data sets related to web products. You'll be doing plenty of experiment design and post-hoc analysis, both to support product improvements and business decisions, as well as setting up infrastructure and frameworks for more efficient analysis.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T03:07:45.000Z"
+  },
+  "company": {
+    "name": "BetterHelp.com",
+    "link": "https://www.linkedin.com/company/betterhelp-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80700,
+    "max_value": 150000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

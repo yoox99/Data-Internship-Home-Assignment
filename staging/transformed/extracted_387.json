@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer",
+    "industry": "Civil Engineering",
+    "description": "Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our 22,000 employees do the can’t be done, solving the most daunting challenges facing our customers.  Peraton is seeking a to join our team of qualified, diverse individuals. This position will be located in McLean/Herndon, VA with some remote work possible. The qualified applicant will become part of Peraton's Department of State (DOS) Consular Systems Modernization (CSM) Program, for the Bureau of Consular Affairs (CA). This initiative is intended to modernize and consolidate the operational environment under a common technology framework in order to better support the services provided to CA’s customers.  If challenge, growth, and the ability to have a positive impact on your customer and fellow team members is something that interests you, this job is worth your consideration.  As part of the modernization program, the Full Stack Software Engineer will be responsible for supporting the full software development lifecycle (SDLC), including software systems engineering activities, requirements definition, prototyping, software design, implementation, testing, and maintenance. DOSCSM To be considered for this position, you must minimally meet the knowledge, skills, and abilities listed below: Candidates with these desired skills will be given preferential consideration:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:08:10.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

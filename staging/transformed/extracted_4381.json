@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services",
+    "description": "Stilt (YC W16) is building a bank focused on 45 million immigrants in the US. Immigrants are traditionally shut out of the financial system because they lack a financial identity. We are building technology to democratize access to financial services.  Improving access to financial services for everyone, especially for the underserved and immigrants has never been more important. They contribute $1.6T to the economy, have built many $100B+ companies, and generated millions of jobs. Still, immigrants don't get the services they deserve. We are building technology to help immigrants from day 1 of their arrival. Since launch, we have helped hundreds of thousands of immigrants from 160+ countries. We are growing fast and now at an inflection point in our journey to help millions of immigrants.  We are based in San Francisco (open to remote), founded by an immigrant team with expertise in finance, technology, and machine learning. 70% of the team is immigrants and from underrepresented backgrounds. We are working hard to make financial services simple by using non-traditional data, building a modern scoring and decision engine, and improving operational efficiency.  It is a challenging and fulfilling opportunity for someone looking to make a difference in the lives of immigrants across the world. As we rewrite the approach to banking, we are looking for a Data Scientist who is experienced, knowledgeable, and believes in making this happen with us.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-10T01:10:27.000Z"
+  },
+  "company": {
+    "name": "Stilt Inc.",
+    "link": "https://www.linkedin.com/company/stilt-loans"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

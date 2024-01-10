@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Compiler Development Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Computer Software",
+    "description": "Be a part of our world class compiler software development organization as a member of the Intel Compiler debug information generation team. Design and implement debug information generation related functional enhancements and perform related maintenance in the Intel C/C++/DPC++/Fortran Compilers, supported on Intel architectures running the Windows and Linux operating systems. Thrive in a fast-paced, dynamic environment with other top notch compiler software engineers. Work with preeminent compiler and debugger experts to enhance, extend and maintain the debugging support in the Intel C/C++/DPC++/Fortran compilers in a myriad of ways that support key corporate initiatives and fulfill important customer needs. You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your school-work/classes/research and/or relevant previous job and/or internship experiences. 3 or more years of experience with the following skills: Intel Architecture, Graphics, and Software (IAGS) brings Intel's technical strategy to life. We have embraced the new reality of competing at a product and solution level—not just a transistor one. We take pride in reshaping the status quo and thinking exponentially to achieve what's never been done before. We've also built a culture of continuous learning and persistent leadership that provides opportunities to practice until perfection and filter ambitious ideas into execution. Virtual US and Canada All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.  Annual Salary Range for jobs which could be performed in US, Colorado:  $130,020.00-$195,420.00 We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, and benefit programs. Find more information about our Amazing Benefits here  Intel is committed to a culture of accessibility. Intel provides accommodations to applicants and employees with disabilities. Find information and request accommodation here",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T04:08:33.000Z"
+  },
+  "company": {
+    "name": "Intel Corporation",
+    "link": "https://www.linkedin.com/company/intel-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hudson",
+    "region": "MA",
+    "postal_code": "01720",
+    "street_address": null,
+    "latitude": 42.391155,
+    "longitude": -71.56811
+  }
+}

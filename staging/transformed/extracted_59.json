@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer (C#.NET) - C#, .NET, Asp",
+    "industry": "Computer Software",
+    "description": "We are looking for qualified software development engineers with thorough understanding of algorithms, design patterns, multithreading, parallel processing etc., and experience in building micro-service based scalable cloud-based applications from scratch, and configuring existing systems using C# &.NET Core framework and related technologies. You will be collaborating with internal teams to create software design and architecture, write clean, scalable code with proper documentation. You will help build and use CI/CD pipelines and related DevOps tooling to assure continuous integration and zero-downtime deployments using Containerization and Orchestration concepts. You will be actively involved in improving the existing applications by revising, updating, refactoring, debugging, and deploying tested code, and serve as an expert.  Top Reasons to Work with Us What You Will Be Doing What You Need for this Position So, if you are a Full Stack Software Engineer (C#.NET) with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Krista.Kornchuk@CyberCoders.com Krista Kornchuk - Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T17:45:27.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Elmhurst",
+    "region": "IL",
+    "postal_code": "60126",
+    "street_address": null,
+    "latitude": 41.902122,
+    "longitude": -87.93995
+  }
+}

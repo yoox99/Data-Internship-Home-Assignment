@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Configuration Engineer, Senior",
+    "industry": "Hospital &amp; Health Care,Insurance",
+    "description": "The Senior Release Engineer is responsible for defining, developing and delivering an innovative solution for our software delivery process and providing expert level knowledge on the tools and processes that constitute the SDLC. The candidate will be responsible to define and implement industry standard best practices for our build and deployment pipelines leading to continuous integration and continuous delivery. The candidate should be self-driven and posses good analytical and troubleshooting skills. The candidate will work with Development, Quality Assurance, Infrastructure, security and other technical and operational teams to continuously improve the quality, speed and methodologies used in delivering our capabilities to production while ensuring auditability and traceability of all changes.  Candidate should be able to articulate the delivery, branching / merging, and environment maintenance process to succeed in this position. Candidate should be able to co-relate their work with how it impacts business. The candidate should be eager to learn new technologies, flexible and work with peers to create a cohesive team environment.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:10:17.000Z"
+  },
+  "company": {
+    "name": "Blue Shield of California",
+    "link": "https://www.linkedin.com/company/blue-shield-of-california"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

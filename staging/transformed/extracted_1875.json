@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "QA Manager - Appium, Selenium",
+    "industry": "Consumer Goods",
+    "description": "Job Title: QA Manager, Test Engineering Manager Salary: Up to $170K Location: Onsite Tucson Requirements: Appium, Selenium, GUI Test Engineering, C, C++, Java, Python/Pearl  Top Reasons to Work with Us  Headquartered in Arizona, we are a leading irrigation product development company that caters to residential and commercial customers all over the world. Currently, we are looking to expand our team in Tucson, AZ and are looking for a strong Sr. Software Engineer with experience in .NET, C#, ASP.NET MVC, WinForms, and Web Development.  What You Will Be Doing  Perform implementation of all automated tests and equipment drivers, which could be written in C, C++, C#, Perl, Python, Java, or other appropriate and cost-effective test automation scripting languages. Eventually managing the QA and Test Engineering Teams.  What You Need for this Position So, if you are a QA Manager with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Ashley.Upchurch@CyberCoders.com Ashley Upchurch - Lead Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:18:37.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tucson",
+    "region": "AZ",
+    "postal_code": "85708",
+    "street_address": null,
+    "latitude": 32.221878,
+    "longitude": -110.97122
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Research,Computer Software,Biotechnology",
+    "description": "This is a fully opportunity within the US  Science 37 is accelerating the research and development of breakthrough biomedical treatments by bringing clinical trials to patients' homes. Backed by venture investors such as Glynn Capital, Google Ventures, Redmile Group, dRx Capital and Lux Capital, we are revolutionizing the clinical trial industry one patient at a time. To help us achieve our goal, we are seeking a eager to make an impact within a mission-driven organization.  We count on our SREs to empower our users with a rich feature set, high availability, and stellar performance level to pursue their missions. We are looking for a self driven engineer to help scale our growing presence. You have likely been an application software engineer in the past and have gained a deep understanding of infrastructure and operations, or have been a systems administrator with extensive experience across technologies who has spent the last few years learning modern automation and cloud native infrastructure skills. You must enjoy working alongside system architects and software engineers to maintain and improve a highly available, highly scalable SaaS platform. No direct reports  Science 37 values the well-being of its employees and aims to provide team members with everything they need to succeed.  Submit your resume to apply!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T20:17:49.000Z"
+  },
+  "company": {
+    "name": "Science 37",
+    "link": "https://www.linkedin.com/company/science-37"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Full Stack Engineer, Warehouse",
+    "industry": "Apparel &amp; Fashion,Internet,Retail",
+    "description": "Stitch Fix is transforming the way people find what they love. Our technology teams have created unique, innovative software for our customers as well as employees in merchandising, styling, warehouse systems, and inventory management. We leverage data and user research to personalize our service and make smart bets. The result is a delightful offering for our customers and a successful business serving millions of women, men, and kids. We're looking for outstanding people to contribute to our evolution. You will work within a distributed team of 4-8 software engineers and cross-functional partners including product, design, algorithms and operations.You're expected to have strong written communication skills and be able to develop strong working relationships with coworkers and business partners.  You will be working on our customer facing systems, creating the future of how Stitch Fix’s clients browse and buy, or in our Merchandising, Styling or Warehouse Systems, creating the future of how Stitch Fix’s clients are styled, shown outfits and receive their purchases.  This is a remote position available within the United States. We operate in an agile-inspired manner; collaborating across multiple time zones. We build modern software with modern techniques like TDD, continuous delivery, DevOps, and service-oriented architecture. We focus on high-value products that solve clearly identified problems but are designed in a sustainable way and deliver long term value.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:19:01.000Z"
+  },
+  "company": {
+    "name": "Stitch Fix",
+    "link": "https://www.linkedin.com/company/stitch-fix"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

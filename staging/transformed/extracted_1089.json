@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist II - US Remote Eligible",
+    "industry": "Financial Services",
+    "description": "At Edward Jones, we help clients achieve their serious, long-term financial goals by understanding their needs and implementing tailored solutions. To ensure a personal client experience, we have located our 14,000+ branch offices where our more than 7 million clients live and work.  A typical branch office has one financial advisor who meets with clients face-to-face and one branch office administrator who enhances the team's ability to build deep relationships with clients. Headquarters associates in St. Louis and Tempe provide support and expertise to help U.S. and Canada branch teams deliver an ideal client experience. Edward Jones currently has more branch offices than any other financial services firm, and we continue to grow to meet the needs of long-term individual investors. Job-Overview The Data Scientist is responsible for the design and development of complex mathematical methods and statistical models in support of data driven strategies. The role requires the ability to leverage data from multiple sources to develop innovative solutions to business problems. An ideal candidate must be able to work closely with business partners to develop tailored analytic solutions and be responsible for guiding projects from design through implementation and final delivery to internal business partners. Awards-Accolades EEO Edward Jones does not discriminate on the basis of race, color, gender, religion, national origin, age, disability, sexual orientation, pregnancy, veteran status, genetic information or any other basis prohibited by applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:15:56.000Z"
+  },
+  "company": {
+    "name": "Edward Jones",
+    "link": "https://www.linkedin.com/company/edward-jones"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

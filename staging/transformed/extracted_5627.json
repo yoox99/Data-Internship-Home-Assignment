@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Chemicals,Pharmaceuticals,Biotechnology",
+    "description": "The primary responsibilities of this role, Data Scientist, are to: Your success will be driven by your demonstration of our LIFE values. More specifically related to this position, Bayer seeks an incumbent who possesses the following:  Required Qualifications: Relocation may be offered for this role. Crop Science Crop Science 467925",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T19:16:03.000Z"
+  },
+  "company": {
+    "name": "Bayer",
+    "link": "https://de.linkedin.com/company/bayer"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 69400,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chesterfield",
+    "region": "MO",
+    "postal_code": "63017",
+    "street_address": null,
+    "latitude": 38.662384,
+    "longitude": -90.54332
+  }
+}

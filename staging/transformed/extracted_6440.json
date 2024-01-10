@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "User Experience Researcher 2",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "At Verizon Media, we connect people to their passions. With brands like Yahoo, TechCrunch and more, we help people stay informed and entertained, communicate and transact while creating new ways for advertisers and partners to connect. From XR experiences to advertising and content technology, Verizon Media is an incubator of innovation and is revolutionizing the next generation of content creation in a 5G world. Verizon Media is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for employment without regard to, and will not be discriminated against based on age, race, gender, color, religion, national origin, sexual orientation, gender identity, veteran status, disability or any other protected category. Verizon Media is dedicated to providing an accessible environment for all candidates during the application process and for employees during their employment. If you need accessibility assistance and/or a reasonable accommodation due to a disability, please submit a request via the Accommodation Request Form ( https://www.verizonmedia.com/careers/contact-us.html ) or call 408-336-1409. Requests and calls received for non-disability related issues, such as following up on an application, will not receive a response.  At Verizon, we know that diversity makes us stronger. We are committed to a collaborative, inclusive environment that encourages authenticity and fosters a sense of belonging. We strive for everyone to feel valued, connected, and empowered to reach their potential and contribute their best. Check out our diversity and inclusion ( https://www.verizon.com/about/careers/work-culture ) page to learn more.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:21:48.000Z"
+  },
+  "company": {
+    "name": "Verizon Media",
+    "link": "https://www.linkedin.com/company/verizon-media"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

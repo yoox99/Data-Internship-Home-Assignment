@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Intercom is the only suite of customer messaging products that drives growth at every stage of the customer lifecycle—across acquisition, engagement, and support. Today more than 30,000 businesses use Intercom to connect with a billion people worldwide.  Join the company helping businesses grow revenue through live chat, and so much more. At Intercom, Analytics & Data Science teammates partner with every function in the organization in order to help teams make data-informed decisions and take data-informed actions. We're highly quantitative individuals who love to turn data into insights and communicate our findings fearlessly, and we're looking for people with a similar mindset who are constantly curious, driven to understand our business better, and committed to creating value.  In this role, you will partner with go-to-market teams across Intercom (including Marketing, BizOps, Finance, Growth R&D, and Sales) to measure new initiatives, make data-driven recommendations around go-to-market strategy, and help identify areas to leverage automation. In addition to being experienced analytically, we’re looking for someone who can proactively surface recommendations and insights, and who can work across the analytics and data stack in order to solve problems. If this sounds like you, we would love to hear from you!  To give you a sense of some specific projects you might work on, here are a few of our recent workstreams: understanding how users respond to new pricing & packaging, understanding and modeling drivers of expansion, analyzing the customer signup experience, measuring the performance of paid advertising campaigns, prioritizing the leads our sales team should reach out to, building attribution models, and many more. We are a well-treated bunch, with awesome benefits! If there’s something important to you that’s not on this list, talk to us! :)",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T00:31:35.000Z"
+  },
+  "company": {
+    "name": "Intercom",
+    "link": "https://www.linkedin.com/company/intercom"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

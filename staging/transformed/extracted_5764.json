@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Retail",
+    "description": "If you are a Senior Software Engineer with experience, please read on!  We are a company that is changing the game when it comes to unattended retail. Autonomous retail is a constantly expanding vertical and we are at the for front of that growth, we are making sure that all of our customers are always ahead of the curve. So if you want to be part of a fast growing market and work for a top company in that market you have come to the right place!  What You Will Be Doing  As a Senior Software Engineer you will be developing software, building releases and updates with a very high standard of quality. You will also design new database structures and code, deliver server side software features and collaborate with our firmware team integrating card reader hardware and telemeters with our server platform. You will develop Jenkinsfile Groovy scripts to automate the CI/CD pipeline for builds, deployments and test.  What You Need for this Position What's In It for You So, if you are a Senior Software Engineer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Zack.Waltz@CyberCoders.com Zack Waltz - Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:27:10.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Malvern",
+    "region": "PA",
+    "postal_code": "19355",
+    "street_address": null,
+    "latitude": 40.033436,
+    "longitude": -75.51271
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "Our client, a major employer in the area, is looking for a to be part of its team in its North American operations.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-06-09T06:31:06.000Z"
+  },
+  "company": {
+    "name": "AVA Consulting",
+    "link": "https://www.linkedin.com/company/ava-consulting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

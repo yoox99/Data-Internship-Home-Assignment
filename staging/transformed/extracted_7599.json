@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "UXDesign Researcher (multiple locations, listed in description)",
+    "industry": "Banking,Financial Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:25:56.000Z"
+  },
+  "company": {
+    "name": "U.S. Bank",
+    "link": "https://www.linkedin.com/company/us-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Earth City",
+    "region": "MO",
+    "postal_code": "63045",
+    "street_address": null,
+    "latitude": 38.768604,
+    "longitude": -90.46715
+  }
+}

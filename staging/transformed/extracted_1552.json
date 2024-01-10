@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Jr. Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "The state of healthcare is complex, but our shared purpose isn’t: Help people get the medicine they need to live healthier lives. CoverMyMeds solves medication access challenges for patients throughout every step of their journey through a unified brand that now encompasses RelayHealth, RxCrossroads by McKesson, McKesson Prescription Automation and CoverMyMeds.  Our combined experience spans nearly 90 years and together, we’re applying our expertise to solve some of the biggest problems in healthcare. We accelerate innovative solutions for problems like medication affordability and adherence in way that everyone wins — from providers to pharmacies, payers to biopharma and, especially, patients. By combining automation and expert intervention, the company provides prior authorization, prescription decision support, specialty patient support, core adjudication network, patient assistance programs, clinical and behavioral adherence and patient empowerment solutions.  We’re proud to be an integral part of McKesson Corporation and embody the shared values and leadership behaviors of the greater organization. We understand the importance of a system that works together. Your expertise, drive and passion can help us carry out our mission to improve lives and advance healthcare. : We currently have an opportunity in our Atlanta, GA North Druid Hills office for a Junior Software Engineer. This position will work on new development modernizing legacy products to cloud. Degree or equivalent experience. Typically requires 2+years of relevant experience Must be authorized to work in the US. Sponsorship is not available for this position.  We take pride in our culture of connection and believe in a workplace where everyone can be their full, authentic self. We welcome and encourage veterans, individuals with disabilities and others with diverse perspectives to join our growing team. Your unique perspective and experience are valuable assets that can translate into a rewarding career path with us. Apply to join our team and help shape the future of healthcare! All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.Qualified applicants will not be disqualified from consideration for employment based upon criminal history.  McKesson is committed to being an Equal Employment Opportunity Employer and offers opportunities to all job seekers including job seekers with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, please contact us by sending an email to McKessonTalentAcquisition@mckesson.com . Resumes or CVs submitted to this email box will not be accepted.  Current employees must apply through the internal career site.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T11:58:41.000Z"
+  },
+  "company": {
+    "name": "CoverMyMeds",
+    "link": "https://www.linkedin.com/company/covermymeds"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 63000,
+    "max_value": 96000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta Metropolitan Area",
+    "region": null,
+    "postal_code": "30317",
+    "street_address": null,
+    "latitude": 33.74975,
+    "longitude": -84.38857
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer (Java) - Remote",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "TrueCar envisions a world where car shopping is an uplifting experience. Our shopping experience helps buyers consider choices from every angle, builds confidence in their decisions, and enables every step of the process with tools and information that make car buying easy. Ultimately, TrueCar is helping people in the second largest purchase they will make in their lives. We're removing the complexity out of buying a car, using technology and personalization, to create a one-of-a-kind experience that transforms car buying and ultimately people’s lives.  Come join the team and help us accomplish our mission. TrueCar maintains a Dynamic Workplace, allowing employees to have their primary workstations at home, with office space in Santa Monica, CA and Austin, TX to be made available to individuals and teams to use as needed. Employees enjoy excellent benefits (health/vision/dental coverage, 401k with contribution matching, equity, etc.) as well as perks like monthly credits for at-home food delivery, internet/mobile phone service coverage, fitness expenses, and Caregiver support. The Data Engineering team applies subject matter expertise to ingest, analyze, and validate the automotive data required from internal and 3rd party sources. Data engineers are responsible for building and maintaining highly scalable data pipelines to power the website while also providing data for our analytical engine to derive insights in a meaningful fashion. TrueCar is a leading automotive digital marketplace that enables car buyers to connect to our nationwide network of Certified Dealers. We are building the industry's most personalized and efficient car buying experience as we seek to bring more of the purchasing process online. Consumers who visit our marketplace will find a suite of vehicle discovery tools, price ratings, and market context on new and used cars -- all with a clear view of what's a great deal. When they are ready, TrueCar will enable them to connect with a local Certified Dealer who shares in our belief that truth, transparency, and fairness are the foundation of a great car buying experience. As part of our marketplace, TrueCar powers car-buying programs for over 250 leading brands, including AARP, Sam’s Club, and American Express. Nearly half of all new-car buyers engage with TrueCar powered sites, where they buy smarter and drive happier.  TrueCar is headquartered in Santa Monica, California, with an office in Austin, Texas. Santa Monica, CAAustin, TX",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:23:14.000Z"
+  },
+  "company": {
+    "name": "TrueCar, Inc.",
+    "link": "https://www.linkedin.com/company/truecar-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

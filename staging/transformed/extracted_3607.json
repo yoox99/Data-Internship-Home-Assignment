@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "Nuance offers a compelling and rewarding work environment. We offer market competitive salaries, bonus, equity, benefits, meaningful growth and development opportunities and a casual yet technically challenging work environment. Join our dynamic, entrepreneurial team and become part of our continuing success.  Nuance celebrates diversity and is proud to be an equal employment opportunity and affirmative action workplace. We consider all qualified applicants without regard to race, color, religion, sex (including pregnancy), sexual orientation, gender identity or expression, national origin, military and veteran status, disability, genetics, or any other category protected by or Nuance policy. If you need an accommodation because of a disability for any part of the employment process, please call 781-565-5086 and let us know.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T06:15:35.000Z"
+  },
+  "company": {
+    "name": "Nuance Communications",
+    "link": "https://www.linkedin.com/company/nuance-communications"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burlington",
+    "region": "MA",
+    "postal_code": "01803",
+    "street_address": null,
+    "latitude": 42.504986,
+    "longitude": -71.19583
+  }
+}

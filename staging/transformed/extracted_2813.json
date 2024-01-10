@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "Tesla, given its high-profile in the technology and automotive industries, is uniquely positioned to enable site reliability engineers to have a major impact within our industry, company, and across our customer base. We are currently looking for a to architect, build, manage and operate the Infrastructure & applications for Tesla’s Engineering teams including Connected Systems, Firmware and Autopilot. In this role, you will plan, design, implement as well as manage ongoing Infrastructure components that powers the development of Tesla’s Vehicles and technologies.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T02:00:38.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 188000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

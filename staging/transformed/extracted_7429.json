@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Remote",
+    "industry": "Computer Software",
+    "description": "Reciprocity is shaping the future of Information Security with our modern SaaS approach to enable easy risk, audit and security relationship management. The market is growing fast and will be a $1T market by 2025. With our great product, 100s of brand-name customers, solid funding, and our impressive exec team, we have the confidence to be a software juggernaut for years to come.  Exciting companies share a common set of traits: large growing markets, disruptive technologies, kick-A teams, and a focus on a future state that’s infinitely better than the current state. If this excites you, look no further.  Our collaborative team is composed of smart and driven people with diverse interests. We pride ourselves on being family friendly, striking a healthy work-life balance, and cultivating an open and supportive working environment. We are a 100% remote workforce, with presences in San Francisco, Argentina, and beautiful Ljubljana, Slovenia. If you’re mission-driven, excited to solve tough problems, care deeply about values, and are a strong team player, keep reading and hopefully you can jump on this rocketship with us. Our Technical Operations and SRE team supports the growing needs of the company by working collaboratively with multiple teams. We partner with the Product Engineering team to architect, maintain, and improve the reliability and performance of ZenGRC for our growing list of both on-prem and hosted customers. We are responsible for investing in the technology, processes, and automation to handle the growth of the company and maintain the security and integrity of our customers’ data. We value a diverse environment. Reciprocity provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran, sexual orientation, gender identity or expression, or any characteristic protected by federal, state or local laws.  Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.  The statements herein are intended to describe the general nature and level of work being performed by employees assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required for personnel so classified.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T00:50:15.000Z"
+  },
+  "company": {
+    "name": "Reciprocity, Inc",
+    "link": "https://www.linkedin.com/company/reciprocity-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

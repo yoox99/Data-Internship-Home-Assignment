@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (C#)",
+    "industry": "Capital Markets,Financial Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T17:44:51.000Z"
+  },
+  "company": {
+    "name": "Doran Jones Inc.",
+    "link": "https://www.linkedin.com/company/doranjonesinc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10022",
+    "street_address": null,
+    "latitude": 40.758892,
+    "longitude": -73.96851
+  }
+}

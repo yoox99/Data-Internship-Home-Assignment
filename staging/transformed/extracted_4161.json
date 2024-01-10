@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Systems Engineer 3, Storage",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The award-winning Choice Hotels Technology Center is revolutionizing hospitality with cloud computing, AWS, big data, machine learning/artificial intelligence, and mobile application development.  At Choice, we pioneer the exciting intersection of hospitality and technology in support of our successful franchise model. Our culture fosters innovation and encourages disruptive thinking. We welcome and respect your voice, empowering you to learn, grow, and make your impact.  When you #MakeItYourChoice, you will have the environment, the tools, and momentum to drive your career and organizational success. The Storage Engineer 3 designs, builds, and manages shared storage networks & storage systems including storage array replication (backup) and archive systems and serves as the subject matter expert on performance, capacity, and capability of such systems for both on-premise arrays and AWS storage types. Typically performs a variety of design, evaluation, implementation, and training tasks to enable stable, secure, scalable and resilient information storage. Plans and develops storage resources; evaluates and/or recommends hardware and software purchases. Highly proficient with the following technologies: Ability to model Choice’s Cultural Values: Welcome and Respect Everyone, Be Bold, Be Quick, Listen, Be Curious and Show Integrity.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:39:04.000Z"
+  },
+  "company": {
+    "name": "Choice Hotels International",
+    "link": "https://www.linkedin.com/company/choice-hotels-international"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater Phoenix Area",
+    "region": null,
+    "postal_code": "85003",
+    "street_address": null,
+    "latitude": 33.44547,
+    "longitude": -112.06631
+  }
+}

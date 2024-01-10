@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Platform Engineering",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "Tesla's Platform Engineering is looking for a Site Reliability Engineer to join our team. As a member of the team, you will be building and maintaining Kubernetes clusters using infrastructure-as-code tools like Ansible, Terraform, ArgoCD and Helm and helping the application teams to be successful on our platform. The underlying infrastructure is a a mix of on-premise VMs, bare metal hosts and public clouds such as AWS located all around the globe, which presents unique challenges and opportunity to work with different types of infrastructure technologies. A successful candidate will be expected to possess expert knowledge in Linux fundamentals, architecture and performance tuning; as well as software development skills to match. Experience running Kubernetes in production will be a strong plus; we prefer Golang or Python for any automation or tools we have to build along the way. We are the team that runs production critical workloads for every aspect of the business at Tesla and sets the standards for other teams, a group of well-rounded generalists that not only solve the hardest problems in the industry but also push other engineering teams at large to be better. Join us to get a chance to work with some of the best engineers in the industry for one of the most transformative companies in the history of both automotive and energy industries.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:27:56.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

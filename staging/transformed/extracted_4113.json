@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "ServiceNow Developer",
+    "industry": "Information Technology and Services,Government Administration",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-17T23:28:31.000Z"
+  },
+  "company": {
+    "name": "The Judge Group",
+    "link": "https://www.linkedin.com/company/the-judge-group"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Virginia",
+    "region": "United States",
+    "postal_code": "23038",
+    "street_address": null,
+    "latitude": 37.512905,
+    "longitude": -78.697624
+  }
+}

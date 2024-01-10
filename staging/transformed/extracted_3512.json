@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Staffing and Recruiting,Hospital &amp; Health Care",
+    "description": "Cerebral Staffing, LLC is seeking a Data Scientist to work for our direct client Efficiently retrieves internal and external data and ensures that source data is accurate, meaningful and valid for use in analytics and reporting. This level combines 2-3 sources of structured data with a consistent identifier. Identifies ways to develop sustainable data provisioning solutions. Addresses quality issues for data sets by identifying the root cause and potential solutions. Updates or develops dashboards. Supports efforts to close data quality gaps by meeting data training needs within the business. Works under some supervision. Description of the major duties performed in this job. Competencies, technical skills, formal education and relevant work experience critical for successful individual performance of essential functions. Specialized skills, knowledge and abilities needed to perform the essential functions of the job. Formal education or training required to perform the essential functions of the job. Includes degrees, certifications, licenses and/or registration requirements. Type and amount of experience necessary to perform the essential functions of the job. May include specific roles and/or an understanding of a particular function, organization, industry or product line. Powered by JazzHR  XWP7n7kqag",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-13T07:08:02.000Z"
+  },
+  "company": {
+    "name": "Cerebral Staffing, LLC",
+    "link": "https://www.linkedin.com/company/cerebral-staffing-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Waterloo",
+    "region": "IA",
+    "postal_code": "50706",
+    "street_address": null,
+    "latitude": 42.49347,
+    "longitude": -92.34364
+  }
+}

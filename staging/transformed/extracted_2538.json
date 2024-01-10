@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Internet,Hospital &amp; Health Care",
+    "description": "In 2017, the U.S. alone spent over $80 billion a year researching and treating cancer. Despite new developments and the progress being made: Outcomes4Me is seeking a to take a founding position on our engineering team. You should have a high degree of comfort developing high-quality, lovable experiences and robust, scalable systems. : : This full-time role is based in Cambridge, MA.  Learn more about us at  We are committed to building a diverse team that represents a variety of backgrounds, viewpoints, and skills. We believe that the more inclusive we are, the better the products we build will be. Powered by JazzHR  J6AzD2xMUr",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T19:16:27.000Z"
+  },
+  "company": {
+    "name": "Outcomes4Me ",
+    "link": "https://www.linkedin.com/company/outcomes4me"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

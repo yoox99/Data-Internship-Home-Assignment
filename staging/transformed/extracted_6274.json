@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Research",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T16:35:29.000Z"
+  },
+  "company": {
+    "name": "Berkeley Lab",
+    "link": "https://www.linkedin.com/company/lawrence-berkeley-national-laboratory"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 113000,
+    "max_value": 151000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Berkeley",
+    "region": "CA",
+    "postal_code": "94702",
+    "street_address": null,
+    "latitude": 37.869057,
+    "longitude": -122.27046
+  }
+}

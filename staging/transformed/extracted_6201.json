@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Science Insurance Consultant",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Applied Intelligence, the people who love using data to tell a story. We’re also the world’s largest team of data scientists, data engineers, and experts in machine learning and AI. A great day for us? Solving big problems using the latest tech, serious brain power, and deep knowledge of just about every industry. We believe a mix of data, analytics, automation, and responsible AI can do almost anything—spark digital metamorphoses, widen the range of what humans can do, and breathe life into smart products and services. Want to join our crew of sharp analytical minds? Visit us here to find out more about Applied Intelligence. An data scientist with an eye for AI. You want to change how the world works and lives by taking AI out of the lab and into everyday life. For now, all Accenture business travel, international and domestic, is currently restricted to client-essential sales/delivery activity only  Please note: The safety and well-being of our people continues to be the top priority, and our decisions around travel are informed by government COVID-19 response directives, recommendations from leading health authorities and guidance from a number of infectious disease experts.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:25:46.000Z"
+  },
+  "company": {
+    "name": "Accenture",
+    "link": "https://ie.linkedin.com/company/accenture"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hartford",
+    "region": "CT",
+    "postal_code": "06156",
+    "street_address": null,
+    "latitude": 41.765774,
+    "longitude": -72.673355
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Xandr is a technology platform powering one of the largest global Advanced TV and Video advertising marketplaces in the industry. For more than a decade, our data insights, premium content, powerful technology, and scaled direct-to-consumer distribution have given us a competitive edge — leading us to improving advertising for brands, publishers, and consumers.  How do we do this? With talented, passionate people like you! We bring together people from diverse backgrounds and give them an opportunity to bring their ideas to life. Join our community to Make Advertising Better! The Data Science team at Xandr is responsible for driving algorithmic product innovation across the company. Our projects underlie major features for both buyers and sellers on our platform, as well as the marketplace design for our ad exchange itself. We combine elements of theory with the practical tools and techniques for exploring vast quantities of data, all with the aim of designing effective algorithms to achieve product goals. Data Science partners closely with Engineering, Product, and Data Analytics to ensure that our solutions are solving the right business problem, are scaling as needed, and are achieving the expected results for our clients.  As a team, we have diverse set of backgrounds (math, physics, engineering, operations research, statistics, econometrics, political science) and a spectrum of credentials (about half have PhDs). Our culture centers on collaborating, continuously learning and teaching, and producing effective solutions for our users, whether they rely on elegant theory or on simple heuristics and empirical evidence. We love that our contributions further Xandr’s position as a pioneer and thought leader in the AdTech industry, but we measure our efforts based on the impact and value we create for our clients and internal teammates.  The Data Scientist role is perfect for someone who is passionate about combining deep technical understanding, broad domain knowledge, and creative problem-solving skills to design products that make a measurable impact for our users. Xandr strives to foster a diverse, inclusive and engaging work environment. Our inclusivity in action includes: Xandr, its products and its executives have received several prestigious awards. In 2020 alone, Cablefax's annual The Faxies awards named Xandr’s EVP and GM Innovator of the Year and the Xandr technology organization Tech Team of the Year. In the same year, seven female executives were included in the Cynopsis list of Top Women in Media, and several of its products, innovations and client partnerships were recognized by esteemed outlets globally, including AdExchanger, Digiday, The Drum, ExchangeWire and Cynopsis. Concurrently, the company’s dedication to corporate social responsibility was recognized in Fast Company’s 2020 World Changing Ideas issue. Xandr was also included on Business Insider's Hottest AdTech Companies list in 2019 and 2018.  Xandr is an equal opportunity employer. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.  Xandr Twitter  Xandr Instagram  Xandr LinkedIn",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:20:00.000Z"
+  },
+  "company": {
+    "name": "Xandr",
+    "link": "https://www.linkedin.com/company/xandr"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 96600,
+    "max_value": 177000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

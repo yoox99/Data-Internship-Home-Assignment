@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Information Technology and Services",
+    "description": "Developer of enterprise operating system designed to support the development and management of decision platforms in virtually any business domain. The company's system delivers customers advanced detection and monitoring, adaptive response, and risk optimization capabilities against advanced attackers, enabling clients to quickly and easily integrate all of the disparate data sources across the enterprise into a unified analytics infrastructure to make better decisions. Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other QOMPLX production systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles, operational discipline, and mature automation to our environments and codebase. We specialize in technical domains including networking, the Linux kernel, and specialized operational areas including scaling, algorithms, and distributed systems. You will ensure that QOMPLX's services, both internally-critical and customer-facing, meet or exceed user’s expectations of reliability and uptime. You will work closely with our team of Platform and Product engineers to develop/deliver scalable solutions. You will also be working with Technical Architects, Product and Engineering Leaders to ensure stability and identify critical improvements. DC/OS, Kubernetes, Nginx, AWS, HybridCloud, Jenkins, Git, Docker, Kafka, Prometheus, Kibana, Elasticsearch, Grafana, Postgres",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T19:25:30.000Z"
+  },
+  "company": {
+    "name": "QOMPLX",
+    "link": "https://www.linkedin.com/company/qomplx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tysons Corner",
+    "region": "VA",
+    "postal_code": "22030",
+    "street_address": null,
+    "latitude": 38.912,
+    "longitude": -77.22755
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Marketing and Advertising,Internet,Consumer Goods",
+    "description": "Ruggable is a Los Angeles-based, venture-backed, rapidly growing e-commerce startup that is disrupting the $7B rug industry and revolutionizing the market for residential rugs. Our patented 2-Piece Rug System allows you to remove the top layer of your rug and wash it in your home washing machine, offering an affordable, stylish and convenient solution for young families, pet owners, and busy individuals. We're a small, entrepreneurial team with big ambitions. We have a strong brand, established traction, and amazing advisors fueling our steady growth. This is an opportunity to get in at the ground floor and solve for complex challenges, while charting your own career. As a Software Engineer I at Ruggable, you will be responsible for building new site features and enhancements of existing functionality to improve the customer experience. You will work collaboratively with other software engineers, product managers and designers in an agile environment, which includes code reviews, test automation, daily standups, and whiteboarding sessions. You will also help troubleshoot errors, fix usability issues, and ensure website reliability. At Ruggable, we offer competitive compensation and benefits packages. Ruggable is an Equal Employment Opportunity employer. We proudly recruit and hire a diverse workforce and are committed to creating an inclusive environment for all employees. linked here. Ruggable does not accept unsolicited agency resumes. Please do not forward resumes to our jobs alias, Ruggable employees or any other company destination. Ruggable is not responsible for any fees related to unsolicited resumes.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T05:19:26.000Z"
+  },
+  "company": {
+    "name": "Ruggable",
+    "link": "https://www.linkedin.com/company/ruggable"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

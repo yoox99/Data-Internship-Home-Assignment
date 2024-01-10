@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Research",
+    "description": "A full-time, permanent position is available for a proven ML/AI Engineer with experience in geo-spatial analysis and in the Information and Communications Laboratory (ICL) at the Georgia Tech Research Institute (GTRI). ICL is one of the eight research units of GTRI with programs across a wide range of Information Science research, including communications, sensing, networks, advanced computing, trusted information exchange, enterprise modernization, software applications, data science, machine learning, artificial intelligence, and health systems. Research programs support a wide range of sponsors across national security, health, public safety, State, and industry. ICL currently has over 200 researchers and staff performing over $60M in research per year. ICL is searching for a machine learning engineer or scientist that is interested in developing tools and algorithms for learning from geo-spatial information. Potential applications include electromagnetic spectrum analysis, public health, and cyberspace/information operations activity. The candidate is expected to have proven experience with machine learning, deep learning, or reinforcement learning techniques and software frameworks. Experience in high performance computing, GPUs, and related technologies should be highlighted. The successful candidate will have a Masters degree or higher in Computer Science, Computer Engineering, Mathematics, or a related discipline and 5+ years of experience in the technical areas described above. A PhD is preferred. <10% travel Due to our research contracts with the US federal government, candidates for this position are required to be US Citizens.  Not Applicable Candidates must be able to obtain and maintain an active security clearance. Comprehensive information on currently offered GTRI benefits including Health & Welfare, Retirement Plans, Tuition Reimbursement, Time Off, and Professional Development, can be found through this link: https://hr.gatech.edu/benefits Diversity & Inclusion (D&I) at Georgia Tech Research Institute aims to enhance the Institute’s mission of solving the world’s most complex technical problems by creating a workforce with a shared appreciation for diversity, raising awareness around inclusiveness, and fostering a sense of belonging and appreciation for all members of our community. Georgia Tech Research Institute is an Equal Opportunity Employer of individuals with disabilities and protected veterans and actively seeks diversity among its employees. Equal Employment Opportunity is the Law .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-30T00:23:01.000Z"
+  },
+  "company": {
+    "name": "Georgia Tech Research Institute",
+    "link": "https://www.linkedin.com/company/georgia-tech-research-institute"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

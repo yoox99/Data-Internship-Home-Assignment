@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "San Francisco $150,000 (+/- depending on experience) Full benefits Full Time, Direct Hire Yes",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T01:56:09.000Z"
+  },
+  "company": {
+    "name": "CRB Workforce",
+    "link": "https://www.linkedin.com/company/crbworkforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

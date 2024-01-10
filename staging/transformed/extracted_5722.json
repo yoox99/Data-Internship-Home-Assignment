@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Data Engineer",
+    "industry": "Airlines/Aviation",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-25T17:22:51.000Z"
+  },
+  "company": {
+    "name": "Ntelicor",
+    "link": "https://www.linkedin.com/company/ntelicor"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fort Worth",
+    "region": "TX",
+    "postal_code": "76116",
+    "street_address": null,
+    "latitude": 32.749905,
+    "longitude": -97.33034
+  }
+}

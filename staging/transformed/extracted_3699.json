@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer - Tech College",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "West Creek 2 (12072), United States of America, Richmond, Virginia  Machine Learning Engineer - Tech College  Are you a high performing technologist passionate about cutting edge machine learning developments? Do you enjoy reading and investigating advancements in applied machine learning and solution white papers? Do you leverage both battle-tested algorithms and newer techniques? Are you the go-to mentor and teacher in your organization and community for others who want to learn more about machine learning? As a member of Capital One’s machine learning community in our Tech College organization, you'll be part of an elite group that’s spreading knowledge and understanding about machine learning to experienced machine learning practitioners, newcomers to the art, and executives who need to make decisions regarding machine learning utilization and projects.  Learning is now a continuous, lifelong activity. Since tech skills now have a half-life of about two and half years, how could it be any other way? Recognizing this, Capital one established Tech College in 2017 to revolutionize the learning experience for associates. In particular, Tech College is . Yes, we do have experts in learning and educational design. But, it’s the subject matter experts in machine learning, data engineering, cloud, cyber, mobile, software engineering, and agile that set the direction and curate or create the learning content.  As a Machine Learning Engineer in the Machine Learning Discipline of Capital One’s Tech College, you’ll be part of a team responsible for curating, designing, developing, and delivering highly engaging learning experiences that will fuel our growth as a tech company and help our associates develop cutting-edge skills in machine learning and artificial intelligence. We’ll also expect you to keep up with the latest and greatest machine learning tools and capabilities so that you can lead Capital One’s machine learning community. You will work alongside highly technical peers, with deep domain expertise (from cyber threat prevention to sophisticated NLP) to deliver game changing learning experiences for our associates. You’ll also be expected to work with our university partners in getting creative about ML learning. Tech College is a great spot from which to learn about Capital One’s broader machine learning community so you can spot your next great opportunity, for whenever you’re ready to move back into full-time project delivery.  Tech College is a bold investment in developing our associates and leaders, recruiting top technical talent, and continuing to differentiate ourselves in the market. Tech College aims to transform our approach to enabling our associates and leaders with the technical skills they need to be successful in current and future roles. Job Category - Information Technology, Engineering, Technology Explorers, Technology Explorers",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T17:18:47.000Z"
+  },
+  "company": {
+    "name": "Capital One",
+    "link": "https://www.linkedin.com/company/capital-one"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 71400,
+    "max_value": 93400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richmond",
+    "region": "VA",
+    "postal_code": "23284",
+    "street_address": null,
+    "latitude": 37.54076,
+    "longitude": -77.43393
+  }
+}

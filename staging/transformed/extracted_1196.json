@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Pricing Data Analyst",
+    "industry": "Construction,Food &amp; Beverages,Retail",
+    "description": "Pricing Data Analyst : Non-Exempt Grocery : 05/2018 Sets the department standards for customer service, employee relations, cleanliness, sanitation, professional appearance and overall profitability. Ensures products are available to the customer in a timely basis and all item parameters are accurately maintained in the product management software. Accountable and Reports to: Store Director; Assistant Director; Store Operations, Perishables, Health Wellness Home; Managers of Store Operations, Perishables, Health Wellness Home; Assistant Managers  Direct Reports: Pricing Data Specialist Instructing, assigning work, reviewing work, planning the work of others, maintaining standards, allocating personnel, and coordinating the activities of others. High school or equivalent experience. Strong basic math skills necessary. Over six months to one year of similar or related experience. This position is frequently exposed to noise, occasionally exposed to temperature extremes and equipment movement hazards, and continually exposed to the fast paced work environment and pressure to meet deadlines. Windows based PC, printer, wireless devices, telephone, fax, copier, calculator, internet, product management software, and Microsoft Office products. Responsible for company assets including equipment and merchandise. Has daily contact with customers, suppliers/vendors and with the general public. Has access to confidential information including store inventory information, item costs, and margins.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:13:28.000Z"
+  },
+  "company": {
+    "name": "Hy-Vee, Inc.",
+    "link": "https://www.linkedin.com/company/hy-vee"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 36200,
+    "max_value": 62600,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Waterloo",
+    "region": "IA",
+    "postal_code": "50706",
+    "street_address": null,
+    "latitude": 42.49347,
+    "longitude": -92.34364
+  }
+}

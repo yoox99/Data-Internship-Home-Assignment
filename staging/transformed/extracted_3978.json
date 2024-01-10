@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer II-IV  (Open Rank)",
+    "industry": "Government Relations",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:32:17.000Z"
+  },
+  "company": {
+    "name": "National Radio Astronomy Observatory",
+    "link": "https://www.linkedin.com/company/national-radio-astronomy-observatory"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Green Bank",
+    "region": "WV",
+    "postal_code": "24944",
+    "street_address": null,
+    "latitude": 38.4192,
+    "longitude": -79.83102
+  }
+}

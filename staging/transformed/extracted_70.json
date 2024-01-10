@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (C#)",
+    "industry": "Staffing and Recruiting",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:02:44.000Z"
+  },
+  "company": {
+    "name": "Insight Global",
+    "link": "https://www.linkedin.com/company/insight-global"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh-Durham-Chapel Hill Area",
+    "region": null,
+    "postal_code": "27603",
+    "street_address": null,
+    "latitude": 35.817448,
+    "longitude": -78.27004
+  }
+}

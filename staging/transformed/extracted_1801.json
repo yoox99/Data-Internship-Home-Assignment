@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Python Engineer - Geospatial Software",
+    "industry": "Computer Software",
+    "description": "Python Engineer Temporary Full Remote - Denver, CO $130,000 - $140,000/year Python, SQL, SaaS  Based out of Mountain View, CA, this position will be remote until we open an office in Denver, at which time it will be partially remote. We have been in business for 7 years. We are a rapidly growing company specializing in machine learning, and our technology helps increase the understanding of our earth and the built environments. We have seen a 16% growth in headcount over the last 6 months, and have focused most of this growth on our engineering department. We have a variety of different systems, ranging from client-facing web apps to our highly scalable, fast, deep-learning pipeline.  If you are a Python Engineer with 3 years of experience, please read on!  What You Will Be Doing What You Need for this Position Nice to Have Experience What's In It for You  Competitive Base Salary - $130K - $140K Health, Dental, Vision, and Life Insurance PTO 401K with matching Bonus Or Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Meaghan.Curran@CyberCoders.com Meaghan Curran - Sr. Executive Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T06:59:48.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

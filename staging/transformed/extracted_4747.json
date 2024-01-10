@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Machine Learning",
+    "industry": "Financial Services,Health, Wellness and Fitness,Hospital &amp; Health Care",
+    "description": "The Sales Analytics team is looking for a Data Scientist to help us uncover and prioritize opportunities for driving membership growth. We leverage data science and machine learning capabilities to support our market facing teams with strategic approaches to selling healthcare coverage. This role offers an excellent opportunity to build your career in the rapidly growing field of machine learning. You will play a central role in leveraging machine learning to tackle complicated problems, including text extraction, recommendation engines, search and ranking, and image processing.  Designs, develops and programs methods, processes, and systems to consolidate and analyze unstructured, diverse big data sources to generate actionable insights and solutions for clinical and non-clinical operations enhancements. Interacts with mission-based teams to identify questions and issues for data analysis and experiments. Develops and codes software programs, algorithms and automated processes to cleanse, integrate and evaluate large datasets from multiple disparate sources. Identifies, interprets and communicates meaningful insights from analysis and experiments to managers.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Kaiser Permanente",
+    "link": "https://www.linkedin.com/company/kaiser-permanente"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91500,
+    "max_value": 134000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Oakland",
+    "region": "CA",
+    "postal_code": "94612",
+    "street_address": null,
+    "latitude": 37.80483,
+    "longitude": -122.27248
+  }
+}

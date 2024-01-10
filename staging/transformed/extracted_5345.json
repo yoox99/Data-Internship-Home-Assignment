@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Machine Learning Engineer, Information Intelligence",
+    "industry": "Consumer Electronics",
+    "description": "The Information Intelligence (Siri Relevance) team is creating groundbreaking technology for artificial intelligence, machine learning and natural language processing! The features we create are redefining how hundreds of millions of people use their computers and mobile devices to search and find what they are looking for. As part of this group, you will be doing large scale machine learning and deep learning to improve Understanding and Ranking of Siri and developing fundamental building blocks needed for Artificial Intelligence. This involves developing sophisticated machine learning models, using word embeddings and deep learning to understand the quality of matches, online learning to react quickly to change, natural language processing to understand queries, taking advantage of petabytes of data and signals from millions of users and combining information from multiple sources to provide the user with results that best satisfies their intent and information seeking needs. 4+ years of experience in machine learning, information retrieval, indexing and retrieval  Mastery of two of following languages: Python, Go, Java, C++  Excellent knowledge and good practical skills in major machine learning algorithms  Excellent data analytical skills  Experience with large scale search and machine learning systems is highly desired  Experience with Hadoop, Hive, and/or Impala is a plus  Experience with Docker and Kubernetes is a plus.  Good interpersonal skills  Good team player As a member of our fast-paced group, you’ll have the unique and rewarding opportunity to shape upcoming products from Apple. We are looking for people with excellent applied machine learning experience and solid engineering skills in creating outstanding search service. This role will have the following responsibilities:   - Analyzing search ranking and relevance requirements, issues and opportunities   - Understanding product requirements, translate them into modeling tasks and engineering tasks   - Building machine learned models for search relevance, ranking and query understanding problems   - Utilizing Spark, Hadoop MapReduce, Hive, Impala to perform distributed data processing MS or Ph.D in Computer Science, Artificial Intelligence, Machine Learning, Data Science or related field preferred    Role Number: 200277052",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:39:33.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

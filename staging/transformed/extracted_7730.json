@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Python/Javascript)",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "Software Engineer (Python/Javascript) Sr. Director, Research & Development The software engineer is primarily a software maintenance and development position with broad responsibility towards designing, building, maintaining and debugging system and framework level software across a wide array of end user computing devices. This includes but is not limited to X86/Linux, SmartTV platforms from LG and Samsung, as well as familiarity with mobile platforms such as Android and IOS. The engineer will operate initially under the tutelage and mentorship of senior engineers.  This position can be based out of our Bethesda, MD headquarters or remotely. GetWellNetwork’s interactive solutions engage patients and families, empower clinicians and deliver outcomes that matter. The global digital health company has been helping to unite providers and patients as partners in the healthcare journey for 20 years. From inpatient to outpatient, our comprehensive cross-continuum platform bridges care settings to create a seamless experience for patients and their families.  With more than 300+ employees across the U.S., GetWellNetwork is dedicated to changing the lives of millions of patients and families every year. If you're passionate about working in a high-growth, dynamic and innovative environment that is changing an industry, then we want to hear from you!  GetWellNetwork is an Equal Opportunity Employer.  Powered by JazzHR  aMaMUpmgwX",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T03:36:31.000Z"
+  },
+  "company": {
+    "name": "GetWellNetwork",
+    "link": "https://www.linkedin.com/company/getwellnetwork"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bethesda",
+    "region": "MD",
+    "postal_code": "20894",
+    "street_address": null,
+    "latitude": 38.984856,
+    "longitude": -77.09269
+  }
+}

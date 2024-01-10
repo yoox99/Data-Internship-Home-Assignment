@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Front End (React)",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "The Digital Experience team at Tesla is at the forefront of building a consistent, global customer experience across all digital touchpoints – web, native apps and in-car infotainment systems. This team is building the next generation products and supporting infrastructure which allows our customers, living in 60+ countries, to understand, interact and purchase our amazing vehicles and energy products.  Tesla is seeking a Front-End Software Engineer to join our team and help build the next generation of web solutions for our service partners and customers as it relates to the ownership experience. You will be challenged to turn apps around quickly but thoughtfully, balancing speed to market with longevity and scalability, all in the name of extraordinary customer experiences.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T08:14:45.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

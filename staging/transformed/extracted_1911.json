@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Java, Spring, Rest",
+    "industry": "Insurance",
+    "description": "If you are a Software Engineer with Java, Spring and REST experience, please read on!  We are an international insurance firm that has established itself in the small business and entertainment industries. We begun operations in the US in the mid 2000's and continue to thrive insuring the unique and the interesting. And we recruit for the same in our next employees. Our culture is filled with fun, reliable, and smart people that enjoy being encouraged to be creative, challenge the norm and look for solutions. The complexity and nature of the applications combined with the latest technology trends makes working in IT for us a fantastic and challenging experience. Our roots date back to early 1900s, but yet we never stop evolving. In 2020 we've implemented a much better experience for a healthier work life balance for our employees. We see it as the best of both worlds: structure and sociability on one hand, and independence and flexibility on the other. Please apply if this sounds like the right opportunity for you.  What's In It for You In the spirit of volunteerism, social responsibility and community involvement, including matching charitable donations for qualifying non-profits via our own sister non-profit company.  What You Will Be Doing What You Need for this Position Desirable Skills So, if you are a Software Engineer with experience mentioned above or have great interest, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Patrick.Tafua@CyberCoders.com Patrick Tafua - Executive Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:32:38.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60900,
+    "max_value": 112000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

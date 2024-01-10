@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (100% Remote)",
+    "industry": "Computer Software",
+    "description": "Senior Software Engineer Washington, DC or Remote $120,000 - $140,000 JavaScript, Python, SQL  As a Senior Software Engineer, this individual will be responsible for supporting a client in the music industry. We have re-architected a core enterprise software platform to support managing digital performance rights. You will be responsible for leading software strategy and development.  What You Will Be Doing What You Need for this Position What's In It for You or Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Josh.Sanchez@CyberCoders.com Josh Sanchez - Sr. Executive Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:29:01.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65800,
+    "max_value": 80100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

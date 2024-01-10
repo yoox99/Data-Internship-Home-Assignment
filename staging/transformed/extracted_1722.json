@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Networking,Computer Software,Internet",
+    "description": "Our Intelligent Edge division consists of collaborative, inclusive, and creative teams that develop applications and services to empower our customers. We make it easy for our customers to build rich experiences on from our core Akamai Platform. Our team plays an integral role in envisioning future innovations for our product portfolio. As a Senior Software Engineer, you will be building customer-facing web applications, enhancing our customers experience in managing their internet traffic and DNS records. You will be living and breathing APIs, enjoying a high degree of autonomy to solve complex and difficult problems.  As a Senior Software Engineer, you will be responsible for- To be successful in this role you will- We recognize that everyone is different and that the way in which people want to work and deliver at their best is different for everyone too. In this role, we can offer the following flexible working patterns-  We are happy to discuss flexible working options in this role, please discuss your requirements with the recruiter when you apply. At Akamai, were curious, innovative, collaborative and tenacious. We celebrate diversity of thought and we hold an unwavering belief that we can make a meaningful difference. Our teams use their global perspectives to put customers at the forefront of everything they do, so if you are people-centric, youll thrive here. At Akamai, we will provide you with opportunities to grow, flourish, and achieve great things. Our benefit options are designed to meet your individual needs for today and in the future. We provide benefits surrounding all aspects of your life- Our benefit plan options are designed to meet your individual needs and budget, both today and in the future. Innovating on a global scale, we deliver our customers a fast, smart and secure intelligent edge platform. Working against a backdrop of digital collaboration, our highly skilled teams build progressive solutions that have the scope to transform entertainment, business, and life in ways that we have yet to imagine. Are you seeking an opportunity to make a real difference in a company with a global reach and exciting services and clients? Come join us and grow with a team of people who will challenge and inspire you! Akamai Technologies is an Affirmative Action, Equal Opportunity Employer that values the strength that diversity brings to the workplace. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of gender, gender identity, sexual orientation, race/ethnicity, protected veteran status, disability, or other protected group status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:10:33.000Z"
+  },
+  "company": {
+    "name": "Akamai Technologies",
+    "link": "https://www.linkedin.com/company/akamai-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 117000,
+    "max_value": 178000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

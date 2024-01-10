@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Principal Software Engineer",
+    "industry": "Financial Services,Information Technology and Services,Information Services",
+    "description": "In this role, you will serve as a Principal Software Engineer for a robust team of digital technologists, located both on-shore and off-shore. You will facilitate discussions between the product sponsor, technology team and partners to define business requirements. You will support your team in the development and delivery of those requirements into production. This role often requires coordinating the efforts of multiple systems teams to deliver a seamlessly integrated solution to our customers. Fidelity's Workplace Solutions (WS) Digital Platforms Technology team designs, develops, implements, and supports WS’s suite of Digital products and services. The Digital Platforms development team focuses on delivering innovative solutions that meet the needs of our customers. Our systems professionals thrive, with a steadfast dedication to innovation, which champions a culture of continuous improvement and significant achievement. We see ourselves as a vital link to Fidelity's customers. This is a fast-paced group that is using ground-breaking technologies to build powerful tools and outstanding user experiences for our customers, using Java-based technologies. Company Overview  At Fidelity Investments, our customers are at the heart of everything we do. As a privately held company with a rich 75-year history, our mission has remained the same since our founding: . We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money.  Join Us  At Fidelity, you’ll find endless opportunities to build a meaningful career that positively impacts peoples’ lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. And you don’t need a finance background to succeed at Fidelity—we offer a range of opportunities for learning and growth so you can build the career you’ve always imagined. We welcome associates from different backgrounds and with different perspectives to help us innovate and make a difference for our customers and our communities.  We invite you to at fidelitycareers.com.  Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.  Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Leave of Absence/Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 2.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:27:23.000Z"
+  },
+  "company": {
+    "name": "Fidelity Investments",
+    "link": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Durham",
+    "region": "NC",
+    "postal_code": "27717",
+    "street_address": null,
+    "latitude": 35.99695,
+    "longitude": -78.899025
+  }
+}

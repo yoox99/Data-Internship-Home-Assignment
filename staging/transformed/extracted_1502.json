@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - New Grad",
+    "industry": "Marketing and Advertising,Internet,Retail",
+    "description": "At GOAT Group, the Engineering team is an integral part of our dynamic company. By joining the team, your skills will be front and center, working alongside other passionate individuals to solve problems and build software. From launching compelling new consumer experiences, tackling global logistics challenges to scaling infrastructure to facilitate our rapid growth – technology is essential to driving our vision forward. The work you do will change the way the world shops, while also empowering entrepreneurs, including individual sellers, brands and boutiques.  We are looking for a New Grad-Level Engineer with high potential to help implement new features in one of our many backend applications. As an entry-level contributor on a small team, you will learn and demonstrate the development practices and philosophies required to support both a monolithic Ruby on Rails app at the heart of the business and out a new, more scalable service-driven architecture. GOAT is the global platform for the greatest products from the past, present and future. Since its founding in 2015, GOAT has become the leading and most trusted sneaker marketplace in the world. Through its unique positioning between the primary and resale markets, the company offers styles across various time periods on its digital platforms and in its retail locations, while delivering products to over 30 million members across 170 countries.  The company is backed by strategic investor Foot Locker, Inc. as well as some of the leading names in venture capital including D1 Capital Partners, Accel, Andreessen Horowitz, Index Ventures, Matrix Partners, Upfront Ventures, Webb Investment Network and Y Combinator.  We encourage you to apply even if you feel unsure about whether you meet every single requirement. We look for people who are passionate about what we do, not just those who check off all the boxes.  GOAT Group will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance, if applicable. If you are a California resident, please review our California Privacy Rights Notice for Job Applicants .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-03T13:58:58.000Z"
+  },
+  "company": {
+    "name": "GOAT Group",
+    "link": "https://www.linkedin.com/company/goat---sneaker-marketplace"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 105000,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

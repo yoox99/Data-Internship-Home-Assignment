@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "There is a lot that goes into building an Integrated Ministry Platform and Logos Bible Software. We are looking for a Site Reliability Engineer who can help us grow our Microsoft Azure cloud infrastructure. Join us as we make revolutionary technology for administration and discipleship for churches all over the world. What we are looking for Responsible for",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T03:50:44.000Z"
+  },
+  "company": {
+    "name": "Faithlife",
+    "link": "https://www.linkedin.com/company/faithlife"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellingham",
+    "region": "WA",
+    "postal_code": "98226",
+    "street_address": null,
+    "latitude": 48.754898,
+    "longitude": -122.47812
+  }
+}

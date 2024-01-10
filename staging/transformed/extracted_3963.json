@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (Java)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "We are looking for a Senior Software Engineer to build the highly available and heavy traffic fault tolerant applications using Java, Spring and Spring Boot technologies. You'll get to work with cutting-edge technologies like Kubernetes, Docker, and AWS, and will help design and build a next-generation platform to advance the lending industry.  Our software engineering team is rapidly growing and looking for Senior Software Engineers to be part of a fast paced, high-energy team. We want people who take their craft seriously, have a passion for building great solutions, and enjoy working with a team of like minded individuals.  If you are an experienced engineer who loves solving complex business problems and believes planning, hard work, teamwork and quality is what it takes to succeed, then this is the job for you.  What You'll Do What You'll Need to Be Successful Powered by JazzHR  byIld5KIEf",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:10:28.000Z"
+  },
+  "company": {
+    "name": "Finicity, a Mastercard Company",
+    "link": "https://www.linkedin.com/company/finicity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

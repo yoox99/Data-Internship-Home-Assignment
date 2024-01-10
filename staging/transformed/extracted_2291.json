@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (New College Grad)",
+    "industry": "Computer &amp; Network Security",
+    "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so that customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange is the company’s cloud-native platform that protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location.  With more than 10 years of experience developing, operating, and scaling the cloud, Zscaler serves thousands of enterprise customers around the world, including 450 of the Forbes Global 2000 organizations. In addition to protecting customers from damaging threats, such as ransomware and data exfiltration, it helps them slash costs, reduce complexity, and improve the user experience by eliminating stacks of latency-creating gateway appliances.  Zscaler was founded in 2007 with a mission to make the cloud a safe place to do business and a more enjoyable experience for enterprise users. Zscaler’s purpose-built security platform puts a company’s defenses and controls where the connections occur—the internet—so that every connection is fast and secure, no matter how or where users connect or where their applications and workloads reside. All your information will be kept confidential according to EEO guidelines. People who excel at Zscaler are smart, motivated and share our values. Ask yourself: Do you want to team with the best talent in the industry? Do you want to work on disruptive technology? Do you thrive in a fluid work environment? Do you appreciate a company culture that enables individual and group success and celebrates achievement? If you said yes, we’d love to talk to you about joining our award-winning team.  Additional information about Zscaler (NASDAQ: ZS ) is available at https://www.zscaler.com.  Zscaler is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T00:50:00.000Z"
+  },
+  "company": {
+    "name": "Zscaler",
+    "link": "https://www.linkedin.com/company/zscaler"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 67100,
+    "max_value": 139000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

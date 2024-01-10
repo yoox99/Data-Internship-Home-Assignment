@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Do you dream about creating a more sustainable future? At Uplight, we are motivating energy users and providers to accelerate the clean energy ecosystem. We’re working with over 90 of the world’s leading electric and gas utilities to provide a personalized end-to-end customer energy experience that helps meet and accelerate carbon reduction goals. We are a certified B Corp, enabling us to put our values into action by not only making decisions for the benefit of our shareholders, but also for our customers, environment, employees, and community.  We are seeking a Senior Software Engineer to join our team and help us achieve our ambitious goals for our business and for the planet. We are looking for a Software Engineer to add to our Marketplace team. You’ll work with a talented group of engineers to build and maintain features on the front and back end of our applications using Python and Javascript. In addition to all the standard medical and dental benefits, that kick in Day 1, we: Salary Range : $100,000 to $110,000  In accordance with the Colorado Equal Pay for Equal Work Act, the approximate annual base compensation range is listed above. The actual offer, reflecting the total compensation package and benefits, will be determined by a number of factors including the applicant's experience, knowledge, skills, and abilities, as well as internal equity among our team.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-17T21:16:01.000Z"
+  },
+  "company": {
+    "name": "Uplight",
+    "link": "https://www.linkedin.com/company/uplightenergy"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boulder",
+    "region": "CO",
+    "postal_code": "80310",
+    "street_address": null,
+    "latitude": 40.016872,
+    "longitude": -105.279625
+  }
+}

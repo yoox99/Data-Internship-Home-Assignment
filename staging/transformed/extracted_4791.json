@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-19T20:55:52.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 84400,
+    "max_value": 131000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

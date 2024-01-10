@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Construction,Information Technology and Services,Computer Software",
+    "description": "Are you looking for a place to invest in your future? Then consider a job at TechFlow, where we provide opportunities for individuals to explore, learn and develop their careers while being part of an exciting team of professionals.  Here are some experiences you may have at TechFlow TechFlow is looking for multiple Software Engineers to design, develop and install software solutions. Software Engineer responsibilities include gathering user requirements, defining system functionality, and writing code in various languages, like Java, Ruby on Rails, or .NET programming languages (e.g. C++ or JScript.NET.) The ideal candidates are familiar with the software development life cycle (SDLC) from preliminary system analysis to tests and deployment. Ultimately, the role of the Software Engineer is to build high-quality, innovative, and fully performing software that complies with coding standards and technical design. Key Responsibilities #techflow TechFlow, Inc is 100% employee-owned. Come make a difference in a job that contributes to your future and helps us build an agile workplace!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-17T03:23:54.000Z"
+  },
+  "company": {
+    "name": "TechFlow, Inc.",
+    "link": "https://www.linkedin.com/company/techflow-inc."
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 67400,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Herndon",
+    "region": "VA",
+    "postal_code": "22092",
+    "street_address": null,
+    "latitude": 38.96973,
+    "longitude": -77.38387
+  }
+}

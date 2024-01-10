@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Escalation Engineer",
+    "industry": "Computer Networking,Computer Software,Computer &amp; Network Security",
+    "description": "Today the modern enterprise is an Enterprise of Things. We are on a mission to secure the Enterprise of Things with active defense by identifying, segmenting and enforcing compliance of every connected thing. In real time. And at scale. Our unified security platform enables enterprises and government agencies to focus on Zero Trust segmentation, IT/OT convergence and OT/ICS innovation, all supporting our mission and vision.  Join us as we secure the world with our products. We are looking for resourceful and gritty individuals to collaborate as one team while ensuring a world-class customer experience. We are cyber-obsessed about addressing the world’s most challenging security problems. Innovation starts here, everyone’s ideas are valued, visionaries welcomed! If you are a great developer with passion for security and technology, come join Forescout’s R&D/Sustaining team of Software Engineers and take part in defining and driving the future world-wide market leading product suite consisting of: Network Access Control, Endpoint Compliance, Mobile Control, and Intrusion Prevention.  Applications range from Client/Server applications to Web apps for a Network Access Control solution, running on both Windows and Linux systems. Forescout is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:34:49.000Z"
+  },
+  "company": {
+    "name": "Forescout Technologies Inc.",
+    "link": "https://www.linkedin.com/company/forescout-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

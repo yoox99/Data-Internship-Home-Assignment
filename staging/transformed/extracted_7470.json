@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Statistician/Data Scientist",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software,Semiconductors",
+    "description": "Technology Development (TD) Analytics and Automation, a new and growing part of the technology development body of Intel Corporation, is inviting candidates to apply for employment as a Technology Development Data Scientist. The successful candidate will join a team of statisticians and data scientists in Hillsboro, OR. The team provides analytics leadership and support to engineers and managers who research and develop semiconductor processes for Intel’s next generation chips.  TD statisticians work in a dynamic environment and are responsible for a wide range of predictive analytics and statistical applications including modeling, statistical consulting, teaching machine learning and statistics courses, data science, process control methods, and developing and implementing methods for specialized applications. You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your schoolwork/classes/research and/or relevant previous job and/or internship experiences. Minimum of 6 months of experience in: As the world's largest chip manufacturer, Intel strives to make every facet of semiconductor manufacturing state-of-the-art -- from semiconductor process development and manufacturing, through yield improvement to packaging, final test and optimization, and world class Supply Chain and facilities support. Employees in the Technology and Manufacturing Group are part of a worldwide network of design, development, manufacturing, and assembly/test facilities, all focused on utilizing the power of Moore’s Law to bring smart, connected devices to every person on Earth All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T04:08:39.000Z"
+  },
+  "company": {
+    "name": "Intel Corporation",
+    "link": "https://www.linkedin.com/company/intel-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hillsboro",
+    "region": "OR",
+    "postal_code": "97124",
+    "street_address": null,
+    "latitude": 45.52395,
+    "longitude": -122.98974
+  }
+}

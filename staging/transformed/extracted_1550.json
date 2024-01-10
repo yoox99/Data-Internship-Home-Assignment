@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Remote",
+    "industry": "Pharmaceuticals,Biotechnology,Medical Devices",
+    "description": "and strictly prohibits unlawful discrimination based upon an individual’s race, color, religion, gender, sexual orientation, gender identity/expression, national origin/ancestry, age, mental/physical disability, medical condition, marital status, veteran status, or any other characteristic protected by law.If you have a disability and need an accommodation in connection with the on-line application process, please email us at  US.Accommodation@roche.com  .  Roche is an equal opportunity employer and strictly prohibits unlawful discrimination based upon an individual's race, color, religion, gender, sexual orientation, gender identity/expression, national origin/ancestry, age, mental/physical disability, medical condition, marital status, veteran status, or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T06:11:58.000Z"
+  },
+  "company": {
+    "name": "Roche",
+    "link": "https://ch.linkedin.com/company/roche"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 63300,
+    "max_value": 130800,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postal_code": "46203",
+    "street_address": null,
+    "latitude": 39.76845,
+    "longitude": -86.15621
+  }
+}

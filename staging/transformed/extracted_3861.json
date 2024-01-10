@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer / DevOps",
+    "industry": "",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-16T16:50:27.000Z"
+  },
+  "company": {
+    "name": "Dots Technologies Inc",
+    "link": "https://www.linkedin.com/company/dots-technologies-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Johns Creek",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.041058,
+    "longitude": -84.18782
+  }
+}

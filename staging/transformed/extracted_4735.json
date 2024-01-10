@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Web Video Clients",
+    "industry": "Internet",
+    "description": "Launched in 2011, Twitch is a global community that comes together each day to create multiplayer entertainment: unique, live, unpredictable experiences created by the interactions of millions. We bring the joy of co-op to everything, from casual gaming to world-class esports to anime marathons, music, and art streams. Twitch also hosts TwitchCon, where we bring everyone together to celebrate, learn, and grow their personal interests and passions. We’re always live at Twitch. Stay up to date on all things Twitch on LinkedIn , Twitter and on our Blog . Twitch is building the future of live interactive entertainment, and video is at the very core of that vision. Amazon Interactive Video Service (IVS) is an AWS Service built within Twitch that enables AWS developers to easily and quickly use the low-latency highly -distributed live video platform that powers Twitch in their own applications. The IVS Video Clients team is looking for an experienced Web Engineer to contribute to the web platform of our video playback library. This cross-platform low-level library powers playback on all of the client platforms that Twitch supports, including desktop and mobile web, Android, iOS, PS4, Xbox, and others, and the player SDKs for IVS.  If you are passionate about video, streaming, or entertainment, and inspired by building performant client software, then this is the position for you. Previous working with video technologies is a bonus, but not a requirement since you'll be partnered with accomplished video engineering veterans. Along the way, you'll gain in-depth knowledge of our highly available and scalable end-to-end live video infrastructure. We can't wait to see what we can build together! We are an equal opportunity employer and value diversity at Twitch. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:06:09.000Z"
+  },
+  "company": {
+    "name": "Twitch",
+    "link": "https://www.linkedin.com/company/twitch-tv"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "As a member of an Agile Team for the Enterprise Solutions and Operations group, selected candidate will be a member of a highly-skilled and motivated team responsible for the assessment, design and implementation of solutions in a variety of software applictions and integrated systems. Agile Teams at i3 are responsible for initiating new project startups, participating in technical demonstrations in support of bids and proposals, supporting existing project surge needs, as well as research and development of cutting edge solutions. An Agile Team in Huntsville is currently expanding to support a new project initiation for the Air Force. Travel 10%",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T02:58:42.000Z"
+  },
+  "company": {
+    "name": "Integration Innovation, Inc.",
+    "link": "https://www.linkedin.com/company/integration-innovation-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Huntsville",
+    "region": "AL",
+    "postal_code": "35897",
+    "street_address": null,
+    "latitude": 34.72954,
+    "longitude": -86.585304
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Full-Stack Software Engineer - Java OR Ruby",
+    "industry": "Accounting",
+    "description": "If you are a with experience, please read on!  This is a !  We are a niche FinTech that is growing and continually transforming our industry! We are looking for a Senior Full-Stack Software Engineer to join our team! We are looking for someone steeped in either Java or Ruby who loves the FinTech world and is all about rolling up their sleeves and wearing many hats!  What You Will Be Doing What You Need for this Position What's In It for You  We offer a compensation package of base, bonus and equity in a collaborative environment with great leadership! So, if you are a Senior Full-Stack Software Engineer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Rhona.Kannon@CyberCoders.com Rhona Kannon - Principal Director - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:03:52.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Blue Ash",
+    "region": "OH",
+    "postal_code": "43334",
+    "street_address": null,
+    "latitude": 39.231274,
+    "longitude": -84.377045
+  }
+}

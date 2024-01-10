@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (BackEnd)",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:17:53.000Z"
+  },
+  "company": {
+    "name": "Telepathy Labs",
+    "link": "https://www.linkedin.com/company/telepathy-labs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tampa",
+    "region": "FL",
+    "postal_code": "33675",
+    "street_address": null,
+    "latitude": 27.947424,
+    "longitude": -82.45878
+  }
+}

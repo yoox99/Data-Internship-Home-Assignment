@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer, Factory Software Systems",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "Role The Ignition Support team at Tesla manages our Ignition deployment, and infrastructure. As an SRE on the Ignition Support team you'll be responsible for automating the deployment, configuration, management, and monitoring of Ignition, as well as troubleshooting issues with the Ignition application and assisting us with upgrading to version 8.1.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T23:25:41.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 106000,
+    "max_value": 188000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Development Engineer in Test - System Foundation",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "At Sonos, we want to create the ultimate listening experience for our customers, and connect them to the content they want, where they want it. As part of the Sonos team, you’ll collaborate with people of all styles, skill sets, and backgrounds to realize our vision while fostering a community where everyone feels included and empowered to do to the best work of their lives.  As a Sr SDET, you will represent the Software Quality Engineering discipline in the Software Engineering group. You will strive for service engineering excellence and work closely with the SW team in the design, implementation and testing of embedded systems, APIs and SDK integration as well as mobile to make our validation strategy a reality in this new domain. Be part of the team building and integrating the next generation IoT platform, API, and developer portal for controlling the Sonos system to bring these experiences to businesses, their customers and employees.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-08T17:14:31.000Z"
+  },
+  "company": {
+    "name": "Sonos, Inc.",
+    "link": "https://www.linkedin.com/company/sonos-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 117000,
+    "max_value": 185000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

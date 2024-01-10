@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Evolytics is evolving analytics by inspiring people to use data in ways that make a difference in the world. With a focus on optimizing consumer experiences and strengthening business growth, Evolytics works with world-class brands to support data initiatives that span the data lifecycle. Capabilities include: Measurement Strategy & Planning, Data Audits, Analytics Implementation Services, Data Engineering, Reporting & Analysis, Data Visualization, Testing & Optimization, Data Science, and Customized Training.  As a Data Scientist at Evolytics, you will collaborate with client teams to help enterprise organizations improve their marketing, products, and processes. You’ll have the opportunity to be a thought leader in the analytics industry and to work on cutting edge projects where you’re building innovative, end-to-end solutions alongside a team. What’s it like to work at Evolytics? It’s being challenged by your analytics-passionate co-workers to push the envelope. It’s constantly learning and sharpening your skill set. It’s working toward that next “aha” moment with a client when you deliver a fantastic data-derived golden nugget. It’s having a blast with the team while you perfect your craft and get to do work you love. Consideration will be given to qualified candidates with varying levels of experience, with compensation commensurate with experience. Awesome people make powerful teams. Let’s do great things together!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:02:20.000Z"
+  },
+  "company": {
+    "name": "Evolytics",
+    "link": "https://www.linkedin.com/company/evolytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 71000,
+    "max_value": 131000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kansas City",
+    "region": "MO",
+    "postal_code": "64113",
+    "street_address": null,
+    "latitude": 39.099792,
+    "longitude": -94.57856
+  }
+}

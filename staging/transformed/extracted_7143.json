@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Electronics Test Engineer",
+    "industry": "Electrical/Electronic Manufacturing",
+    "description": "Sanmina Corporation (Nasdaq: SANM) is a leading integrated manufacturing solutions provider serving the fastest-growing segments of the global Electronics Manufacturing Services (EMS) market. Recognized as a technology leader, Sanmina Corporation provides end-to-end manufacturing solutions, delivering superior quality and support to Original Equipment Manufacturers (OEMs) primarily in the communications networks, defense and aerospace, industrial and semiconductor systems, medical, multimedia, computing and storage, automotive and clean technology sectors. Sanmina Corporation has facilities strategically located in key regions throughout the world. Supports engineering activities such as design, test, check-out, modification, fabrication and assembly of prototype electro-mechanical systems, experimental design circuitry or specialized test equipment Sanmina is an Equal Opportunity Employer – M/F/Veteran/Disability/Sexual Orientation/Gender Identity",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T03:12:05.000Z"
+  },
+  "company": {
+    "name": "Sanmina",
+    "link": "https://www.linkedin.com/company/sanmina"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 50800,
+    "max_value": 61700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "West Valley City",
+    "region": "UT",
+    "postal_code": "84088",
+    "street_address": null,
+    "latitude": 40.68849,
+    "longitude": -111.957985
+  }
+}

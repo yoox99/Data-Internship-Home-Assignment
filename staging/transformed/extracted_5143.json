@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Computer Software,Telecommunications",
+    "description": "Five9 is a leading provider of cloud software for the enterprise contact center market, bringing the power of the cloud to thousands of customers and facilitating more than three billion customer interactions annually. Five9 provides businesses with cloud contact center software that is reliable, secure, compliant and scalable, which is designed to create exceptional customer experiences, increase agent productivity and deliver tangible business results. At Five9, we are focused on delivering the industry’s most modern cloud portfolio for contact center automation. You will be developing a Single Page Application and the required backend services using JavaScript, C, Node.js and Java technologies for our core Call Center products. Our SaaS team develops VOIP (voice over IP), Chat, Email, Predictive Dialing, Agent Desktop, Predictive and Progressive Dialing with an enormous data channel and Artificial Intelligence. If you love having big goals, real world challenges, and making customers incredibly happy whilst fostering your obsessive need for perfect code and user experience, this is the job for you.  Along with coding, you will be responsible for working with product managers, other developers and designers on our agile team structure. We love product engineers who lead the charge, communicating with customers and delivering the most innovative, intuitive application possible is a must. Five9 embraces diversity and is committed to building a team that represents a variety of backgrounds, perspectives, and skills. The more inclusive we are, the better we are. Five9 is an equal opportunity employer.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T05:38:05.000Z"
+  },
+  "company": {
+    "name": "Five9",
+    "link": "https://www.linkedin.com/company/five9"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Ramon",
+    "region": "CA",
+    "postal_code": "94582",
+    "street_address": null,
+    "latitude": 37.777084,
+    "longitude": -121.96752
+  }
+}

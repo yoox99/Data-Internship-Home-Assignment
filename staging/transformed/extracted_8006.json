@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Hospital &amp; Health Care,Information Technology and Services",
+    "description": "At NRC Health, we promise to help our customers bring H uman U nderstanding to healthcare for their patients and communities. Our associates are at the heart of delivering that promise, so we promise that same H uman U nderstanding to each other. Come where culture is everything. Innovate with us to move healthcare forward.  Give back to the community with volunteer time off.  Fit your role and do what you love.  Grow and develop along a career path designed by you.  Support one another – no one says, “That’s not my job.”  Play hard at beer:30 and team outings – we have a lot to celebrate.  Let life happen with 4+ weeks time off, a flexible work environment, and dress for your day attire.  Live healthy with a comprehensive healthcare plan and wellness program.  Who we want What you will do  As a Software Engineer, you will be responsible for working with stakeholders and the development team to define, build and deliver software solutions. While we won’t ask you to whiteboard a red-black tree, you do need to be strong in object-oriented design, data structures, algorithms, and run-time analysis. You are highly collaborative with a strong independent drive to see solutions through to implementation. You can look at an existing component or system, understand how it works and know what changes need to be made in order to satisfy the feature request. Additionally, you’re a strong communicator that works effectively with non-technical business partners to inform product and business solutions.  What you need Would be nice Have Purpose. Think B oldly. Feel C onnected . Be U nderstood.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T05:44:23.000Z"
+  },
+  "company": {
+    "name": "NRC Health",
+    "link": "https://www.linkedin.com/company/national-research-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 43800,
+    "max_value": 73300,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lincoln",
+    "region": "NE",
+    "postal_code": "68583",
+    "street_address": null,
+    "latitude": 40.8136,
+    "longitude": -96.70261
+  }
+}

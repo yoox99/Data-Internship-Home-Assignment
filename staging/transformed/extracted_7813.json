@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Hardware,Computer Software,Consumer Electronics",
+    "description": "We are now looking for a Data Scientist to join the NVIDIA Solution Architecture team focused on Artificial Intelligence, including Deep Learning, Machine Learning, and Accelerated Analytics. If these areas are exciting to you, we should talk. NVIDIA is the world leader in GPU accelerated computing and is looking for Solution Architects to design, build, and deploy AI solutions with our partners. As a Data Scientist on the Solution Architecture team, you will work closely with partners in our North American region to seek challenging problems in the industry and deploy AI solutions at scale by collaborating with partner engineering teams and building a successful NVIDIA practice. NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking individuals in the world working for us. If you're creative and autonomous, we want to hear from you!  NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-05T00:44:26.000Z"
+  },
+  "company": {
+    "name": "NVIDIA",
+    "link": "https://www.linkedin.com/company/nvidia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

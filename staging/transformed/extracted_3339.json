@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer at Client",
+    "industry": "Computer Software,Internet,Retail",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T21:06:32.000Z"
+  },
+  "company": {
+    "name": "Mogul",
+    "link": "https://www.linkedin.com/company/onmogul"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Las Vegas",
+    "region": "NV",
+    "postal_code": "89159",
+    "street_address": null,
+    "latitude": 36.16909,
+    "longitude": -115.14058
+  }
+}

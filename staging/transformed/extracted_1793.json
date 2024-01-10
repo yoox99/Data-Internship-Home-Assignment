@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Design Engineer - C#, .NET, PLC, NPI, Robotics",
+    "industry": "Construction,Information Technology and Services,Financial Services",
+    "description": "With an office in Anaheim, CA, we are a Fortune 500 powerhouse that partners with some of the world's best brands to develop and manufacture products that helps connect people and advance technology.  We are looking for several top-notch, Software Design Engineers to join our world-class team. You will be responsible for building turn-key complete solutions for our customers using the .NET platform as well as industrial machine vision systems at times. You will work with some of our partners to create and optimize solution implementations based on our customers specifications. If this role appeals to you, then please apply immediately as we're looking to move extremely fast!  What You Will Be Doing What You Need for this Position What's In It for You For your hard work and dedication, you will be rewarded with a competitive base salary and excellent benefits including but not limited to Interviews will be conducted this week and next week. Apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Pat.Befort@CyberCoders.com Pat Befort - Recruiting Manager - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:01:24.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Garden Grove",
+    "region": "CA",
+    "postal_code": "92843",
+    "street_address": null,
+    "latitude": 33.77607,
+    "longitude": -117.93788
+  }
+}

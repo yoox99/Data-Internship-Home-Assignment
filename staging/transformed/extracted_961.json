@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Development Engineer in Test",
+    "industry": "Computer Software,Insurance,Financial Services",
+    "description": "Applied Systems, Inc., a worldwide leader in insurance technology, is currently searching for a to join our corporate Quality Engineering Organization. In this role, you will be responsible for the development and maintenance of automated tests as we migrate to a microservices architecture. You will carry out various tasks to ensure our test approaches, both manually and automated, are effectively and efficiently designed, implemented, and maintained for both legacy and new development. You will leverage software engineering best practices to provide information, feedback, and expertise about software quality and development processes to deliver defect-free applications. You will work with a team of SDETs to ensure our test automation framework and platform is highly scalable and performant with a technical design that allows for future innovation without complete refactoring. Applied Systems welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-24T20:29:04.000Z"
+  },
+  "company": {
+    "name": "Applied Systems",
+    "link": "https://www.linkedin.com/company/applied-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 67600,
+    "max_value": 145000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

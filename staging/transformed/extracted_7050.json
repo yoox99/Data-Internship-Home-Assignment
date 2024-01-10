@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer (SRE)",
+    "industry": "Airlines/Aviation,Information Technology and Services,Computer Software",
+    "description": "Delta IT is on a journey to becoming the best IT organization in the airline industry, a journey of transformation. We are changing the way we do business from top to bottom as we strive to create meaningful and innovative solutions and are looking for team members to help us realize our vision.  Our Delta employees are thinkers, doers, innovators. We are proactive. We are collaborative. We deliver impact to our customers. Let's continue on our transformation journey in becoming a world-class IT organization while continually working at the world's best airline! We're seeking an experienced Senior Site Reliability Engineer (SRE) to join the Delta IT SRE team. The SRE will work with Delta IT development squads to implement best practices for reliability and performance with the applications and services they support. Our ideal candidate is well-versed in modern cloud-based and on prem architecture and experienced in designing systems for reliability as well as implementing monitoring, alerting, and ops automation to reliably operate and maintain the services they build.  The SRE works with developers to improve the Reliability and Resiliency of Delta Software Solutions to meet the business requirements by implementing SRE tools, processes, and best practices. SRE is what happens when you ask a software engineer to design an operations function. The SRE helps to design, develop, test, debug, and automate tasks for applications. They troubleshoot incidents to address failure patterns, automate remediation through runbooks, and document application optimization.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T10:11:00.000Z"
+  },
+  "company": {
+    "name": "Delta Air Lines",
+    "link": "https://www.linkedin.com/company/delta-air-lines"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Researcher – Exascale Computing, Hybrid Energy Systems and Extreme Events Modeling, Simulation and Mathematics",
+    "industry": "Information Technology and Services,Computer Software,Research",
+    "description": "Researcher – Exascale Computing, Hybrid Energy Systems and Extreme Events Modeling, Simulation and Mathematics CO - Golden Limited Term (Fixed Term) 40 The National Renewable Energy Laboratory (NREL), located at the foothills of the Rocky Mountains in Golden, Colorado is the nation's primary laboratory for research and development of renewable energy and energy efficiency technologies. From day one at NREL, you’ll connect with coworkers driven by the same mission to save the planet. By joining an organization that values a supportive, inclusive, and flexible work environment, you’ll have the opportunity to engage through our eight employee resource groups, numerous employee-driven clubs, and learning and professional development classes.  NREL supports inclusive, diverse, and unbiased hiring practices that promote creativity and innovation. By collaborating with organizations that focus on diverse talent pools, reaching out to underrepresented demographics, and providing an inclusive application and interview process, our Talent Acquisition team aims to hear all voices equally. We strive to attract a highly diverse workforce and create a culture where every employee feels welcomed and respected and they can be their authentic selves. The Complex Systems Simulation and Optimization Group in the NREL Computational Science Center has an opening for a full-time Researcher - Applied Mathematics, with emphasis on stochastic programming, infrastructure planning, extreme event modelling, and scenario creation leveraging large data sets and high-performance computing. As penetrations of renewable energy resources on power grids increase, it has become imperative to leverage algorithms capable of making operational and expansion decisions in the presence of uncertainty. Furthermore, such algorithms are enabled by the use of high-fidelity data sets to characterize uncertainty and variability. We are looking for a dynamic researcher with a strong technical background with and experience in the interactions between large resource data sets and optimization under uncertainty to support multiple projects at NREL and energy system resilience. The successful candidate will collaborate to develop, adapt, and improve cutting edge stochastic programming methods that use flagship NREL datasets and software and apply the resulting tools to real world projects in support of NREL and EERE mission and goals. The candidate will be tasked with core understanding of the mathematical formulations of these algorithms and how to supply users with high-fidelity renewable energy resource data. Relevant PhD . Or, relevant Master's Degree and 3 or more years of experience . Or, relevant Bachelor's Degree and 5 or more years of experience . Demonstrates complete understanding and wide application of scientific technical procedures, principles, theories and concepts in the field. General knowledge of other related disciplines. Demonstrates leadership in one or more areas of team, task or project lead responsibilities. Demonstrated experience in management of projects. Very good technical writing, interpersonal and communication skills. Annual Salary Range: $73,900 - $133,100 Of fers will typically be made in the bottom half of the listed range. NREL takes into consideration a candidate’s education, training, and experience, as well as the position's work location, expected quality and quantity of work, required travel (if any), external market and internal value, including seniority and merit systems, and internal pay alignment when determining the salary level for potential new employees. In compliance with the Colorado Equal Pay for Equal Work Act, a potential new employee’s salary history will not be used in compensation decisions. Benefits include medical, dental, and vision insurance; pension benefits*; 403(b) Employee Savings Plan with employer match*; and sick leave (where required by law). NREL employees may be eligible for, but are not guaranteed, performance-, merit-, and achievement- based awards that include a monetary component. Some positions may be eligible for relocation expense reimbursement.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:40:40.000Z"
+  },
+  "company": {
+    "name": "National Renewable Energy Laboratory",
+    "link": "https://www.linkedin.com/company/national-renewable-energy-laboratory"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77900,
+    "max_value": 115000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Golden",
+    "region": "CO",
+    "postal_code": "80403",
+    "street_address": null,
+    "latitude": 39.749672,
+    "longitude": -105.21602
+  }
+}

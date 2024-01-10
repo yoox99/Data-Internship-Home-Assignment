@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist Software Engineer - Ag Robotics Start-up",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T13:46:39.000Z"
+  },
+  "company": {
+    "name": "advanced.farm",
+    "link": "https://www.linkedin.com/company/advancedfarm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Davis",
+    "region": "CA",
+    "postal_code": "95616",
+    "street_address": null,
+    "latitude": 38.546726,
+    "longitude": -121.74434
+  }
+}

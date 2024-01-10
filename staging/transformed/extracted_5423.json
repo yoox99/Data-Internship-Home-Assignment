@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Frontend)",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "As an engineer on the observability application team, you'll help build the next-generation of observability experiences that are used by every engineer at Uber to develop, scale, understand and monitor their systems in an environment with over 4000 micro-services, hundreds of thousands of CPU cores in multiple data-centers and the cloud, and hundreds of thousands of concurrent trips around the world. What the Candidate Will Do",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T14:05:54.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76300,
+    "max_value": 106000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Ridgewood",
+    "region": "NY",
+    "postal_code": "14109",
+    "street_address": null,
+    "latitude": 43.244495,
+    "longitude": -78.65104
+  }
+}

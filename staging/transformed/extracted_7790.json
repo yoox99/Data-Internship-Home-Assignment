@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Insurance,Financial Services",
+    "description": "Swiss Re is one of the world’s leading providers of reinsurance, insurance and other forms of insurance-based risk transfer, working to make the world more resilient. We anticipate and manage a wide variety of risks, from natural catastrophes and climate change to cybercrime.  At Swiss Re we combine experience with creative thinking and cutting-edge expertise to create new opportunities and solutions for our clients. This is possible thanks to the collaboration of more than 13,000 employees across the world.  We offer a flexible working environment where curious and adaptable people thrive. Are you interested in joining us? We are seeking a highly motivated, experienced data scientist to join a global team of analytics professionals who support the digital transformation of Swiss Re and the insurance industry. You will be primarily based in Armonk with the possibility to occasionally work from other Swiss Re offices (e.g. New York City) and collaborate with stakeholders around the globe. The Advanced Analytics CoE (AA CoE) team supports Swiss Re's business functions and clients in developing state of the art technology solutions leveraging our advanced analytics and data engineering capabilities. AA CoE works with all business units to implement Swiss Re's tech strategy by generating unique insights, improving operational efficiency and developing new technology driven value propositions. Our integrated global team of analytics consultants, analytics specialists and data engineers enables us to facilitate end-to-end solutions delivery from ideation and prototyping to deployment and run. As Swiss Re's center of competence for smart analytics, AA CoE further enables the proliferation of advanced data handling capabilities throughout the company. Technical Requirements: Swiss Re is an equal opportunity employer. It is our practice to recruit, hire and promote without regard to race, religion, color, national origin, sex, disability, age, pregnancy, sexual orientations, marital status, military status, or any other characteristic protected by law. Decisions on employment are solely based on an individual's qualifications for the position being filled.  During the recruitment process, reasonable accommodations for disabilities are available upon request. If contacted for an interview, please inform the Recruiter/HR Professional of the accommodation needed. 101885",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T09:06:18.000Z"
+  },
+  "company": {
+    "name": "Swiss Re",
+    "link": "https://ch.linkedin.com/company/swiss-re"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Growth",
+    "industry": "Internet,Computer Software,Information Technology and Services",
+    "description": "Millions of people across the world come to Pinterest to find new ideas every day. It’s where they get inspiration, dream about new possibilities and plan for what matters most. Our mission is to help those people find their inspiration and create a life they love. In your role, you’ll be challenged to take on work that upholds this mission and pushes Pinterest forward. You’ll grow as a person and leader in your field, all the while helping Pinners make their lives better in the positive corner of the internet.  As a Data Scientist within the Growth Product Analytics and Data Science team, you will leverage data and automation to help Pinterest solve impactful business, marketing, and growth problems such as SEO, email & push notifications targeting, and lifetime value forecasting, churn prediction, causal inference, and more. We’re looking for a data scientist to help us connect Pinners to actionable content that improves the Pinner experience.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:23:14.000Z"
+  },
+  "company": {
+    "name": "Pinterest",
+    "link": "https://www.linkedin.com/company/pinterest"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Machine Learning Software Engineer - Maxis",
+    "industry": "Computer Games,Information Technology and Services,Computer Software",
+    "description": "At Maxis, we excel at outrageous thinking. It's the fuel that inspires the best games in the world. We're trailblazers and great storytellers. But it's not just about amazing your peers – it's about amazing yourself and our fans. Take risks. Work with dazzling minds and dare to dream big. Together, we can change the way millions play every day. The Sims 4 has an extremely unique player base, with 60% of our audience being women between the ages of 18-24. We are looking for someone with deep insights on how to create the best experience for our players.  Maxis is a leader in creating customizable and detailed simulation games. Our games require complex agent behavior modeling, advanced animation systems and efficient production pipelines. We are looking for engineers with a passion for games and a mindset for research to explore applications of AI/ML in procedural content generation, character animation and agent behavior. Please note that you do not need to qualify for all requirements to be considered. We encourage you to apply if you can meet most of the requirements and are comfortable opening a dialog to be considered.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-29T18:34:34.000Z"
+  },
+  "company": {
+    "name": "Electronic Arts (EA)",
+    "link": "https://www.linkedin.com/company/electronic-arts"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

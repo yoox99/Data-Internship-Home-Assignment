@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Food &amp; Beverages,Computer Software,Food Production",
+    "description": "Founded in 2015, Bowery Farming is on a mission to democratize access to high-quality, local, safe and sustainable produce. Bowery builds smart indoor farms near cities, growing fresher, pesticide-free Protected Produce with bold flavor in precisely controlled environments, 365 days a year. At the heart of each farm is the proprietary BoweryOS, which integrates software, hardware, sensors, AI, computer vision systems, machine learning models and robotics to orchestrate and automate the entirety of its operations. As a result, each farm creates far less waste and uses a fraction of the water and land compared to traditional agriculture. SRE’s at Bowery deliver highly-available and fault-tolerant hybrid cloud infrastructure that services the most technologically advanced indoor farms in the world. In addition to our public cloud footprint, we design, deploy, and monitor Bowery’s distributed on-premise server and network infrastructure at each of our farms. The next SRE at bowery will be primarily focused on the management and observability of our on-premise systems. This SRE will help us design and build the server and network infrastructure of our farms using best practice standards for server and data center management, while also updating our existing systems to be in line with these standards. In addition to our on-premise environments, Bowery uses the public cloud for many of our workloads which you will help monitor and maintain. You will work within a small infrastructure team to help establish the culture and processes Bowery will need to scale the business over the next 5-10 years. Based in New York City, Bowery is the largest vertical farming company in the United States, serving major e-commerce platforms and more than 850 grocery stores in the Northeast and Mid-Atlantic regions, including Albertsons Companies (Safeway and Acme), Amazon Fresh, Giant Food, Walmart, Weis, Whole Foods Market, and specialty grocers, with produce that's harvested year-round at peak freshness, delivered within days of harvest. Bowery has raised $472 million from leading investors, including Fidelity Management & Research Company LLC, Temasek, GV (formerly Google Ventures), General Catalyst, GGV Capital, First Round Capital, and individuals including Henry Kravis, Jeff Wilke, as well as some of the foremost thought leaders in food, including Tom Colicchio, José Andrés and David Barber of Blue Hill. For more information on Bowery and its products, please visit www.BoweryFarming.com Press kit: https://boweryfarming.com/press/",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T18:08:25.000Z"
+  },
+  "company": {
+    "name": "Bowery Farming",
+    "link": "https://www.linkedin.com/company/bowery-farming"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

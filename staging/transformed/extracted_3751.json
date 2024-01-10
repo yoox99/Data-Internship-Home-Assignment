@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer Intern",
+    "industry": "Information Technology and Services,Computer Software,Telecommunications",
+    "description": "122977 : No Travel : USA- From Home (Working from Home) If you’re a smartphone user then you are part of an ever more connected and digital world. At Amdocs, we are leading the digital revolution into the future. From virtualized telecommunications networks, Big Data and Internet of Things to mobile financial services, billing and operational support systems, we are continually evolving our business to help you become more connected. We make sure that when you watch a video on YouTube, message friends on Snapchat or send your images on Instagram, you get great service anytime, anywhere, and on any device. We are at the heart of the telecommunications industry working with giants such as AT&T, Vodafone, Telstra and Telefonica, helping them create an amazing new world for you where technology is being used in amazing new ways every single day. Responsible for design, development, modification, debug and/or maintenance of software systems",
+    "employment_type": "INTERN",
+    "date_posted": "2021-08-16T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Amdocs",
+    "link": "https://www.linkedin.com/company/amdocs"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mission Home",
+    "region": "VA",
+    "postal_code": "22987",
+    "street_address": null,
+    "latitude": 38.26167,
+    "longitude": -78.6212
+  }
+}

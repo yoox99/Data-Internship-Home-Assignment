@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Geospatial Data Analyst-US Citizen",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The Geospatial Data Analyst position directly supports key customer mission requirements for maritime safety of navigation. The position requires GIS skills to analyze, manipulate, convert, and transform geographic data into military specified compliance, while maintaining weekly and monthly milestone schedule requirements. Potential opportunity for telework. Ineligible Yes, 75% None No #Remote",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:40:56.000Z"
+  },
+  "company": {
+    "name": "Leidos",
+    "link": "https://www.linkedin.com/company/leidos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alexandria",
+    "region": "VA",
+    "postal_code": "22336",
+    "street_address": null,
+    "latitude": 38.804665,
+    "longitude": -77.04362
+  }
+}

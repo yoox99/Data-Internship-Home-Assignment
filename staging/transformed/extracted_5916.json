@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (PHP)",
+    "industry": "Accounting",
+    "description": "If you are a Senior Software Engineer with PHP experience, please read on!  We are a fintech company that is leading the charge in the digital payments industry. We are located in Southern California and were established to streamline the diverse needs for businesses when making payments. Our platform helps to efficiently organize payments that need to be made and puts it all into a single dashboard to make payments easily. We understand that each business runs differently and has different needs, so we help to automate the process and really find that our product adds value to make the process easier so that people can spend time working on other important things to help the business run and grow!  We are looking for a Senior Software Engineer that has experience working with PHP and a PHP framework, although we prefer CodeIgniter. This person will be responsible for providing efficient backend code while being highly autonomous. We are looking for someone that can deliver on mission critical projects, measure overall code quality and hep with testing and automation. We need an engineer that can participate and provide solutions on code reviews, design, and participate effectively in technical discussions on how to grow our product platform.  Top Reasons to Work with Us What You Will Be Doing What You Need for this Position  2+ years of experience in: So, if you are a Senior Software Engineer with PHP experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Jonathan.Santo@CyberCoders.com Jonathan Santo - Executive Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:39:06.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 67100,
+    "max_value": 85100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

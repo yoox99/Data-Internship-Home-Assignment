@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Machine Learning Engineer, Data Science",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "ActionIQ is looking for an experienced, team-oriented Senior Machine Learning Engineer with a strong track record of building machine learning (ML) platforms or acting as the tech lead for the buildout of an ML platform or ML features. You will be the first hire of a team at ActionIQ that will spearhead the next wave of ML technologies. As part of that effort, you will drive early architecture decisions and the implementation of an ML platform that works with and complements our core data processing platform. You will work closely with our data science team to build a system that automates their day-to-day workflows and enables new ML explorations. You will also collaborate with our Product team to build more intelligence into our product. The Data Science team at ActionIQ is responsible for working closely with customers and translating their user data into actionable business insights. As our first Machine Learning Engineer you will work with your counterparts in Data Science as well as other platform teams to build out a machine learning team and platform that can be used to transition models and experiments into reliable, production-quality product features and workflows.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T03:21:24.000Z"
+  },
+  "company": {
+    "name": "ActionIQ",
+    "link": "https://www.linkedin.com/company/actioniq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "United States",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 42.93923,
+    "longitude": -75.62005
+  }
+}

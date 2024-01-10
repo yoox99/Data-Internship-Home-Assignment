@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Network Engineer",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:11:59.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Roseville",
+    "region": "CA",
+    "postal_code": "95747",
+    "street_address": null,
+    "latitude": 38.74806,
+    "longitude": -121.2852
+  }
+}

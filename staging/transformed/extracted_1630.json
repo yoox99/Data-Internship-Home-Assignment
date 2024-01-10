@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Figma is growing our team of passionate people on a mission to make design accessible to all. Born on the Web , Figma helps entire product teams brainstorm , create, test, and ship better designs, together. From great products to long-lasting companies, we believe that nothing great is made alone—come make with us!  We are looking for an experienced Data Scientist to join our growing team. In this role, you will partner directly with one of our core product teams to uncover insights, influence decision making, and apply a data lens to business problems critical to Figma’s growth. The ideal candidate will have experience in using data to influence product teams and help them achieve their goals, values up-leveling the broader team, and is a compelling data storyteller. At Figma, one of our values is Grow as you go. We believe in hiring smart, curious people who are excited to learn and develop their skills. If you’re excited about this role but your past experience doesn’t align perfectly with the points outlined in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. Dylan Field and Evan Wallace co-founded Figma in 2012 with the vision of building tools for designers in the browser. Their goal was to create the first design tool that combined the accessibility of the Web with the functionality of a native app. Today Figma is a platform with tools and spaces to support the entire product development process—idea to design to build—and has simplified collaboration for companies like Microsoft, Uber, and The New York Times to name a few.  At Figma, we celebrate and support our differences. We know employing a team rich in diverse backgrounds, experiences, and opinions allows our employees, products, and community to flourish. Figma is an equal opportunity workplace—we are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national orientation, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-05T03:14:49.000Z"
+  },
+  "company": {
+    "name": "Figma",
+    "link": "https://www.linkedin.com/company/figma"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 118300,
+    "max_value": 256700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

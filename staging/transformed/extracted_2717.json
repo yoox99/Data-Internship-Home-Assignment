@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Do you believe that people should compassionately support one another to create a better world? Well, we do!  Serving as the world’s most trusted fundraising platform, GoFundMe is committed to creating a better world by making it safe and easy for people to support causes they’re passionate about. When someone sees a need—whether it’s in their neighborhood or across the globe—they can turn their compassion into action through GoFundMe. Our customers have raised over $15 billion for their personal causes, making GoFundMe a top 200 website in the US based on traffic, with a monthly audience of over 100 million people.  We're searching for a experienced Site Reliability Engineer (SRE). You will be responsible for the full system lifecycle including infrastructure provisioning, system configuration, deployments, monitoring, and incident response in production environments. The SRE uses technical analysis to assess the availability, latency, scalability, and efficiency of a product or infrastructure and builds reliability into systems. To ensure the highest level of application performance and availability, the reliability engineer works closely with development teams, relevant functional operations teams, network engineers, database administrators, technology vendors and partners. The successful reliability engineer effectively guides incident responses, helps identify root causes and provides recommendations or solutions to mitigate and resolve issues. GoFundMe is proud to be an equal opportunity employer that actively pursues candidates of diverse backgrounds and experiences. We are committed to providing diversity, equity, and inclusion training to all employees, and we do not discriminate on the basis of race, color, religion, ethnicity, nationality or national origin, sex, sexual orientation, gender, gender identity or expression, pregnancy status, marital status, age, medical condition, mental or physical disability, or military or veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T00:00:00.000Z"
+  },
+  "company": {
+    "name": "GoFundMe",
+    "link": "https://www.linkedin.com/company/gofundme"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 131100,
+    "max_value": 284700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

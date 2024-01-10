@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Engineer (Java/Hibernate/Spring) REMOTE - Ad Tech!",
+    "industry": "Computer Software",
+    "description": "If you are a Senior Software Engineer with 3-5 years of experience in (Java/Hibernate/Spring), please read on!  Headquartered in the heart of San Francisco, we are a REMOTE Ad-Tech company working with cutting-edge technologies to transform B2B Marketing. Our patented technology has been servicing World-Class customers nationwide for over 5 years!  We are rapidly growing our talented team of Developers and are searching for a Senior Software Engineer with 5+ years of experience designing, architecting and building RESTful web services and applications using Java, Spring, Hibernate. If you are seeking an exciting, challenging opportunity with exponential growth opportunities -- please apply TODAY!  Top Reasons to Work with Us What You Will Be Doing What You Need for this Position  3-5+ years of experience in: So, if you are a Senior Software Engineer with 3-5 years of experience in (Java/Hibernate/Spring), please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Danielle.McIntire@CyberCoders.com Danielle McIntire - Executive Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:29:30.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "My client is a global provider of legal, regulatory and business information and analytics that help customers increase productivity, improve decision making outcomes, and advance the rule of law around the world. They provide corporations with insights about their markets, benchmarking brands against competition, and strengthen legal infrastructure. They are currently working on a $50 million project migrating $5 billion worth of products to azure. Desired Skills & Experience The Offer Applicants must be currently authorized to work in the United States on a full-time basis now and in the future. Noah Mackeprang",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-17T08:48:40.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

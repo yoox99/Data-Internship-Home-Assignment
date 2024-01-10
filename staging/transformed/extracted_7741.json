@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Experian is seeking an Cloud Engineer to join our CIS Product Delivery team. This is a great opportunity for someone with 4-5 years of programming experience to learn on the job, and to gain Cloud/AWS experience. If you are passionate about cloud solutions, cloud management, are highly organized and detail oriented with AWS experience (or the desire to learn it) then this could be the perfect role for you. Experian is the world’s leading global information services company, unlocking the power of data to create more opportunities for consumers, businesses and society. For five years in a row, we have been named in the Top 100 “World’s Most Innovative Companies” by Forbes Magazine. With a focus on our employees, we were rated the #1 Top Workplace by the Orange County Register. Experian Consumer Information Services is redefining the way our clients do business within all aspects of the customer credit lifecycle. Fueled by best-in-class data and innovative technology we help businesses make smarter decisions, identify consumers, make decisions on loans, market to prospects and collect. You need to be intimately familiar with Amazon Web Services driving cost-optimization of cloud solutions. You will meticulously review current AWS resources allocation, define governance strategies, and design/manage cloud visualizations. You’ll be driving improvements in AWS based on product and engineering feedback. The work you’ll be doing is engineering, but your goal is Cloud optimization. In addition, you’ll: All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-06T18:08:24.000Z"
+  },
+  "company": {
+    "name": "Experian",
+    "link": "https://www.linkedin.com/company/experian"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Costa Mesa",
+    "region": "CA",
+    "postal_code": "92626",
+    "street_address": null,
+    "latitude": 33.663857,
+    "longitude": -117.90476
+  }
+}

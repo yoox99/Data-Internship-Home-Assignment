@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer (SRE)",
+    "industry": "Health, Wellness and Fitness",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T14:42:14.000Z"
+  },
+  "company": {
+    "name": "Quil",
+    "link": "https://www.linkedin.com/company/quilhealth"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

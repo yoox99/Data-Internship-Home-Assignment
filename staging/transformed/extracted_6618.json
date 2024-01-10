@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - All Teams (All Levels)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "At Lyft, our mission is to improve people’s lives with the world’s best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.  Lyft is looking for experienced software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, you'll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our passengers and drivers.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:20:58.000Z"
+  },
+  "company": {
+    "name": "Lyft",
+    "link": "https://www.linkedin.com/company/lyft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 106000,
+    "max_value": 230000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10001",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

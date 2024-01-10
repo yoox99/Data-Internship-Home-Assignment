@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Government Administration,Information Services,Information Technology and Services",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-16T15:51:19.000Z"
+  },
+  "company": {
+    "name": "GeekSeatUSA",
+    "link": "https://www.linkedin.com/company/geekseatusa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salem",
+    "region": "OR",
+    "postal_code": "97311",
+    "street_address": null,
+    "latitude": 44.939014,
+    "longitude": -123.03931
+  }
+}

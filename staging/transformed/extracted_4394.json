@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Developer Engineer in Test (SDET)",
+    "industry": "Computer Software,Financial Services,Human Resources",
+    "description": "Technical leadership and hands-on role working as a member of cross-functional engineering teams developing automation code and leveraging multiple tools and techniques. Lead SDET provides technical leadership, strategic and tactical automation direction, and mentors QA and Engineering resources to ensure that software is of adequate quality. #LITECH ADP affirms that inequality is detrimental to our associates, our clients, and the communities we serve. Our goal is to impact lasting change through our actions. Together, we unite for equality and equity. ADP is committed to equal employment opportunities regardless of any protected characteristic, including race, color, genetic information, creed, national origin, religion, sex, affectional or sexual orientation, gender identity or expression, lawful alien status, ancestry, age, marital status, or protected veteran status and will not discriminate against anyone on the basis of a disability. We support an inclusive workplace where associates excel based on personal merit, qualifications, experience, ability, and job performance. ADP has a long, proud history of conducting business with the highest ethical standards and full compliance with all applicable laws. We also expect our people to uphold our values with the highest level of integrity and behave in a manner that fosters an honest and respectful workplace. Click https://jobs.adp.com/life-at-adp/ to learn more about ADP’s culture and our full set of values.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:04:13.000Z"
+  },
+  "company": {
+    "name": "ADP",
+    "link": "https://www.linkedin.com/company/adp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

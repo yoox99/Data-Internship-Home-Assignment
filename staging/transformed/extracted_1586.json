@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Experimentation",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "At DoorDash, we’re building the most reliable delivery network to support our three-sided marketplace of consumers, merchants, and dashers! To evolve this network and the experiences built on top of it, we're bringing on experienced experimentation engineers to enable us to ship and measure new features with confidence and clarity.  The Experimentation Platform team builds infrastructure, libraries, automation, and processes to support world class experimentation and analysis. We are increasing our trust in our product data by enforcing a schema and reporting on the health of our pipeline. Future projects include: generalized tracking libraries across our tech stack, developing the next generation of our experimentation framework, building tools to manage our experiment ecosystem, and enabling experiments to target specific cohorts of users. Why You’ll Love Working at DoorDash DoorDash is a technology company that connects customers with their favorite local and national businesses in all 50 US states, Canada, and Australia. Founded in 2013, DoorDash empowers merchants to grow their businesses by offering on-demand delivery, data-driven insights, and better in-store efficiency, providing delightful experiences from door to door. By building the last-mile delivery infrastructure for local cities, DoorDash is bringing communities closer, one doorstep at a time. Read more on the DoorDash Engineering blog or www.doordash.com.  Our Commitment to Diversity and Inclusion  We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.  Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.l",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-28T01:20:11.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 126000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "My client is a leading global provider of legal, regulatory and business information and analytics that help customers increase productivity, improve decision-making and outcomes, and advance the rule of law around the world. They help lawyers win cases, manage their work more efficiently, serve their clients better and grow their practices. They assist corporations in better understanding their markets, monitoring their brands and competition, and in mitigating business risk. They collaborate with universities to educate students, and support nation-building with governments and courts by making laws accessible and strengthening legal infrastructures. This organization serves customers in more than 130 countries with 10,000 employees worldwide, is part of RELX Group, a global provider of information and analytics for professional and business customers across industries. They are looking to bring on a Senior SRE to assist in a 50-million-dollar project migrating 3 billion dollars’ worth of products to Azure. Development Security The Offer Applicants must be currently authorized to work in the United States on a full-time basis now and in the future. Noah Mackeprang",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T00:25:23.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 97200,
+    "max_value": 144000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

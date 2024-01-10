@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist I",
+    "industry": "Information Technology and Services,Banking,Financial Services",
+    "description": "Develop and program methods, processes, and systems to consolidate and analyze diverse data sets to generate insights and solutions for customer solutions and program enhancement. Identify and interpret insights from data sources and communicate findings to management.  Principal Responsibilities Leveling Criteria Education/Certification Competencies Successful team members possess a combination of three virtues — they are humble, hungry, and smart. Equal Opportunity Employer/Disabled/Veterans  The responsibilities listed above are not all inclusive and may be changed at any time.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T21:57:15.000Z"
+  },
+  "company": {
+    "name": "MetaBank",
+    "link": "https://www.linkedin.com/company/metabank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Insightsoftware is a growing, dynamic computer software company that helps financial reporting solutions. At insightsoftware, you will learn and grow in a fast-paced, supportive environment that will take your career to the next level. We are looking for future insighters who can demonstrate teamwork, results orientation, a growth mindset, disciplined execution, and a winning attitude to join our growing team! We’re looking for a creative, talented to join our fast-growing Software Engineering group. Working on an Agile development team, you will be responsible for developing, and supporting our class-leading suite of Financial Software Products servicing the office of the CFO.  We enjoy our work as much as we enjoy working together and want Engineers who can get things done while having a positive influence on our workplace environment. The successful candidate must have a passion for software development, deeply care about code quality, and be committed to software craftsmanship. To perform the job successfully, an individual should demonstrate the following competencies: All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T03:38:47.000Z"
+  },
+  "company": {
+    "name": "insightsoftware",
+    "link": "https://www.linkedin.com/company/outcomes-by-insightsoftware"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 57200,
+    "max_value": 102000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

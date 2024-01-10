@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Remote AWS Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "This Jobot Job is hosted by Kyle Shaw  Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.  Salary $150,000 - $180,000 per year We are one of the largest companies in entertainment. We provide fun to the whole family with our theme parks and other attractions, and are looking for a SRE to join our adtech team that's working with the latest in technology to build an innovative platform that allows our brand to reach a larger and wider audience. This role is 100% remote with competitive base salary, bonus, generous PTO, and great health benefits. We are a collaborative team looking for a senior engineer who enjoys bringing new ideals to the table and wants to make take ownership of several key parts of our infrastructure. This role is heavily involved with automation and containerization efforts for an adtech platform. We are looking for someone well-versed in Kubernetes and writing Infrastructure as Code to build out cloud environments. Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

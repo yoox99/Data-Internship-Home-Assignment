@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "SAP ABAP Software Engineer",
+    "industry": "Information Technology and Services,Staffing and Recruiting,Hospital &amp; Health Care",
+    "description": "Cerebral Staffing, LLC is seeking a to work at our direct client SAP ABAP with focus on FICO and Sales & Distribution (SD)  Required Skills: Powered by JazzHR  jNaIdRZsdV",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T07:57:21.000Z"
+  },
+  "company": {
+    "name": "Cerebral Staffing, LLC",
+    "link": "https://www.linkedin.com/company/cerebral-staffing-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 93600,
+    "max_value": 148000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Moline",
+    "region": "IL",
+    "postal_code": "61266",
+    "street_address": null,
+    "latitude": 41.492226,
+    "longitude": -90.48927
+  }
+}

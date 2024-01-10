@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Data Products",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "The Data Products team is a part of the Data Platform organization and is responsible for building innovative big data applications and tools for teams across DoorDash to extract insights from business and operational datasets. As the volume, variety, and velocity of the data increases at DoorDash, there is a wide range of data challenges that need to be solved, such as data discovery and lineage, data quality, data governance & compliance, and standardization and accessing of important business metrics. Another interesting challenge to solve is how to make it extremely easy, quickly for our data users to access, visualize, and extract insights from the ever increasing datasets. Founded in 2013, DoorDash is a San Francisco-based technology company passionate about transforming local businesses and dedicated to enabling new ways of working, earning, and living. Today, DoorDash connects customers with their favorite local and national businesses in more than 850 cities across the United States and Canada. By building intelligent, last-mile delivery technology for local cities, DoorDash aims to connect people with the things they care about — one dash at a time. We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel. Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation.l",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T17:22:00.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 128000,
+    "max_value": 200000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

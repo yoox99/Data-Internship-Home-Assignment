@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Engineer, Consumer Growth",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Our data engineering team is responsible for building the data processing and reporting infrastructure that powers company-wide insights and operational intelligence. By designing and implementing scalable data pipelines, data warehouses and reporting platforms, the data engineering team serves as the foundation for decision-making at DoorDash. DoorDash is looking for a Senior Data Engineer with a passion for solving complex problems and a background in marketing or consumer-driven applications of data, or other relevant experience. The ideal candidate demonstrates proficiency in manipulating large datasets to act as a technical powerhouse when scaling databases, dashboards, tools, reports, and models.  This role will work closely with Marketing and Consumer Growth teams to develop a detailed understanding of how our customers engage with our products and services, as well as other marketing and promotional channels. We are looking for a candidate who will be responsible for creating the data foundations that underpin internal tools such as CRM, experimentation, audiences and other intelligence platforms. DoorDash is a technology company that connects customers with their favorite local and national businesses in over 4,000 cities and all 50 states across the United States and Canada. Founded in 2013, DoorDash empowers merchants to grow their businesses by offering on-demand delivery, data-driven insights, and better in-store efficiency, providing delightful experiences from door to door. By building the last-mile delivery infrastructure for local cities, DoorDash is bringing communities closer, one doorstep at a time. Read more on the or at www.doordash.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T01:14:39.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103900,
+    "max_value": 224700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (Remote)",
+    "industry": "Internet,Information Technology and Services,Computer Software",
+    "description": "As a Site Reliability Engineer at Weedmaps you will work cross-departmentally with your partners on the application, infrastructure and quality teams to enhance the performance, reliability, resilience and scalability of the web services that make up Weedmaps.com. We are a cloud native organization with 100% of our services in Docker running on Rancher and Kubernetes in AWS’ public cloud. We also leverage observability, monitoring, CI/CD automation and custom tooling to push multiple production releases a day.  Your day to day focus will be leveraging your engineering skills to assist in building, monitoring, reducing developer toil, configuring CI workflows and improving our deployment pipelines. You will also be a knowledge reference for our development teams to ensure they are leveraging consistent tooling for metrics, logging, build, and deployment. You will work closely with the development and infrastructure teams to identify the essential service-specific metrics (beyond the golden metrics) that need to be monitored and work with application development teams to create libraries to allow services to easily instrument their services. Weedmaps is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law, and will not be discriminated against on the basis of disability. We are looking for the smartest and most passionate people who want to join our team and develop the services, systems, and marketplaces that will serve the marijuana industry in the decades to come. Our company uses E-Verify to confirm the employment eligibility of all newly hired employees. To learn more about E-Verify, including your rights and responsibilities, please visit www.dhs.gov/E-Verify. Founded in 2008, Weedmaps is a leading technology and software infrastructure provider to the cannabis industry. Our suite of cloud-based software and data solutions includes point of sale, logistics and ordering solutions that enable customers to scale their businesses while complying with the complex and disparate regulations applicable to the cannabis industry. In addition, our platform provides consumers with information regarding cannabis products across web and mobile platforms, including listing local retailers and brands, facilitating product discovery and allowing consumers to educate themselves on cannabis and its history, uses and legal status. Headquartered in Irvine, California, Weedmaps employs more than 400 professionals around the world, with offices including Barcelona, Denver, and Toronto.  So what are you waiting for? Join the Weedmaps family!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T07:07:49.000Z"
+  },
+  "company": {
+    "name": "Weedmaps",
+    "link": "https://www.linkedin.com/company/weedmaps"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

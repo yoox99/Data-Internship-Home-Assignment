@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Internet",
+    "description": "Groupon is an experiences marketplace that brings people more ways to get the most out of their city or wherever they may be. By enabling real-time mobile commerce across local businesses, live events and travel destinations, Groupon helps people find and discover experiences––big and small, new and familiar––that make for a full, fun and rewarding life. Groupon helps local businesses grow and strengthen customer relationships––resulting in strong, vibrant communities. Even with thousands of employees spread across multiple continents, we still maintain a culture that inspires innovation, rewards risk-taking and celebrates success.  Are you a passionate, energetic and technology enthusiast eager to work at a rapid pace with the flexibility to work across our suite of technologies? Are you a problem solver; someone who enjoys debugging code, resolving issues, and creating solutions for common problems? Do you get a little obsessed with the details?  We are looking for a Software Engineer to join our Data and Discovery organization. As a global company that works with both local businesses and consumers, Groupon has a wealth of data, which is stored and processed on our ever-evolving data platform. As a member of our team you will support and evolve the design, implementation, and operational support of internal systems that span both business and engineering departments. You will be working on significant data platform solutions with a high business impact by collaborating with Data Engineers, Data Scientists, Product Managers, and Software Engineers.  We're a \"best of both worlds\" kind of company. We're big enough to have resources and scale, but small enough that a single person has a surprising amount of autonomy and can make a meaningful impact. We're curious, fun, a little intense, and kind of obsessed with helping local businesses thrive. Does that sound like a compelling place to work?",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:23:14.000Z"
+  },
+  "company": {
+    "name": "Groupon",
+    "link": "https://www.linkedin.com/company/groupon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83900,
+    "max_value": 126000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

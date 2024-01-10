@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Delphi, Borland C++, SRS",
+    "industry": "Biotechnology",
+    "description": "If you are a Software Engineer with experience in the Medical Device field, please read on!  We are a quickly growing medical device company looking for a Research and Development Software Engineer to join our passionate and energetic team!  The ideal candidate would posses a Bachelor's or Master's degree in software engineering or related discipline and 3 to 5 years of experience in software development with emphasis on embedded system and medical devices.  What You Will Be Doing What You Need for this Position What's In It for You We are actively interviewing for this role, so please APPLY TODAY! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Shauna.Hillegas@CyberCoders.com Shauna Hillegas - Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:37:44.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Rancho Cordova",
+    "region": "CA",
+    "postal_code": "95741",
+    "street_address": null,
+    "latitude": 38.602104,
+    "longitude": -121.2909
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer-AWS - SP&amp;R",
+    "industry": "Computer Hardware,Computer Software,Computer Networking",
+    "description": "You will be responsible for operating in a senior role, guiding the efficient automation of build, deploy, and release to support Cisco's Secure-X research team. This includes developing and encouraging Infrastructure As Code and CI/CD pipelines, identifying automation opportunities and mentoring delivery, and design and implementation of platform and service life cycle. This team is decisive and fast moving by the nature of the product they work on. Working with us, you'll be working with a team that sees the results of their work in the security of our customers. The work we do is important, and we get to see that. Please note this posting is to advertise potential job opportunities. This exact role may not be open today, but could open in the near future. When you apply, a Cisco representative may contact you directly if a relevant position opens.  #WeAreCisco, where each person is unique, but we bring our talents to work as a team and make a difference powering an inclusive future for all.  We embrace digital, and help our customers implement change in their digital businesses. Some may think we’re “old” (36 years strong) and only about hardware, but we’re also a software company. And a security company. We even invented an intuitive network that adapts, predicts, learns and protects. No other company can do what we do – you can’t put us in a box!  But “Digital Transformation” is an empty buzz phrase without a culture that allows for innovation, creativity, and yes, even failure (if you learn from it.)  Day to day, we focus on the give and take. We give our best, give our egos a break, and give of ourselves (because giving back is built into our DNA.) We take accountability, bold steps, and take difference to heart. Because without diversity of thought and a dedication to equality for all, there is no moving forward.  So, you have colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool. Pop culture geek? Many of us are. Passion for technology and world changing? Be you, with us!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T17:12:12.000Z"
+  },
+  "company": {
+    "name": "Cisco",
+    "link": "https://www.linkedin.com/company/cisco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 117000,
+    "max_value": 203000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Who we are  The average public high school student in the US receives 38 minutes of guidance across 4 years. Here at CollegeVine, we're working to close the guidance gap by providing free, personalized guidance to all students. We've helped thousands of students get into college since 2013, and in 2019 pivoted to an all-digital guidance offering to expand our impact. Transitioning from one-on-one guidance to a 100% software offering is a big responsibility, but we've been able to meet it thanks to our unique culture.  You'll be joining a distributed, talented team that's deeply invested in the problems we're trying to solve. We live all around the world, working from our homes, coffee shops, and even a boat! We recruit and hire from varied backgrounds based on our belief that our team's diversity allows us to create better solutions for families.  Who we're looking for  You know you're right for this position if: In addition to your awesome attitude and values, we're looking for someone with the following skills: It's an added bonus if you have: You'll be assuming ownership for our core algorithms and models. This means not only are you responsible for maintaining them, but we also expect you to propose radical improvements and suggest new areas for us to apply data science.  You'll be responsible for maintaining your own roadmap, with input from our product teams. But the roadmap is ultimately yours. You'll be given a crash course in how college admissions works. You'll meet the team and start working on one of the projects in our backlog. Finally, you'll start learning how our website works. You'll continue working through the project backlog. We also expect you'll be soaking up admissions knowledge, which means you'll start suggesting some project ideas of your own. We'll also make sure you've begun building relationships with our PMs. By this point you should be starting to shape your own roadmap and executing against it. A lot can happen in six months. During your first six months you've leveled up our core algorithms and have started exploring new ways data science can help CollegeVine's families and partners. We offer a competitive salary and a full suite of benefits, some of them unconventional, but awesome for the right person: Remember: We’re a startup. You’re an early employee. We face challenges. We have to ship (a lot). Your ideas matter. You will make a difference.  We are committed to a diverse and vibrant workforce. If you lack a specific credential for this position but believe that your strengths and life experiences will propel our mission, we would love to hear from you!  This is a Telecommute/Work from Home position.  Powered by JazzHR  FWr9uDlMiD",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T07:55:24.000Z"
+  },
+  "company": {
+    "name": "CollegeVine",
+    "link": "https://www.linkedin.com/company/collegevine"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

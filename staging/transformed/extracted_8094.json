@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer/Architect",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-06T21:32:03.000Z"
+  },
+  "company": {
+    "name": "HCL Technologies",
+    "link": "https://in.linkedin.com/company/hcl-technologies"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Frisco",
+    "region": "TX",
+    "postal_code": "75034",
+    "street_address": null,
+    "latitude": 33.15066,
+    "longitude": -96.82508
+  }
+}

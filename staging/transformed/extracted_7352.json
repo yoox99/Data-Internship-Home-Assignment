@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "data scientist",
+    "industry": "Marketing and Advertising,Internet,Retail",
+    "description": "the data scientist is going to use processes, algorithms and systems to extract knowledge and insights from data across a broad range of applications. we are looking for a proven technician to build and maintain the operational models to allow soona to grow and scale. this is an opportunity to build a data-driven culture in a fast-growing startup with a dynamic team. the role provides direct feedback to the leadership team on customers and product opportunities. an ideal candidate will be able to use strong business sense along with an ability to communicate findings to influence how soona approaches business challenges and opportunities.  the single most important thing this role can do is make the entire company smarter and faster at understanding our customers and opportunities for improvement. the candidate must be able to sift, mine and analyze data from multiple angles, looking for trends that highlight problems or opportunities.  this is a full-time position located in our denver, minneapolis or austin office with flexibility on working remote however must sit in one of our operating states CO, MN or TX and must be able to work mst or cst time zones. from insight extraction to process application, this role will report directly to the director of data science as we make moves on our next phase of growth. soona makes it possible for brands to create professional photo and video starting at $39. our studio stores give customers a playground for creating their content and our anytime platform makes it possible for any product company in the US to experience a remote shoot. we are creating a fast casual content revolution!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-11T04:05:52.000Z"
+  },
+  "company": {
+    "name": "soona",
+    "link": "https://www.linkedin.com/company/soona"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

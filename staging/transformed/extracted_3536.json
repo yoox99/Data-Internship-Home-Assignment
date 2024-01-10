@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Health, Wellness and Fitness,Pharmaceuticals,Retail",
+    "description": "Applies advanced data analysis tools and techniques to provide insights and actionable recommendations for the business. Utilizes complex statistical modeling to make predictions about future outcomes and in multiple scenarios. May explain findings to business audience. Walgreens (www.walgreens.com) is included in the Retail Pharmacy USA Division of Walgreens Boots Alliance, Inc. (Nasdaq: WBA), a global leader in retail and wholesale pharmacy. As America’s most loved pharmacy, health and beauty company, Walgreens purpose is to champion the health and wellbeing of every community in America. Operating more than 9,000 retail locations across America, Puerto Rico and the U.S. Virgin Islands, Walgreens is proud to be a neighborhood health destination serving approximately 8 million customers each day. Walgreens pharmacists play a critical role in the U.S. healthcare system by providing a wide range of pharmacy and healthcare services. To best meet the needs of customers and patients, Walgreens offers a true omnichannel experience, with platforms bringing together physical and digital, supported by the latest technology to deliver high-quality products and services in local communities nationwide.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-16T16:37:44.000Z"
+  },
+  "company": {
+    "name": "Walgreens",
+    "link": "https://www.linkedin.com/company/walgreens"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

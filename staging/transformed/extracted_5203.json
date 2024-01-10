@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Airlines/Aviation,Aviation &amp; Aerospace,Defense &amp; Space",
+    "description": "At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.  The Boeing Defense Space & Security (BDS) organization is seeking a highly-skilled, innovative to join our industry-leading Enterprise Insider Threat Program group located in .  In this role, you will work closely with a skilled team of analysts, software engineers, data engineers, and investigators. You will design, develop, test, deploy, and maintain new and existing, innovative machine learning and analytical capabilities and products to support the mission of The Boeing Company’s Insider Threat Program, and to identify, detect, assess, investigate, manage, and mitigate potential insider threats. Typically 14 or more years' related work experience or relevant military experience. Advanced degree (e.g. Bachelor, Master, PhD, etc.) preferred, but not required. Relocation assistance is not a negotiable benefit for this position. Candidates must live in the immediate area or relocate at their own expense. Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies This position is for 1st shift.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:17:56.000Z"
+  },
+  "company": {
+    "name": "Boeing",
+    "link": "https://www.linkedin.com/company/boeing"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 168,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Annapolis",
+    "region": "MD",
+    "postal_code": "21403",
+    "street_address": null,
+    "latitude": 38.97829,
+    "longitude": -76.49568
+  }
+}

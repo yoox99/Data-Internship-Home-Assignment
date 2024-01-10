@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Retail,Financial Services",
+    "description": "We currently have an exciting opportunity to join our Experiences agile team as a . This team builds and maintains the systems at the core of delivering on our mission to \"inspire, educate and outfit for a lifetime of outdoor adventure and stewardship\". Experiences offerings include instructor-led classes and events, guided day and multi-day trips, group outings, gear rentals and more all centered around a variety of outdoor activities (camping, hiking, running, stewardship, water sports, snow sports and many others). We're on a mission to revolutionize our customer experience by making our digital offerings seamless and painless while decreasing the time it takes to meet up, gear up and get outside. We've set some lofty goals and the challenges that lie ahead are many and diverse but staying true to our values in action - \"we go further together\". We invite you to join us on our journey. Bring your passion, curiosity and respect for your fellow humans and join a talented team focused on making our Experiences offerings among the best on the planet. Job Function: Information Technology  City: Seattle  State: Washington  Store: Seattle HQ  Remote Eligible: Yes  Please visit the",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T05:54:47.000Z"
+  },
+  "company": {
+    "name": "REI",
+    "link": "https://www.linkedin.com/company/rei"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83300,
+    "max_value": 136000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

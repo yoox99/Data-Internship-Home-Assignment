@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Join a team recognized for leadership, innovation and diversity  Honeywell changes the way the world works.  For more than 130 years, we’ve solved the toughest customer challenges through a rare combination of our industrial expertise and our innovations in ground breaking software and technology, and industry-leading automation.  This perfection is built on a foundation of inclusion, diversity and driving a performance culture that values integrity and ethics.  Are you ready to help us make the future?  We lead with software and innovation.  Whether we’re turning mustard seeds into fuel, creating quantum algorithms or making taxis fly, our software engineering team is home to the world’s leading technological talent.  We want software engineers who not only have a solid foundation in coding, development, designing, testing and even hacking, but who also have a passion for empowering the world and making it a better place for everyone – today and tomorrow.  Join a team that designs, develops and integrates highly complex software applications within Honeywell Aerospace. You will be an active and integral member of a team to achieve the completion of goals. You will also generate innovative solutions in work situations; trying different and novel ways to deal with problems and opportunities.  Key Responsibilities YOU MUST HAVE WE VALUE Additional Information Human Resources (CORPORATE HR)  Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, or veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-26T20:16:23.000Z"
+  },
+  "company": {
+    "name": "Honeywell",
+    "link": "https://www.linkedin.com/company/honeywell"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Phoenix",
+    "region": "AZ",
+    "postal_code": "85009",
+    "street_address": null,
+    "latitude": 33.448204,
+    "longitude": -112.072586
+  }
+}

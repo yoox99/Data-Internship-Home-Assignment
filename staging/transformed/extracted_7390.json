@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Data Engineer",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-12T19:31:35.000Z"
+  },
+  "company": {
+    "name": "Vimly Benefit Solutions",
+    "link": "https://www.linkedin.com/company/vimly"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mukilteo",
+    "region": "WA",
+    "postal_code": "98275",
+    "street_address": null,
+    "latitude": 47.905083,
+    "longitude": -122.29306
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Mechanical or Industrial Engineering,Semiconductors",
+    "description": "ColdQuanta is developing a quantum computing platform utilizing a novel approach with neutral cold atoms. The core technology depends on carefully integrated software and hardware components. The software efforts are largely greenfield, so there is considerable opportunity to develop new architectures and solutions. We are looking for a Machine Learning engineer with teaching and mentoring experience to play an active role in our technical efforts as well as mentoring and training other engineers.  We are assembling a quantum “chip” at single-atom level every second and doing Rydberg magic with lasers to run quantum circuits that aim to help customers to discover drugs faster, optimize the power grid, and at some point mining crypto. There is a data paradise for an ambitious Machine Learning Engineer to solve challenging technical problems with ML algorithms.  The position will be based in Madison, WI or Boulder, CO, with collaboration at ColdQuanta's UK offices and the quantum computing research group at the University of Wisconsin - Madison. ColdQuanta is an advanced cold-atom technology and engineering company, with scientists and engineers comprising more than 75% of its staff. ColdQuanta is a world leader in the development of quantum atomics - technology based on atoms cooled and controlled by lasers. The company has 12 years of experience developing products and systems for scientific and industrial applications including atomic clocks, inertial positioning, and radiofrequency sensing. Some of our hardware currently orbits the earth on the International Space Station. We are leveraging this deep experience in atomic systems to build a highly scalable quantum computing platform.  ColdQuanta offers a competitive compensation package including health insurance, 401(k), school loan reimbursement, tuition reimbursement, and vacation and sick pay among other benefits to all full-time employees.  At ColdQuanta we benefit from our diverse team in tackling some of the hardest problems in fundamental science and engineering. ColdQuanta is proud to be an equal opportunity employer, committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or veteran status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T03:36:34.000Z"
+  },
+  "company": {
+    "name": "ColdQuanta",
+    "link": "https://www.linkedin.com/company/coldquanta-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Madison",
+    "region": "WI",
+    "postal_code": "53706",
+    "street_address": null,
+    "latitude": 43.073925,
+    "longitude": -89.38525
+  }
+}

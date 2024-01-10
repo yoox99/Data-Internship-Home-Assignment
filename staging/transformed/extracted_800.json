@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend",
+    "industry": "Internet,Financial Services,Hospital &amp; Health Care",
+    "description": "Hims & Hers Health, Inc. (better known as Hims & Hers) is a multi-specialty telehealth platform building a virtual front door to the healthcare system. Hims & Hers connects consumers to licensed healthcare professionals, enabling people to access high-quality medical care—from wherever is most convenient—for numerous conditions related to primary care, mental health, sexual health, skincare, and more. Launched in November 2017, the platform also offers thoughtfully created and curated health and wellness products. With products and services available across all 50 states and Washington, D.C., Hims & Hers’ mission is to make it easier for all Americans to access affordable care and treatment for conditions that impact their daily lives. In January 2021, the company was listed on the NYSE at an initial valuation of $1.6 billion and is traded under the ticker symbol “HIMS”. To learn more about our brand and offerings, you can visit forhims.com and forhers.com .  Hims and Hers is seeking a Software Engineer to help build a fast, reliable, and frictionless telemedicine experience. Hims is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Hims considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T19:20:49.000Z"
+  },
+  "company": {
+    "name": "hims &amp; hers",
+    "link": "https://www.linkedin.com/company/hims-&amp;-hers"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

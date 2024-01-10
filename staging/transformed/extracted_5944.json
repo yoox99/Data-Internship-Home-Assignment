@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Consumer Services",
+    "description": "Our greatest excitement comes from imagining a future where your tools work for you, and we're building the most capable team to make that a reality.  We're not taking a traditional approach, and we're not looking for conventional thinkers. Working at Quinn on the 'early team' puts you at the cornerstone of building a world where technology connects and works in harmony—optimizing the lives of yourself and others.  We're exceptionally proud of the company we've built so far and humbled by the work we have yet to accomplish. Our people are Quinn's most significant competitive advantage, and we'll continue investing in them as a cornerstone of our culture.  Key Responsibilities  As an early team member, you will get a chance to shape both the foundations of our product and team culture. We will measure your success by your ability to ship fast, learn quickly, and contribute to our culture of continuous improvement. Additionally, you will How we Work Our Commitment to Diversity and Inclusion  Quinn is proud to celebrate diversity and is committed to building an inclusive workplace regardless of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factors.  If you need any accommodations, please inform our team upon initial connection. Our Ideal Candidate",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T15:42:25.000Z"
+  },
+  "company": {
+    "name": "Quinn",
+    "link": "https://www.linkedin.com/company/usequinn"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

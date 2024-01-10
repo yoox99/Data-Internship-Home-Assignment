@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist I",
+    "industry": "Logistics and Supply Chain,Financial Services,Transportation/Trucking/Railroad",
+    "description": "Schneider's award-winning TECH team is looking to hire a Data Scientist to help create, build, and maintain next generation analytics solutions. The focus of this position is to develop practical solutions that help our customers meet their objectives. Using open source and licensed state of the art modeling and visualization tools like R, SPSS, Python, and Tableau, you'll be able to grow your technical skills while working on impactful and innovative analytics solutions. If this sounds exciting to you, review the information below and apply today. As an associate you will enjoy a strong work/life balance that includes paid vacation and holidays along with paid personal time off. You will also have access to medical, dental, and vision insurance and enjoy our company-paid life insurance and 401(k) savings with a company funded retirement plan. We also offer a results-based incentive pay program where you can earn above and beyond your base pay. Schneider values individual development and offers a wide variety of opportunities through company-paid training and more than 170 personal development courses. What are you waiting for, you will love it here! Schneider is a premier provider of transportation and logistics services. Our legacy started in 1935 with one truck and a dream. Since then, Schneider has been safely delivering superior customer experiences and has grown to become a multi-billion dollar leader offering one of the broadest service portfolios in the industry. Schneider’s development and use of cutting-edge technology is revolutionizing the industry. Always delivering, always ahead. Rise to the challenge and become a part of the Schneider family. Be the difference with a leader in an industry that impacts the world. Apply today at http://www.schneiderjobs.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T18:38:13.000Z"
+  },
+  "company": {
+    "name": "Schneider",
+    "link": "https://www.linkedin.com/company/schneider"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Green Bay",
+    "region": "WI",
+    "postal_code": "54304",
+    "street_address": null,
+    "latitude": 44.513287,
+    "longitude": -88.01326
+  }
+}

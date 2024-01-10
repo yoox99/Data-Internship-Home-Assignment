@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Internet",
+    "description": "Twitter is what’s happening and what people are talking about right now. For us, life's not about a job, it's about purpose. We feel real change starts with conversation. Here, your voice matters. Come as you are and together we'll do what's right (not what's easy) to serve the public conversation. Twitter Site Reliability Engineering (SRE) scales Twitter to serve the public conversation around the globe! We encourage engineering confidence by systematically making services reliable and efficient, and ensuring changes are safe and fast. Our SRE teams embed deeply with development teams, sharing on-call with a focus on up-leveling services and increasing automation.  Twitter offers engineers the unique opportunity to personally make a noticeable difference at a company that makes a difference in the world. Our team is seeking someone who enjoys coding and is passionate about solving unique challenges in a large-scale distributed environment. We are passionate about systems performance measurement and tuning, and we love to fix complex distributed service issues.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T20:51:20.000Z"
+  },
+  "company": {
+    "name": "Twitter",
+    "link": "https://www.linkedin.com/company/twitter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

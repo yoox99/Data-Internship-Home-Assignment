@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning (ML) Engineer - Data Platform",
+    "industry": "Computer Networking",
+    "description": "Cisco Meraki is revolutionizing the way IT administrators manage their infrastructure by providing simple and secure cloud-managed solutions. With a large install base of customers and rich, multifaceted data sets, the potential for data analytics to improve business performance for both our customers and our own business is enormous.  The Strategy & Data Science department is a growing group that works closely with executives and leaders across the company to support the development of and alignment on our business strategy. We are looking for a Senior ML Engineer - Data Platform to join our team in San Francisco. As part of this team, you will develop cross-functional relationships and work closely with data engineering and data science teams to drive near- and longer-term initiatives to improve our product, and customer experience. This would be an outstanding fit for a solution-oriented technical pro who is hands-on, has the ability to work autonomously, and can drive technical efforts building robust and resilient auto-scaling platform solutions with core AI-capabilities. Are you wondering what it is like to work at Cisco Meraki? Picture a breathtaking office, healthy catered meals, fully stocked kitchens, onsite gym and paid time off to volunteer. Meraki Cisco has crafted an amazing equal opportunity focused office where employees thrive. With that said, we are confident you will love it here. Check out more of our benefits on our job page, at https://meraki.cisco.com/jobs, and we look forward to talking with you soon.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-06T17:34:35.000Z"
+  },
+  "company": {
+    "name": "Cisco Meraki",
+    "link": "https://www.linkedin.com/company/cisco-meraki"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 124000,
+    "max_value": 212000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94101",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

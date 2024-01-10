@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "At Workday, we help the world’s largest organizations adapt to what’s next by bringing finance, HR, and planning into a single enterprise cloud. We work hard, and we’re serious about what we do. But we like to have fun, too. We put people first, celebrate diversity, drive innovation, and do good in the communities where we live and work. The Site Reliability Engineering team at Workday maintains the reliability and availability of our customer environments. The team builds and crafts solutions to scale our day to day operations and support Workday customers!. We are a fast paced and diverse team located across the globe. In this role, you must think about our customers (both internal and external), delivering quickly on a wide range of daily tasks - from environment provisioning, performance monitoring, environment troubleshooting, ad-hoc walk ups and automation efforts; while creating transparency of work being performed.  This position requires a good understanding of Linux systems in a Production Environment as you will be part of a team that is directly responsible for writing and maintaining scripts (bash, ruby, python) that support the environment provision process. You understand moving fast is key for the company and ensuring our Workday Service is available 24/7/365 requires on-call participation, careful maintenance planning of changes, detailed runbooks - documentation, collaboration and team due diligence around the 100's configuration tasks that we perform daily!. If the work performed is manually repeated often, you find a way to automate the task. More so, you deliver! Workday is an Equal Opportunity Employer including individuals with disabilities and protected veterans.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T07:01:21.000Z"
+  },
+  "company": {
+    "name": "Workday",
+    "link": "https://www.linkedin.com/company/workday"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 85800,
+    "max_value": 118000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pleasanton",
+    "region": "CA",
+    "postal_code": "94588",
+    "street_address": null,
+    "latitude": 37.658436,
+    "longitude": -121.877
+  }
+}

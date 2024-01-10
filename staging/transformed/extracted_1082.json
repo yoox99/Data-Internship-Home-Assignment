@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Mid",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "Software Engineer, Mid Are you looking for an opportunity to not just develop software, but to help build a system that will have a positive impact? As a full-stack developer, you can solve a problem with a complete end-to-end solution in a fast-paced, agile environment. We’re looking for a developer with the skills needed to build mission-critical software from vision to production-ready system.  We have an opportunity for you to develop your Digital skills and establish your new career. You’ll join a rigorous training program that combines skills assessments, a comprehensive curriculum, functional mentorship, a capstone Digital challenge, and support to place you on your first digital project. Equipped with the foundational Digital skills to accelerate your career, you’ll join a team and apply those skills to support our clients’ critical missions.  Empower change with us. Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; Top Secret clearance is required. A challenging and dynamic work environment isn’t all we have to offer. When you join Booz Allen, you can expect: You’ll also be exposed to a wealth of training resources through our Digital University, an online learning portal featuring more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and tech from our in-house experts. Pursuing certifications? Take advantage of our tuition assistance, on-site bootcamps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want, as you chart your own course for success.  We’re an EOE that empowers our people—no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic—to fearlessly drive change.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:11:42.000Z"
+  },
+  "company": {
+    "name": "Booz Allen Hamilton",
+    "link": "https://www.linkedin.com/company/booz-allen-hamilton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

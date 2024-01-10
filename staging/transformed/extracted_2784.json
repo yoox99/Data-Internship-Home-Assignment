@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T03:44:23.000Z"
+  },
+  "company": {
+    "name": "Revalize",
+    "link": "https://www.linkedin.com/company/revalize"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jacksonville",
+    "region": "FL",
+    "postal_code": "32277",
+    "street_address": null,
+    "latitude": 30.325968,
+    "longitude": -81.65676
+  }
+}

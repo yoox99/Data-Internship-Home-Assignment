@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Strategic Sourcing Specialist",
+    "industry": "Arts and Crafts,Building Materials,Consumer Goods",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:24:12.000Z"
+  },
+  "company": {
+    "name": "Hunter International Recruiting",
+    "link": "https://www.linkedin.com/company/hunter-international-recruiting"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Gastonia",
+    "region": "NC",
+    "postal_code": "28053",
+    "street_address": null,
+    "latitude": 35.262157,
+    "longitude": -81.1871
+  }
+}

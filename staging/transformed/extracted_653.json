@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Control Software Design Engineer",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software,Oil &amp; Energy",
+    "description": "Compressor Controls Corporation (CCC) is the market leader for turbomachinery control and is looking for an experienced, motivated and innovating control software design engineer.  The Control Software Design Engineer will develop control software using industry-standard packages for the real-time control of turbomachinery. The Control Software Design Engineer will be responsible for the design, development, documentation and maintenance of control software. The Control Software Design Engineer will be required to provide technical support to sales, execution, marketing, manufacturing, and quality organizations.  The Control Software Design Engineer will exhibit genuine interest in solving work problems through proactively asking questions, clearly communicating and collaborating both internally and externally to grow the business. In addition, the Control Software Design Engineer is responsible for understanding our competition and customers. They must show initiative to learn and should continuously improve company processes and solutions.  This position can be located in Des Moines, IA or fully remote from within the United States. The noise level in the work environment is usually moderate. The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.  While performing the duties of this job, the employee is frequently required to sit; use hands to manipulate computer input devices, finger, handle, or feel objects, tools, or controls; reach with hands and arms; and talk or hear. The employee is occasionally required to stand and walk. The employee must have sufficient mobility to enable travel to industrial sites, offices, and facilities. The employee must occasionally lift and/or move up to 25 pounds. Specific vision abilities required by this job include close vision, depth perception, and the ability to adjust focus.  Disclaimer The above information on this description has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:46:30.000Z"
+  },
+  "company": {
+    "name": "CCC (Compressor Controls Corporation)",
+    "link": "https://www.linkedin.com/company/compressor-controls-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Des Moines",
+    "region": "IA",
+    "postal_code": "50395",
+    "street_address": null,
+    "latitude": 41.58882,
+    "longitude": -93.62031
+  }
+}

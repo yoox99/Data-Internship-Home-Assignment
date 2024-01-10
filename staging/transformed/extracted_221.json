@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Frontend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "DataVisor is the world’s leading AI-powered Fraud and Risk Platform that delivers the best overall detection coverage in industry. With an open SaaS platform that supports easy consolidation and enrichment of any data, DataVisor's solution scales infinitely and enables organizations to act on fast-evolving fraud and money laundering activities in real time. Its patented unsupervised machine learning technology, advanced device intelligence, powerful decision engine and investigation tools work together to provide guaranteed performance lift from day one. DataVisor's platform is architected to support multiple use cases across different business units flexibly, dramatically lowering total cost of ownership, compared to legacy point solutions. DataVisor is recognized as an industry leader and has been adopted by many Fortune 500 companies across the globe. Our award-winning software platform is powered by a team of world-class experts in big data, machine learning, security, and scalable infrastructure. Our culture is open, positive, collaborative, and results driven.  At DataVisor, we are working hard to find excellent web front-end engineers who can constantly challenge ourselves and surpass ourselves. We hope that candidates have a solid development foundation and broad front-end or full-stack development experience. Mature experience in front-end framework, early start-up technology company experience is preferred, we look forward to furthering communication with you!  Responsibility We offer a flexible schedule with competitive pay, equity participation and health benefits, along with catered lunch, company off-sites, and game nights, as well as the opportunity to work with a world class team.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-01T23:13:42.000Z"
+  },
+  "company": {
+    "name": "DataVisor",
+    "link": "https://www.linkedin.com/company/datavisor"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91100,
+    "max_value": 199100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

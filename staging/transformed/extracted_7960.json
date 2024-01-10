@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Job Summary:  Quality Platform supports a premium streaming service, offering live and on-demand TV and movies, with and without commercials, both in and outside the home. Operating at the intersection of entertainment and technology, Quality Platform consists of people who are passionate about redefining TV through innovation, unconventional thinking, and embracing fun. As a team, we are able to touch a wide stack of technologies and come up with many tooling solutions to many of the problems the Quality organization might face. By doing so, you will never be bored and siloed into one project, where you have the ability to move to other projects and increase your skillset on all sorts of different projects.  Responsibilities: Preferred Qualifications: Bachelor’s in Computer Science, Computer Engineering, Management Information Systems or related field.  869664BR",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T09:44:38.000Z"
+  },
+  "company": {
+    "name": "Hulu",
+    "link": "https://www.linkedin.com/company/hulu"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 106000,
+    "max_value": 182000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Monica",
+    "region": "CA",
+    "postal_code": "90403",
+    "street_address": null,
+    "latitude": 34.010933,
+    "longitude": -118.491516
+  }
+}

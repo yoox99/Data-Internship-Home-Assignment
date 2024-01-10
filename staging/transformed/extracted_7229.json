@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Amazon Go is a new kind of store with no lines and no checkout—you just grab and go! Customers simply use the Amazon Go app to enter the store, take what they want from our selection of fresh, delicious meals and grocery essentials, and go!  Our checkout-free shopping experience is made possible by our Just Walk Out Technology, which automatically detects when products are taken from or returned to the shelves and keeps track of them in a virtual cart. When you’re done shopping, you can just leave the store. Shortly after, we’ll charge your Amazon account and send you a receipt. Check it out at amazon.com/go. Designed and custom-built by Amazonians, our Just Walk Out Technology uses a variety of technologies including computer vision, sensor fusion, and advanced machine learning. Innovation is part of our DNA! Our goal is to be Earths’ most customer centric company and we are just getting started. We need people who want to join an ambitious program that continues to push the state of the art in computer vision, machine learning, distributed systems and hardware design.  The Role: Everyone on the team needs to be entrepreneurial, wear many hats and work in a highly collaborative environment that’s more startup than big company. We’ll need to tackle problems that span a variety of domains: computer vision, image recognition, machine learning, real-time and distributed systems.  As a Machine Learning Engineer, you will help solve a variety of technical challenges and mentor other engineers. You will play an active role in translating business and functional requirements into concrete deliverables and build quick prototypes or proofs of concept in partnership with other technology leaders within the team. You will help invent new features, develop and deploy highly scalable and reliable distributed services. You will work with a variety of core languages and technologies including, Linux, and AWS technologies.  You will tackle challenging, novel situations every day and given the size of this initiative, you’ll have the opportunity to work with multiple technical teams at Amazon in different locations. You should be comfortable with a degree of ambiguity that’s higher than most projects and relish the idea of solving problems that, frankly, haven’t been solved at scale before - anywhere. Along the way, we guarantee that you’ll learn a ton, have fun and make a positive impact on millions of people. - Amazon.com Services LLC  Job ID: A1707890",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T09:23:56.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 89500,
+    "max_value": 129000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

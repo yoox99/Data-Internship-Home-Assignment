@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Backend Software Engineer, Speech &amp; Language Technologies",
+    "industry": "Consumer Electronics",
+    "description": "The AI/ML - Machine Translation team is looking for exceptional Software Engineers passionate about delighting customer’s experience and pushing the envelope on Machine Learning, Artificial Intelligence, Embedded and Distributed Computing. In-depth development experience with C/C++  Experience in object-oriented software design and programming  Experience in implementing services scalable to millions of users  Familiarity with networking, distributed systems and multi-threaded programming  Knowledge of machine learning techniques is a plus  Passionate about creating phenomenal products You will be a part of a team that is responsible for a wide variety of language technologies related research and development activities. You will primarily be responsible for developing services that deliver our applications and technologies to millions of people.   To succeed in this role, you are a strong programmer and a creative problem solver, who enjoys learning new things.   You will possess strong skills in object-oriented software design and programming. You are passionate about developing new features, maintaining existing code, fixing bugs, and contributing to overall system design. You are a great teammate who thrives in a dynamic environment with rapidly changing priorities. B.S. or M.S. in Computer Science or related field with 4+ years of industrial working experience    Role Number: 200200063",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T07:43:48.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

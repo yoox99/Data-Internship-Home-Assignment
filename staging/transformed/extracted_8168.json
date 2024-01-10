@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Full-Stack Software Engineer",
+    "industry": "Hospital &amp; Health Care",
+    "description": "Brio’s mission is to make diagnostic testing valuable for all and to become the largest provider of diagnostic laboratory testing in the world. We believe that the 21st century will be defined by advances in healthcare and biology. We intend to accelerate that future. Today, Brio empowers employers to test their teams proactively and on their terms, and gain the insights they need to understand in order to keep employees safe and manage risk.  While currently focused on the immediate need for B2B COVID testing amidst the global pandemic, our vision is to create a modern and decentralized diagnostic system that addresses the inefficiencies and shortcomings of the >$150bb diagnostic testing market.  This is a rare opportunity to get involved in solving a truly meaningful problem with massive scale. The product is up and running, our growth is unprecedented, and there is still a ton of room to make your mark as an early member of the team.  We are fully remote, with a center of gravity around Boston, MA where we were founded. You get excited about challenges, fast-changing environments and problems with no clear solution. You are opinionated, but equally open to the opinions of others. You value extreme ownership, attention to detail, and relish disambiguation. Solving problems nobody has tackled before in an environment where the landscape is shifting daily is your idea of fun. You are eager to contribute to our business and culture, not just our code base. Python 3, Flask, PostgreSQL, and Redis, running on AWS. Server-rendered HTML via Jinja, with Javascript and PostCSS, moving towards React. Brio’s mission is to increase the impact of diagnostic testing by making it more accessible and valuable to more people. Our core values as a company are devotion, responsibility, fearlessness, and curiosity.  Brio is an equal opportunity employer that recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, sex, disability, age, veteran status, and other protected status. Individuals and teams with different backgrounds and experiences foster diverse ideas, which brings universal perspectives to universal problems. So if we want to create a world with equitable healthcare, we need to employ and partner with people who represent the world as it is. At Brio, diversity is not just something we believe in, it is a part of our DNA. It makes us unique and it makes us successful.  We are interested in every qualified candidate who is eligible to work in the United States. Unfortunately, we currently do not sponsor visas. This is a full-time position (40+ hours per week). This position is fully remote and can be performed from anywhere in the U.S.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T04:40:26.000Z"
+  },
+  "company": {
+    "name": "Brio Systems",
+    "link": "https://www.linkedin.com/company/briosystems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

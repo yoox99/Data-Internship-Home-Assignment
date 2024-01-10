@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Validation Design Engineer - SOC",
+    "industry": "Electrical/Electronic Manufacturing,Computer Software,Semiconductors",
+    "description": "Now is an exciting time for Intel’s Design Enablement Group! This position is within the Design Enablement (DE) organization of Technology Development (TD). At Intel, Design Enablement is one of the key pillars enabling Intel to deliver winning products in the marketplace. Your work will directly enable design teams to get to market faster with leadership products on cutting edge technologies and partner with Technology Development to deliver cost-effective, competitive design platform.  In this position you will help us with one or more of the following responsibilities: By applying to this posting, you’ll be considered for multiple roles within Design Enablement (DE)  This is an entry level position and will be compensated accordingly. You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through a combination of your schoolwork/classes/research and/or relevant previous job and/or internship experiences. You should have Bachelor’s degree OR Master's degree OR PhD in Electrical Engineering, Computer Engineering, Computer Science, or other related Electrical Scientific STEM field, with 6+ months of work or educational experience. Must have the required degree or expect the required degree by May of 2022. By applying to this posting your resume and profile will become visible to Intel Recruiters / Sourcers and will allow them to consider you for current and future job openings aligned with the skills and positions mentioned above. Manufacturing and Product Engineering (MPE) is responsible for test development across product segments, supporting 95% of Intel's revenue. We deliver comprehensive pre-production test suites and component/physical debug capabilities to enable high quality, high volume manufacturing. US, California, Santa Clara; US, California, Folsom; US, Arizona, Phoenix; US, Texas, Austin; All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:09:56.000Z"
+  },
+  "company": {
+    "name": "Intel Corporation",
+    "link": "https://www.linkedin.com/company/intel-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 6,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hillsboro",
+    "region": "OR",
+    "postal_code": "97124",
+    "street_address": null,
+    "latitude": 45.52395,
+    "longitude": -122.98974
+  }
+}

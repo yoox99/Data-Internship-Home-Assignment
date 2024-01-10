@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist (Manager)",
+    "industry": "Mental Health Care,Health, Wellness and Fitness,Hospital &amp; Health Care",
+    "description": "As a team, we are committed to building relationships with the people who care for our patients. Our employees are our number one client and we lead as a faith-based company from the heart.  We are committed to develop teams who can truly make a difference for our patients and employees. The (Manager) will support the growing needs around data-driven decision making in the organization and own process of deriving key insights from advanced analytics to achieve short- and long-term financial targets. The data scientist will involve data exchange process analysis, design, development, unit testing, and support. This role would be responsible for building out a team of analysts, engineers, and scientists to predict, develop processing and identify other reporting needs. This position requires strong technical and analytical skills to review business processes and data, recommend solutions, conduct functional and code analyses, and lead and perform database development tasks. This position will also involve production support and require experience within a DevOps environment. #PATH2  Powered by JazzHR  J4XMLPyE0n",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T19:16:18.000Z"
+  },
+  "company": {
+    "name": "Pathways",
+    "link": "https://www.linkedin.com/company/pathways-hospice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Richardson",
+    "region": "TX",
+    "postal_code": "75080",
+    "street_address": null,
+    "latitude": 32.960762,
+    "longitude": -96.73352
+  }
+}

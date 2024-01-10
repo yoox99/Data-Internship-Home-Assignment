@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Telecommunications,Financial Services",
+    "description": "DISH is a Fortune 200 company with more than $15 billion in annual revenue that continues to redefine the communications industry. Our legacy is innovation and a willingness to challenge the status quo, including reinventing ourselves. We disrupted the pay-TV industry in the mid-90s with the launch of the DISH satellite TV service, taking on some of the largest U.S. corporations in the process, and grew to be the fourth-largest pay-TV provider. We are doing it again with the first live, internet-delivered TV service – Sling TV – that bucks traditional pay-TV norms and gives consumers a truly new way to access and watch television.  Now we have our sights set on upending the wireless industry and unseating the entrenched incumbent carriers.  We are driven by curiosity, pride, adventure, and a desire to win – it’s in our DNA. We’re looking for people with boundless energy, intelligence, and an overwhelming need to achieve to join our team as we embark on the next chapter of our story.  Opportunity is here. We are DISH.  We are currently looking for an innovative Data Scientist to add to our Customer Experience Operations (CXO) team, reporting to the Sr. Manager – VOC. The individual will be responsible for creating value from data. The ideal candidate will help us discover information hidden in vast amounts of data, and help us make smarter decisions to deliver products and processes that enhance both Agent and Customer Experience. Your primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality prediction systems integrated with our internally used products (from ticketing systems, to CRMs, etc…). Areas of focus on the VOC team are centered on analyzing text from surveys, chats, social, and calls to see why customers are contacting us and presenting those findings to improve experience/processes. Additionally, the role will support the Journey team through the use of time based models or other methods. Compensation: $74,700.00/Yr. - $103,850.00/Yr.  From versatile health perks to new career opportunities, check out our benefits on our careers website .  Employment is contingent on Successful completion of a pre-employment screen, which may include a drug test.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:16:38.000Z"
+  },
+  "company": {
+    "name": "DISH Network",
+    "link": "https://www.linkedin.com/company/dish-network"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 72300,
+    "max_value": 139000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Englewood",
+    "region": "CO",
+    "postal_code": "80110",
+    "street_address": null,
+    "latitude": 39.649437,
+    "longitude": -104.98891
+  }
+}

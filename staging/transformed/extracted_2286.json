@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Computer Software,Computer &amp; Network Security",
+    "description": "This position requires common knowledge and an understanding of basic techniques and concepts of programming in at least one programming language. The focus is on learning and gaining on the job experience.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T00:00:00.000Z"
+  },
+  "company": {
+    "name": "NetNumber",
+    "link": "https://www.linkedin.com/company/netnumber"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lowell",
+    "region": "MA",
+    "postal_code": "01850",
+    "street_address": null,
+    "latitude": 42.645428,
+    "longitude": -71.3074
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Linux System Engineer II",
+    "industry": "Information Technology and Services,Telecommunications,Financial Services",
+    "description": "DISH is a Fortune 250 company with more than $13 billion in annual revenue that continues to redefine the communications industry. Our legacy is innovation and a willingness to challenge the status quo, including reinventing ourselves. We disrupted the pay-TV industry in the mid-90s with the launch of the DISH satellite TV service, taking on some of the largest U.S. corporations in the process, and grew to be the fourth-largest pay-TV provider. We are doing it again with the first live, internet-delivered TV service – Sling TV – that bucks traditional pay-TV norms and gives consumers a truly new way to access and watch television. DISH is seeking an innovative and passionate Linux Engineer to join a team that manages the on-premise hardware/virtualization/OS/applications for the DISH Network conditional access systems. This position provides an opportunity to learn Docker and Kubernetes administration. # DICE_VP  Compensation: $55,800.00/Yr. - $87,450.00/Yr.  From versatile health perks to new career opportunities, check out our benefits on our careers website .  Employment is contingent on Successful completion of a pre-employment screen, which may include a drug test.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:05:10.000Z"
+  },
+  "company": {
+    "name": "DISH Network",
+    "link": "https://www.linkedin.com/company/dish-network"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Gilbert",
+    "region": "AZ",
+    "postal_code": "85233",
+    "street_address": null,
+    "latitude": 33.33073,
+    "longitude": -111.79034
+  }
+}

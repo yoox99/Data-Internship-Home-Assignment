@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist - Search and NLP",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Grainger is North America's leading distributor of maintenance, repair, and operating products and services. Our wide assortment, deep expertise, innovative technology solutions and unparalleled customer service keep customers' operations running and their people safe.  We're looking for passionate people who can move our company forward. We have a welcoming workplace where you can build a career for yourself while fulfilling our purpose to keep the world working. We embrace new ways of thinking and recognize everyone is an individual. Find your way at Grainger. You will join a team of software engineers, data scientists and ML engineers working on high impact problems in the fields of Search, Information Retrieval, NLP, Product Similarity & Matching and Recommendations. You will report to the Senior Manager, Data Science.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T05:53:49.000Z"
+  },
+  "company": {
+    "name": "Grainger",
+    "link": "https://www.linkedin.com/company/w.w.-grainger"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

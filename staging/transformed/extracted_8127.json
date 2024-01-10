@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer Intern",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Prove is the modern platform for continuous identity authentication and is used by over 1,000 enterprises and 500 financial institutions including 9 of the top 10 U.S. banks. Prove's cloud solutions and -driven APIs can be easily orchestrated to increase Approve Rates to over 90%, enabling companies to authenticate customer identities accurately, effortlessly, and privately, while mitigating fraud. Prove's solutions are available in 195 countries. For the latest updates from Prove, As we continue to scale our company, we are looking for people who know how to make an impact. We're talking self-starting professionals who thrive in a fast-paced environment, process information quickly and make intelligent decisions. The work is challenging and requires not only smarts, but natural curiosity and tenacity. Teamwork is also important to us – we work together and play together.  Prove has big plans; we're excited and optimistic about the future. If this sounds like a career for you – come check us out.  We are looking for an intern to join our A+ technical team in designing, building, and deploying machine learning solutions into production. Prove is building a platform to solve some of the world's biggest unsolved security problems in a completely novel way, leveraging passive signals from a user's mobile device to protect them from bad guys. This is an opportunity to be a part of something truly unique and game-changing.  We are looking for natural-born builders who are comfortable in multiple technical areas, have creative problem-solving skills, a love for coding and technology and a \"get stuff done\" attitude. This position description should not be considered the final description of the position. It should be assumed that we would, to some extent, structure responsibilities in accordance with the successful candidate's capabilities and changing business conditions.",
+    "employment_type": "INTERN",
+    "date_posted": "2021-10-01T19:38:38.000Z"
+  },
+  "company": {
+    "name": "Prove",
+    "link": "https://www.linkedin.com/company/proveidentity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 6,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redwood City",
+    "region": "CA",
+    "postal_code": "94064",
+    "street_address": null,
+    "latitude": 37.4805,
+    "longitude": -122.21528
+  }
+}

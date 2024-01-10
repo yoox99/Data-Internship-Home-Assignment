@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sales Consultant",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:26:55.000Z"
+  },
+  "company": {
+    "name": "Kramer Portraits",
+    "link": "https://www.linkedin.com/company/kramer-portraits"
+  },
+  "education": {
+    "required_credential": "associate degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greenwich",
+    "region": "CT",
+    "postal_code": "06807",
+    "street_address": null,
+    "latitude": 41.026527,
+    "longitude": -73.62855
+  }
+}

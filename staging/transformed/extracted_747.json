@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer &amp; Network Security",
+    "description": "WarCollar Industries is seeking a Data Scientist to work on an Agency-level Cyber Security support contract. The Data Scientist will use his/her talent to churn through petabytes of data providing valuable information and insight to policy makers and security professionals. They will also identify anomalies that may reveal previously unknown risks to the sponsor's environment.  The Data Scientist will: Required Experience/Skills: The ideal candidate will have expert level experience in one or more of the following disciplines: Familiarity with the following classes of technologies: Required Technology: Required Programming Languages: Candidates must be United States citizens, hold an active Top Secret clearance with Secure Compartmented Information (TS/SCI), and have a positively adjudicated polygraph in order to be considered for this position.  Education: About us:  WarCollar Industries, LLC is a veteran-owned small business. We maintain a team of cybersecurity experts committed to protecting complicated data and distribution systems and providing decision makers with the most accurate assessment of residual risk possible. We work with our clients to solve the toughest challenges in the ever-evolving digital landscape. Services include network defense, computer network attack, secure network design, penetration testing and vulnerability assessment. WarCollar enables its clients to find, fix, stop, and ultimately solve cybersecurity problems across their entire enterprise.  WarCollar offers generous benefits including: Medical insurance premium coverage; PTO based on billable hours; federal holidays plus your birthday; matching 401k, education reimbursement plus paid training days; performance bonuses; referral bonuses; government shutdown protection; monthly team building events plus two major social events annually.  WarCollar Industries, LLC is an equal opportunity employer. WarCollar does not discriminate in employment based upon race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, status as a protected military veteran, or other non-merit factor.  Powered by JazzHR  etyMiH43ZW",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-24T23:37:33.000Z"
+  },
+  "company": {
+    "name": "WarCollar Industries, LLC",
+    "link": "https://www.linkedin.com/company/warcollar-industries-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "McLean",
+    "region": "VA",
+    "postal_code": "22101",
+    "street_address": null,
+    "latitude": 38.93759,
+    "longitude": -77.18378
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist 1",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "Prognos is a NYC-based healthcare company whose mission is to improve health by driving the best actions learned from the world's data. In order to achieve this goal we have curated one of the world’s largest clinical lab datasets, and are currently deploying cutting-edge technology for predicting disease at the earliest possible time.  The Mission of the Data Science team at Prognos is to develop, deploy and maintain analytic and machine learning pipelines within Prognos’ products, addressing business-relevant problems in close collaboration with our Engineering, Clinical and Product teams. We are looking for a Data Scientist with a strong sense of data analytics, and intuition on insights extraction from large datasets. This position will be focused on writing both backend and frontend code to surface insights from multiple datasets. Prognos is a leading clinically-focused healthcare analytics company with a platform that can query patient-centric data to answer key healthcare questions in minutes not months. The prognosFACTOR™ platform addresses payer, life sciences and provider needs, enabling clients to securely, efficiently and cost effectively analyze billions of lab and health records on more than 325 million de-identified patients. prognosFACTOR is HIPAA compliant and harmonizes and integrates lab data with other healthcare data assets from a trusted and diverse data ecosystem. For more information, visit prognoshealth.com. To improve health by driving the best actions learned from the world’s data To prevail over disease and empower people everywhere to live life to the fullest Powered by JazzHR  FUi7hIyird",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T07:00:36.000Z"
+  },
+  "company": {
+    "name": "Prognos Health",
+    "link": "https://www.linkedin.com/company/prognos"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

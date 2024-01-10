@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Data Scientist, Healthcare &amp; Lifesciences",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The is looking for a who can, depending on the needs of the project, adapt to: 1) contributing as an individual technical specialist on complex problems; and 2) manage and mentor other data scientists to deliver projects. Individuals seeking employment at Fractal.ai are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-10T05:22:09.000Z"
+  },
+  "company": {
+    "name": "Fractal",
+    "link": "https://www.linkedin.com/company/fractal-analytics"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

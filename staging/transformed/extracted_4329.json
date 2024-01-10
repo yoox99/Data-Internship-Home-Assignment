@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Remote",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "The Red Hat OpenShift Site Reliability Engineering Platform team (SRE-P) is looking for a Site Reliability Engineer to join our global team. In this role, you will play a key role to contribute to solutions that make Red Hat OpenShift Dedicated scalable, featureful, resilient, and secure, while maintaining a balance between development and operations work. Red Hat OpenShift is enterprise Kubernetes and SRE is Red Hat's team that develops and operates Red Hat OpenShift Dedicated as a public cloud service for large enterprise customers. You'll be contributing to the design and development of automation software to provision, upgrade, monitor, and heal a large global fleet of Red Hat OpenShift clusters deployed across multiple public clouds. You'll participate in a follow-the-sun on-call rotation and help lead incident management, root cause analysis, and continuous improvement activities, managing engineering efforts against a service level agreement (SLA) and error budget. Red Hat OpenShift SRE-P is a growing, sophisticated, global, fast-paced team inside the world's open source leader with constant opportunities to learn new skills and innovate new solutions to meet our customers' demands. As an SRE on this team, you'll directly contribute to Red Hat's success in the rapidly growing Kubernetes-as-a-Service market. Successful applicants must reside in a state where Red Hat is registered to do business. Red Hat is the world’s leading provider of enterprise open source software solutions, using a community-powered approach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning support, training, and consulting services make Red Hat a trusted adviser to the Fortune 500. As a strategic partner to cloud providers, system integrators, application vendors, customers, and open source communities, Red Hat can help organizations prepare for the digital future. : These benefits are only applicable to full time, permanent associates at Red Hat located in the United States.  Red Hat is proud to be an equal opportunity workplace and an affirmative action employer. We review applications for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, citizenship, age, veteran status, genetic information, physical or mental disability, medical condition, marital status, or any other basis prohibited by law.  Red Hat does not seek or accept unsolicited resumes or CVs from recruitment agencies. We are not responsible for, and will not pay, any fees, commissions, or any other payment related to unsolicited resumes or CVs except as required in a written contract between Red Hat and the recruitment agency or party requesting payment of a fee.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:51:59.000Z"
+  },
+  "company": {
+    "name": "Red Hat",
+    "link": "https://www.linkedin.com/company/red-hat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

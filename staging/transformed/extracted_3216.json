@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T17:28:07.000Z"
+  },
+  "company": {
+    "name": "Brooksource",
+    "link": "https://www.linkedin.com/company/brooksource"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 50800,
+    "max_value": 67100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "West Chester",
+    "region": "PA",
+    "postal_code": "19381",
+    "street_address": null,
+    "latitude": 39.96048,
+    "longitude": -75.60522
+  }
+}

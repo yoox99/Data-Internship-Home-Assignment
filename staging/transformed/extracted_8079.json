@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Engineering Manager, Site Reliability Engineer (Consumer)",
+    "industry": "Internet",
+    "description": "Twitter is what’s happening and what people are talking about right now. For us, life's not about a job, it's about purpose. We feel real change starts with conversation. Here, your voice matters. Come as you are and together we'll do what's right (not what's easy) to serve the public conversation. Twitter offers engineers the outstanding opportunity to personally make a noticeable difference at a company that makes a difference in the world.  Our Site Reliability Engineering teams embed within our consumer product engineering teams. SREs supporting these teams will specialize in and are passionate about scaling our infrastructure, improving developer efficiency, automation, and tooling that power impactful features on Twitter, like the Timelines, Notifications, Search, Trends, and so much more!  Our team is seeking an enthusiastic Engineering Manager in the Site Reliability Engineer organization to lead a team of SREs. We believe passion and personality matter; as such, we need leaders that can lead diverse, thoughtful, and driven engineers while balancing day to day people management with moving the business forward both technically and culturally.  As an Engineering Manager, you will manage a team of engineers who are working to keep Twitter reliable and scalable. Your responsibilities include, but are not limited to",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-15T14:26:26.000Z"
+  },
+  "company": {
+    "name": "Twitter",
+    "link": "https://www.linkedin.com/company/twitter"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

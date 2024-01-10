@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Originations",
+    "industry": "Automotive,Consumer Goods",
+    "description": "The Software Engineer is a , capable of designing, coding, testing and implementing applications systems. Our Software Engineer should be energetic, entrepreneurial mindset, innovating - thinking about the “art of the possible” to become the Fin Tech market leader. While partnering with our business colleagues, you are responsible for advancing the tech stack to elevate our service operations to the next level of Dealer and Customer satisfaction. Strategic Work – 20% of time Operational Work – 80% of time Fully Remote United States-Illinois-Libertyville – – – We are proud to be an EEO employer M/F/D/V. We maintain a drug-free workplace and perform pre-employment substance abuse testing.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:22:04.000Z"
+  },
+  "company": {
+    "name": "Volkswagen of America, Inc",
+    "link": "https://www.linkedin.com/company/volkswagen-of-america-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 56400,
+    "max_value": 81000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Libertyville",
+    "region": "IL",
+    "postal_code": "60092",
+    "street_address": null,
+    "latitude": 42.282997,
+    "longitude": -87.95334
+  }
+}

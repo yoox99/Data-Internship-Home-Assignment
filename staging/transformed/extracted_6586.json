@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Apple Pay",
+    "industry": "Consumer Electronics",
+    "description": "Apple Pay Server Engineering is the place to be if you are interested in working on awesome technology that is used by millions of people every single day! As part of the Apple Pay Server Engineering team, you will have the opportunity to explore and contribute to a wide variety of interesting projects within Apple Pay. If you meet the key qualifications and you are self-driven, enthusiastic, highly-motivated, and you want to make an impact, we'd love to hear from you!   *We're open to candidates for the following campuses: NYC, Austin or Cupertino* Minimum 5+ years relevant industry experience  Experience writing server software in Java or C/C++ or C#  Experience/Knowledge working on highly scalable applications and RESTful web services  Knowledge of databases both SQL and NoSQL  Familiarity with scalability and performance issues  Understand software development process from inception to delivery of code to production  Strong Computer Science background  Interest in payment industry  Experience/understanding of security and cryptography (not mandatory) - Responsible for designing and developing highly reliable, scalable server platforms with attention to detail   - Follow our software development process including writing unit tests, perform code reviews etc.   - Ability to learn and apply new technologies quickly   - Work effectively with cross-functional teams to develop features   - Provide support for production deployments   - Demonstrate ability to deliver results on time with high quality Bachelor in Computer Science or equivalent    Role Number: 200238369",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-28T17:21:10.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62600,
+    "max_value": 86400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

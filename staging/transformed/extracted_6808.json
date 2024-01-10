@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer",
+    "industry": "Financial Services",
+    "description": "At Fannie Mae, futures are made. The inspiring work we do makes an affordable home a reality and a difference in the lives of Americans. Every day offers compelling opportunities to modernize the nation's housing finance system while being part of an inclusive team using new, emerging technologies. Here, you will help lead our industry forward, enhance your technical expertise, and make your career. Our Integrated Technology Solutions (ITS) team is looking for multiple Full-Stack Software Engineers to help develop and support our mission critical applications. These applications support some of the most important financial activities happening at Fannie Mae today (a critical element in the national economy). Additionally, you will be a part of an on-going effort to modernize our platforms across ITS as we work in an agile and collaborative manner.  We are looking for highly motivated engineers who want to solve tough technical challenges and learn and incorporate new technologies into their skillset. In this role, you would use a tech stack including Java, Spring Boot, and Microservices-based architecture in AWS. You will be engaged across the software development life cycle to create, enhance, and maintain platforms and capabilities in a collaborative and Agile environment. Job REF ID: REF2648U  The future is what you make it to be. Discover compelling opportunities at Fanniemae.com/careers.  Fannie Mae is an Equal Opportunity Employer, which means we are committed to fostering a diverse and inclusive workplace. All qualified applicants will receive consideration for employment without regard to race, religion, national origin, gender, gender identity, sexual orientation, personal appearance, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation in the application process, email us at careers_mailbox@fanniemae.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:04:38.000Z"
+  },
+  "company": {
+    "name": "Fannie Mae",
+    "link": "https://www.linkedin.com/company/fannie-mae-corporation_19722"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Reston",
+    "region": "VA",
+    "postal_code": "22096",
+    "street_address": null,
+    "latitude": 38.960186,
+    "longitude": -77.3545
+  }
+}

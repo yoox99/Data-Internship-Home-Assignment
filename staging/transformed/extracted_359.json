@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Data Scientist/Database Engineer - Technology",
+    "industry": "Financial Services",
+    "description": "Arena Investors, LP (“Arena“) is a global investment management firm that seeks to generate attractive risk adjusted, consistent and uncorrelated returns by employing a fundamentals based, asset-oriented financing and investing strategy across the entire credit spectrum in areas where conventional sources of capital are scarce. Arena specializes in off-the-run, stressed, distressed, illiquid and esoteric special situation transactions through originations and acquisitions of asset-oriented investments across a wide array of asset types (including but not limited to private direct corporate credit, commercial real estate bridge lending, and commercial and consumer assets). Quaestor Advisors, LLC (Quaestor) is an affiliated Special Servicer, which provides mid and back office services, including asset management, to Arena Investors and external clients. Quaestor is looking to expand the Technology team, through the addition of a junior-to-mid-level database developer/data scientist who has a passion for coding, troubleshooting data and solving problems. The right candidate would be a key contributor to a proprietary financial data warehouse that is crucial to running its business. Responsivities would include analyzing data, troubleshooting logic problems, monitoring data health and developing data transformations/stored procedures while learning to interface with business-side sponsors from asset management, accounting, and operations. Ideal candidates will be organized, analytical, self-motivated, resourceful and able to work/communicate effectively with all internal functional groups. This is a great opportunity to be a part of a large-scale fintech platform while honing ones technical skills and learning the private credit business. SDL2019-1032",
+    "employment_type": "INTERN",
+    "date_posted": "2021-07-11T22:53:29.000Z"
+  },
+  "company": {
+    "name": "Arena Investors, LP",
+    "link": "https://www.linkedin.com/company/arena-investors-lp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Jacksonville",
+    "region": "FL",
+    "postal_code": "32277",
+    "street_address": null,
+    "latitude": 30.325968,
+    "longitude": -81.65676
+  }
+}

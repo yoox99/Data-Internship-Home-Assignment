@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Financial Services,Hospital &amp; Health Care",
+    "description": "It’s a new day in healthcare!  Combining CVS Health and Aetna was a ground-breaking moment for our company and our industry, establishing CVS Health as the nation’s premier health innovation company. Through our health services, insurance plans and community pharmacists, we’re pioneering a bold new approach to total health.  Looking for opportunities to use cutting edge technologies analyzing petabytes of data in a world class Hadoop cluster? Interested in generating analytical insights that inform provider networks and engagement strategies that support members on their individualized health and wellness journey? Aetna's Provider & Network Analytics team delivers strategically impactful programs and tools that expand convenient access to high-quality and affordable care for all members across multiple channels across all stages of life.  At Aetna, we’re pioneering a total approach to health and wellness. As a Data Scientist on the Analytics & Behavior Change team, you’ll build industry-leading analytics, data, and technology platforms to help reimagine health care. This position will play a critical role within a cross-functional team, delivering powerful solutions that inform network strategy and design, improve network performance and provider engagement, develop new provider offerings, and enhance consumer experience.  You will be part of a fast-paced, innovative, collaborative team, helping solve problems, drive impact, and deliver key insights to our customers by leveraging innovations in data science, machine & deep learning, and predictive modeling techniques. You will derive meaning from data and deploy robust solutions through provider-directed engagement channels (e.g., digital) that helps consumers identify affordable care, when they need it, and with whom.  FUNDAMENTAL COMPONENTS At CVS Health, we are joined in a common purpose: helping people on their path to better health. We are working to transform health care through innovations that make quality care more accessible, easier to use, less expensive and patient-focused. Working together and organizing around the individual, we are pioneering a new approach to total health that puts people at the heart.  We strive to promote and sustain a culture of diversity, inclusion and belonging every day. CVS Health is an equal opportunity and affirmative action employer. We do not discriminate in recruiting, hiring or promotion based on race, ethnicity, sex/gender, sexual orientation, gender identity or expression, age, disability or protected veteran status or on any other basis or characteristic prohibited by applicable federal, state, or local law. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T01:23:55.000Z"
+  },
+  "company": {
+    "name": "CVS Health",
+    "link": "https://www.linkedin.com/company/cvs-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Front End Software Engineer",
+    "industry": "Entertainment",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:57:57.000Z"
+  },
+  "company": {
+    "name": "Hunt A Killer",
+    "link": "https://www.linkedin.com/company/hunt-a-killer"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Baltimore",
+    "region": "MD",
+    "postal_code": "21226",
+    "street_address": null,
+    "latitude": 39.290443,
+    "longitude": -76.612335
+  }
+}

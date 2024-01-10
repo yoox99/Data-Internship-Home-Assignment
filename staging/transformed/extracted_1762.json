@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer III - PDMS",
+    "industry": "Insurance",
+    "description": "Our purpose, to improve customers’ lives by making healthcare work better, is far from ordinary. And so are our employees. Working at Premera means you have the opportunity to drive real change by transforming healthcare.  To better serve our customers, we’re creating a culture that promotes employee growth, collaborative innovation, and inspired leadership. We are committed to creating an environment where employees can do their best work and where best-in-class talent comes, stays, and thrives! Product development, Marketing and Sales(PDMS) aims to build a simple and impactful marketplace that sells products that serve the customers healthcare needs.  Drive improvements to our technology  Collaborate with sharp engineers and highly-engaged users to ship code continuously  We have many challenges in applications ranging from performance of some of the user workflows to optimizing and automating processes. If you love building world-class software, we have a place for you. We are an agile shop: we work closely and inclusively with customers, deliver features and are passionate about test coverage, automation, refactoring and paying off technical debt. We are looking for software development leaders who share our vision for continuously improving customer experience and understanding our business needs and are motivated by challenging problems and building distributed systems and who love writing great code.  What you’ll do  Participate and support analysis, design, development and testing of mission critical solutions in a fast paced environment  Design and implement new features and make improvements to existing features  Build and test code in an agile delivery method with a focus on continuous improvement  Create testable code with a passion for quality  Focus on automation, continuous integration and continuous deployment  As an agile team you will triage, fix, and communicate production issues  Prepare and maintain system, application, and program level documentation as needed  Demo the technology you build, incorporate feedback received from stakeholders  What you’ll bring  Bachelor's Degree in an IT related field or 4 years’ work experience in Information Technology (required) Proven experience with C#, SQL, and Azure  Experience in deployment automation and orchestration  Familiar with containerization concepts  Experience in build and manage services with security protocols as per industry standards  Strong experience with the Agile methodology  Demonstrated good judgment and decision making  Knowledge and understanding of the healthcare industry would be helpful Premera is an equal opportunity/affirmative action employer. Premera seeks to attract and retain the most qualified individuals without regard to race, color, religion, sex, national origin, age, disability, marital status, veteran status, gender or gender identity, sexual orientation, genetic information or any other protected characteristic under applicable law.  If you need an accommodation to apply online for positions at Premera, please contact Premera Human Resources via email at careers@premera.com or via phone at 425-918-4785.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:23:49.000Z"
+  },
+  "company": {
+    "name": "Premera Blue Cross",
+    "link": "https://www.linkedin.com/company/premera-blue-cross"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountlake Terrace",
+    "region": "WA",
+    "postal_code": "98043",
+    "street_address": null,
+    "latitude": 47.784832,
+    "longitude": -122.3111
+  }
+}

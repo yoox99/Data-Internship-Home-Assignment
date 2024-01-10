@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Hardware",
+    "description": "As a Data Scientist at IBM, you will help transform our clients’ data into tangible business value by analyzing information, communicating outcomes and collaborating on product development. Work with Best in Class open source and visual tools, along with the most flexible and scalable deployment options. Whether it’s investigating patient trends or weather patterns, you will work to solve real world problems for the industries transforming how we live. We live in a moment of remarkable change and opportunity. The convergence of data and technology is transforming industries and society. IBM Digital Workplace Engineering plays a key role in developing and supporting IBM’s technology to be digital ready.  The current opportunity is a role with the Global HR IT team who promote a fresh and energetic approach to innovation, creativity and solution architecture within the CIO. We heavily use advanced technology such as AI and ML (machine learning) and keep on pushing the boundaries. An approach that is borne out by many active projects within our team that have yielded several success stories to date. The principles of collaboration, knowledge sharing, and leadership are promoted within our team and are the foundations that enable motivated individuals with diverse skills to function as part of a highly productive and innovative team. IBM is innovating rapidly in the HR space and our group is helping IBM achieve that goal by doing creative and innovative work. We are currently looking for a suitable candidate to be part of an innovative and ambitious team with IBM’s Digital Workplace Engineering team is focused on engineering tools and applications IBMers need to be effective. Through a family of apps and services, we’re building an environment which is constantly iterating, solving problems, and working together to push the limits on productivity and collaboration. We are well-positioned to deliver the next chapter of the digital workplace, leveraging expertise in cloud, security, and scale. What matters to you when you’re looking for your next career challenge?  Maybe you want to get involved in work that really changes the world? What about somewhere with incredible and diverse career and development opportunities – where you can truly discover your passion? Are you looking for a culture of openness, collaboration and trust – where everyone has a voice? What about all of these? If so, then IBM could be your next career challenge. Join us, not to do something better, but to attempt things you never thought possible.  Impact. Inclusion. Infinite Experiences. Do your best work ever. IBM’s greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries. In addition to a competitive benefits program consisting of medical and life insurance, retirement plans, and time off, eligible employees may also have access to  IBM offers a wide range of resources for eligible IBMers to thrive both inside and outside of work. We consider qualified applicants with criminal histories, consistent with applicable law.  IBM will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-07T00:00:00.000Z"
+  },
+  "company": {
+    "name": "IBM",
+    "link": "https://www.linkedin.com/company/ibm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

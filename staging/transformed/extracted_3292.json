@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Airlines/Aviation,Defense &amp; Space,Oil &amp; Energy",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T22:17:39.000Z"
+  },
+  "company": {
+    "name": "Lawrence Harvey",
+    "link": "https://uk.linkedin.com/company/lawrence-harvey"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pennsylvania",
+    "region": "United States",
+    "postal_code": "17009",
+    "street_address": null,
+    "latitude": 40.896698,
+    "longitude": -77.8389
+  }
+}

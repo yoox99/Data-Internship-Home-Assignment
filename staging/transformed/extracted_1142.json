@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Platform Operations Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Interactive Brokers Group has consistently been at the forefront of trading innovation , starting with the invention of the first floor-based handheld computer in 1983 and we pride ourselves on being primarily a technology company. We continue to challenge the status quo and push boundaries to offer the best trading platform with the most sophisticated features all for the lowest cost to our customers. Software development is the lifeblood of our firm, and it shows in our stellar brokerage platform. As a member of our Operations team, the Platform Operations Engineer will help in addressing operational needs of a mixed on-premise and cloud Linux environment.  In this role, the person is expected to have knowledge of DevOps tools, understanding of block, file and object storage technologies and have a strong background in Linux System Administration and Operations. They have excellent problem-solving and troubleshooting skills. The person should have a passion for automation and learning new skills and technologies. Essential job functions included but are not limited to the following: Interactive Brokers (\"IBKR\"), a subsidiary of publicly-traded Interactive Brokers Group, Inc., based in Greenwich, Connecticut (NASDAQ: IBKR) is a low-cost provider of trade execution and clearing services for active traders, institutional investors, financial advisors and introducing brokers. IBKR’s premier technology provides electronic access to stocks, options, futures, forex, bonds, and funds worldwide from a single IBKR Integrated Investment account. IBKR is one of the largest online brokers by trade volume and is consistently ranked at the top of its field.  Our employees are part of a dynamic, multinational, fast-paced, results-oriented team working to provide our customers with state-of-the-art trading technology, superior execution capabilities, worldwide electronic access, and sophisticated risk management tools.  Our headquarters are in Greenwich, CT, USA. IBKR has offices in the United States, Australia, Canada, China, Estonia, Hong Kong, Hungary, India, Ireland, Japan, Luxembourg, Russia, Singapore, Switzerland and United Kingdom.  IBKR is a member of NYSE, FINRA, and SIPC. Interactive Brokers Group brokerage affiliates are regulated by securities and commodities agencies around the world.  Click HERE to view a short video with a few words from current Interactive Brokers employees.  (If the hyperlink is not active, copy and paste the following URL in your browser: https://www.interactivebrokers.com/en/index.php?f=31899 )  For more information, please visit www.ibkr.com/info",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:14:03.000Z"
+  },
+  "company": {
+    "name": "Interactive Brokers",
+    "link": "https://www.linkedin.com/company/interactive-brokers"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "West Palm Beach",
+    "region": "FL",
+    "postal_code": "33401",
+    "street_address": null,
+    "latitude": 26.71444,
+    "longitude": -80.05495
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Our team is growing because our user base is growing (30% in the last year!) which means we need you! We're looking for a Backend Engineer who is passionate about building, testing, deploying and working closely with the Product team to deliver new features. You will have the opportunity to solve challenging problems, work with the latest systems, collaborate with a kind and capable team and contribute meaningfully. Since launching in 2009, Grindr has grown into the world's largest social networking app for gay, bi, trans, and queer people. We have millions of daily users who use our location-based technology in almost every country in every corner of the planet.  Today, Grindr proudly represents a modern LGBTQ+ lifestyle that expands into new platforms. From social issues to original content, we continue to blaze innovative paths with a meaningful impact for our community. At Grindr, we create a safe space where you can discover, navigate, and get zero feet away from the queer world around you.  As of June 2020, Grindr has new owners with a track record of multiple successful Bay Area start-ups. The new leadership is demonstrating a renewed commitment to creating an experience for users that is safe, fun, and productive, as well as a positive & uplifting company culture in which everyone can be their best selves. At the heart of Grindr's mission in this new chapter is a shared set of core values including transparency, accountability, experimentation (failing fast), and strong allegiance to the LGBTQ+ community.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T17:19:12.000Z"
+  },
+  "company": {
+    "name": "Grindr",
+    "link": "https://www.linkedin.com/company/grindr"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

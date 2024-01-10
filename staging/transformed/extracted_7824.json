@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer I",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Who we are looking for What you will work on  As a Site Reliability Engineer I in the Retail and Athlete Tools team you will be passionate about maximum availability, observability, reliability, security, and performance of Nike’s Digital Experiences in Stores and in our Digital call centers around the globe. You will build applications, tools, and automation with an operational attitude and use your technical skills to provide deep problem analysis, detect system faults or code defects, define, report, and create observability processes for Key Performance Indicators (KPIs), and work with product delivery teams to provide long term scalable solutions to production issues.  What you bring",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-28T04:09:20.000Z"
+  },
+  "company": {
+    "name": "Nike",
+    "link": "https://www.linkedin.com/company/nike"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Beaverton",
+    "region": "OR",
+    "postal_code": "97007",
+    "street_address": null,
+    "latitude": 45.486595,
+    "longitude": -122.795616
+  }
+}

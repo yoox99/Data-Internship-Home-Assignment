@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Frontend Software Engineer",
+    "industry": "Food &amp; Beverages,Food Production,Consumer Goods",
+    "description": "Fifth Season is a high-growth, venture-backed startup using robots, IoT, and data analytics to transform the indoor vertical farming industry. Our implementation combines a fleet of physical robots and IoT-enabled devices to provide a complete, cloud-managed farm.  We produce significant yields compared to traditional farms while using up to 95% less water, avoiding top-soil degradation, and reducing runoff pollution. Our smart indoor farms deliver perfect, pure produce no matter the season or location. Leafy greens are just the beginning as we move forward in revolutionizing farm to plate. . This will include everything from the UI used by day-to-day farm operators, to the management of and data analysis from a fleet of IoT sensors, to the control and settings for robots and mechatronics systems about the farm.  You’ll work directly with our founding team and our tight-knit, cross-functional engineering team to apply industry knowledge in an emerging space and make an impact on the world. :  Fifth Season has developed a one-of-kind technology solution for autonomous, indoor vertical farming by combining a fleet of robotics with IoT-enabled devices for a complete, cloud-managed, integrated farm system. These hyperlocal smart farms allow for healthy, delicious, chemical-free produce to be delivered without wasteful long-distance distribution. And our patented recipes allow our produce to have weeks – not days – of shelf life.  Healthy food has become convenient, but we’re here to make it truly fresh – both nationally via grocery retailers and locally via direct-to-consumer e-commerce. We’re bringing joy and delight to consumers that are ready for a food revolution with a new category of fresh food. Powered by JazzHR  6VwpmIiWXe",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T07:16:15.000Z"
+  },
+  "company": {
+    "name": "Fifth Season",
+    "link": "https://www.linkedin.com/company/fifth-season-fresh"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 64500,
+    "max_value": 140000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Braddock",
+    "region": "PA",
+    "postal_code": "15104",
+    "street_address": null,
+    "latitude": 40.403824,
+    "longitude": -79.86935
+  }
+}

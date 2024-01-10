@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Marketing and Advertising",
+    "description": "You will be joining Near, one of the fastest growing Enterprise SaaS companies and experience a true start-up culture with the freedom to experiment and innovate. At Near, we believe that great culture is not just about work; it’s work + life. We not only encourage our employees to dream big, but also give them the freedom and the tools to do so.  The Machine Learning Engineer role is a new, remote-friendly role on the Data Science team, allowing the department to develop solutions that are more scalable at a faster pace. You won’t be just an implementer of solutions, but a full-fledged part of developing those solutions. Our Data Science team is a highly collaborative group that works closely with other Product, Engineering, and Analytics Teams to develop novel algorithmic approaches for contextualizing location data, evaluation of data from potential business partners, as well as managing data optimization from advertising data sources, and analysis of bidding data from mobile app monetization. We are the champions and guardians of Near’s data. Ours is often greenfield work - we work on the problems no one knows how to solve yet. You will be writing code for machine learning and big-data processing solutions being developed by our team as well as being a resource to help our Data Scientists write more scalable, more maintainable, more performant code themselves using better processes like code reviews. You’ll also be a translator of ‘Data Scientist’ speak to ‘Engineer’ speak and help bridge the gap between the two teams. Near is a high-speed operation – all good startups are – and you shouldn’t expect to take a project and disappear for weeks or months. We really mean it when we say this is a collaborative role. UberMedia (UM) is now Near. Near is the world’s largest source of intelligence on people and places, processing data from over 1.6 billion monthly users across 44 countries. The Near Platform powers data-driven marketing and enrichment offerings through a suite of SaaS products. The users of the platform can leverage audience, spatial, retail, among other data in a privacy-led environment.  Founded in 2012, Near is headquartered in Singapore with offices in California, New York, London, Bangalore, Tokyo and Sydney. Today, marquee brands such as News Corp, MetLife and The We Company work with Near to provide enhanced customer experiences. Near is backed by leading investors including Sequoia Capital, JP Morgan Private Equity Group, Cisco Investments and Telstra Ventures. Visit www.near.co to find out more.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T04:14:12.000Z"
+  },
+  "company": {
+    "name": "UM",
+    "link": "https://www.linkedin.com/company/thisisumco"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pasadena",
+    "region": "CA",
+    "postal_code": "91122",
+    "street_address": null,
+    "latitude": 34.14955,
+    "longitude": -118.14145
+  }
+}

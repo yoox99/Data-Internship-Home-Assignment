@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sales Engineer - Michigan",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "Commvault is a worldwide leader in delivering backup and recovery for the progressive enterprise. Commvault enables you to protect, manage, and use your data, while managing it in a consistent, compliant way. Our automated solutions work on-prem and in the cloud, and work with the digital tools and procedures you’re already using. Keep your data accessible and actionable with a single solution that ensures your data is always available — no matter what.  Commvault is an equal opportunity workplace and is an affirmative action employer. We are always committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. and we will not discriminate against on the basis of such characteristics or any other status protected by the laws or regulations in the locations where we work.  The Sales Engineer (SE) is a technical sales support position responsible for orchestrating pre-sales engagement to current and prospective clients.  The position requires a strong technical leader who understands how his or her decisions impact and influence the customer’s bottom line while at the same time drive revenue for Commvault. The SE must be seen as a trusted advisor at all levels within an account (C-Suite, technical stakeholders, etc.), as well as, be a team leader, mentor, teach, and contribute to overall success of Commvault.  The SE drives or supports complex sales opportunities by translating business requirements into solution technical requirements; coordinating technical expertise; sizing, scoping, defining delivery and deployment approach, timeline, and required resources; coordinating demonstrations and proof-of-concept; and supporting internal deal acceptance.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:16:35.000Z"
+  },
+  "company": {
+    "name": "Commvault",
+    "link": "https://www.linkedin.com/company/commvault"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lansing",
+    "region": "MI",
+    "postal_code": "48951",
+    "street_address": null,
+    "latitude": 42.733624,
+    "longitude": -84.553925
+  }
+}

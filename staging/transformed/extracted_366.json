@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (.NET)",
+    "industry": "Insurance",
+    "description": "1 Travelers is seeking a Software Engineer II (.NET) to join our organization as we grow and transform our Technology landscape. We offer a unique opportunity to join a team that thrives on creative problem-solving and challenging the status-quo. Our employees are continuously changing the way we think about and conduct business, and through the generation of new ideas, they are empowering us to meet the evolving needs of our business partners and customers.  In this role, you will solve advanced end-to-end engineering problems while providing technical guidance and mentorship to other team members. You will lead interactions between various systems and technical teams to solve our most challenging business solutions while defining technical requirements and coordinating team resources.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:04:21.000Z"
+  },
+  "company": {
+    "name": "Travelers",
+    "link": "https://www.linkedin.com/company/travelers"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 64300,
+    "max_value": 139800,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tampa",
+    "region": "FL",
+    "postal_code": "33675",
+    "street_address": null,
+    "latitude": 27.947424,
+    "longitude": -82.45878
+  }
+}

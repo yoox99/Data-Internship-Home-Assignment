@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - REMOTE",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Passionate about technology and see the world a little differently than your peers? Everywhere you look, there’s possibility. Opportunity. Boundaries to push and challenges to solve. You believe software engineering changes how people live.  We are looking for talented engineers to join our expanding cloud team for food and beverage software. You will help build and operate a suite of integrated cloud services that deliver best-in-class features to your favorite restaurants and eateries.  As a site reliability engineer, you will be responsible for helping ensure our systems are reliable and scalable by designing processes, automating deployments, building tooling, and guiding development teams to adhere to best practices for the cloud.  We work with some of the smartest, nicest people you'll meet. People who work here say the problems they work on are enormously challenging, and that the team culture is the most supportive they have seen.  Curious? Read on. We’re looking for software engineering talent like you. https://www.oracle.com/corporate/careers/culture/diversity.html  Develop, analyze and maintain tools that support and automate processes for hardware or software product release.  As a member of the software engineering division, you will analyze and integrate external customer specifications. Specify, design and implement modest changes to existing software architecture. Build new products and development tools. Build and execute unit tests and unit test plans. Review integration and regression test plans created by QA. Communicate with QA and porting engineering to discuss major changes to functionality.  Work is non-routine and very complex, involving the application of advanced technical/business skills in area of specialization. Leading contributor individually and as a team member, providing direction and mentoring to others. BS or MS degree or equivalent experience relevant to functional area. Typically seven years of software engineering or related experience needed. Innovation starts with inclusion at Oracle. We are committed to creating a workplace where all kinds of people can be themselves and do their best work. It’s when everyone’s voice is heard and valued, that we are inspired to go beyond what’s been done before. That’s why we need people with diverse backgrounds, beliefs, and abilities to help us create the future, and are proud to be an affirmative-action equal opportunity employer.  Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status, age, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-14T03:00:47.000Z"
+  },
+  "company": {
+    "name": "Oracle",
+    "link": "https://www.linkedin.com/company/oracle"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

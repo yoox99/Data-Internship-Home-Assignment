@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "At Actuate, we make the world safer by turning any camera into a smart camera.  Our AI software analyzes data from existing security cameras in real-time to detect weapons, intruders, social distancing masks, crowds, and where people travel in any environment. The system acts as an end-to-end security camera management system that enables onboarding and management of cameras as well as instant alerts and analytics that allow organizations to pinpoint problems.  We leverage cutting-edge computer vision algorithms for object detection on a hyper-scale cloud backend, and we provide analytics to our customers without collecting any personally identifiable information.  We're looking for an experienced engineer who wants to define our stack from the ground-up. The role will involve analyzing integration options into customers' existing video management systems and architecting hyperscale, cloud-based solutions to pull video and process while keeping bandwidth utilization extremely low. The ideal candidate will have experience working with both legacy, enterprise systems and cutting-edge cloud technology in Python, Java, and/or C#.  We're a Post-Series A company funded by Tribeca Venture Partners and Scribble VC, and we're looking for people who want to help grow the business quickly. If you want to help build a company from the ground up and develop cutting-edge technology to make the world a safer place--without invading privacy--we'd love to hear from you. New York City Powered by JazzHR  ovwHgLW7is",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T07:18:49.000Z"
+  },
+  "company": {
+    "name": "Actuate",
+    "link": "https://www.linkedin.com/company/aegissystemsai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

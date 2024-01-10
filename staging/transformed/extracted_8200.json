@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Education Management",
+    "description": "PowerSchool® is the SIS leader, serving as the hub of educational ecosystems for over 40 million users. PowerSchool’s products allow stakeholders to manage school processes and data, manage and monitor the special education process, and provides registration module for K-12 organizations. PowerSchool embraces a secure, open architecture and provides an extensive set of APIs that customers control to enable their schools to have the industry’s best integrations. Essential duties andresponsibilities include the following.Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. To be considered for and to perform this job successfully, an individual must be able to perform each essential duty and responsibility satisfactorily. The requirements listed below are representative of the knowledge, skill and/or ability required. PowerSchool is committed to a diverse and inclusive workplace. PowerSchool is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. Our inclusive culture empowers PowerSchoolers to deliver the best results for our customers. We not only celebrate the diversity of our workforce, we celebrate the diverse ways we work. If you have a disability and need an accommodation regarding our recruiting process, please let us know by emailing accommodations@powerschool.com .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-11T17:10:41.000Z"
+  },
+  "company": {
+    "name": "PowerSchool",
+    "link": "https://www.linkedin.com/company/powerschool-group-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Folsom",
+    "region": "CA",
+    "postal_code": "95763",
+    "street_address": null,
+    "latitude": 38.681324,
+    "longitude": -121.163734
+  }
+}

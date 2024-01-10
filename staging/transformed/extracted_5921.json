@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Engineer - (C#/ .NET-Docker/Kubernetes)",
+    "industry": "Hospitality",
+    "description": "If you are a Lead Software Engineer with C# / .NET - Docker/Kubernetes experience, please read on!  We are the leading provider of innovative automation technology for the hospitality industry. We design and market advanced software and hardware products, including state-of-the-art kitchen management technology that enables companies to effectively enhance the productivity of their hospitality business.  Reporting to the Manager of Software Development, the Lead Engineer is responsible for leading the development of our product features and capabilities. You will work in an agile environment and help with the design, implementation, and testing of our products.  Top Reasons to Work with Us What You Will Be Doing What You Need for this Position  5+ years experience : So, if you are a Lead Software Engineer with C# / .NET experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Nate.Shuman@CyberCoders.com Nate Shuman - Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:49:00.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Louisville",
+    "region": "KY",
+    "postal_code": "40270",
+    "street_address": null,
+    "latitude": 38.256077,
+    "longitude": -85.75157
+  }
+}

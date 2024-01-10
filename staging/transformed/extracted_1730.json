@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer III",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "Imagine working in an environment where one line of code can make life easier for hundreds of millions of people and put a smile on their face. That’s what we do at Walmart Global Tech. We’re a team of 15,000+ software engineers, data scientists and service professionals within Walmart, the world’s largest retailer, delivering innovations that improve how our customers shop and empower our 2.2 million associates. To others, innovation looks like an app, service or some code, but Walmart has always been about people. People are why we innovate, and people power our innovations. We're looking for a Software Engineer to join International Cart and Checkout team . Want to change how different countries shop online? Then keep reading! You are a passionate back-end engineer who loves to code. You love to take ideas and build great server-side code with Java, Spring and other frameworks. You might like to talk about obscure computer science topics, but really, you just want to write simple code and ship new products and features to customers (or improve existing ones).  Your focus is on backend distributed Java code, which is readable, performant, supportable You are curious and are always ready to learn new things and solve hard problems.You are passionate about code reviews and contribute towards high quality code  Things You will do Walmart International is a diverse and fast-growing business unit, so you'll get experience on many different projects across the organization. Minimum Qualifications... Bachelor’s degree in Computer Science and 2 years’ experience in software engineering or related field OR 4 years’ experience in software engineering or related field. Preferred Qualifications... Masters: Computer Science Primary Location...800 W California Ave, Sunnyvale, CA 94086, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:13:40.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

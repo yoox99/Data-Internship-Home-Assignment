@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T20:19:49.000Z"
+  },
+  "company": {
+    "name": "Modis",
+    "link": "https://ch.linkedin.com/company/modis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Marietta",
+    "region": "GA",
+    "postal_code": "30066",
+    "street_address": null,
+    "latitude": 33.952305,
+    "longitude": -84.54905
+  }
+}

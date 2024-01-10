@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Web",
+    "industry": "Broadcast Media",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T19:59:41.000Z"
+  },
+  "company": {
+    "name": "iHeartMedia",
+    "link": "https://www.linkedin.com/company/iheartmedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Nashville",
+    "region": "TN",
+    "postal_code": "37221",
+    "street_address": null,
+    "latitude": 36.166344,
+    "longitude": -86.77907
+  }
+}

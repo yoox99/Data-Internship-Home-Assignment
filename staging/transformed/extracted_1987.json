@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer",
+    "industry": "Financial Services",
+    "description": "Software Engineer II Virtual OR NJ 9 S&P Global Marketplace technology team consists of geographically diversified software engineers responsible to develop scalable solutions by working directly with product development team.  Our team culture is oriented towards equality in the realm of software engineering irrespective of hierarchy promoting innovation. One should feel empowered to iterate over ideas and experimentation without having fear of failure. You will enable S&P business to showcase our proprietary S&P Global data, combine it with “curated” alternative data, further enrich it with value-add services from Kensho and others, and deliver it via the clients’ channel of choice to help them make better investment and business decisions, with confidence. An unmatched experience in handling huge volumes of data, analytics, visualization, and services over cloud technologies along with appreciation in product development life cycle to convert an idea into revenue generating stream. S&P Global states that the anticipated base salary range for this position is $46,800 - 106,900. Base salary ranges may vary by geographic location.  In addition to base compensation, this role is eligible for an annual incentive bonus. This role is not eligible for additional compensation such as an annual incentive bonus or sales commission plan.  This role is eligible to receive additional S&P Global benefits. For more information on the benefits we provide to our employees, visit We are looking for a self-motivated, enthusiastic and passionate software engineer to develop technology solutions for S&P global marketplace product. The ideal candidate thrives in a highly technical role and will design and develop software using cutting edge technologies consisting of web applications, data pipelines, big data, machine learning and multi-cloud. The development is already underway so the candidate would be expected to get up to speed very quickly & start contributing. Java, React, HTML/CSS, API development, micro-services pattern, cloud technologies and managed services preferably AWS, Big Data and Analytics, Relational databases preferably Postgresql, NoSql databases, nifi, Airflow, Spark, Hive, Spring Cloud, Spring Cloud Data Flow, Netty, Akka, Esper, Redis, Google protobuf, Google Guice, Google Guava, Spring Cloud.  Related coursework, projects, research participation and/or publications in Natural Language processing, text mining, semantics etc. is preferred but not required. 20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.1 - Middle Professional Tier I (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning) 260469 2021-04-27 Princeton, New Jersey, United States",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:41:06.000Z"
+  },
+  "company": {
+    "name": "S&amp;P Global Market Intelligence",
+    "link": "https://www.linkedin.com/company/s&amp;p-global-market-intelligence"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 76200,
+    "max_value": 157000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Princeton",
+    "region": "NJ",
+    "postal_code": "08540",
+    "street_address": null,
+    "latitude": 40.35198,
+    "longitude": -74.66074
+  }
+}

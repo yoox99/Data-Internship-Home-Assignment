@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer (Machine Learning)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "We are driven by our moral imperative to advance mankind - and it all starts with our people, product and purpose. We always carry a deep sense of drive and passion with us. If you thrive in a challenging work environment, surrounded by incredible team members who will help you grow, MX is the right place for you. Come build with us and be part of an award-winning company that’s helping create meaningful and lasting change in the financial industry. MX is on a mission to improve the financial lives of everyone. We believe each of us has a moral imperative to use our time and talents to change the world for the better. For this reason, we are creating innovative software and partnering with financial institutions and digital banking providers to bring financial freedom to the lives of individuals, families, and communities. MX is an award-winning financial management, online/mobile banking and innovative wealth management tools. We’re looking for smart, creative individuals to come build with us! We are looking for a Data Engineer (Machine Learning) with a mindset of accuracy and practical application, working alongside Data Scientists, to build the infrastructure required to take us into a new level of “finances as they should be.” MX continues to expand its data science and engineering capabilities providing our clients and their customers with deeper information about their financial state.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-02T22:37:39.000Z"
+  },
+  "company": {
+    "name": "MX",
+    "link": "https://www.linkedin.com/company/mxenabled"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

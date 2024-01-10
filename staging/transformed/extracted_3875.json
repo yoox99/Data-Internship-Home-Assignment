@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Amazon Advertising operates at the intersection of eCommerce and advertising, offering a rich array of digital display advertising solutions with the goal of helping our customers find and discover anything they want to buy. We help advertisers reach Amazon customers on Amazon.com, across our other owned and operated sites, on other high quality sites across the web, and on millions of Kindles, tablets, and mobile devices. We start with the customer and work backwards in everything we do, including advertising. If you’re interested in joining a rapidly growing team working to build a unique, world-class advertising group with a relentless focus on the customer, you’ve come to the right place.  Performance Advertising’s vision is to enable advertisers of all sizes with self-service products to build their brand and business at Amazon delivering sophisticated automation for novices and powerful controls for expert users. We are focused on continuous exploration of contexts and creative formats where advertising delivers value to customers and advertisers. Our products are auction based, cost-per-click, and drive traffic within the Amazon shopping experience addressing lower and mid-funnel marketing goals. We deliver billions of ad impressions and millions of clicks daily and are breaking fresh ground to create world-class, highly performant advertising products. We are highly motivated, collaborative and fun-loving with an entrepreneurial spirit and bias for action. With a broad mandate to experiment and innovate, we are growing fast with a seemingly endless range of new opportunities.  Our systems and algorithms operate on one of the world's largest product catalogs, matching shoppers with advertised products with a high relevance bar and strict latency constraints. We work hand-in-hand with Machine Learning scientists to come up with novel solutions that deliver highly relevant ads. We consistently strive to improve the customer search and detail page experiences. You will drive appropriate technology choices for the business, lead the way for continuous innovation, and shape the future of e-commerce. If you are looking to make an impact, this is the team for you. You will not only have the satisfaction of seeing your work deliver results, but also help shape our engineering and product roadmaps. Change the world by accepting this Machine Learning Software Development Engineer role today! - Amazon.com Services LLC Job ID: A1665750",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-07T01:28:15.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65300,
+    "max_value": 101000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

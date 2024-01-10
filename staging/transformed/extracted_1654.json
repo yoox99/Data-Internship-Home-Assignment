@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Goods,Entertainment,Online Media",
+    "description": "WarnerMedia is a leading media and entertainment company that creates and distributes premium and popular content from a diverse array of talented storytellers and journalists to global audiences through its consumer brands including: HBO, HBO Max, Warner Bros., TNT, TBS, truTV, CNN, DC Entertainment, New Line, Cartoon Network, Adult Swim, Turner Classic Movies and others.Warner Bros. has been entertaining audiences for more than 90 years through the world’s most-loved characters and franchises. Warner Bros. employs people all over the world in a wide variety of disciplines. We're always on the lookout for energetic, creative people to join our team. WB Technology combines Warner Bros.’ industry-leading technologists and disciplines to ensure global alignment with business strategy and accelerated delivery of innovative technology solutions studio- and industry-wide. From pre-production through archiving, the WBT organization will provide critical business and technology intelligence and services to all Studio business units. WBT manages the Studio’s enterprise systems and solutions, emerging platforms, information security, consumer intelligence, content mastering and delivery, and more. WarnerMedia seeks a Data Scientist for the Digital Product, Platform & Strategy: Data Intelligence Operations department. We are looking for a talented data scientist to join our Data Intelligence Team. The data scientist will be responsible for predictive modeling and analysis of customer data, as well as researching best practices in analytics and data science, and sharing them across the company to improve analytic capabilities at Warner Bros. Warner Media, LLC and its subsidiaries are equal opportunity employers. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T18:14:57.000Z"
+  },
+  "company": {
+    "name": "Warner Bros. Entertainment",
+    "link": "https://www.linkedin.com/company/warner-bros--entertainment"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77500,
+    "max_value": 141000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Burbank",
+    "region": "CA",
+    "postal_code": "91504",
+    "street_address": null,
+    "latitude": 34.182053,
+    "longitude": -118.30747
+  }
+}

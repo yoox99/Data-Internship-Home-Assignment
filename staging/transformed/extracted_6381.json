@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer - Remote",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Job Description  As an effective change agent of Change Control Management, the Software Release Engineer will help organize and coordinate software deployments for multiple software delivery teams while upholding Change Control Management practices and policy. As a Site Reliability Engineer, the Software Release Engineer will administrate and leverage CI/CD practices to aid software delivery teams towards robust automation solutions in cloud-based environments. Tasks include maintaining healthy relationships with members of software development and delivery, infrastructure and operational teams, administration of intellectual property and configuration management, deployment coordination, software pipeline tool administration, automation solution development, documentation and communication of change and change policy. Qualifications We are an equal opportunity employer and make hiring decisions based on merit. Recruitment, hiring, training, and job assignments are made without regard to race, color, national origin, age, ancestry, religion, sex, sexual orientation, gender identity, gender expression, marital status, disability, or any other protected classification. We consider all qualified applicants, including those with criminal histories, in a manner consistent with state and local laws, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance  To apply please email your resume to jledesma@ledgent.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Ledgent Technology",
+    "link": "https://www.linkedin.com/company/ledgent-technology"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 104000,
+    "max_value": 151000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Denver",
+    "region": "CO",
+    "postal_code": "80247",
+    "street_address": null,
+    "latitude": 39.738453,
+    "longitude": -104.984856
+  }
+}

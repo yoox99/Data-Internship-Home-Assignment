@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-12T22:15:51.000Z"
+  },
+  "company": {
+    "name": "Lighthouse Worldwide Solutions",
+    "link": "https://www.linkedin.com/company/lighthouse-worldwide-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Medford-Grants Pass Area",
+    "region": null,
+    "postal_code": "97501",
+    "street_address": null,
+    "latitude": 42.297127,
+    "longitude": -122.8429
+  }
+}

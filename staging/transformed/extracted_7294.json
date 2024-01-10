@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "At Shutterfly, we’re all about people — bringing them together, making them feel welcome, and connecting them to experiences. We make our customers’ memories last a lifetime by capturing, preserving, and sharing them through photography and personalized products. Through our family of brands, trend setting products, cutting edge technology, and best in class customer service, we help our customers, and each other, share life’s joy. At Shutterfly we value results through teamwork and a “can-do” attitude. We are seeking a Software Engineer (Full Stack) for our Fulfillment Service Platform. This is a critical individual contributor role for software development with enterprise level software technologies: Java/J2EE, REST Services, Front-end frameworks: Angular or React, NodeJS, MySQL and AWS.  We are looking for Software Engineers who enjoy solving complex problems, driving business value through rapid innovation and enjoy complete ownership (Cradle to Grave: Design, Dev, Infrastructure, Release, Support) of the assigned domain.  If you love the fun and excitement of working in an entrepreneurial, collaborative and agile software development environment with cutting-edge technologies then send us your resume today.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-06T13:29:38.000Z"
+  },
+  "company": {
+    "name": "Shutterfly, Inc.",
+    "link": "https://www.linkedin.com/company/shutterfly"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tempe",
+    "region": "AZ",
+    "postal_code": "85280",
+    "street_address": null,
+    "latitude": 33.42552,
+    "longitude": -111.94125
+  }
+}

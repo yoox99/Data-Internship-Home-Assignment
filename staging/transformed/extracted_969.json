@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Test Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Senior Software Test Engineer We are looking for a Sr. Software Test Engineer with at least 5 years’ experience in software testing to join our team, which is responsible for cutting-edge technology supporting Aristocrat's gaming platforms and Game Development Kits, which are used in casinos and venues around the world. The Sr. Software Test Engineer will work closely with a team of Development and Test Engineers to plan, perform, and guide quality assurance activities that ensure the delivery of a high-quality gaming experience. This involves testing and reporting defects, reviewing defects reported internally and externally, assisting with a post-testing review for all releases, and maintaining the accuracy of all test documentation. Furthermore, the Sr. Software Test Engineer will mentor new and junior Software Test Engineers and foster a strong relationship with key stakeholders and business partners. The US based roles may require registration with the Nevada Gaming Control Board (NGCB) and/or other gaming jurisdictions in which we operate.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-17T13:37:05.000Z"
+  },
+  "company": {
+    "name": "Aristocrat",
+    "link": "https://au.linkedin.com/company/aristocrat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66600,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Franklin",
+    "region": "TN",
+    "postal_code": "37064",
+    "street_address": null,
+    "latitude": 35.923653,
+    "longitude": -86.86783
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Financial Services,Hospital &amp; Health Care",
+    "description": "Combining CVS Health and Aetna was a ground-breaking moment for our company and our industry, establishing CVS Health as the nation’s premier health innovation company. Through our health services, insurance plans and community pharmacists, we’re pioneering a bold new approach to total health.  As a CVS Health colleague, you’ll be at the center of it all. We offer a diverse work experience that empowers colleagues for career success. In addition to skill and experience, we also seek to attract and retain colleagues whose beliefs and behaviors are in alignment with our core values of collaboration, innovation, caring, integrity and accountability.  Looking for opportunities to use cutting edge technologies analyzing petabytes of data in a world class Hadoop cluster? Interested in generating analytical insights that help members make the best decisions for the individual care needs?  Three reasons why you should join the analytics team at CVS Caremark  First, prescription drugs are hugely important. Americans spend roughly $350 billion in prescription drugs per year…more than $1,000 per person per year. We spend more than almost any place on Earth…and it’s not clear that we’re getting good value.  Second, CVS-Caremark is at the center of addressing this problem. We are the largest PBM. Caremark negotiates drug purchases on behalf of ~100 million people. Plus, CVS has 10,000 retail stores and a 20 million strong health plan. Together, we have the scale to make a big difference.  Finally, there is huge untapped analytic opportunity, including using machine learning to optimize rebates in a way no competitor can…and using Aetna to measure health outcomes and negotiate value-based contracts. Our team, and more importantly, our impact is growing…and I’d like you to be part of that growth.  Aetna’s Member analytics team is an innovative team tasked with optimizing our ability to engage with members to help them make better healthcare decisions. Our goals are to improve clinical outcomes and to help members gain more transparency into the healthcare system so that they can save money. To do this we’ve developed a leading capability that combines data science, agile marketing, behavioral economics, large scale experimentation, and optimization of our digital properties and applications. Through this we message millions of members each year about real challenges they face and help them become more healthy or save money – we drive tangible and meaningful impact for our members.  As a Data Scientist your responsibilities include but are not limited to:  Develops, validates and executes algorithms and predictive models to investigate problems, detect patterns and recommend solutions.  Explores, examines and interprets large volumes of data in various forms.  Performs analyses of structured and unstructured data to solve moderately complex business problems. utilizing advanced statistical techniques and mathematical analyses.  Develops data structures and pipelines to organize, collect and standardize data that helps generate insights and addresses reporting needs.  Uses data visualization techniques to effectively communicate analytical results and support business decisions.  Creates and evaluates the data needs of assigned projects and assures the integrity of the data.  Explores existing data and recommends additional sources of data for improvements.  Documents projects including business objectives, data gathering and processing, detailed set of results and analytical metrics. Demonstrates good written and verbal communication skills. Able to present information to various audiences.  Effectively resolves problems and roadblocks as they occur.  Demonstrates proficiency in several areas of data modeling, machine learning algorithms, statistical analysis, data engineering and data visualization.  Ability to work with large data sets from multiple data sources. SQL  Python  Data Manipulation  Predictive Analysis  Machine Learning. 3 years of relevant programming or analytic experience. Masters degree preferred.  Bachelor's degree or equivalent work experience in Mathematics, Statistics, Computer Science, Business Analytics, Economics, Physics, Engineering, or related discipline. At CVS Health, we are joined in a common purpose: helping people on their path to better health. We are working to transform health care through innovations that make quality care more accessible, easier to use, less expensive and patient-focused. Working together and organizing around the individual, we are pioneering a new approach to total health that puts people at the heart.  We strive to promote and sustain a culture of diversity, inclusion and belonging every day. CVS Health is an equal opportunity and affirmative action employer. We do not discriminate in recruiting, hiring or promotion based on race, ethnicity, sex/gender, sexual orientation, gender identity or expression, age, disability or protected veteran status or on any other basis or characteristic prohibited by applicable federal, state, or local law. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T08:51:25.000Z"
+  },
+  "company": {
+    "name": "CVS Health",
+    "link": "https://www.linkedin.com/company/cvs-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

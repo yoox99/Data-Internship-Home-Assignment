@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Retail",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T19:45:31.000Z"
+  },
+  "company": {
+    "name": "Neiman Marcus Group",
+    "link": "https://www.linkedin.com/company/neimanmarcusgroup"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 72700,
+    "max_value": 100000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas-Fort Worth Metroplex",
+    "region": null,
+    "postal_code": "75049",
+    "street_address": null,
+    "latitude": 32.7513,
+    "longitude": -97.08263
+  }
+}

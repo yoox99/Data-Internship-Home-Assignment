@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Financial Services,Information Technology and Services,Information Services",
+    "description": "As a Software Engineer on the Client team, you'll get the opportunity to develop your skills and collaborate across Fidelity teams in a lively and dynamic environment. Working closely with our technical leads you will build secure, scalable, and resilient cloud-based microservices. Using modern Java frameworks, you'll help craft and implement REST API clients and services, exchange asynchronous messages between services and use SQL databases to manage data. You'll also write automated unit and integration tests, package software using containers, coordinate builds using continuous integration pipelines and prepare your services for deployment to AWS! Fidelity Digital Assets, a Fidelity Investments Company, is developing a full-service enterprise-grade platform for storing, trading, and servicing digital assets, such as Bitcoin and Ethereum.  Fidelity Digital Assets adopts a results-oriented culture and startup attitude while serving as one of the most innovative business units within Fidelity Investments. Our global, diverse team of 130+ forward-thinking professionals lead with agility and creativity to build solutions that bridge the gap between traditional institutional investors and their exposure to digital assets. The firm’s tenure and experience across multiple business lines present our employees with outstanding access to knowledge, technology, and resources that help the team reshape the future of finance.  Within Fidelity Digital Assets, the Client Engineering team is responsible for the development of backend services to manage client onboarding, account information, entitlements, and authorization services. The team writes code in Java and uses technologies such as Spring Boot, Docker, PostgreSQL, and SQS. Company Overview  At Fidelity Investments, our customers are at the heart of everything we do. As a privately held company with a rich 75-year history, our mission has remained the same since our founding: . We help people invest and plan for their future. We assist companies and non-profit organizations in delivering benefits to their employees. And we provide institutions and independent advisors with investment and technology solutions to help invest their own clients’ money.  Join Us  At Fidelity, you’ll find endless opportunities to build a meaningful career that positively impacts peoples’ lives, including yours. You can take advantage of flexible benefits that support you through every stage of your career, empowering you to thrive at work and at home. And you don’t need a finance background to succeed at Fidelity—we offer a range of opportunities for learning and growth so you can build the career you’ve always imagined. We welcome associates from different backgrounds and with different perspectives to help us innovate and make a difference for our customers and our communities.  We invite you to at fidelitycareers.com.  Fidelity Investments is an equal opportunity employer. We believe that the most effective way to attract, develop and retain a diverse workforce is to build an enduring culture of inclusion and belonging.  Fidelity will reasonably accommodate applicants with disabilities who need adjustments to participate in the application or interview process. To initiate a request for an accommodation, contact the HR Leave of Absence/Accommodation Team by sending an email to accommodations @fmr.com, or by calling 800-835-5099, prompt 2, option 2.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:27:20.000Z"
+  },
+  "company": {
+    "name": "Fidelity Investments",
+    "link": "https://www.linkedin.com/company/fidelity-investments"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Merrimack",
+    "region": "NH",
+    "postal_code": "03054",
+    "street_address": null,
+    "latitude": 42.866955,
+    "longitude": -71.49544
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Internet,Hospital &amp; Health Care",
+    "description": "Braid Health is a digital health innovation company focused on the development and delivery of an AI-powered diagnostic collaboration platform for radiology and the healthcare industry.  Imagine a world in which everyone can access the best medical expertise regardless of where they live, how much money they have, or what they know. We believe access to medical expertise should be universal.  We’re generalists and truth seekers with a ton of experience (Apple Design, Twitter AI). We’re already helping people now and have an opportunity (and responsibility) to help millions or even billions more! Powered by JazzHR  VHXuRhhH07",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T19:11:59.000Z"
+  },
+  "company": {
+    "name": "Braid Health",
+    "link": "https://www.linkedin.com/company/braid-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

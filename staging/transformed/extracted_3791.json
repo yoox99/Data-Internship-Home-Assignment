@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "At Noom, we use scientifically proven methods to help our users create healthier lifestyles, and manage important conditions like Type-II Diabetes, Obesity, and Hypertension. Our Engineering team is at the forefront of this challenge, solving complex technical and UX problems on our mobile apps that center around habits, behavior, and lifestyle.  We are looking for a Data Scientist to join our Data team and help us ensure that we apply the best approaches to data analysis and research, artificial intelligence, and machine learning.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-22T05:33:47.000Z"
+  },
+  "company": {
+    "name": "Noom Inc.",
+    "link": "https://www.linkedin.com/company/noom-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 139000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

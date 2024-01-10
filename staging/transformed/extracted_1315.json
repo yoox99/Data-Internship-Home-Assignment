@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I, Front End",
+    "industry": "Computer Software,Consumer Services,Entertainment",
+    "description": "PlayStation isn’t just the Best Place to Play —it’s also the Best Place to Work. We’ve thrilled gamers since 1994, when we launched the original PlayStation. Today, we’re recognized as a global leader in interactive and digital entertainment. The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation. Sony Interactive Entertainment is looking for an experienced and passionate engineer to join our established, team in Aliso Viejo, California. We apply web technologies to the core user experience on PlayStation 4, and PlayStation 5 which millions of customers around the world interact with daily. The ideal candidate will come from an UI/UX development background and be enthusiastic about front end web technologies. We employ Agile methodologies, use modern software development paradigms, and focus on continuous improvement in the delivery of high quality applications for our customers. This is an opportunity to be part of one of the world's most recognized brands, and to collaborate with PlayStation Engineering teams in California, Japan, and Europe! Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to race, color, religion, gender, pregnancy, national origin, ancestry, citizenship, age, legally protected physical or mental disability, covered veteran status, status in the U.S. uniformed services, sexual orientation, marital status, genetic information or membership in any other legally protected category.  Reasonable Accommodation Notice Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.  We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.  We sincerely appreciate the time and effort you spent in contacting us and we thank you for your interest in PlayStation. This Privacy Notice explains what personal information we at Sony Interactive Entertainment LLC collect from you, and why we collect it and use it. This Notice covers our practices regarding the personal information of all applicants to our job positions. Please review it carefully. We collect personal information about you throughout the recruiting process, in particular the following categories.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T06:04:12.000Z"
+  },
+  "company": {
+    "name": "PlayStation",
+    "link": "https://www.linkedin.com/company/playstation-sony"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Aliso Viejo",
+    "region": "CA",
+    "postal_code": "92656",
+    "street_address": null,
+    "latitude": 33.569595,
+    "longitude": -117.72637
+  }
+}

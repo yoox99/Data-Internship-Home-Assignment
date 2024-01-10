@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "Hospital &amp; Health Care",
+    "description": "At Particle Health, we believe simple, secure access to vital medical data will catalyze dramatic change in healthcare. With a recent Series A close of $12M, led by Menlo Ventures, we're leading the charge on developing a best-in-class developer experience, a highly adaptable data transformation pipeline, and building connections with even more critical data sources across the healthcare ecosystem.  Unofficially? We also intend to #destroythefaxmachine Particle Health's software engineers develop the next-generation technologies that will change how millions of patients are able to leverage their medical records to better their care. Our products need to simplify healthcare data standards at nationwide scale. We're looking for engineers who bring fresh ideas from all areas, including other healthtech companies, information retrieval, distributed computing, security, machine learning and natural language processing.  As a software engineer, you will work on projects critical to Particle Health's needs with opportunities to switch projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be hungry to tackle new problems across our entire company as we continue to push both the technology and the industry as a whole forward.  Particle Health is now and forever will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on millions of patients. At Particle Health, engineers not only revolutionize access to electronic medical records, they routinely work on industry data standards, massive scale engineering challenges and nationwide health technology policy.  Areas of Responsibility Ideal Candidate Profile  The ideal candidate will... Qualifications Nice to Have We're passionate about creating and nurturing a respectful and inclusive workplace that promotes and values diversity. We try to make work a place where you can relax and be yourself, so you can succeed and feel great about your work. We're excited to see applications from folks of all backgrounds and hope you want to join our growing team.  We offer a full benefits package to all employees including health/vision/dental coverage, 402(k) matching, unlimited PTO (with high expectations for employees taking time off), flexible Fridays, a OneMedical membership, and more.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T17:36:39.000Z"
+  },
+  "company": {
+    "name": "Particle Health",
+    "link": "https://www.linkedin.com/company/particle-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

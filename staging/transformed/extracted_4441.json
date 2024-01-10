@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Systems Engineer - Space Communications",
+    "industry": "Civil Engineering",
+    "description": "Peraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the worlds leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our 22,000 employees do the cant be done, solving the most daunting challenges facing our customers. This will support development and maturation of requirements for a Capstone demonstration. This is a fast-paced program that will deliver a minimal viable product capability to support the Warfighter in under 18 months as an initial capability delivery with refinement during future development over the next 5 years. A focus of this role is working with more than one SV vendor to identify gaps in the architecture and interfaces and refine the CONOPS based upon expected Segment capabilities.  The successful candidate will support a new program at Peraton, focused on mission integration of a new space domain architecture for Space Programs. This role is focused on Systems Engineering and Mission Integration of the Communication Transport Segment into a larger system-of systems. : assessing the capabilities planned for the Communication Satellite Vehicles and supporting the Chief Engineer to develop and implement a plan to ensure that the combined system will be able to support the mission capabilities. Mission operations (demo and other flight test planning) has a direct interface with the Warfighter and brings together the capabilities of space based communication transport via low-latency high-bandwidth optical link and mesh networking capabilities, an OPIR sensing mission, Ground C2, network management, tactical data links (Link-16 and IBS), mission planning, and DoD elements already conducting critical Warfighter missions.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T22:12:57.000Z"
+  },
+  "company": {
+    "name": "Peraton",
+    "link": "https://www.linkedin.com/company/peraton"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62200,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "VA",
+    "postal_code": "22747",
+    "street_address": null,
+    "latitude": 38.713528,
+    "longitude": -78.15983
+  }
+}

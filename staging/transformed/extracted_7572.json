@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "RSA ARCHER DEVELOPER  on W2",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:30:35.000Z"
+  },
+  "company": {
+    "name": "ACL Digital",
+    "link": "https://www.linkedin.com/company/acl-digital"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Secaucus",
+    "region": "NJ",
+    "postal_code": "07094",
+    "street_address": null,
+    "latitude": 40.778206,
+    "longitude": -74.067856
+  }
+}

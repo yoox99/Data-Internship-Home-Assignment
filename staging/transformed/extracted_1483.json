@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Hiretual is an AI-Powered Global Talent Platform for enterprises. It has been recognized as one of the best data management SaaS for talent acquisition in the market and trusted by 100+ Fortune 500 customers(Amazon, Nike, Paypal, Intel, etc.)  As a machine learning engineer, you will join the core engineering team to develop the algorithm, framework, and product intelligence towards an AI and data-driven SaaS. You will be working with top AI researchers and infrastructure gurus to explore unlimited career space. You must have It would be best if you were an expert at one of the following Want to see how well you match up with this job? Try out our free job search chrome extension, JobSeer at https //go.jobseer.ai/jds",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-05T03:36:54.000Z"
+  },
+  "company": {
+    "name": "Hiretual",
+    "link": "https://www.linkedin.com/company/hiretual"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 99400,
+    "max_value": 217000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Machine Learning Platform",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "Collaborates with stakeholders within the team to build and maintain backend services and solutions to support user-facing products, downstream services, or infrastructure tools and platforms used across Uber. Uber is on the lookout for top-notch software engineers to join our Machine Learning Platform (Michelangelo) team. This role involves building and managing robust distributed systems, and solve infrastructure challenges to empower Uber’s product engineering and data science teams with latest technologies in large scale Artificial Intelligence. The Michelangelo team works on software and services that democratizes and empowers teams in Uber to use the technology. You will be part of a team of strong software and systems engineers, executing in a fast paced environment. Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics or related field 1-year full-time Software Engineering work experience, 1-year total technical software engineering experience in one or more of the following areas: Note the 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (OR some combination of these). The year of specialized experience is not necessarily in addition to the years of Education & full-time work experience indicated. At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world!  We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have a curiosity, passion and collaborative spirit, work with us, and let’s move the world forward, together!  Uber is proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.  If you have a disability or special need that requires accommodation, please let us know by completing this form.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-21T22:05:19.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 113000,
+    "max_value": 160000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

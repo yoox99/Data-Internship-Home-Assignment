@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software",
+    "description": "🚀 WorkRamp is growing steadily in a large well defined SAAS market. We are currently looking for engineers that will help architect and lay the foundation for the company for the next few years. At WorkRamp we strive for engineering excellence. Our team is collaborative and impact focused, and we hold each other to a high quality standard with code review. Engineers own projects end to end. You will work closely with our customer and design teams to identify the customer pain point, architect a well-crafted solution, and deploy at scale.  🔧 🙌 The salary range for this position is $120,000 - $200,000",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:06:52.000Z"
+  },
+  "company": {
+    "name": "WorkRamp",
+    "link": "https://www.linkedin.com/company/workramp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

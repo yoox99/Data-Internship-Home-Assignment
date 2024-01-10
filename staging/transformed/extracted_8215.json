@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Information Technology and Services,Financial Services",
+    "description": "Job Summary:  Disney Streaming Services is responsible for developing and operating The Walt Disney Company’s direct-to-consumer video businesses globally, including the ESPN+ premium sports streaming service; Disney+, the dedicated streaming home for entertainment from Disney, Pixar, Marvel, Star Wars, National Geographic and BAMTECH Media, a global leader in direct-to-consumer video streaming products and solutions. Our core mission is to deliver global audiences the freedom to access content on their terms across any connected device, time or location. We serve consumers by bringing the world’s most beloved characters, timeless stories, legendary athletes, and epic sporting events to global audiences through best-in-class direct-to-consumer video services. We strive daily to imaginatively challenge convention with innovative technology!  The Data Science team at Disney Streaming Services combines deep data analysis and research of our rich user data to present a compelling vision around user retention and preferences across the vast ecosystem of our product offerings and content. We are the insights and modeling partners for the content, marketing, product, and engineering teams at Disney+, Hulu and ESPN+. As Data Scientists, we use data to empower decision-makers with information, predictions, and insights that ultimately influence the experiences of millions of users worldwide. If you are someone who loves to work cross-functionally, build models, perform statistical analysis, and create visualizations to provide scalable and iterative capabilities, then this is a phenomenal role for you!  Responsibilities: Preferred Qualifications:  NICE TO HAVES Required Education 789244BR",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-06T22:43:16.000Z"
+  },
+  "company": {
+    "name": "The Walt Disney Company",
+    "link": "https://www.linkedin.com/company/the-walt-disney-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Monica",
+    "region": "CA",
+    "postal_code": "90403",
+    "street_address": null,
+    "latitude": 34.010933,
+    "longitude": -118.491516
+  }
+}

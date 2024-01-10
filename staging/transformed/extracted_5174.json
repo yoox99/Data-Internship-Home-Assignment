@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Experian is the world’s leading global information services company, unlocking the power of data to create more opportunities for consumers, businesses and society. We are thrilled to share that . In addition, for the last five years we’ve been named in the . Experian Consumer Information Services is redefining the way our clients do business within all aspects of the customer credit lifecycle. Fueled by best-in-class data and innovative technology we help businesses make smarter decisions, identify consumers, make decisions on loans, market to prospects and collect. Our team is responsible for the cloud infrastructure and observability for entire Experian Consumer Information Services (North America) division. We are seeking a for our team to help us continuously improve how we build, monitor, secure and run our rapidly growing cloud platform. Much of our software development focuses on building infrastructure and eliminating work through automation. On SRE team, you will have opportunity to use your expertise in coding, system design thinking and analytical skills to provide reliable cloud infrastructure and observability tools for the rest of the product development teams. All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T04:53:41.000Z"
+  },
+  "company": {
+    "name": "Experian",
+    "link": "https://www.linkedin.com/company/experian"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Costa Mesa",
+    "region": "CA",
+    "postal_code": "92626",
+    "street_address": null,
+    "latitude": 33.663857,
+    "longitude": -117.90476
+  }
+}

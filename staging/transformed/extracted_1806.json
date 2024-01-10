@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Java Software Engineer",
+    "industry": "Financial Services,Investment Management,Banking",
+    "description": "Important Note: During the application process, ensure your contact information (email and phone number) is up to date and upload your current resume when submitting your application for consideration. To participate in some selection activities you will need to respond to an invitation. The invitation can be sent by both email and text message. In order to receive text message invitations, your profile must include a mobile phone number designated as “Personal Cell” or “Cellular” in the contact information of your application.  At Wells Fargo, we are looking for talented people who will put our customers at the center of everything we do. We are seeking candidates who embrace diversity, equity and inclusion in a workplace where everyone feels valued and inspired.  Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.  Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure; provides information security; and enables Wells Fargo global customers to have 24 hours a day, 7 days a week banking access through in-branch, online, ATMs, and other channels.  Our mission is to deliver stable, secure, scalable, and innovative services at speeds that delight and satisfy our customers and unleash the skills potential of our employees.  The Technology Enablement & Pipeline (TE&P) team within the Chief Technology Office (CTO) is responsible for product ownership, delivery, and operational support of the Enterprise Pipeline (EPL) and Continuous Integration and Continuous Delivery (CI/CD). Our strategy focuses on building a fully automated (build, deploy, and test), end-to-end pipeline that includes a community driven inner source model, establishes self-service onboarding capabilities, and integrates software development lifecycle and segregation of duties controls.  We are hiring three (3) Senior Java Software Engineers with expertise in Java to join the team responsible for engineering the enterprise build and release pipeline, specifically the Enterprise Pipeline (EPL). You will act as a lead in defining and automating the entire CI/CD process enterprise wide by building enabling capabilities to allow developers to create higher quality and more secure software, more quickly and ultimately improve quality at scale. These roles are posted as a Senior Java Software Engineer; however, the Wells Fargo job title is Software Sr Engineer. Selected candidate will be required to work within one of the following Wells Fargo locations: Summit, NJ; Philadelphia, PA; Raleigh, NC; St. Louis, MO; Minneapolis, MN; Des Moines, IA; Dallas, TX; Phoenix, AZ; or San Francisco, CA. Preference will be given to those candidates that either currently live in or are willing to relocate to one of these locations. Relocation assistance is not available for this position. Visit https://www.wellsfargo.com/about/careers/benefits for benefits information. 5589173-6",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:05:11.000Z"
+  },
+  "company": {
+    "name": "Wells Fargo",
+    "link": "https://www.linkedin.com/company/wellsfargo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

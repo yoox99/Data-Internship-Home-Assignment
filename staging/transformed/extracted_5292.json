@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Universal Media",
+    "industry": "Consumer Electronics",
+    "description": "The Apple Media Products Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a substantial scale, meeting Apple’s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries. These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services. Thanks to Apple’s outstanding integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep dedication to strengthening Apple’s privacy policy, one of Apple’s core values. Although services are a bigger part of Apple’s business than ever before, these teams remain small, flexible, and cross-functional, offering greater exposure to the array of opportunities here. The We are looking for an outstanding software engineer to join the Apple Universal Media team and help us build the next generation products that change the way millions of users consume video. As a Software Engineer at Apple, you will be owning key modules of the product and be responsible for delivering industry grade quality solutions. 5+ years experience in a professional, programming position  Proficient in Java, JavaScript, HTML, CSS  Experience creating applications using javascript web frameworks (e.g.: Angular, React, NPM, Webpack, Grunt)  Experience developing RESTful APIs and Java server applications  Experience with relational and non-relational data stores (e.g.: Oracle, Cassandra, Redis)  Experience with container orchestration (eg Kubernetes)  Experience with search platforms (e.g.: Solr)  Experience with *nix and OSX  Familiarity with version control systems such as Git We are looking for an outstanding software engineer to join the Apple Universal Media  team and help us build the next generation products that change the way millions of users consume video. As a Full Stack Software Engineer at Apple, you will be owning key modules of the product and be responsible for delivering industry grade quality solutions. Bachelor’s degree in Computer Science and Engineering or related field  5+ years of industry experience Knowledge of SQL and ER modeling   Affinity to great user experience   Familiarity with the media space    Role Number: 200212998",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:34:16.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 86300,
+    "max_value": 184000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

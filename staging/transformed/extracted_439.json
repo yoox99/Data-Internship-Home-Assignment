@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "This Jobot Job is hosted by Patrick Murray  Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume. Based in the Salt Lake City area, we are an established and ever-growing AI/Documentation Security Platform as a Service company that was established in 1999. We have grown to over 250+ employees Worldwide and are a recognized leader in in Cloud security and management.  We are currently looking for a strong Machine Learning Engineer with NLP experience to join our growing AI team. The Machine Learning Developer / AI Engineer will design and implement Natural Language Processing algorithms and deploy them into production at scale. It is a pivotal role for our company and product!  If this sounds interesting, please apply today! What you need to be successful Ideally what you've done Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-12T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

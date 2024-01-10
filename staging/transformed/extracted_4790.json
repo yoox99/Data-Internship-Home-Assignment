@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (React)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "We are dscout. At our core, we are People Nerds. We empower our customers to meet the people who matter to them in the moments that matter most. Customer-obsessed companies and agencies like Salesforce, Sonos, Groupon, and Best Buy use dscout to build better products and services because of people like you. We are building a smart and driven team, and we would love for you to join us. Our web platform is built on React.js frontend and Elixir backend tied together by GraphQL APIs. We make heavy use of PostgreSQL for our storage needs and we host our platform on Heroku. Another core part of our offering are two mobile apps - iOS and Android - that are written in Swift and Kotlin respectively. We also employ WebRTC, Twilio, and WebSockets for live video streaming and use Python for NLP and media processing.  Over ten years and 45K commits later, we've maintained a tidy code base that is well documented and battle tested by tens of thousands of users. We’re looking for smart, creative, and driven Software Engineers to build great software with us. You have some experience as an engineer (creating and launching new products) and you are eager to keep learning and growing. You love to write code, and strive to make it better with each commit. You're familiar with SaaS-focused modern frontends, APIs, and don't mind working on the backend either. You are hands-on, self-directed, and feel at home in a fast-paced, collaborative, and agile environment.  If you are excited about the challenge of building an incredible product while working alongside a great engineering team, we’d love to hear from you! what you will do what you need to have We do our best to write realistic, accurate job descriptions, but we also recognize that great talent comes in many forms and from many backgrounds. Not sure if you meet all of the above bullets? Please apply anyway! This position is open to candidates who are legally authorized to work in the United States and who will be located in the US by their start date. Here at dscout, we are a team of passionate research, sales, technical, marketing, design, success, and operations professionals. We are driven by the power of research—how in-context insights from real people can build products and services that are more people-centric. We value learning, sharing, and building. We deeply value being a diverse and inclusive team and company, and we are looking for team members who align with that belief. We are proud of what dscout is today and we are excited to build our future with you.  In addition to joining a smart and passionate team, you will get: Powered by JazzHR  iR7326Fpvk",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T12:39:07.000Z"
+  },
+  "company": {
+    "name": "dscout",
+    "link": "https://www.linkedin.com/company/dscout"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

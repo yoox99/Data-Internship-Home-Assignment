@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Science Lead (Machine Learning Engineer)",
+    "industry": "Information Technology and Services",
+    "description": "The Data Science Lead (Machine Learning Engineer) will be expected to lead a team of data scientists and data engineers to develop data science solutions and dashboards across a variety of agency wide use cases. The Data Science Lead will oversee the development of analysis plans, complex reports, statistical and machine learning algorithms and data visualizations. The Data Science Lead will lead efforts around customer intake and outreach, platform demos and training, and platform features related to data science capabilities. Must have experience with Microsoft tools, R, Python, and Machine Learning technologies. Databricks and Azure data science services are a definite plus.  This position will allow telecommuting. In order to be successful in this position, we expect you to have the following skills and experience:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-06T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Amida Technology Solutions",
+    "link": "https://www.linkedin.com/company/amida-tech"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

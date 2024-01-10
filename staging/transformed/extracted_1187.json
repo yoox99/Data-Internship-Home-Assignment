@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "USA (Maumee, OH) USA (Plano, TX) USA (San Francisco, CA) Dynata is one of the world’s leading single providers of first-party data contributed by people who opt-in to member-based panels that the company manages and maintains. With a reach that encompasses 60+ million people globally and an extensive library of individual profile attributes collected through surveys, Dynata is the cornerstone for precise, trustworthy quality data. The company has built innovative data services and solutions around this core asset to bring the voice of the individual to the entire marketing spectrum, from market research to marketing and advertising. Dynata serves nearly 6,000 market research agencies, media and advertising agencies, consulting & investment firms and healthcare and corporate customers in the Americas, Europe, and Asia-Pacific.  At Dynata, we are committed to fostering an inclusive, accessible environment, where all employees and customers feel valued, respected and supported. We are dedicated to building a workforce that reflects the diversity of our customers and communities in which we live and serve. Dynata welcomes and encourages applications from people with disabilities. We are committed to an inclusive work culture for all our employees. Accommodations by request can be made for all aspects of the selection process.  Dynata is also an affirmative action employer OE/Minority/Female/Veteran/Disabled/Sexual Orientation/Gender Identity  Posted Today Full time REQ5516  Dynata is one of the world’s leading single providers of first-party data contributed by people who opt-in to member-based panels that the company manages and maintains. With a reach that encompasses 60+ million people globally and an extensive library of individual profile attributes collected through surveys, Dynata is the cornerstone for precise, trustworthy quality data. The company has built innovative data services and solutions around this core asset to bring the voice of the individual to the entire marketing spectrum, from market research to marketing and advertising. Dynata serves nearly 6,000 market research agencies, media and advertising agencies, consulting & investment firms and healthcare and corporate customers in the Americas, Europe, and Asia-Pacific.  For more information, go to https://www.dynata.com .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:20:27.000Z"
+  },
+  "company": {
+    "name": "Dynata",
+    "link": "https://www.linkedin.com/company/dynataglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Maumee",
+    "region": "OH",
+    "postal_code": "43537",
+    "street_address": null,
+    "latitude": 41.565292,
+    "longitude": -83.65307
+  }
+}

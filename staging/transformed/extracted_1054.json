@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer, Conversation",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "We're hiring a talented Staff Software Engineer for the Conversation Engineering team to join our growing team where you'll help build and scale the intelligent Chatbot Engine that is interpreting the world's health sensor data and empowering people to live fitter and happier lives. Lark is a companion that lives on the user’s phone and provides daily coaching, guidance, and health insights to users. Developed with the expertise of world-leading health professionals, we are on a mission to make the world a healthier, happier place. Come join our team! Lark is the world's largest A.I.-enabled healthcare provider, delivering virtual care and connected health devices that help people stay in control of conditions such as diabetes and heart disease. We’re on a mission to improve the health and happiness of the 1 billion people globally who are living with or at risk for a chronic health condition. Our A.I. enabled programs were the first to achieve clinical outcomes matching those of in-person healthcare professionals, showing the ability to deliver care at a fraction of the cost and at enormous scale. Lark offers the option to work remotely in the United States. For Colorado Applicants only: minimum annual salary is $140,000 (minimum salary varies for other geographies). You may also be offered a bonus, stock options and/or benefits. We have identified the “core” period of the day during which all employees are required to work for scheduled meetings, syncs, scrums between 10 a.m. and 3 p.m. Pacific time. The company is headquartered in Mountain View, CA. #BI-Remote",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:00:57.000Z"
+  },
+  "company": {
+    "name": "Lark Health",
+    "link": "https://www.linkedin.com/company/lark-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

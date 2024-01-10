@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Flashpoint delivers actionable intelligence that empowers organizations of all sizes to take rapid, decisive actions to protect against threats. The company's technology, advanced data collections, and human-powered analysis uniquely enable teams to mitigate threats related to cybersecurity, fraud, insider threats, corporate and physical security, executive protection, and third-party risk. For more information, visit https://www.flashpoint-intel.com/ or follow us on Twitter at @FlashpointIntel. Our best engineers are collaborative and selfless. They enjoy writing code but they prioritize mentoring and supporting others. They leave code cleaner than when they found it but don't insist on particular patterns. They optimize for simplicity and readability. They are involved in the full lifecycle of software development: understanding the requirements, designing the solution, writing the code, testing the code, testing the integration, deploying it to production, and monitoring the deployment. They are fully engaged in the problem domain. As an engineer on the Flashpoint Threat Operations team, you will work closely with the Flashpoint intelligence analysts to support their needs in an ever changing environment. You must take care that the team's applications are reliable, responsive, simple, and predictable.  Your main technical responsibilities will include: The core responsibility of a delivery engineer is to build and maintain well-running APIs. This means you must work with: Our developers succeed when they know how their work fits in within the entire infrastructure. They integrate their work with the data team's or operation team's stack. Therefore, engineers on all of our teams have a chance to work with a varied list of technologies, like:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-04T05:09:50.000Z"
+  },
+  "company": {
+    "name": "Flashpoint",
+    "link": "https://www.linkedin.com/company/flashpoint-intel"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 109000,
+    "max_value": 167000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

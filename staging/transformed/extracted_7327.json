@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Banking,Financial Services,Investment Banking",
+    "description": "Provides designs and specifies information systems solutions to solve basic to complex problems or enhancements. Evaluates client requirements and processes, develops and prepares application environments which may involve diverse development platforms, software, hardware, technologies and tools. Completes day-to-day support activities and special projects. The position works under the supervision of the Technology Team Lead and may receive general direction from a more experienced team member. The jobholder is competent to work independently on most all high level systems analysis and technical phases of development and is expected to understand the business supported and its’ terminology. The position is capable of managing the activities of others on a project basis for small to medium scope efforts and may lead project activities. The jobholder may assist or help train less experienced staff. The jobholder interacts with other technology personnel, clients and occasionally vendors. Minimum of an Associate’s degree and 4 years’ systems analysis/application development experience, or in lieu of a degree, a combined minimum of 6 years’ higher education and/or work experience, including a minimum of 4 years’ systems analysis/application development experience  Familiar with application development software and hardware problems  Proficiency with personal computers as well as pertinent project management, word processing and spreadsheet software  Capable of working on multiple projects of a moderately complex to complex nature  Strong problem-solving skills to assist in issue resolution  Strong verbal and written communication skills, with prior experience presenting to the target audience  Strong organizational and time management skills  Detail-oriented  Strong lateral thinking skills  Experience coordinating between Applications and business units  Experience recommending and implementing systems solutions  Experience driving project milestones and delivery dates Good understanding of the Bank’s application framework  Subject matter expert in business with knowledge or experience utilizing application/system being supported  Proven understanding of applications supported with a sound knowledge of interfacing/integrated applications  Ability to work in a team environment as well as autonomously  Ability to multitask for various components of moderately complex to complex projects  Action-oriented  Pro-active",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T16:30:38.000Z"
+  },
+  "company": {
+    "name": "M&amp;T Bank",
+    "link": "https://www.linkedin.com/company/m&amp;t-bank"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seneca",
+    "region": "SC",
+    "postal_code": "29672",
+    "street_address": null,
+    "latitude": 34.68522,
+    "longitude": -82.94984
+  }
+}

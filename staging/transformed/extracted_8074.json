@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Computer Software,Consumer Services,Entertainment",
+    "description": "PlayStation isn’t just the Best Place to Play —it’s also the Best Place to Work. We’ve thrilled gamers since 1994, when we launched the original PlayStation. Today, we’re recognized as a global leader in interactive and digital entertainment. The PlayStation brand falls under Sony Interactive Entertainment, a wholly-owned subsidiary of Sony Corporation. As a part of Sony Computer Entertainment, the Future Technology Group (FTG) is leading the cloud gaming revolution, putting console-quality video games on any device, from TVs to consoles to mobile devices and beyond.  Our Site Reliability Engineering team plays a significant role in delivering on the promise of a great cloud gaming experience to our customers. We do this by influencing design and operational decisions towards the overall stability of the gaming service. Our SREs focus on three main things: overall ownership of production, production code quality, and deployments. The successful candidate will be self-directed and able to participate in the way we make decisions at different levels.  We expect our SREs to have opinions on the state of our service and provide critical feedback during different phases of the operational lifecycle. We are engaged throughout the S/W development lifecycle, ensuring the operational readiness and stability. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.  Sony is an Equal Opportunity Employer. All persons will receive consideration for employment without regard to race, color, religion, gender, pregnancy, national origin, ancestry, citizenship, age, legally protected physical or mental disability, covered veteran status, status in the U.S. uniformed services, sexual orientation, marital status, genetic information or membership in any other legally protected category.  Reasonable Accommodation Notice Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.  We strive to create an inclusive environment, empower employees and embrace diversity. We encourage everyone to respond.  We sincerely appreciate the time and effort you spent in contacting us and we thank you for your interest in PlayStation. This Privacy Notice explains what personal information we at Sony Interactive Entertainment LLC collect from you, and why we collect it and use it. This Notice covers our practices regarding the personal information of all applicants to our job positions. Please review it carefully. We collect personal information about you throughout the recruiting process, in particular the following categories.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-13T01:16:18.000Z"
+  },
+  "company": {
+    "name": "PlayStation",
+    "link": "https://www.linkedin.com/company/playstation-sony"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Aliso Viejo",
+    "region": "CA",
+    "postal_code": "92656",
+    "street_address": null,
+    "latitude": 33.569595,
+    "longitude": -117.72637
+  }
+}

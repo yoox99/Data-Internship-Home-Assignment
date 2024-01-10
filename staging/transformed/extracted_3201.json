@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T15:45:37.000Z"
+  },
+  "company": {
+    "name": "PierianDx",
+    "link": "https://www.linkedin.com/company/pieriandx"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Greater St. Louis",
+    "region": null,
+    "postal_code": "63101",
+    "street_address": null,
+    "latitude": 38.62262,
+    "longitude": -90.192986
+  }
+}

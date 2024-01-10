@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Software,Computer Networking,Computer &amp; Network Security",
+    "description": "It’s an exciting time to be at Infoblox. Named a Top 25 Cyber Security Company by The Software Report and one of . magazine’s Best Workplaces for 2020, we are leading the way to next-level DDI with our Secure Cloud-Managed Network Services, bringing next-level security, reliability, and automation to cloud and hybrid systems—all managed through a single pane of glass. Our success depends on bright, energetic, talented people who share a passion for building the next generation of networking technologies—and having fun along the way.  We are looking for a Senior Software Engineer to join our Cloud Engineering team in Tacoma, WA, or Austin, TX, reporting to the senior manager of Software Engineering. In this role, you will be a part of the team building SaaS-based applications and services powering Infoblox’s Data Lake and other Next-Gen Platform components. As part of the Cloud Engineering team, you will have the opportunity to use the latest technology to deliver the core foundation for all Infoblox applications. You will also get the opportunity to work with the best of the technical and thought leadership team at Infoblox.  You’re the ideal candidate if you are a strategic thinker who is driven to collaborate across teams, operate independently, and is deadline and results-driven. After six months, you will… Our holistic package includes coverage of your health, wealth, and wellness—as well as a great work environment, employee programs, and company culture. We offer a competitive salary and benefits package, including a 401k with a company match and generous paid time off to help you balance your life. We have a strong culture and live our every day—we believe in transparency, curiosity, respect, and above all, having fun while delighting our customers.  Speaking of a great work environment, here are just a few of the perks you may enjoy, depending on your location… We’ve created a culture that embraces and rewards innovation, curiosity, and creativity. We achieve remarkable results by working together in a supportive environment that focuses on continuous learning and embraces change. So, whether you’re a software engineer, marketing manager, customer care pro, or product specialist, you belong here, where you will have the opportunity to grow and develop your career. Check out . We think you’ll be excited to join our team.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:11:26.000Z"
+  },
+  "company": {
+    "name": "Infoblox",
+    "link": "https://www.linkedin.com/company/infoblox"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tacoma",
+    "region": "WA",
+    "postal_code": "98406",
+    "street_address": null,
+    "latitude": 47.25308,
+    "longitude": -122.44153
+  }
+}

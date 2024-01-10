@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Solution Architect",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "A successful candidate will embody the essence of a Conganeer through demonstration of critical behaviors of : The Conga Way is a core element of the Culture and Talent focus at Conga. This philosophy shapes the personality of our organization, defines how we show up every day, and provides clarity about how we work together. Conga is seeking an experienced Solution Architect for our Professional Services organization to implement salesforce.com-based Quote-to-Cash suite of products, including CPQ (configure/price/quote), Contract Lifecycle Management (CLM), revenue and rebate management, and other related solutions. The ideal candidate will work closely with Customers and internal Functional Managers, and Business System Analysts in developing robust, scalable and flexible solution architectures for various customer projects including designing prototypes, building proof of concepts, and preparing architecture roadmaps. The pay range for this position in Colorado is minimum $87,056.00 per year. However the base salary offered may vary depending on job-related knowledge, skills and experience. A full range of benefits including medical, dental, life insurance and financial will be offered. This information is provided per the Colorado Equal Pay Act. Base pay information is based on market location. Applicants should apply via Conga's internal or external careers site.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:13:48.000Z"
+  },
+  "company": {
+    "name": "Conga",
+    "link": "https://www.linkedin.com/company/conga"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Broomfield",
+    "region": "CO",
+    "postal_code": "80020",
+    "street_address": null,
+    "latitude": 39.923985,
+    "longitude": -105.08166
+  }
+}

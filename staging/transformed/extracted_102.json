@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Pricing Data Analyst",
+    "industry": "Computer Networking,Information Technology and Services",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-07-09T20:15:23.000Z"
+  },
+  "company": {
+    "name": "Experis",
+    "link": "https://www.linkedin.com/company/experis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Radnor",
+    "region": "PA",
+    "postal_code": "19089",
+    "street_address": null,
+    "latitude": 40.043697,
+    "longitude": -75.381325
+  }
+}

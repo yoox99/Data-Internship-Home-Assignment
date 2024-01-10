@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Backend/Big Data Software Engineer - Tech Lead",
+    "industry": "Consumer Electronics",
+    "description": "The backend/big data technical lead will work in a small and dynamic team to design and implement applications and infrastructure for R&D of deep learning/computer vision Apple products. 4+ years of SW development experience, including SW architecture design, reliability and performance   Proven object-oriented fundamentals and design patterns  Proficiency in Python and/or C++   Experience with SQL and/or NOSQL  Proven experience with writing both front and backends for Web Applications is required.  Proven experience with HTML and Java Script is required.  Able to communicate clearly and collaborate with cross-functional teams  Able to lead a project with minimal guidance  Excellent problem solving and root cause analysis skills    Exposure to algorithms, AI/ML, or data science projects including evaluating algorithms on datasets   Exposure to data generation and analyses   Exposure to Computer Vision Tracking systems   Experience with a different frameworks/services such as S3, Kubernetes, Docker, Kafka, Spark, Redis, TerraForm, Ansible   Experience with developing scalable systems    Experience with pipelines processing huge data volume You will design and implement scalable solutions (terabytes of data, multiple thousands of CPU’s) which will affect all the stages of the computer vision/deep learning algorithms development, including data generation, models training and failure analyses. You will work together with algorithm, data, and software engineers to productize and optimize computer vision products, which will be used by millions of Apple customers. Masters's degree or higher in Computer Science or equivalent field.    Role Number: 200285218",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:10:05.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

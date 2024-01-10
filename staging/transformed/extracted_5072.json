@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate, Cloud DevOps Engineer",
+    "industry": "Management Consulting",
+    "description": "56592 - 65 Innovate. Collaborate. Build. Create. Solve. The KPMG Digital Lighthouse is KPMG's award-winning Analytics & AI Center of Excellence recognized by clients and leading analyst firms in the US and globally. The KPMG Lighthouse is a curation of specialized technical capabilities and domain experts working across the digital landscape: applied data science, AI, data engineering and insights, software engineering, automation, and big data. Here, you'll be an important part of our high-energy, unique, fast-paced, and innovative culture that delivers with the agility of a tech startup and the backing of a leading global consulting firm. Our technology-agnostic approach enables us to scale up or down and integrate across leading platforms .  KPMG is currently seeking a Senior Associate, Cloud DevOps Engineer for our Consulting practice. KPMG LLP (the U.S. member firm of KPMG International) offers a comprehensive compensation and benefits package. KPMG is an affirmative action-equal opportunity employer. KPMG complies with all applicable federal, state and local laws regarding recruitment and hiring. All qualified applicants are considered for employment without regard to race, color, religion, age, sex, sexual orientation, gender identity, national origin, disability, protected veteran status, or any other category protected by applicable federal, state or local laws. The attached link contains further information regarding the firm's compliance with federal, state and local recruitment and hiring laws. No phone calls or agencies please.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T22:42:47.000Z"
+  },
+  "company": {
+    "name": "KPMG US",
+    "link": "https://www.linkedin.com/company/kpmg-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

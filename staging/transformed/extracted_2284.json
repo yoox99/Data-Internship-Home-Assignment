@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Python",
+    "industry": "Computer Software",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T19:59:48.000Z"
+  },
+  "company": {
+    "name": "Zywave",
+    "link": "https://www.linkedin.com/company/zywave"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 54600,
+    "max_value": 115000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wauwatosa",
+    "region": "WI",
+    "postal_code": "53110",
+    "street_address": null,
+    "latitude": 43.058907,
+    "longitude": -88.00746
+  }
+}

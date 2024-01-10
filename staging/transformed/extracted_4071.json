@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Analyst",
+    "industry": "Electrical/Electronic Manufacturing,Construction,Mechanical or Industrial Engineering",
+    "description": "Data Analyst Conyers, GA We are looking for an innovative and experienced data analyst to join our team. The data analyst will work closely with business leaders to provide information to reduce quality costs and improve processes. To be successful as a quality analyst, you should have a strong background working with data and proven ability to demonstrate strong attention to detail along with strong analytical and problem-solving skills. The ideal candidate must be able to interpret and implement quality assurance data standards and provide accurate and comprehensive feedback to the business. You will be responsible for managing, extracting, transforming, reporting and visualizing data from a wide variety of sources as it relates to the performance of our products, services and key business processes. The backbone behind our collection of outstanding businesses is a team of dedicated employees who protect and enhance our valued reputation for quality and delivering what we promise. It’s our values that define Dover to all of our key audiences: our shareholders, customers, prospective employees and especially to ourselves.  These values must be expressed in our work and embody our actions, as they form the basis by which we do our jobs, make decisions and measure our performance. It’s our unwavering commitment to maintaining our values that defines who we are as a Company.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:20:48.000Z"
+  },
+  "company": {
+    "name": "Hillphoenix",
+    "link": "https://www.linkedin.com/company/hillphoenix"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Conyers",
+    "region": "GA",
+    "postal_code": "30207",
+    "street_address": null,
+    "latitude": 33.66796,
+    "longitude": -84.01779
+  }
+}

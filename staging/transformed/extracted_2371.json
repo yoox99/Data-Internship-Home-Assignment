@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "We’re a rapidly growing team serving a highly results-oriented engineering organization. The Site Reliability Engineering (SRE) team provides a specialization within engineering focused on designing, engineering, evolving, and safely making changes to large-scale distributed systems; these systems are often composed of disparate components which are each individually complex. In the process of that work, they are also responsible for analyzing, repairing, and preventing unexpected issues that emerge from such systems. We are seeking an experienced SRE to work with our SRE leadership team to help build, define the vision and roadmap of our newly formed SRE organization. Initially, you will embed with a product engineering team to understand their work, and look for opportunities to bring SRE wisdom to bear.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T01:07:18.000Z"
+  },
+  "company": {
+    "name": "Robinhood",
+    "link": "https://www.linkedin.com/company/robinhood"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

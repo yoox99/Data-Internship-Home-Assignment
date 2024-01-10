@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T18:36:53.000Z"
+  },
+  "company": {
+    "name": "Heartland Business Systems",
+    "link": "https://www.linkedin.com/company/heartland-business-systems"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 54600,
+    "max_value": 76400,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wisconsin",
+    "region": "United States",
+    "postal_code": "54943",
+    "street_address": null,
+    "latitude": 44.639957,
+    "longitude": -89.73298
+  }
+}

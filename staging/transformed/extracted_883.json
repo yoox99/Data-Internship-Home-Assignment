@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software",
+    "description": "This Jobot Job is hosted by Christine McNamara  Are you a fit? Easy Apply now by clicking the \"Apply\" button and sending us your resume.  Salary $130,000 - $150,000 per year A global organization dedicated to partnering with companies across multiple industries is looking to expand their data and analytics team by bringing on a Machine Learning Engineer. The role will involve working for one of their most prestigious clients and will have a heavy emphasis on Tensorflow and Kubernetes. If you are a data scientist that enjoys working end to end and the ability to see your work impact an entire industry- this is the role for you! Interested in hearing more? Easy Apply now by clicking the \"Apply\" button.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T21:12:42.000Z"
+  },
+  "company": {
+    "name": "Jobot",
+    "link": "https://www.linkedin.com/company/jobot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

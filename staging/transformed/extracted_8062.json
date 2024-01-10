@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer - Java",
+    "industry": "Information Technology and Services,Internet,Telecommunications",
+    "description": "Comcast brings together the best in media and technology. We drive innovation to create the worlds best entertainment and online experiences. As a Fortune 50 leader, we set the pace in a variety of innovative and fascinating businesses and create career opportunities across a wide range of locations and disciplines. We are at the forefront of change and move at an amazing pace, thanks to our remarkable people, who bring cutting-edge products and services to life for millions of customers every day. If you share in our passion for teamwork, our vision to revolutionize industries and our goal to lead the future in media and technology, we want you to fast-forward your career at Comcast. Responsible for planning and designing new software and web applications. Edits new and existing applications. Implements, testing and debugging defined software components. Documents all development activity. Works with moderate guidance in own area of knowledge. The Technology, Product, Experience (TPX) organization works at the intersection of media and technology and our innovative teams are continually developing and delivering products and next-generation technologies that transform the customer experience. The Next Generation Access Network (NGAN) organization is a highly agile, fast paced, and dedicated group at the forefront of change focused on innovating, building, and operating the best in class, most reliable access network for our customers. This team is an inclusive group of engineers who value collaboration, creative problem-solving, and continued learning. Our team is responsible for a suite of applications used by 20,000+ Comcast Field Technicians. As a software developer, you will work on projects at various stages of the product life cycle, including requirements gathering, design, development, deployment, quality assurance, and operational support. We are determined to create an environment where our employees feel valued, understand our business goals, and are motivated. http://jobs.comcast.com/life-at-comcast/benefits  We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. Please contact us to request an accommodation. This position is . To be considered for this role, you must be legally authorized to work in the United States and not require sponsorship for employment now or in the future. Bachelor's Degree 2-5 Years  Base pay is one part of the Total Rewards that Comcast provides to compensate and recognize employees for their work. Most sales positions are eligible for a Commission under the terms of an applicable plan, while most non-sales positions are eligible for a Bonus. Additionally, Comcast provides best-in-class Benefits. We believe that benefits should connect you to the support you need when it matters most, and should help you care for those who matter most. That’s why we provide an array of options, expert guidance and always-on tools, that are personalized to meet the needs of your reality – to help support you physically, financially and emotionally through the big milestones and in your everyday life. Please visit the compensation and benefits summary on our careers site for more details.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-18T06:09:40.000Z"
+  },
+  "company": {
+    "name": "Comcast",
+    "link": "https://www.linkedin.com/company/comcast"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 78300,
+    "max_value": 129000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Englewood",
+    "region": "CO",
+    "postal_code": "80110",
+    "street_address": null,
+    "latitude": 39.649437,
+    "longitude": -104.98891
+  }
+}

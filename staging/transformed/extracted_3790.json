@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist I",
+    "industry": "Entertainment",
+    "description": "WarnerMedia is a powerful portfolio of iconic entertainment, news, and sports brands. We bring people, technology, and the world’s best storytellers together to drive culture and meaningful connection. We believe the enduring power of stories can open our eyes to the world, to each other, and to new and different perspectives.  Join us. Shape your story here. Reporting to the Sr. Manager, Data Science this role will help to develop the predictive insights and prescriptive capabilities behind CNN’s emerging products, transforming first- and third- party data into quantitative findings, visualizations, and automation. This is a collaborative role that will work alongside engineers, analysts, and data scientists to impact cross-functional teams of product managers; revenue, content, and design strategists; consumer scientists; and audience researchers. You'll help make informed decisions faster by providing the tactical information necessary to better understand our users, content, and products. Warner Media, LLC and its subsidiaries are equal opportunity employers. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-15T13:44:24.000Z"
+  },
+  "company": {
+    "name": "WarnerMedia",
+    "link": "https://www.linkedin.com/company/warnermedia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York County",
+    "region": "NY",
+    "postal_code": "13856",
+    "street_address": null,
+    "latitude": 40.75325,
+    "longitude": -74.00381
+  }
+}

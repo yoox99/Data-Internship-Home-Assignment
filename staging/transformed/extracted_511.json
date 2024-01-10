@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Oil &amp; Energy",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T15:26:04.000Z"
+  },
+  "company": {
+    "name": "Quest Groups LLC",
+    "link": "https://www.linkedin.com/company/quest-groups"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

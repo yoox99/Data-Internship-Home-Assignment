@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Engineer III, Software Engineer",
+    "industry": "Financial Services",
+    "description": "In partnership with Product Management and Quality Assurance, your team shares a common mission to create products that satisfy our users. Your team will enable product engineering teams, promises engineering excellence and deliver high-quality end product. This product line includes a large portfolio of analytical tools and models that enable a global team of Ratings Analysts to analyze, gain insight, score and contribute critical insights to our core Ratings process. With these products you will help our global team of Ratings Analysts, Methodology and Criteria specialists create world class ratings & research across more than 90 global economies enabling them to create and test hypothetical ‘what if’ credit-risk scenarios and perform a host of other critical analytical tasks. S&P Global states that the anticipated base salary range for this position is $55,900 - $155,900. Base salary ranges may vary by geographic location.  In addition to base compensation, this role is eligible for an annual incentive bonus.  This role is eligible to receive additional S&P Global benefits. For more information on the benefits we provide to our employees, visit  https://www.spgbenefitessentials.com/newhires To all recruitment agencies: S&P Global does not accept unsolicited agency resumes. Please do not forward such resumes to any S&P Global employee, office location or website. S&P Global will not be responsible for any fees related to such resumes.  S&P Global is an equal opportunity employer committed to making all employment decisions without regard to race/ethnicity, gender, pregnancy, gender identity or expression, color, creed, religion, national origin, age, disability, marital status (including domestic partnerships and civil unions), sexual orientation, military veteran status, unemployment status, or any other basis prohibited by federal, state or local law. Only electronic job submissions will be considered for employment.  If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person.  The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdfdescribes discrimination protections under federal law.  #  #  20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.1 - Middle Professional Tier I (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning) 251270 2021-07-21 New York, New York, United States",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:31:02.000Z"
+  },
+  "company": {
+    "name": "S&amp;P Global Ratings",
+    "link": "https://www.linkedin.com/company/spglobalratings"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 145000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

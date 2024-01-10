@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Construction,Information Technology and Services,Financial Services",
+    "description": "The Data Scientist is responsible for supporting data science initiatives that drive business profitability, increased efficiencies and improved customer experience. This role applies industry-leading analytical methodologies for working with large datasets to extract meaningful business insight and creatively solve business problems. Data Scientists are also responsible for ensuring that developed codes are documented into a library of reusable algorithms. Based on the specific data science team, this role would need to be knowledgeable in one or more data science specializations, such as optimization, computer vision, recommendation, search or NLP.  As a Data Scientist, you will apply advanced analytics methods and algorithms for identifying trends and providing business solutions. This role is expected to present insights and recommendations to non-technical audiences and explain the benefits and impacts of the recommended solutions. In addition, Data Scientists collaborate with business partners and cross-functional teams, requiring effective communication skills, building relationships, and focus on understanding the overall business area being supported. This position typically reports to Manager or above  This position has 0 Direct Reports and leads/manages projects Located in a comfortable indoor area. Any unpleasant conditions would be infrequent and not objectionable. Typically requires overnight travel less than 10% of the time. Must be eighteen years of age or older.  Must be legally permitted to work in the United States. The knowledge, skills and abilities typically acquired through the completion of a bachelor's degree program or equivalent degree in a field of study related to the job. 3 years Most of the time is spent sitting in a comfortable position and there is frequent opportunity to move about. On rare occasions there may be a need to move or lift light articles.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-08T00:17:48.000Z"
+  },
+  "company": {
+    "name": "The Home Depot",
+    "link": "https://www.linkedin.com/company/the-home-depot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 83900,
+    "max_value": 126000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

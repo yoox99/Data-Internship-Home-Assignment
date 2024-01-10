@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Global Revenue Management Data Scientist",
+    "industry": "Machinery,Mechanical or Industrial Engineering,Human Resources",
+    "description": "The world is changing before our eyes, and we are out there, ready to hit every curve ball that comes our way. Your input, insights, ideas, and perspectives will make you an important part of our success. We support diversity by empowering all employees to shape their futures and ours through promotion and personal growth. If you have an open, exploratory mind, get in touch.  Global VISA and Relocation Specifications: USA-GA-Atlanta-Roswell Employee Regular Full time",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:03:00.000Z"
+  },
+  "company": {
+    "name": "Kimberly-Clark",
+    "link": "https://www.linkedin.com/company/kimberly-clark"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Roswell",
+    "region": "GA",
+    "postal_code": "30076",
+    "street_address": null,
+    "latitude": 34.021652,
+    "longitude": -84.36167
+  }
+}

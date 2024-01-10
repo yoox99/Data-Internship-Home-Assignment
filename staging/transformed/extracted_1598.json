@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "DoorDash is building the world's most reliable on-demand, logistics engine for delivery! We're looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7, global infrastructure system that powers DoorDash’s three-sided marketplace of consumers, merchants, and dashers.  Platform Evolution is a new DoorDash engineering team based out of our newly formed Pittsburgh engineering hub. The team will be focused on supporting DoorDash’s expansion globally through the modernization and evolution of DoorDash’s service architecture. As a centralized platform team focused on accelerating cross-team migration efforts, you’ll have the opportunity to learn and contribute to all of DoorDash’s products and internal services. Initially, the focus of the team will be moving away from our existing Python based service architecture to our new Kotlin based platform. DoorDash is a technology company that connects customers with their favorite local and national businesses in all 50 US states, Canada, and Australia. Founded in 2013, DoorDash empowers merchants to grow their businesses by offering on-demand delivery, data-driven insights, and better in-store efficiency, providing delightful experiences from door to door. By building the last-mile delivery infrastructure for local cities, DoorDash is bringing communities closer, one doorstep at a time. Read more on the DoorDash blog or at www.doordash.com. We’re committed to growing and empowering a more inclusive community within our company, industry, and cities. That’s why we hire and cultivate diverse teams of the best and brightest from all backgrounds, experiences, and perspectives. We believe that true innovation happens when everyone has room at the table and the tools, resources, and opportunity to excel.  Pursuant to the San Francisco Fair Chance Ordinance, Los Angeles Fair Chance Initiative for Hiring Ordinance, and any other state or local hiring regulations, we will consider for employment any qualified applicant, including those with arrest and conviction records, in a manner consistent with the applicable regulation",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T01:14:16.000Z"
+  },
+  "company": {
+    "name": "DoorDash",
+    "link": "https://www.linkedin.com/company/doordash"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 67300,
+    "max_value": 145600,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pittsburgh",
+    "region": "PA",
+    "postal_code": "15235",
+    "street_address": null,
+    "latitude": 40.44217,
+    "longitude": -79.99496
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Financial Services,Health, Wellness and Fitness,Hospital &amp; Health Care",
+    "description": "The Knowledge Management functional area manages the sharing and distribution of best practices documents and related impact and optimization information as it relates to KP HealthConnect & Kp.org -and related external EHRs. This work includes of the knowledge products (e.g. SmartBook, smartbits) and related documentation synthesized from across regions internally as well as external to be provided to Strategic and Operational Leaders across the enterprise. Additional responsiblilities for related consulting services that include information and data analysis and project management in areas of Quality, Patient Safety, Service, Nursing, etc. This position demonstrates in-depth knowledge and skills in the knowledge management area, and is accountable for the successful execution of project goals that align with the gaols of Health IT / Transformation & Analytics/ CSPC and support of the National Quality and Service Excellence program. At the highest levels of the job family, share in the accountability of outcomes and performance for broad Knowledge Management areas of Value Realization and Optimization that include regional analysis/evaluation projects; generation, review, and distribution of appropriate content including the building of strategic relationships for information distribution.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Kaiser Permanente",
+    "link": "https://www.linkedin.com/company/kaiser-permanente"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 93700,
+    "max_value": 204100,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Pasadena",
+    "region": "CA",
+    "postal_code": "91122",
+    "street_address": null,
+    "latitude": 34.14955,
+    "longitude": -118.14145
+  }
+}

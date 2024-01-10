@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "The data team is looking for a data analyst who is interested in leading the effort to promote a data-driven culture at Clover. We are looking for a detail-oriented problem solver who has a track record of strategically building data visualization tools and conducting in-depth analyses for an executive audience. In addition, our ideal candidate will be passionate about systematically finding creative approaches to most effectively bridge the gap between data and decision makers. Serve as a bridge between decision-makers and the data needed to provide actionable insights Nice to have To support the total well-being of our associates, Fiserv takes a broad approach to our benefits. We offer a comprehensive benefits package that provides flexibility and affordability with a variety of medical, dental, vision, life insurance and disability options.  We are #FISVProud of our benefits and well-being programs. Our commitment to wellness, wellness education, preventive services and fitness activities are designed to meet you where you are.  Join the Fintech and SaaS revolution that is helping small businesses grow faster and get the technology and insights previously available only to the “big guys.” At Clover, you will be part of an entrepreneurial team working in a fast-paced and high growth environment, with the benefits of a parent company, Fiserv, a global leader in Fintech and payments enabling innovative financial services experiences that are in step with the way people live and work today.  Clover delivers the leading Point of Sale system with an elegant end-to-end solution that incorporates beautiful devices, cloud-based POS software, payments processing, platform API’s for third-party developers, and an ecosystem with over 220 apps. The Clover platform delivers solutions in a scalable and modular fashion that powers tiny merchants through large football stadiums, supporting millions of transactions daily. Our devices and platform form the backbone of millions of payment interactions between merchants and their customers daily. We are looking for self-starters with a passion for technology who want to help us impact millions of merchants' lives one transaction at a time.  We welcome and encourage diversity in our workforce. Fiserv is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran  Explore the possibilities of a career with Fiserv and Find Your Forward with us.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Clover Network, Inc.",
+    "link": "https://www.linkedin.com/company/clovernetwork"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Sunnyvale",
+    "region": "CA",
+    "postal_code": "94089",
+    "street_address": null,
+    "latitude": 37.373676,
+    "longitude": -122.036575
+  }
+}

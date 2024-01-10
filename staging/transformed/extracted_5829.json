@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "ONSITE Web Developer - Front End Web Development, HTML5, CSS3",
+    "industry": "Financial Services",
+    "description": "If you are a Web Developer with 2+ years of experience, please read on!  We have been around for over 20 years and have gained 3 billion in assets since 2019. We are looking to add team members who are willing to work onsite (essential business).  Currently, we are looking for a Web Developer who is self-motivated and accountable that can also work in a collaborative environment. We offer competitive salaries, bonuses (based on individual performance), PTO, and federal holidays to keep you happy - we ENCOURAGE you to take all PTO to keep refreshed and sharp at work. We work hard and play hard!  What You Will Be Doing What You Need for this Position College degree in related field or equivalent experience  What's In It for You So, if you are a Web Developer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Wendy.Warner@CyberCoders.com Wendy Warner - Associate Manager - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:32:30.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T20:35:55.000Z"
+  },
+  "company": {
+    "name": "iVoyant",
+    "link": "https://www.linkedin.com/company/ivoyant-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta Metropolitan Area",
+    "region": null,
+    "postal_code": "30317",
+    "street_address": null,
+    "latitude": 33.74975,
+    "longitude": -84.38857
+  }
+}

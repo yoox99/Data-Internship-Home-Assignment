@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer III",
+    "industry": "Information Services,Computer Software",
+    "description": "Are you looking for an opportunity to challenge yourself?  At ZoomInfo our employees work hard to ‘define new possibles’, and they are driven by winning. ZoomInfo is a company that got to where it’s at today on the backs of heroic efforts, over the years, by our employees and we are looking for more people to contribute to those efforts.  At our company you’ll see that collaboration is second nature, and you’ll be greeted by a team of incredibly smart, talented, and motivated individuals who will help you define your new best.  You’ll be presented with opportunities to both personally and professionally develop as you build your career. We believe that our employees love to work and love to work here, and that you will like coming to work because of the sense of accomplishment you get from being a part of what we’re building.  You are a fit for our team if you refuse to lose, you seek challenges, and you love to win. We welcome you to join our team of who are people working with a passion to win together.  The mission of the Web Applications Team is to build attractive and easy-to-use tools which provide our clients with access to in-depth profiles of millions of business people and companies.  As a on the Web Applications Team, you will get to explore and work with cutting-edge technologies and a tremendously large (and fantastically rich) data set. If you like working on tough problems, whether that’s building systems that handle millions of customer requests per day or how to make sense of over a billion pieces of potentially correlated data, ZoomInfo could be the right place for you! Built over 20 years ago, ZoomInfo Powered by DiscoverOrg has helped companies achieve their most important objective: profitable growth. Backed by the world's most comprehensive B2B database, our platform puts sales, marketing and recruiting professionals in a position to identify, connect, and engage with qualified prospects. ZoomInfo offers unrivaled data and accuracy with contacts, companies, direct dials and professional movement. For more information on our intelligence solution, visit us at zoominfo.com",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:12:00.000Z"
+  },
+  "company": {
+    "name": "ZoomInfo",
+    "link": "https://www.linkedin.com/company/zoominfo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Waltham",
+    "region": "MA",
+    "postal_code": "02154",
+    "street_address": null,
+    "latitude": 42.37617,
+    "longitude": -71.23899
+  }
+}

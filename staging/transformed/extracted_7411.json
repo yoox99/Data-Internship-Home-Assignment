@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software",
+    "description": "Airtable is a mission-critical system for a diverse set of teams and industries. We build our platform to scale, stay resilient, and deliver delightful user experience all around. Our infrastructure requires thorough thinking, deep research into how things work, and rigorous coding. Our mission is ambitious, but we like to keep our infrastructure simple.  As one of the first dedicated site reliability engineers at Airtable, you will play a critical role in scaling and refining our operational practices. Site reliability engineering begins with building solid automation across the software delivery process, including configuration, provisioning, testing, deployment, and beyond. SREs will also work with software engineers to help understand the way their code behaves in production, and build nontrivial internal tooling to enable this. We also strive for a strong security posture, and SRE will help define and implement operational practices that protect our users. Lastly, of course, our operations team is the last line of defense when incidents happen, and SREs will be part of the team that responds to them.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-06T18:10:11.000Z"
+  },
+  "company": {
+    "name": "Airtable",
+    "link": "https://www.linkedin.com/company/airtable"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

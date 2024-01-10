@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "MuleSoft Developer",
+    "industry": "Nonprofit Organization Management,Government Administration,Hospital &amp; Health Care",
+    "description": "The State of Connecticut , Paid Family and Medical Leave Insurance Authority (the \"Authority) is a quasi-governmental agency formed by statute and signed into law by Governor Ned Lamont in 2019. Its mission is to help Connecticut’s workforce navigate health challenges and life changes with greater financial security.  Through a trust funded by employees, the Authority makes benefits payments to eligible employees when either the employee or their family member takes a leave from work to care for themselves or a family member. We are looking for an experienced MuleSoft Developer. The MuleSoft Developer works in partnership with the Product Owner, IT Solution Architect and IT Solution Manager and is responsible for the technical designs, development of solutions, and coordination of and execution of deployment activities. This is a full-time, 40 hours per week, Monday through Friday position. The minimum experience and training requirements must be met by the close date on the job opening, unless otherwise specified.  This posting may require completion of additional referral questions (RQs) which will be sent to you via email after the closing date. The email notification will include an expiration date by which you must submit (Finish) your responses. Please regularly check your email for notifications. Please check your SPAM and/or Junk folders, as emails could end up there in error.  The immediate vacancy is listed above, however, applications to this recruitment may be used for future vacancies in this job class.  Interviews will be limited to candidates whose experience most closely meet the preferred requirements of the position. Applicants invited to interview may be required to submit additional documentation, which supports their qualification(s) for this position. These documents may include: performance reviews, supervisory references, college transcripts, licensure, etc., at the discretion of the hiring agency.  Please Note: You will be unable to make revisions once you submit your application for this posting to the JobAps system.  Should you have questions pertaining to this recruitment, please contact Jennifer Neumann at jennifer.neumann@ct.gov and reference the recruitment number. Examples of Duties This list of duties is not intended to be all-inclusive and may be expanded to include other duties and responsibilities that the Authority may deem necessary from time to time and as the Authority’s work and responsibilities demand. The State of Connecticut is an equal opportunity/affirmative action employer and strongly encourages the applications of women, minorities, and persons with disabilities.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:09:17.000Z"
+  },
+  "company": {
+    "name": "State of Connecticut",
+    "link": "https://www.linkedin.com/company/stateofconnecticut"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Hartford",
+    "region": "CT",
+    "postal_code": "06156",
+    "street_address": null,
+    "latitude": 41.765774,
+    "longitude": -72.673355
+  }
+}

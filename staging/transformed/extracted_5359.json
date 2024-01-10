@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "InCloudCounsel is seeking a to help our rapidly growing team deliver automatic negotiation with computable contracts. If you are a data or ML professional looking for a company that is financially-healthy, rapidly scaling, and impacting the trajectory of an industry, we would love to get to know you!  InCloudCounsel is an industry leader in modernizing routine legal processes. Our global team works with many of the world's leading companies to offer robust end-to-end contract processing and obligation management solutions that combine cutting edge technology, deep industry expertise, and a world-class roster of legal professionals.  The Machine Learning Engineer will report directly to our and the package includes a competitive base salary, equity, and full benefits. The preferred locations for this role are or .* We're all about freedom. InCloudCounsel is on a mission to free companies from outdated legal processes and corporate lawyers from outdated work models. We're a group of former Big Law lawyers, business professionals, and engineers working together to modernize the legal industry. The people behind developing our product, servicing our customers and lawyer partners, and driving our business operations are dynamic individuals who have also achieved the freedom to do what's important to them - they're musicians, dancers, photographers, sailors, surfers, world travelers, home flippers, and animal lovers - and our freedom inspires us to free others. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-25T11:39:59.000Z"
+  },
+  "company": {
+    "name": "InCloudCounsel",
+    "link": "https://www.linkedin.com/company/incloudcounsel"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Los Angeles",
+    "region": "CA",
+    "postal_code": "90101",
+    "street_address": null,
+    "latitude": 34.05224,
+    "longitude": -118.24335
+  }
+}

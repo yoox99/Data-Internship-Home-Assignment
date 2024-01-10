@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Network Engineer",
+    "industry": "Information Technology and Services,Computer &amp; Network Security",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-10-05T17:49:27.000Z"
+  },
+  "company": {
+    "name": "Motion Recruitment",
+    "link": "https://www.linkedin.com/company/motion-recruitment-partners"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65100,
+    "max_value": 87700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Quincy",
+    "region": "MA",
+    "postal_code": "02170",
+    "street_address": null,
+    "latitude": 42.251385,
+    "longitude": -71.002335
+  }
+}

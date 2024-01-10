@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Consumer Goods,Market Research,Retail",
+    "description": "At IRI, we deliver growth to clients based on big data—our predictive analytics and forward-thinking insights help CPG, OTC, health care, retailers, and media companies remain relentlessly relevant, capture marketing share, connect with consumers, and deliver market-leading growth. The convergence of our proprietary, on-demand cloud-based technology and our client-focused colleagues leads to a seismic shift in drivers of success in all industries.  For IRI colleagues, we focus on the moments that matter. From meaningful work and impact to continuous improvement we challenge ourselves to grow both professionally and personally. You’ll feel a true sense of connection and purpose in your work and will craft the direction of your career in a highly personalized way. No matter the department you join, you’ll find yourself constantly growing and developing the skills of the future to deliver client growth. We believe in the undeniable strength that diverse people, cultures, thought and skills bring to our business, our clients, our people, and our communities. We are committed to nurturing a dynamic culture that embraces and celebrates openness, collaboration, creativity, equity, inclusivity, and growth for all. Big Data is in our DNA. And our Product Team is growing fast to meet the demands of the Marketplace. IRI continues to innovate in the space and has developed and integrated the world’s largest cross-channel media, social and online/offline purchase data sets to help our clients maximize the ROI for media spend. Our media team gives CPG manufacturers a view of where consumers go online; what they watch on TV to determine how these activities translate into measurable and actual consumer behavior--what consumers buy and why. Do you have previous experience managing multiple data sets? Are you excited to get in the weeds with the data and build statistical models from scratch? Do you have current hands-on experience with R and Python? Are you excited to translate complex analytics to a non-technical audience? This position for you! Salary is negotiable and commensurate with experience. As one of the original innovators in Big Data, IRI integrates the world’s largest set of otherwise disconnected purchase, media, social, causal, and loyalty data to help CPG, retail, over-the-counter health care, and media companies grow their businesses. We combine this data with predictive analytics to uncover new consumer insights and integrate them on the most technologically advanced, cloud-based visualization platform. Learn more about us We offer a comprehensive benefits package ( health, paid time off, 401 ( k), etc.) with additional unconventional offerings such as volunteer time off, flexible work arrangements, virtual doctor access, etc., along with the unrivaled benefit of working with our people - the best in the business. We’re thrilled we get to work on the most interesting business challenges facing the CPG and retail industries. We regularly uncover new “aha moments!” by closely collaborating with our colleagues and developing competencies centered around the following values: Collaboration, Personal Development, Executional Excellence, Client Growth, Innovation, and Creativity.  IRI is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics. The EEO is the Law poster is available here: DOL Poster . IRI is committed to working with and providing reasonable accommodations to individuals with disabilities. If you need a reasonable accommodation because of a disability for any part of the employment process, please send an e-mail to Talent.Acquisition@iriworldwide.com and let us know the nature of your request and your contact information. Vestar Capital Partners is a leading U.S. middle-market private equity firm specializing in management buyouts and growth capital investments. Vestar invests and collaborates with incumbent management teams and private owners to build long-term enterprise value, with a focus on Consumer, Healthcare, and Business Services & Industrial Products. For more information on Vestar, please visit www.vestarcapital.com .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T06:11:40.000Z"
+  },
+  "company": {
+    "name": "IRI",
+    "link": "https://www.linkedin.com/company/iri-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

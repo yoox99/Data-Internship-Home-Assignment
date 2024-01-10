@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Marketing Data Analyst",
+    "industry": "Cosmetics",
+    "description": "As a for LovelySkin, you see the threads connecting trends in our marketing data and instinctively know how to dissect data to help facilitate decision-making. You’re the bridge between the creative to the analytics. You’ll be directly responsible for driving strategic thinking, analysis and customer insights for acquisitions, customer relationship management, business development and financial planning. By providing weekly and monthly business reports, you will assist in managing and optimizing testing and targeting efforts while recommending enhancements for online and offline channels of marketing.  At LovelySkin, we’re proud of our family-grown roots, and with over 120 employees in 20 departments, we’re a highly collaborative team doing amazing things. LovelySkin has grown to be one of the largest skincare and beauty websites in the country. We’re committed to providing our customers with outstanding customer service, quick delivery, an appealing shopping experience and the most comprehensive offering of physician-grade skincare and beauty products available. We are also committed to provide our team members with the opportunity to make an impact, to work with great people, enjoy excellent benefits, and to have the best tools available to do their work well.  As a company with roots in science and medical research, our employees’ health and safety are our number one priority. LovelySkin’s policy is that all employees be fully vaccinated for Covid-19 prior to their first day of employment.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-30T23:38:01.000Z"
+  },
+  "company": {
+    "name": "LovelySkin",
+    "link": "https://www.linkedin.com/company/lovelyskin.com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Omaha",
+    "region": "NE",
+    "postal_code": "68145",
+    "street_address": null,
+    "latitude": 41.25865,
+    "longitude": -95.937195
+  }
+}

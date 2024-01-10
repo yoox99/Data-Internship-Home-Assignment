@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Electrical/Electronic Manufacturing,Information Technology and Services,Mechanical or Industrial Engineering",
+    "description": "Established in Taiwan in 1974, Hon Hai Technology Group (Foxconn) is the world’s largest electronics manufacturer. Foxconn is also the leading technological solution provider and it continuously leverages its expertise in software and hardware to integrate its unique manufacturing systems with emerging technologies. By capitalizing on its expertise in Cloud Computing, Mobile Devices, IoT, Big Data, AI, Smart Networks, and Robotics / Automation, the Group has expanded not only its capabilities into the development of electric vehicles, digital health and robotics, but also three key technologies –AI, semiconductors and new-generation communications technology – which are key to driving its long-term growth strategy and the four core product pillars: Consumer Products, Enterprise Products, Computing Products and Components and Others.  D-Group, is a business group within Foxconn, with more than 50,000 employees, a global footprint including China, Taiwan, and over ten other countries, with functions including R&D, sales, manufacturing, supply chain management, products and services extending into IT product manufacturing (computers, printers, printer cartridges, monitors, game consoles, and wireless speakers), industrial PCs, after-sales services, recycling, peer-to-peer digital payment platform, and strategic investments, on behalf of customers to provide an end-to-end, one-stop solution for R&D, manufacturing, sales/marketing, and after-sales services Software Engineer responsibilities include gathering user requirements, defining system functionality and writing code in various languages. Our ideal candidates are familiar with the software development life cycle (SDLC) from preliminary system analysis to tests and deployment.  Ultimately, the role of the Software Engineer is to build high quality, innovative and fully performing software that complies with coding standards and technical design. Powered by JazzHR  2HGNSAiq7s",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T12:58:56.000Z"
+  },
+  "company": {
+    "name": "Foxconn",
+    "link": "https://www.linkedin.com/company/foxconn"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

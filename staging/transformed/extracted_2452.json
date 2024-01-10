@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site-Reliability / DevOps Engineer",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "PART_TIME",
+    "date_posted": "2021-07-31T05:41:03.000Z"
+  },
+  "company": {
+    "name": "TechFetch.com - On Demand Tech Workforce hiring platform",
+    "link": "https://www.linkedin.com/company/techfetch"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Irvine",
+    "region": "CA",
+    "postal_code": "92717",
+    "street_address": null,
+    "latitude": 33.68591,
+    "longitude": -117.82472
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Web Accessibility, Developer Infrastructure",
+    "industry": "Information Services,Internet",
+    "description": "Note: By applying to this position you will have an opportunity to share your preferred working location for this position from the following: Minimum qualifications: Preferred qualifications: Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.  You have a passion for improving access to technology. As our tools scale to identify a wider range of accessibility barriers and reach a larger number of developers, they contribute to concrete usability improvements and increase developers’ awareness of the unique needs of those who are frequently underserved by technology. In this role, you’ll have opportunities to work across Google’s product teams on a wide range of projects that span test automation, accessibility tooling, UI frameworks, assistive technologies, web standards, and more. You’ll work to refine and support well-lit development paths, and shape how teams across the company approach web accessibility throughout the development lifecycle.  Google Research is building the next generation of intelligent systems for all Google products. To achieve this, we’re working on projects that utilize the latest computer science techniques developed by skilled software engineers and research scientists. Google Research teams collaborate closely with other teams across Google, maintaining the flexibility and versatility required to adapt new projects and foci that meet the demands of the world's fast-paced business needs. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-02T07:12:06.000Z"
+  },
+  "company": {
+    "name": "Google",
+    "link": "https://www.linkedin.com/company/google"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

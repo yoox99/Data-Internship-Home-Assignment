@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Internet,Financial Services,Hospital &amp; Health Care",
+    "description": "Carrot Fertility is the leading global fertility benefits provider for employers built to make fertility care and family-forming affordable and accessible for everyone who wants or needs it. Companies use Carrot to customize a fertility benefit that provides employees financial, medical, and emotional support as they pursue parenthood, reducing healthcare costs and resulting in better clinical outcomes. We’re on the hunt for the next member of the Product Engineering Team. Carrot is constantly working to improve on processes, quality, and techniques, with the goal of producing the best product in the industry. Every step towards our mission means more people forming the family they always wanted. Carrot is built mainly with React and .NET Core. We’re interested in people from any background as long as you have a keen understanding of Object-Oriented languages and MVC experience. Founded in 2016, CB Insights recognized Carrot as one of the world's most promising private digital health companies. In 2020, Carrot was named to Fast Company’s World Changing Ideas awards program, which recognizes companies that are tackling society's biggest problems, and Carrot was named to Fierce Healthcare’s Fierce 15 List of 2021 which recognizes the most promising healthcare companies in the industry. Carrot supports 200 companies in more than 50 countries across North America, Asia, Europe, South America, and the Middle East",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T01:49:51.000Z"
+  },
+  "company": {
+    "name": "Carrot Fertility",
+    "link": "https://www.linkedin.com/company/get-carrot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer &amp; Junior Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-06-16T04:00:41.000Z"
+  },
+  "company": {
+    "name": "LGZ New Media",
+    "link": "https://uk.linkedin.com/company/lgz-new-media"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

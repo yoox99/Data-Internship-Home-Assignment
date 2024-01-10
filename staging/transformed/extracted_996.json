@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist, Insights &amp; Analytics",
+    "industry": "Computer Software,Internet,Hospital &amp; Health Care",
+    "description": "Virta is the first company with a clinically-proven treatment to safely and sustainably reverse type-2 diabetes without the use of medications or surgery. Our innovations in nutritional biochemistry, data science and digital tools combined with our clinical expertise are shifting the diabetes treatment paradigm from management to reversal. Our mission: reverse type 2 diabetes in 100 million people by 2025.  As a full stack health care company of physicians, engineers, marketers and more under one roof, Virta collects comprehensive data on our patients' experience, and leverages this data to build the next generation of health care for chronic diseases. Here at Virta, we rely heavily on Data and Analytics to demonstrate the value of the Virta Treatment to our customers (both patient outcomes and ROI). We collect and organize disparate forms of patient data from both internal and external sources (clinical data from our continuous remote care platform coupled with claims and eligibility data provided by our customers) to generate insightful reports and do complex analyses. We are looking for a data scientist with experience working with healthcare data to help us collect, organize, and analyze this data, as well as generate insights and reports that we can share with our customers.  Check out our technical blog to find out how Virta is developing the next generation of healthcare technology: Within your first 90 days at Virta, we expect you will do the following: Virta's company values drive our culture, so you'll do well if:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T05:04:29.000Z"
+  },
+  "company": {
+    "name": "Virta Health",
+    "link": "https://www.linkedin.com/company/virta-health"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 74200,
+    "max_value": 128000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

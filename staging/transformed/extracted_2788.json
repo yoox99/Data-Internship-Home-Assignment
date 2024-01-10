@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Applied Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Snap Inc. is a camera company. We believe that reinventing the camera represents our greatest opportunity to improve the way people live and communicate. Our products empower people to express themselves, live in the moment, learn about the world, and have fun together.  Snapchat is the camera used by millions of people every day to Snap with family, watch Stories from friends, see events from around the world, and explore expertly curated content from top publishers. In short, we are a passionate team working hard to build the best platform in the world for communication and storytelling.  We’re looking for a Data Scientist to join Snap Inc! As a member of the Decision Science team, you will develop rigorous approaches and state-of-the-art methodologies for a large-scale online experimentation platform, apply engineering and analytical practices to solve challenging experimentation problems at petabyte scale, establish best practices for A/B testing experimentation across the entire company, and create industry-leading causal analysis platforms for insight into highly complex product interactions across a diverse customer base. Working from our Santa Monica, CA office, you will be collaborating with engineers, data scientists, product managers, and technical leaders across the company to build a world-class systems that meets our needs. At Snap, we believe that having a team of diverse backgrounds and voices working together will enable us to create innovative products that improve the way people live and communicate. Snap is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification, in accordance with applicable federal, state, and local laws. If you have a disability or special need that requires accommodation, please don’t be shy and contact us at accommodations-ext@snap.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T00:44:26.000Z"
+  },
+  "company": {
+    "name": "Snap Inc.",
+    "link": "https://www.linkedin.com/company/snap-inc-co"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 144000,
+    "max_value": 246000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

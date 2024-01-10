@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Developer",
+    "industry": "Construction,Food &amp; Beverages,Transportation/Trucking/Railroad",
+    "description": "The Programmer/Analyst will be responsible for web application development in VB.Net or C# and experience writing queries in a relational database. This position will assist a small team of developers in coding and modifying custom business applications and reports.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:06:23.000Z"
+  },
+  "company": {
+    "name": "Performance Foodservice",
+    "link": "https://www.linkedin.com/company/performance-foodservice"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 6,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "La Crosse",
+    "region": "WI",
+    "postal_code": "54602",
+    "street_address": null,
+    "latitude": 43.808765,
+    "longitude": -91.25186
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer (SRE)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Gemini is a crypto exchange and custodian that allows customers to buy, sell, store, and earn more than 30 cryptocurrencies like bitcoin, bitcoin cash, ether, litecoin, and Zcash. Gemini is a New York trust company that is subject to the capital reserve requirements, cybersecurity requirements, and banking compliance standards set forth by the New York State Department of Financial Services and the New York Banking Law. Gemini was founded in 2014 by twin brothers Cameron and Tyler Winklevoss to empower the individual through crypto.  Crypto is about giving you greater choice, independence, and opportunity. We are here to help you on your journey. We build crypto products that are simple, elegant, and secure. Whether you are an individual or an institution, we want to help you buy, sell, and store your bitcoin and cryptocurrency. Crypto is not just a technology, it's a movement.  At Gemini, our mission is to and that includes giving our employees flexibility of choice — our Office Optional Policy allows employees to choose to work from one of our physical locations or from home. Infrastructure  Gemini’s Infrastructure team are key experts in building and operating Gemini's world class cryptocurrency exchange systems and networks, using a combination of high-speed data center equipment and cloud-hosted components. With a focus on building, automating, and scaling Gemini’s product offerings, the Infrastructure keeps a close eye on the horizon and thinks steps ahead of the company’s business needs to collaboratively build and scale its growing footprint. Site Reliability Engineer (SRE)  As a member of the team, you’ll have a hand in building innovative and robust solutions to stay ahead of our business growth. The ideal candidate is passionate about helping developers build the best products in the market, ensuring that they have the infrastructure to maintain our standards of high performance; they possess a strong sense of ownership and a desire to produce excellent results on the first try. We take a holistic approach to compensation at Gemini, which includes:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T03:00:09.000Z"
+  },
+  "company": {
+    "name": "Gemini",
+    "link": "https://www.linkedin.com/company/geminitrust"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

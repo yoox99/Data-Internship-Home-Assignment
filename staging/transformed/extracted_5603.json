@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "",
+    "description": "Data Scientist  • 5+ Years in Machine Learning (currently hands on) • Very Strong in SQL (5+ Years of hands on experience) • Strong hands-on skills on forecasting modelling • Expert in Python Machine Learning Libraries • Applied experience on Regression, Classification, Unsupervised & Optimization techniques . • Experience implementing machine learning solutions in Real Life Analytics Projects (Excluding Academic projects) • Solid fundamentals, knowledge of supervised, unsupervised, machine learning and deep learning algorithms, such as classifiers, cluster analysis, dimension reduction, regression • Experience in implementing NLP(Natural Language Processing) Solutions • Experience with Language models like BERT . • Manage requirements, create specifications • Excellent communication (written/verbal), presentation and facilitation skills • Ability to engage with business teams directly • Strong organizational skills and attention to detail • Great presentation skills • Resilient and flexible, comfortable with ambiguity, and adaptable to fast-changing environment/objectives • Good analytical and problem solving skills • Good understanding of text representation techniques (such as n-grams, a bag of words, sentiment analysis) and semantic extraction techniques.",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-23T20:44:05.000Z"
+  },
+  "company": {
+    "name": "Confidential",
+    "link": "https://au.linkedin.com/company/confidential2"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco Bay Area",
+    "region": null,
+    "postal_code": "94112",
+    "street_address": null,
+    "latitude": 37.39271,
+    "longitude": -122.042
+  }
+}

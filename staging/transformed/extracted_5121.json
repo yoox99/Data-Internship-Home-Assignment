@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Team OMG  OrderMyGear is the industry leader in technology for the team gear and promotional product space. OMG continues to push boundaries, shaping the future of group online commerce. We approach challenges as opportunities, and we are continuing to build a Team of OMG’ers who work hard, welcome change, and live out our Magic.  Come join us at OMG! You can play a pivotal role in this rapidly changing industry as we scale our platform and improve the eCommerce experience for our clients and their customers.  Our Magic  TEAM IS EVERYTHING  We Invest in Each Other  We Create Solutions  We Enjoy the Ride  EMBRACE IT. OWN IT. ALL IN.  Engineering @ OMG  As a Software Engineer, you will be part of a growing development Team and directly impact the development process and our culture. We are building our platform with tools like Docker, Kubernetes, Go, PHP, Node, React, and other exciting technologies — we believe in picking the right tool for the job.  Day in the Life What You Need Some of the Perks",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T03:35:53.000Z"
+  },
+  "company": {
+    "name": "OMG",
+    "link": "https://www.linkedin.com/company/ordermygear"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Dallas",
+    "region": "TX",
+    "postal_code": "75342",
+    "street_address": null,
+    "latitude": 32.777977,
+    "longitude": -96.79621
+  }
+}

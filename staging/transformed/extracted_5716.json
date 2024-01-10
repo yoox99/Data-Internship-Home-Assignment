@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Brand Project Manager",
+    "industry": "Architecture &amp; Planning",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:24:04.000Z"
+  },
+  "company": {
+    "name": "Gensler",
+    "link": "https://www.linkedin.com/company/gensler"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "This is a critical and exciting time at Enigma. We are hearing from repeated customers that our product is creating tremendous value for them and is aligned perfectly with their needs. This creates an urgent need to accelerate the build out of our machine learning capabilities.  We are looking for an experienced Machine Learning Engineer to join our growing team. You will play a central role in improving our entity resolution algorithms, predicting the behavior of millions of small businesses and developing our machine learning infrastructure. As a member of Machine Learning team, you will build the ML systems and infrastructure at the core of our small business data product. Your impact will be measured by the performance, testability and reliability of our ML systems.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T17:03:07.000Z"
+  },
+  "company": {
+    "name": "Enigma Technologies, Inc.",
+    "link": "https://www.linkedin.com/company/enigma-technologies-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

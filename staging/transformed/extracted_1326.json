@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "SchoolMint is the leading SaaS platform driven by our mission to help educators create bright, more sustainable futures. We offer powerful products that help schools run smarter enrollment management and student behavior management.  We are a fast-growing and established EdTech company rooted strongly in our core values: No Jerks, Period; We, Not Me; Be Heroic; Bring Your Whole Self to Work; Embrace and Drive Change. We take these seriously. At SchoolMint we live what we preach and embody values that empower us to delight our customers with award-winning products and top-notch customer service SchoolMint is actively searching for a Technical Service Engineer to provide proactive and reactive technical assistance to our internal and external customer base. The Technical Service Engineer has to be a polished communicator who is inherently interested in solving complex problems and delivering a high level of customer satisfaction with every customer interaction.  The Technical Service Engineer should be comfortable living in both the Software Engineering and Support environments; translating internal Engineering-speak into clear concise directions for customers and vice-versa. You will be working on custom software developments, based on specific client needs. This role will report to the VP of Professional Service, but will also work collaboratively across our Customer Success, Product, Engineering and Sales teams.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T17:20:59.000Z"
+  },
+  "company": {
+    "name": "SchoolMint",
+    "link": "https://www.linkedin.com/company/schoolmint"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 53300,
+    "max_value": 82800,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Lafayette",
+    "region": "LA",
+    "postal_code": "70506",
+    "street_address": null,
+    "latitude": 30.22126,
+    "longitude": -92.018776
+  }
+}

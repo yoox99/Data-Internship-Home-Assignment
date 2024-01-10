@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer III",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "Walmart's Asset Optimization team aims to build tools and technologies that will enable our business users to manage resources across our entire fleet of stores, from HVAC units to freezers throughout. As a part of this team, you will get to build highly scalable and reliable services which will bring Walmart’s stores on to the cloud leveraging IoT. Ample knowledge of Javascript language  Expertise in React 15+: class components, functional components, hooks, components design for modularity;  Redux: for global state, thunks for async actions, and middlewares;  React Router  Webpack bundler configurations;  Jest for unit testing  Responsive design Experience with Docker containers and Kubernetes  Experience with Redis Cache  Experience with IoT Hubs and Edge Modules  Microfrontend with Webpack and Module Federation  Cypress for integration testing  Knowledge of React Query library  Knowledge of React Hook Form  Docker Bachelor’s degree in Computer Science and 2 years’ experience in software engineering or related field OR 4 years’ experience in software engineering or related field. Preferred Qualifications... Masters: Computer Science Primary Location...5830 GRANITE PKWY, PLANO, TX 75024, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-31T00:33:30.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Plano",
+    "region": "TX",
+    "postal_code": "75093",
+    "street_address": null,
+    "latitude": 33.019695,
+    "longitude": -96.697586
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-05T23:00:25.000Z"
+  },
+  "company": {
+    "name": "Sigmaways Inc",
+    "link": "https://www.linkedin.com/company/sigmaways"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Bruno",
+    "region": "CA",
+    "postal_code": "94067",
+    "street_address": null,
+    "latitude": 37.627277,
+    "longitude": -122.416145
+  }
+}

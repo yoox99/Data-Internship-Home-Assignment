@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Financial Services,Capital Markets,Investment Banking",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T15:01:40.000Z"
+  },
+  "company": {
+    "name": "Morgan Stanley",
+    "link": "https://www.linkedin.com/company/morgan-stanley"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

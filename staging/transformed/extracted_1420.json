@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist / Machine Learning- Engineer",
+    "industry": "Information Technology and Services",
+    "description": "Hewlett Packard Enterprise (HPE) advances the way people live and work. We bring together curious minds to create breakthrough technology solutions, helping our customers make their mark on the world.  At HPE Global IT we provide consulting, financial, educational, and operational services to support our customers’ digital transformation. Create history in an ever-evolving industry and help our customers create their future too. Join us, and make your mark.  Are you looking for a unique, truly innovative role? What if it could be with one of the most impactful IT companies in the world? Then we have the right opportunity—we are looking for a Data Scientist with a passion for Machine learning join us! In this amazing role, you will be a key member of a growing and passionate team focused on collaborating across business and technology resources to drive forward key programs and projects leading key transformations across Hewlett Packard Enterprise. If you have a track record and a passion for machine learning, want to be part of a business that is growing—with great opportunities, and are ready for your next role, then please apply today. Lead development of ML business use cases that identify target actionable insights and inferences, manage risks and impacts on stakeholders Candidates must have a degree in computer science, statistics, mathematics, physics, or related quantitative field; Master’s degree or higher preferred. 5 – 7 years of experience developing and deploying machine learning / statistical models. Extensive benefits, a competitive salary and participation in the shared values and purpose that make Hewlett Packard Enterprise one of the world´s most attractive employers! At HPE, our goal is to provide equal opportunities, flexible work-life balance, and constantly evolving career growth.  If you are looking for challenges in an exciting, supportive and international work environment, then we definitely want to hear from you. Continue the conversation by clicking apply now below, or directly via our Careers Portal at . https://www.facebook.com/HPECareers  https://twitter.com/HPE_Careers  HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT and Affirmative Action employer. We are committed to diversity and building a team that represents a variety of backgrounds, perspectives, and skills. We do not discriminate and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global diverse team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together.  #GlobalIT  #GlobalITUS  1081525  HPE is an equal opportunity employer/Female/Minority/Individual with Disabilities/Protected Veteran Status",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-20T13:12:31.000Z"
+  },
+  "company": {
+    "name": "Hewlett Packard Enterprise",
+    "link": "https://www.linkedin.com/company/hewlett-packard-enterprise"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77900,
+    "max_value": 161000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Houston",
+    "region": "TX",
+    "postal_code": "77208",
+    "street_address": null,
+    "latitude": 29.760803,
+    "longitude": -95.36951
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Greenroom",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Spotify is a global community of over 250 million music fans, artists, and now podcasters. It's always been our mission to make audio more accessible for everyone, and create innovative ways for creators and fans to connect with each other.  Creation Platform is the team within Spotify responsible for building the best tools for audio creators. We have three platforms that help us deliver a great creator experience: Anchor (the platform that allows you to create, distribute, monetize, and grow a podcast, all for free), Spotify for Podcasters (the platform that makes it easy to understand and engage with your listeners on Spotify, and Greenroom (the platform that allows anyone to stream or listen to live audio).  We've done a lot already, and we have no plans of slowing down. Come help us build the future of audio creation! As announced in our recent acquisition of Locker Room, Spotify is accelerating its entry into the live audio space across a range of sports, music, and cultural programming. With this live audio platform, Spotify will redefine the way fans connect with digital taste-makers through highly-relevant, reactionary live content, and put the power to quickly and easily build spontaneous, interactive conversations in the hands of millions of emerging voices worldwide.  As an SRE on our engineering team, your mission will be to ensure the reliability, security, and scalability of systems that will impact millions of users, and be a key driver of the team's technical and operational excellence.  Additionally, an SRE will optimize existing systems, build infrastructure, and eliminate work through automation.  We promote self-direction to work on meaningful projects, while we also try to create an environment that provides the support and mentorship needed to learn and grow. Spotify is an equal opportunity employer. You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be forward-thinking! So bring us your personal experience, your perspectives, and your background. It’s in our differences that we will find the power to keep revolutionizing the way the world listens.  Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the chance to enjoy and be passionate about these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service with a community of more than 345 million users.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-19T03:12:08.000Z"
+  },
+  "company": {
+    "name": "Spotify",
+    "link": "https://se.linkedin.com/company/spotify"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 60400,
+    "max_value": 90700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

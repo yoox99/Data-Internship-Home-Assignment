@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "lead site reliability engineer- Starbucks Technology",
+    "industry": "Consumer Goods,Food &amp; Beverages,Retail",
+    "description": "If you’ve got what it takes to help transform one of the most iconic brands in the world into a lean, efficient and highly automated platform, we’d like to talk to you.  As a Lead Site Reliability Engineer - Starbucks Technology, you will be responsible for engineering solutions to address day-to-day maintenance, administration, and reliability of Internet-based enterprise systems. On an ongoing basis, this position will identify root causes of operational issues in order to resolve them. As required, this position will help engineering teams improve quality, reduce time to market, and make web applications faster and more reliable.  This role requires your A-Game: deep technical proficiency in both enterprise-scale systems as well as next gen cloud native applications are required. So, if you believe, like we do, that a cup of coffee can change a life and change our world, come check us out and help us deliver that same amazing experience to our customers around the globe. Models and acts in accordance with Starbucks guiding principles. Has a relentless focus on the customer. Understands what the customer wants and how to best deliver the experience. Listens and communicates well with others within and outside of Starbucks. Creates a team environment that is positive and productive. : Takes personal responsibility to do the right thing and persists in times of challenge or uncertainty. Adapts quickly to change and makes timely, thoughtful decisions. Continuously seek opportunities to improve self and others. Leads with trust, honesty and commitment to hire, coach and develop partners to achieve their potential. Understands what drives overall business success and is accountable to prioritize and deliver quality results. Demonstrates knowledge of core products and processes to get results. Anticipates obstacles and takes action to prevent or minimize their impact.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T06:09:45.000Z"
+  },
+  "company": {
+    "name": "Starbucks",
+    "link": "https://www.linkedin.com/company/starbucks"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 84200,
+    "max_value": 144000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

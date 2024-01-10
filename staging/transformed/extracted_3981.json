@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Web Developer",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:34:00.000Z"
+  },
+  "company": {
+    "name": "1Point21 Interactive",
+    "link": "https://www.linkedin.com/company/1point21-interactive"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Orlando",
+    "region": "FL",
+    "postal_code": "32817",
+    "street_address": null,
+    "latitude": 28.589708,
+    "longitude": -81.24801
+  }
+}

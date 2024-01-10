@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "AI/ML - Senior Site Reliability Engineer - Observability, Siri Search, Knowledge &amp; Platform",
+    "industry": "Consumer Electronics",
+    "description": "The Senior Site Reliability Engineer will be a key member of the over-arching Siri Production Engineering team which is focused on scaling and re-tooling the observability platform across Siri’s technology stack. You will be working alongside other engineering and support teams at Apple, and your experience in logging, metrics, and synthetic tracing will be critical in this role. This is a leadership role for someone prepared to inspire change in long-standing systems and practices. 6+ years experience running high availability systems and supporting distributed infrastructure!   Expertise in application instrumentation and monitoring with open-source monitoring tools such as Graphite, Grafana, Prometheus etc.   Proficiency with one or more modern programming languages!   Expert understanding of Linux systems, high and low level.   Advanced knowledge of application, data, and infrastructure architecture disciplines   Experience in NoSQL, Kafka (pub/sub), and time-series databases with large volumes of data.   Understanding of architecture and design across all systems.   Proficiency in one or more technology domains with a proven track record as a cross-domain expert able to solve complex and mission-critical problems.   Knowledge of industry-wide technology trends and best practices and experience influencing the industry.   Understanding of software skills such as business analysis, development, maintenance, and software improvement.   Passionate about building great products that address real problems.   Outstanding communication and presentation skills, written and verbal. Excellent listening skills and a high degree of empathy.   Ability to work in large, collaborative teams to achieve organizational goals. Passionate about building an innovative and inclusive culture. -  Provide architectural guidance to improve and optimize Siri’s observability stack.   -  Troubleshoot, diagnose and resolve performance and reliability issues affecting the observability infrastructure.   -  Identify gaps in the observability of Siri’s software and design solutions to fill those gaps.   -  Build dashboards to provide insights and visibility into critical business metrics for a variety of audiences from engineering leaders to senior executives.   -  Design and develop solutions that deliver value for Siri’s internal customer teams.   -  Participate in incident reviews to create improved alerts for detection and potential proactive mitigation.   -  Build relationships across the Apple’s AI/ML organization, educating teams on the right way to drive instrumentation.   -  Partner with Engineering and SRE teams to improve process, automate and enhance incident response focussed on maintaining and improving SLA’s.   -  Build a practice of observability ownership that provides guidance and tools for Siri’s teams.   -  Understand the nature of Siri’s customer interactions and value privacy as a core tenet of the infrastructure. -  BS/MS EE/CS/CE or equivalent in areas, such as computer science, electrical engineering, and data sciences. Strong plus for candidates with MS/MBA with a focus on data science, AIML, and software engineering    Role Number: 200219799",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:33:20.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

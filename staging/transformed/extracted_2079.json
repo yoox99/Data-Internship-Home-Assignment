@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Test Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "As part of , the group is a diverse team of world class silicon engineers. We have 100+ years of cumulative hands on experience in architecture, logic design, verification, physical design, emulation and firmware . We use the latest silicon technologies and processes to help our clients create well-designed solutions to highly complex challenges. We are designing and developing next-generation, high performance SoCs, supporting our clients in their drive to deliver their product vision to their users. We are involved in all aspects of chip design from definition and architecture through to verification and signoff. Accenture engineers are true “Silicon to SW” Partners, allowing a new breed of companies in the semiconductor ecosystem to innovate in an unparalleled time to market.  Whether at our Silicon Design Center in Phoenix or at one of our other locations you will get to collaborate and innovate with the world’s leading product development companies. In our dynamic fast-paced environment you will get to make the impossible possible.  Accenture is invested in our team member’s growth and provide many opportunities for training and skills expansion.  This position will focus on development of test infrastructure and executing/integration of embedded software tests for silicon development platforms.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:13:16.000Z"
+  },
+  "company": {
+    "name": "Accenture",
+    "link": "https://ie.linkedin.com/company/accenture"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

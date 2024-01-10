@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Legal Data Analyst",
+    "industry": "Financial Services,Information Services,Information Technology and Services",
+    "description": "Thinking about an alternative legal career? Bloomberg Law offers an opportunity to advance and develop your legal career through a distinctive, non-traditional path. This role allows you to blend your passion for the law with technology, business, and data analysis. Bloomberg Law is dependent upon our legal data analysts to use their legal domain knowledge, critical thinking and strategic approach to build excellent products.  As a member of the Legal Data Analysis team, you will align closely with both our business and engineering teams to help drive product development and ensure data accuracy in Bloomberg Law\"s initiatives. We apply our robust legal domain knowledge, project management skills and sharp attention to detail to annotate, analyze and evaluate legal datasets including court opinions, court briefs and contractual provisions. The team's work is critical in supporting feature developments that use artificial intelligence and machine learning including Points of Law, Brief Analyzer and Draft Analyzer. This role will give the opportunity to display your enthusiasm, problem-solving and organizational skills, ability to collaborate, and flexibility in pivoting between projects in a fast-paced environment. This position can be located in either New York or Princeton NJ. Apply if you think we're a good match. We'll get in touch to let you know what the next steps are.  Bloomberg is committed to diversity. It drives our innovation. At Bloomberg, you'll have the opportunity to go above and beyond and to take risks. You'll be a part of an organization that is entering new markets, launching new ventures, and pushing boundaries. Our ever-expanding array of technology, data, news, and media services champions innovation and empowers clients -- and offers nearly limitless opportunities for career growth.  We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We bring out the best in each other.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-20T06:11:12.000Z"
+  },
+  "company": {
+    "name": "Bloomberg LP",
+    "link": "https://www.linkedin.com/company/bloomberg-lp"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

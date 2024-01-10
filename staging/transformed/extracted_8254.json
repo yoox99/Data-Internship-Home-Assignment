@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Hello,   Greetings!   This is Akash Kumar from VBeyond Corp.  We are a global recruitment company with specialization in of hiring of IT professionals.  One of our clients is looking for Sr. Site Reliability Engineer in 100% REMOTE    Title : Sr. Site Reliability Engineer  Location : 100% REMOTE  Full time    Job Description :   •             Multi-Cloud operations and support following industry best practices (e.g. AWS Well-Architected Framework) and direct experience in at-scale administration, troubleshooting, and issue remediation in Public and Regulated Cloud Environments (AWS, AWS GovCloud, GCP, Azure, Azure-Jedi) •             3+ years CI/CD and Infrastructure Automation Experience with common platforms (Jenkins, Spinnaker, GitOps) and scripting (Terraform, Pulimi, CloudFormation, Ansible, Helm, Python) •             Self-motivated individual who is interested in expanding their knowledge and skillset while improving on processes, procedures, and approaches that benefit the organization •             A thoughtful individual who strives to find the best possible solutions to problems and the follow-through to see them from idea to execution •             Reliable team player, yet able to work independently, with strong interpersonal and communication skills.  •             At least 2 years of hands-on experience in Docker & Kubernetes, familiarity with KOPS is an advantage •             Experience with Big Data domain technologies such as HDFS, S3, BSpark, BFlink, Presto, Kafka is essential, and deep knowledge is a strong advantage •             Team player, yet able to work independently, with interpersonal and communication skills.  I would appreciate if you could reach out on my below mentioned contact coordinates, should the position be of interest to you.  Have a great day ahead!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-14T21:28:57.000Z"
+  },
+  "company": {
+    "name": "VBeyond Corporation",
+    "link": "https://www.linkedin.com/company/vbeyond-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

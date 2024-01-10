@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Lead Software Quality Assurance Engineer (Remote Option Available)",
+    "industry": "Information Technology and Services,Computer Software,Hospital &amp; Health Care",
+    "description": "Altarum, a nonprofit systems research and consulting organization serving government and private sector clients, is pleased to announce an opening for a Lead Software Quality Assurance Engineer within the Center for Connected Health. The Center for Connected Health advances population health management and healthcare delivery through the development of novel applications and health information exchange and interoperability solutions.  This position in conjunction with team members, will develop and implement quality assurance standards and measures within the project. This role is responsible for writing test plans, creating and executing both functional and automated tests, for tracking defects and fixes and reporting the progress of each. The Analyst will apply proven analytical and problem-solving skills to help validate IT processes through careful testing in order to maximize the benefit of business investments in IT initiatives.  This is a W-2 position that will be dedicated to working on one of our cutting-edge projects to revamp a public health disease surveillance system that is anticipated to end in December 2022. Altarum Institute (Altarum) is a nonprofit organization headquartered in Ann Arbor, Michigan. We improve the health of at-risk and disenfranchised populations by building better systems of care and empowering all people to make well informed health decisions. Public sector clients include the U.S. Department of Defense, Department of Health and Human Services, Department of Agriculture, Department of Veterans Affairs, and various state agencies nationwide. Altarum also serves clients in the philanthropic and private sectors. Areas of expertise include military health, women’s health, behavioral health and substance use disorders, health disparities and equity, continuing medical education and quality improvement, eldercare, public health interoperability, and disease surveillance.  In addition to the meaningful and challenging work, Altarum offers an outstanding benefits program that includes paid time off, tuition reimbursement, 401k (5% employer contribution), a flexible work environment, and much more. We invite you to explore exciting and rewarding career opportunities with us.  Altarum provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:46:58.000Z"
+  },
+  "company": {
+    "name": "Altarum",
+    "link": "https://www.linkedin.com/company/altarum"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

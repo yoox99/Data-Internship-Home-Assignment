@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Cloud",
+    "industry": "Computer Hardware,Computer Software,Consumer Electronics",
+    "description": "Site Reliability Engineer is responsible for ensuring that all of NVIDIA’s Digital Marketing Services are reliable, fast and efficient, all the time. The person in this position will be responsible for the managing and improving AWS Infrastructure, scripting and Datadog platform management. SRE will have all the existing tools and software at fingertips to dedicatedly help monitor the Platform and Services. In addition, SRE will assist in the development or improvement of new monitoring and alerting tools, tests plan, updates to existing infrastructure, and further automate our deployment pipeline. The ideal candidate will be encouraged to act and respond to urgent issues and outages (globally and regionally), validating the deployment process, tackle issues in the field, and most significantly communicate current status to both internal and external stakeholders. NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing — with the GPU acting as the brains of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company and build our teams with the smartest people in the world. Join us at the forefront of technological advancement.  With competitive salaries and a generous benefits package, NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most brilliant and talented people in the world working for us and, due to unprecedented growth, our outstanding engineering teams are rapidly growing. If you're a creative and autonomous engineer with a real passion for technology, we want to hear from you.  NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T17:08:32.000Z"
+  },
+  "company": {
+    "name": "NVIDIA",
+    "link": "https://www.linkedin.com/company/nvidia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Santa Clara",
+    "region": "CA",
+    "postal_code": "95050",
+    "street_address": null,
+    "latitude": 37.352394,
+    "longitude": -121.95308
+  }
+}

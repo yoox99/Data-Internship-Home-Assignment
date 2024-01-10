@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - JavaScript (Angular, React, Node.js)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "If you are a Software Engineer with strong JavaScript (Angular, React, NodeJS) experience, please read on! Software Engineer - JavaScript (Angular, React, Node.js) New York City, NY - we're on East 42nd Street just 2 blocks from Grand Central Terminal! $100K - $140K base salary Depending on Experience  The problems we are solving are challenging and interesting and our solutions have an immediate impact on students and staff at urban schools in NYC. We are looking for an engineer excited about public service and the prospect of joining a fun and growing team in an open, collaborative, and diverse environment.  Top Reasons to Work with Us What You Will Be Doing Our new team member will help build, test and maintain our school management platform built on Angular, Node.js, and MongoDB, supplemented by RXJS, Typescript, GraphQL, PostgreSQL, and other technologies. -Candidates must be willing to work in Manhattan when offices reopen-  What You Need for this Position  Bachelor's Degree with at least 2+ years (4+ years preferred) of work experience in a production software engineering environment. So, if you are a Software Engineer looking to join a great team, apply today! or send an updated copy of your resume to for immediate consideration! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Mike.Vandenbergh@Optello.com Mike Vandenbergh - Lead Recruiter - Optello  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:16:43.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

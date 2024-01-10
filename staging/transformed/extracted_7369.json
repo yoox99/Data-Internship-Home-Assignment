@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "The Traffic and Marketing Tech Cross-Channel Marketing Engagement (XCME) team seeks a Data Scientist to build new tools to measure and learn how customers react to the marketing they interact with across the various automated marketing channels (email/nudges/affiliate marketing/influencers/on-site publishers/search engine and social media ads) over time, and use this information to personalize our outreach to customers – in terms of modality, timing, frequency, and eventually even the messaging and UX we employ. Our goal is to improve customers’ experience with marketing across channels, improve conversion rates, and generate cross-channel marketing strategies for specific use cases.  As a Data Scientist in the XCME team, you will be working with business stakeholders, product/program managers, developers and executives to deeply understand customer problems and priorities. You will form hypotheses, analyze the corpus of customer marketing engagement data using statistical methods, build predictive and causal models, and generate recommendations to address a range of opportunities across the TMT organization. You will be comfortable with big data systems, intimately familiar with machine learning and statistical methods, and experienced in applying these to solve business problems. You will have a strong bias towards customer obsession and delivering results while dealing with ambiguity in fast-paced dynamic environments.  The ideal candidate should have excellent communication skills to work closely with stakeholders to translate business needs into methodology and data-driven findings into actionable insights. The successful candidate will be a self-starter comfortable with ambiguity, with strong attention to detail, and ability to work in a fast-paced and ever-changing environment.  Roles and Responsibilities This role can be based in Seattle or NYC. Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us. - Amazon.com Services LLC  Job ID: A1715087",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-07T22:28:27.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 66300,
+    "max_value": 98000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "IT Project Manager",
+    "industry": "",
+    "description": "Computer Enterprises, Inc. is looking for a strong Project Manager who has a background in software development and has the ability to lead development teams.  CEI’s Managed Services practices focuses on long-term support efforts across development, testing and infrastructure management arenas.  Our practices seek to bring the right pricing model by extending our solutions across our delivery centers in the US, India, Peru, and Spain.    Responsibilities will include the following: •\tPersonal billing (as Project Manager) commensurate with size of practice / pipeline •\tManage (and hiring) team members within geographic area •\tTraining, certification, and productivity of team members •\tAssist local sales group with growing the practice through pre-sales support (technical credibility, assessments, qualification) •\tProposal management and development: verify approach, create estimates, plan, marketing •\tTeam member scheduling (works with PMs / other Ops Dirs / VP) •\tP&L review and oversight for the delivery group in the region  Desired Skills: •\tPrevious experience managing offshore delivery teams •\tAs at least 8 years’ experience as a project manager •\tThe ability to navigate conflict, errors, and unexpected roadblocks with poise and purpose. •\tExposure to application management and ITIL •\tMust be a team leader people are inspired to follow •\tEager to grow our service offering",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:27:44.000Z"
+  },
+  "company": {
+    "name": "Computer Enterprises, Inc.",
+    "link": "https://www.linkedin.com/company/cei-ceiamerica-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

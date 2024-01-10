@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Tech Lead Software Engineer",
+    "industry": "Consumer Goods",
+    "description": "Job Title: Lead Software Engineer Salary: $130-180K Total comp (this includes a 7-10% bonus) Location: Onsite San Diego or Tuscon with relocation provided if necessary  What You Will Be Doing  The Sr. Tech Lead Software Engineer will be for our growing mobile application and server team and will focus on the continued expansion of cloud services and related technologies to guide us into the future of internet-connected home automation systems. Your day to day activities will include tracking current development tasks internal and external as well as identifying upcoming requests and converting requirements into detailed specifications for implementation.  What You Need for this Position So, if you are a Lead Software Engineer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Ashley.Upchurch@CyberCoders.com Ashley Upchurch - Lead Recruiter - CyberCoders  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-31T07:18:20.000Z"
+  },
+  "company": {
+    "name": "CyberCoders",
+    "link": "https://www.linkedin.com/company/cybercoders"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego",
+    "region": "CA",
+    "postal_code": "92161",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

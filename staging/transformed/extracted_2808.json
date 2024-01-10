@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Defense &amp; Space,Telecommunications",
+    "description": "Bigger challenges. Bolder ideas. Global impact. At Viasat, we’re on a mission to deliver connections with the capacity to change the world. We’re the company behind the world’s fastest satellite internet service, with technology that’s helping to bridge the digital divide and improve life for our customers around the globe. By providing powerful new ways for people to connect with one another, gain greater access to education, entertainment, medical research, commerce, and much more, our team is empowering millions of customers worldwide.  We’re looking for passionate, innovative professionals to join our team and connect the world to more. You’ll work in a collaborative and inclusive environment that values diverse perspectives and continuous learning, and provides industry-leading benefits with unmatched opportunities for career growth. Our team is fearless in pursuit of new ideas and uncompromising in our quest to become the world’s first truly global Internet Service Provider. Interested in joining our mission? Take a look at career opportunities at Viasat today.  Job Responsibilities  The Customer Engineering team is a group of highly technical engineers who are tasked with maintaining and developing the reliability, scalability and performance of the Service to different Enterprise Customers . The Customer Engineering Team is empowered to drive technical resolutions across the technology stack from hardware through to application and all stops in between. Team is also responsible to build and maintain Alerts to proactively monitor the service. Team acts as the technical Liaison between Customer facing teams and the Engineering teams. Preferences ______  To learn more about this site and other office locations, please click !",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T06:20:20.000Z"
+  },
+  "company": {
+    "name": "Viasat Inc.",
+    "link": "https://www.linkedin.com/company/viasat"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Carlsbad",
+    "region": "CA",
+    "postal_code": "92010",
+    "street_address": null,
+    "latitude": 33.16604,
+    "longitude": -117.33793
+  }
+}

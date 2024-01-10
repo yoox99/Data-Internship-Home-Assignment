@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Consumer Services,Financial Services,Information Technology and Services",
+    "description": "As the world's leader in digital payments technology, Visa's mission is to connect the world through the most creative, reliable and secure payment network - enabling individuals, businesses, and economies to thrive. Our advanced global processing network, VisaNet, provides secure and reliable payments around the world, and is capable of handling more than 65,000 transaction messages a second. The company's dedication to innovation drives the rapid growth of connected commerce on any device, and fuels the dream of a cashless future for everyone, everywhere. As the world moves from analog to digital, Visa is applying our brand, products, people, network and scale to reshape the future of commerce.  At Visa, your individuality fits right in. Working here gives you an opportunity to impact the world, invest in your career growth, and be part of an inclusive and diverse workplace. We are a global team of disruptors, trailblazers, innovators and risk-takers who are helping drive economic growth in even the most remote parts of the world, creatively moving the industry forward, and doing meaningful work that brings financial literacy and digital commerce to millions of unbanked and underserved consumers. an Individual. the team for you. , let's transform the way the world pays. The Site Reliability Engineering (SRE) is a critical part of our Visa Cloud platform strategy. As an Site Reliability Engineer, you have a mindset to maximize system availability through both proactive and reactive means: you build robust technical support and automation to eliminate or minimize incidents, as well as investigate and resolve issues in response to live incidents. You are comfortable working with software engineering teams and supporting their demanding needs to ensure the security, availability and performance of the platform. You will join an established Cloudview - Site Reliability Engineering team. Incumbent must make themselves available during core business hours. This position requires the incumbent to travel for work 5% of the time. This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers, reach with hands and arms, and bend or lift up to 25 pounds.  Visa is an EEO Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.  Job Number: REF32890L",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-18T21:21:43.000Z"
+  },
+  "company": {
+    "name": "Visa",
+    "link": "https://www.linkedin.com/company/visa"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78745",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

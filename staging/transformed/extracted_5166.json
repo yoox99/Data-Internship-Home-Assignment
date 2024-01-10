@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Known is a modern marketing company engineered to meet the unprecedented challenges and opportunities facing marketers today. We are setting a new standard by pairing data scientists with award-winning creatives, expert research teams, and strategists to deliver clients the most advanced, end-to-end solutions they need, in the most efficient, effective, and transparent ways. Anchored by two decades of groundbreaking market research and data science, we provide brands with consumer intelligence, strategy, media planning and buying, and renowned creative in all media, producing some of the most innovative, cutting-edge work in culture today. With offices in New York, Boston, Austin, Los Angeles and Seattle, we are a community of 300+ extraordinarily talented people, working as one team to help our clients succeed. Known’s Data/Media Science team uses advanced analytics, machine learning, statistics, and algorithms to plan and optimize our client’s advertising and media dollars. We partner with our clients to translate their business goals into meaningful metrics, and buy media across all channels to drive those target outcomes. We are looking for a Data Scientist to join the team and work alongside other data analysts, data scientists, and software engineers.  Data Scientists at Known have a diverse set of responsibilities which go beyond traditional technical disciplines like machine learning. This includes business strategy, client-facing engagement, and quantitative solution design. Known is an equal opportunity employer and does not discriminate against employees or qualified job applicants on the basis of race, color, sex, age, national origin, religion, sexual orientation, gender identity and/or expression, status as a veteran, and basis of disability or any other federal, state or locally protected class.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T23:12:36.000Z"
+  },
+  "company": {
+    "name": "Known",
+    "link": "https://www.linkedin.com/company/knownis"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cambridge",
+    "region": "MA",
+    "postal_code": "02239",
+    "street_address": null,
+    "latitude": 42.36525,
+    "longitude": -71.10502
+  }
+}

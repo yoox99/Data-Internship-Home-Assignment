@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "About the Role:  Finicity is recognized as a pioneer and leader in Financial Data Access, FinTech, Data Science and Decisioning. Consumers should have full transparency and control of their Financial Data. Finicity expands financial inclusion and increases financial and data literacy.  Finicity’s Intelligent Machine Services teams focus on Intelligent Decisioning; Financial Certainty; Attribute, Feature, and Entity Resolution; Payment Intelligence and much more. Join our team to make an impact across all sectors of the economy. Check out Experian Boost, UltraFICO and other Open Banking initiatives for more!  As a Machine Learning Engineer, you will bring expertise to advance our team’s Production Data Science Models for internal and external client-facing edge-services. This team is changing industries with advanced Data Science and AI enabled financial interactions.  Finicity’s solutions provide Intelligence and real-time access to Financial data. Mastercard has recently acquired Finicity.  What you will do:  As a Machine Learning Engineer, you will empower consumers and create business value. You will deploy solutions and design models for Financial Institutions, FinTechs, Small and Medium Sized Businesses, Large Enterprises, Consumers and even Government Agencies and related Ecosystems. In this role, you will focus on Payment Intelligence, building the next generation of tools to make financial transactions simpler and safer for Consumers, Banks, and Businesses. You may also contribute to other solutions including lending, decisioning, financial management, and payment services. The underlying services are Settlement Confidence, Verification Services, Entity Resolution, Attribute and Temporal Analysis and more. Ideally, the Machine Learning Engineers will have deep technical and domain expertise across multiple domains. Examples of our domains include Positive Attribution for Credit/Risk Scores, Decision Science in Lending, Optimization of Payment Streams, and a suite of services for Financial Institutions and FinTechs that enable consumers to transact in refined and innovative ways. Preferred qualifications include: About Finicity: Powered by JazzHR  qkqy2Uabtg",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T07:46:37.000Z"
+  },
+  "company": {
+    "name": "Finicity, a Mastercard Company",
+    "link": "https://www.linkedin.com/company/finicity"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

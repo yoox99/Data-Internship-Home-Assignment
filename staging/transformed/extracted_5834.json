@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr Test Engineer.",
+    "industry": "Hospital &amp; Health Care,Medical Devices,Pharmaceuticals",
+    "description": "Ethicon Endo Surgery, Inc., a member of Johnson & Johnson's Family of Companies, is currently recruiting for a Senior R&D Test Engineer, located in Cincinnati, OH.  Ethicon, part of the Johnson & Johnson Medical Devices Companies, has made significant contributions to surgery for more than 60 years from creating the first sutures, to revolutionizing surgery with minimally invasive procedures. Our continuing dedication to Shape the Future of Surgery is built on our commitment to help address the world's most pressing health care issues and improve and save more lives. Through Ethicon's surgical technologies and solutions including sutures, staplers, energy devices, trocars and hemostats and our commitment to treat serious medical conditions like obesity and cancer worldwide, we deliver innovation to make a life-changing impact. For more information, visit www.ethicon.com.  Our team of engineers, designers, and technical specialists are in the forefront of technology in the medical device industry. Working in the reliability development lab, you will collaborate with medical device design engineers to provide mechanical and electro-mechanical testing expertise insuring timely completion of projects and providing resolution of test related issues. United States-Ohio-Cincinnati-4545 Creek Road Ethicon Endo Surgery Inc (6041) R&D 2105956498W",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:32:11.000Z"
+  },
+  "company": {
+    "name": "Johnson &amp; Johnson",
+    "link": "https://www.linkedin.com/company/johnson-&amp;-johnson"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cincinnati",
+    "region": "OH",
+    "postal_code": "45241",
+    "street_address": null,
+    "latitude": 39.1037,
+    "longitude": -84.51361
+  }
+}

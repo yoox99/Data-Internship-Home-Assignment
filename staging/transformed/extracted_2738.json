@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer, Linux",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "Square builds common business tools in unconventional ways so more people can start, run, and grow their businesses. When Square started, it was difficult and expensive (or just plain impossible) for some businesses to take credit cards. Square made credit card payments possible for all by turning a mobile phone into a credit card reader. Since then Square has been building an entire business toolkit of both hardware and software products including Square Capital, Square Terminal, Square Payroll, and more. We’re working to find new and better ways to help businesses succeed on their own terms—and we’re looking for people like you to help shape tomorrow at Square. The Client Platform Engineering team owns the management of the devices Squares use every day to develop remarkable solutions. This platform includes the laptops, desktops, and mobile devices used by Squares, as well as the services that allow us to onboard new Squares, and to keep those devices healthy, and secure.  You will help build platform automation, configuration management, and service administration. You have a knowledge of LinuxOS toolsets, and has proven experience managing the life cycle of employee device fleets. You will collaborate within your team, and peer teams, contributing code, discussing design decisions, and developing new tooling. There will be autonomy to oversee projects from end to end which includes: architecting solutions, writing and presenting peer-reviewed design documents, and overseeing the deployment and support of all platform services. At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance(at)squareup.com. We will treat your request as confidentially as possible. In your email, please include your name and preferred method of contact, and we will respond as soon as possible. At Square, we want you to be well and thrive. Our global benefits package includes:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-26T18:20:53.000Z"
+  },
+  "company": {
+    "name": "Square",
+    "link": "https://www.linkedin.com/company/joinsquare"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 143000,
+    "max_value": 247000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

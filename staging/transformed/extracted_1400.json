@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Our team vision is simple: We want to provide the best product imagery in the industry to empower customers to make informed purchasing decisions. We develop the systems that enable the business to collect, evaluate, and present high-quality photos to customers at scale. We partner with many different teams across Amazon, and apply a mix of workflows, image processing, computer vision, and machine learning to solve problems at Amazon scale. We continually innovate to detect the images we don’t want customers to see, ensure the best images we have are the ones we show, and predict what the next generation of ideal product imagery should look like.  Imaging Quality offers a dynamic workplace that is fueled by innovation and passionate collaboration in a highly multidisciplinary team. We take pride in developing cutting-edge technologies and products that are optimized for the best customer experience. Through technology, we seek to constantly increase the quality of photos, videos, and other visual media, to lower the cost of curating content, and to create innovative imaging products.  As a Machine Learning Engineer you will work side-by-side with science and engineering teams to build automation and image processing technology at scale. Your work will enable models to get to market faster, automate the evaluation and improvement of ML results, and multiply the impact the entire team will have on behalf of our customers. - Amazon.com Services LLC Job ID: A1561557",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T13:38:43.000Z"
+  },
+  "company": {
+    "name": "Amazon",
+    "link": "https://www.linkedin.com/company/amazon"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80900,
+    "max_value": 169000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

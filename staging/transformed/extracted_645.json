@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Computer Software,Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T21:48:36.000Z"
+  },
+  "company": {
+    "name": "In Time Tec",
+    "link": "https://www.linkedin.com/company/in-time-tec"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boise",
+    "region": "ID",
+    "postal_code": "83712",
+    "street_address": null,
+    "latitude": 43.61579,
+    "longitude": -116.20158
+  }
+}

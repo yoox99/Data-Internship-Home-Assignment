@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "iptiQ is a risk tech start-up within Swiss Re Group. Swiss Re is one of the world’s leading providers of reinsurance, insurance and other forms of insurance-based risk transfer. We anticipate and manage a wide variety of risks, from natural catastrophes and climate change to cybercrime.  iptiQ provides digital, bespoke and transparent L&H and P&C protection products in a B2B2C manner. Founded in 2014, we're transforming the way consumers buy insurance with a unique digital insurance engine which incorporates the latest technology with world-class underwriting capabilities. We build strong partnerships to sell insurance via trusted brands.  iptiQ offers a flexible working environment where curious and adaptable people thrive. Are you interested in joining us? iptiQ has openings for energetic expert Site Reliability Engineers to join us in our Boston, MA office.  We are looking for motivated individuals who have a passion to improve the performance and availability of our platform. Your skills are critical as we scale our business. Your understanding of distributed systems and how to tune and harden them are important to us and will make a big difference to our customers. Ultimately, your knowledge, best practices, and code will be part of systems within iptiQ's platform which is why we are searching for only the best and brightest software engineers to join our ranks.  If you think you fit the bill, then apply now!   Key Responsibilities Swiss Re is an equal opportunity employer. It is our practice to recruit, hire and promote without regard to race, religion, color, national origin, sex, disability, age, pregnancy, sexual orientations, marital status, military status, or any other characteristic protected by law. Decisions on employment are solely based on an individual's qualifications for the position being filled.  During the recruitment process, reasonable accommodations for disabilities are available upon request. If contacted for an interview, please inform the Recruiter/HR Professional of the accommodation needed. 100380",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T16:20:50.000Z"
+  },
+  "company": {
+    "name": "iptiQ by Swiss Re",
+    "link": "https://ch.linkedin.com/company/iptiq"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 112000,
+    "max_value": 184000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

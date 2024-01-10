@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Lab222",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Analytics is a competitive differentiator for Nike and is fundamentally changing how the company serves athletes and consumers around the world! The Nike Commercial Analytics team builds analytic-based solutions to manage marketplace and optimize the supply chain. Using big data, advanced analytics and state-of-the-art technology, the team strives to ensure that Nike gets the right product to the right place at the right time for the consumers.  Who we are looking for  We are looking for a Data Scientist to join our Advanced Analytics team within Commercial Analytics. This role will be part of a multi-functional agile squad responsible for using predictive analytics to forecast consumer demand, enhance decision making and drive to action against our strategic priorities.  The candidate needs to be a dependable teammate with hands-on analytics product development experience. While you are grounded in good working knowledge of data science methods and production level implementations, you know how to rise above the numbers and explain the essential insights to users at all levels. You understand the tradeoffs between modeling techniques and always consider the business requirements and data limitations when developing data science models. You ask good questions, are continually learning, and can effectively interact with and influence your colleagues and partners. You thrive when surrounded by hardworking colleagues and enjoy a collaborative and academic environment where we continuously develop and share new skills.  What you will work on  If this is you, you will be part of our Advanced Analytics, In Season Optimization squad. We deliver scalable solutions to power data driven automated decision making on a variety of problems, such as pricing, product allocation and other related key business decisions. Specifically, you will: Who you will work with  You will work with the Director of Data Science while partnering daily with fellow data scientists, data analysts, engineers and product owner on your squad. You will collaborate across the broader organization with business teams in Demand and Supply Management as well as other data, analytics and technology functions at Nike.  What you bring NIKE, Inc. is a growth company that looks for team members to grow with it. Nike offers a generous total rewards package, casual work environment, a diverse and inclusive culture, and an electric atmosphere for professional development. No matter the location, or the role, every Nike employee shares one galvanizing mission: To bring inspiration and innovation to every athlete* in the world. NIKE, Inc. is committed to employing a diverse workforce. Qualified applicants will receive consideration without regard to race, color, religion, sex, national origin, age, sexual orientation, gender identity, gender expression, veteran status, or disability.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-21T09:35:28.000Z"
+  },
+  "company": {
+    "name": "Nike",
+    "link": "https://www.linkedin.com/company/nike"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

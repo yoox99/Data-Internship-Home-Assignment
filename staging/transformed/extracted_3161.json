@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Food Production",
+    "description": "This is an exempt level position We’re looking for a Machine Learning Engineer to join our Emerging Technology team and work with our team of data scientists to automate the training and evaluation of models within an Azure ecosystem. This position will partner with many business, product and science teams, so written and in-person communication skills are extremely important. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for building complete engineering solutions supporting the latest advances in artificial technology. We have many different functions in the team, and this role requires a broad range of skills such as machine learning, data, optimization, and platform/infrastructure engineering. Relocation assistance may be available with this position.  This position offers a complete benefit package, including 401K/ESOP, pension, health, life, vision, and dental insurance.  ADM requires the successful completion of a pre-employment drug screen and a background check.  ADM is an EOE for minorities, females, protected veterans and individuals with a disability. At ADM, we unlock the power of nature to provide access to nutrition worldwide. With industry-advancing innovations, a complete portfolio of ingredients and solutions to meet any taste, and a commitment to sustainability, we give customers an edge in solving the nutritional challenges of today and tomorrow. We’re a global leader in human and animal nutrition and the world’s premier agricultural origination and processing company. Our breadth, depth, insights, facilities and logistical expertise give us unparalleled capabilities to meet needs for food, beverages, health and wellness, and more. From the seed of the idea to the outcome of the solution, we enrich the quality of life the world over. Learn more at www.adm.com. ADM is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability and veterans status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-09T00:00:00.000Z"
+  },
+  "company": {
+    "name": "ADM",
+    "link": "https://www.linkedin.com/company/adm"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Erlanger",
+    "region": "KY",
+    "postal_code": "41018",
+    "street_address": null,
+    "latitude": 39.016716,
+    "longitude": -84.6005
+  }
+}

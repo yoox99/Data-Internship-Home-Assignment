@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "The Business Analytics team’s mission is to enable a data driven business and generate knowledge from our data. The team is responsible for providing data and insights on our business operations’ performance and associated processes, as well as customers’ insights and products’ insights including both our vehicles and energy products portfolio. The team directly supports business leaders up to our executive team.  We are looking for a data scientist who can lead key cross-functional projects for both energy and automotive business, leveraging data science and ML technics to drive business process automations and support sales & service strategies by leveraging our data. Understanding of the broader automotive and energy markets is strongly valued, in addition to engineering background with energy storage solutions.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T04:59:35.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

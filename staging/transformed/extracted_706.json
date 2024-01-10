@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist - Research Lead",
+    "industry": "Computer Software,Internet,Hospital &amp; Health Care",
+    "description": "Mindstrong is a human-centered technology company, focused on optimizing the consumer experience for receiving and providing best-in-class mental healthcare across the illness and demographic spectrum. We are actively deploying a new learning behavioral health system, which relies on rapid innovations in low- burden measurement science and coordinated care delivery, focused on helping individuals living with a serious mental illness (SMI) live their fullest lives. Our services are offered to people with an SMI through active partnerships with several nationwide health insurance payers.  We're setting out to radically simplify mental healthcare for those living with a serious mental illness. Join us on this important journey! We're looking for a Data Scientist Research Lead to join our growing team of people passionate about changing mental healthcare. In this role, you will work cross functionally to help define and execute our data science research strategy, partnering with engineers, product managers, data analysts, and the clinicians who directly deliver care to our Mindstrong members. You will lead projects leveraging our extensive amount of longitudinal data, unlocking personalized digital signatures of disease trajectories and patient disposition. Some of the problems you will work on include predicting and measuring mental health outcomes, optimizing care plans and member interactions, better data representations and similarity measures for members, and personalized intervention strategies. Our team works across the company to help drive decision-making, and your work will have a direct impact on our members.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-24T08:31:33.000Z"
+  },
+  "company": {
+    "name": "Mindstrong ",
+    "link": "https://www.linkedin.com/company/mindstrong"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View",
+    "region": "CA",
+    "postal_code": "94040",
+    "street_address": null,
+    "latitude": 37.39008,
+    "longitude": -122.08139
+  }
+}

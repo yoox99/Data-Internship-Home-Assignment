@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "At UiPath we see boundless potential in the way we live. It drives the way we work. Our culture is our most valuable asset, that's why it acts like a compass to us. We’re fast, immersed, humble and bold. And that’s not just words on the walls.  Eliminating time-consuming tasks means people get to do more of what they love. It’s an inspiring, high stakes challenge that motivates us, and this common passion bonds UiPath employees globally. We all strive every day to be better and to accelerate human achievement.  We make robots, but we hire people. Would you like to be part of this journey?  The cloud platform team owns the mission critical functionalities of the UiPath Automation Cloud such as tenancy management, identity, request routing etc. and exposes them as SaaS offerings/SDKs which are consumed by every other UiPath Cloud Service to meet their business requirements.  In simpler terms, if we go down the UiPath Automation Cloud goes down.  Our mission is to build a platform for scale and is also easy to consume for our customers. Quality is baked into our DNA and we believe in being agile and gritty. Life at UiPath like a lot of startups, can sometimes feel like a roller coaster. It comes with changes and challenges, but also with the opportunity to shape how work is done, to have great impact and learn a great deal.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T04:46:00.000Z"
+  },
+  "company": {
+    "name": "UiPath",
+    "link": "https://www.linkedin.com/company/uipath"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

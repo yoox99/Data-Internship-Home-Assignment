@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer - Payments",
+    "industry": "Internet",
+    "description": "Launched in 2011, Twitch is a global community that comes together each day to create multiplayer entertainment: unique, live, unpredictable experiences created by the interactions of millions. We bring the joy of co-op to everything, from casual gaming to world-class esports to anime marathons, music, and art streams. Twitch also hosts TwitchCon, where we bring everyone together to celebrate, learn, and grow their personal interests and passions. We’re always live at Twitch. Stay up to date on all things Twitch on LinkedIn , Twitter and on our Blog . Twitch is building the future of interactive entertainment, and our Commerce Engineering team is preparing to scale to work on essential product plans to support Bits, Subscriptions, Affiliates, Twitch Prime, and many great social interaction features.  As an important member of the engineering team reporting to a technical manager, you will have the opportunity to design and build solutions that affect millions of users and broadcasters. We are an equal opportunity employer and value diversity at Twitch. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T00:06:52.000Z"
+  },
+  "company": {
+    "name": "Twitch",
+    "link": "https://www.linkedin.com/company/twitch-tv"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

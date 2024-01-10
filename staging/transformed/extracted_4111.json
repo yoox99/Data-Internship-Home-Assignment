@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior SDET, Performance",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "BlueOwl is a separate company in the State Farm® family of companies and the solutions provider for HiRoad Insurance, an InsurTech brand that recognizes and rewards good choices. Operating independently with the backing of the #1 auto insurer in the country, we blend the best aspects of a tech startup and an industry leader. To see what we’ve helped build so far, check out HiRoad.com . At BlueOwl, we envision a world where data driven behavior fuels better lives. We started with the reinvention of insurance and a bold mission to create a data science powered platform that actually helps people become better drivers. We aspire to be the best in the business at identifying low-risk drivers by harnessing the power of data with an innovative technology stack.  It’s a big goal, and that’s where you come in. We're growing a world class team of data science, engineering, design, product, marketing and mobile technologists because we know that the key to success isn’t just about nailing the technology—it’s hiring the talented people who will help us make a quantifiable impact.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:27:27.000Z"
+  },
+  "company": {
+    "name": "BlueOwl, LLC",
+    "link": "https://www.linkedin.com/company/blue-owl-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

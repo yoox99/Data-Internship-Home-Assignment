@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist - Marketing Analytics",
+    "industry": "Marketing and Advertising,Internet,Financial Services",
+    "description": "Redfin is redefining real estate in the consumer’s favor by combining our own technology and agents to create a service that’s better, faster, and costs less. As a Redfinnian, you'll make a difference in one of life’s most important events—buying or selling a home. Our hiring standards are high, yet our culture is humble. We’ve got all the perks, but if what you value most is doing great work in a creative, collaborative, and disciplined environment, join us.  As a Senior Data Scientist for the Marketing Analytics team, you’ll dig, analyse, and model data, answering questions that drive key business decisions for multi-million dollar investments.  The Role What We Offer To make sure we hire the most qualified people, we’ve designed a multi-step selection process which may include interviews, a homework assignment, and a reference check. We’re excited to get to know you and hope you’re ready to give this opportunity everything you’ve got!  Redfin is an equal opportunity employer committed to hiring a diverse workforce.  To ensure the health and safety of our workforce, customers and third parties, Redfin conducts background screening after making conditional offers for employment. All screening is conducted consistent with Equal Employment Opportunity Commission guidance and state and local Fair Chance Act guidance, and Redfin encourages applications from, and fully considers, qualified applicants with criminal record histories.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:19:07.000Z"
+  },
+  "company": {
+    "name": "Redfin",
+    "link": "https://www.linkedin.com/company/redfin"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

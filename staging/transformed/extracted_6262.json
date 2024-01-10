@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Solution Architect",
+    "industry": "Pharmaceuticals",
+    "description": "Works directly with clients to provide value added input on their strategic issues, identifies additional business development opportunities, and manages commitments for services delivery, managed service, or implementation oriented client projects.  Works within a specific area of expertise or region but may have responsibility across multiple practice areas and/or clients. At IQVIA, we believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. The advanced analytics, technology solutions and contract research services we provide to the life sciences industry are made possible by our 70,000+ employees around the world who apply their insight, curiosity and intellectual courage every step of the way. Learn more at jobs.iqvia.com.  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other status protected by applicable law.  IQVIA, Inc. provides reasonable accommodations for applicants with disabilities. Applicants who require reasonable accommodation to submit an application for employment or otherwise participate in the application process should contact IQVIA’s Talent Acquisition team at workday_recruiting@iqvia.com to arrange for such an accommodation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T18:37:11.000Z"
+  },
+  "company": {
+    "name": "IQVIA",
+    "link": "https://www.linkedin.com/company/iqvia"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 89100,
+    "max_value": 178000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

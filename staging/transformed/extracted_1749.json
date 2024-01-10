@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Android",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "has a newly created opportunity for an to join our growing team! HOMER, a BEGiN brand, is the proven early learning program that provides the best educational start possible. We offer personalized, fun, and proven learning products for kids ages 2-8 to help build confidence, mastery, and a love of learning. We are deeply committed to our members and to their children, and we are building a creative and strategic team to develop a portfolio of early learning products that support learning everywhere.  Reporting to an , the will expand our technology stack to include native Android applications. This role will be responsible for creating reliable, scalable, and high-performance mobile apps for Android based systems, contributing to software architecture and driving best practices that enable a quality product. HOMER is a proud equal opportunity employer. All qualified applicants will be considered without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.  At HOMER, we are committed to building a diverse team of talented people who are passionate about creating educational content kids love. We believe in fostering a culture where productivity can flourish, one that is empathetic, respectful, and inclusive. At HOMER, we know that diversity, equity, and inclusion aren't just an idea, a one-time initiative, or phrases to throw into a job post: they're a daily practice and an ongoing conversation. We survey our team about inclusivity, run trainings on DEI topics, and have a committee to ensure we are all continuing to learn and grow.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T05:10:44.000Z"
+  },
+  "company": {
+    "name": "HOMER",
+    "link": "https://www.linkedin.com/company/homerlearning-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81500,
+    "max_value": 177500,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

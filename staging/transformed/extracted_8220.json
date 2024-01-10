@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "Job Summary:  Supporting the Disney Advertising Sales organization within our new Disney Media & Entertainment Distribution (DMED) segment, the Audience Modeling and Data Science team are subject matter experts in each of the following areas: We’re looking for an intellectually curious, business-savvy, analytical powerhouse to join The Walt Disney Company’s DMED segment as a data scientist on the ad sales team. In this role, you will be responsible for driving improvements across DMED’s portfolio of offerings by using data. Working collaboratively with cross-functional teams, you will develop, drive, and oversee new strategies to ensure the growth of the business and the overall bottom line.  Responsibilities: Required Education  B.A. or B.S. (MS, MBA, or PhD a plus) in a quantitative field (Math/Statistics, CS, Engineering, Business, Economics, experimental science, or similar)  Additional Information:  DISNEYADSALES  873546BR",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-09T08:35:08.000Z"
+  },
+  "company": {
+    "name": "The Walt Disney Company",
+    "link": "https://www.linkedin.com/company/the-walt-disney-company"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

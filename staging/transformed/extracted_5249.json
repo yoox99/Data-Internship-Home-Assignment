@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Engineer Jr/Mid - 100K-140K DOE with Security Clearance",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "coding and a thorough knowledge of the SDLC  experience designing and developing real time ETL architecture for real time  predictive analytics.  experience with Apache Hive, Apache Spark and Apache Yarn  Bachelor's degree in Computer Science, Engineering, Mathematics or other business- libraries",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T06:25:12.000Z"
+  },
+  "company": {
+    "name": "ClearanceJobs",
+    "link": "https://www.linkedin.com/company/clearancejobs.com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Arlington",
+    "region": "VA",
+    "postal_code": "22210",
+    "street_address": null,
+    "latitude": 38.890762,
+    "longitude": -77.084755
+  }
+}

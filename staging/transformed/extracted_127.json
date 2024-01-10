@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Computer Software",
+    "description": "is hiring a to join our growing product team! Our ideal candidate has a strong background in Azure, scalable Machine Learning solutions, and the Microsoft suite of application development.  SiteZeus is a location intelligence SaaS platform based out of Tampa, FL and founded in 2013. We are a remote organization focused on company culture, industry changing technology, and employee value. Our customers use SiteZeus to make better decisions about where to build their next physical locations, and how to optimize their investment in existing locations. We empower brands to pick the very best locations by employing the very best people and giving them the tools to succeed. Below is our hiring process for this position. We will reach out or send a rejection notice within 1-3 business days of applying. SiteZeus promises to value your time and professionalism in every step of the process. SiteZeus is proud to be an equal opportunity employer that celebrates diversity, culture, and the human experience. We go above and beyond to ensure that all team members feel comfortable about who they are and the contributions they make to our mission. Our team is highly encouraged to find a balance that allows for optimal fulfillment at work and home.  All applicants must be legally authorized to work within the United States. All roles may require prolonged periods of sitting at a desk, working on a computer, and corporate communication skills. Further, SiteZeus takes physical health seriously and has processes in place to minimize the spread of Covid-19 at its Tampa HQ. Degree requirements and preferences may be substituted for bonified work history or relevant experience.  Powered by JazzHR  FYYlbW8sFF",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T08:40:02.000Z"
+  },
+  "company": {
+    "name": "SiteZeus",
+    "link": "https://www.linkedin.com/company/sitezeus"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 65900,
+    "max_value": 118000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Tampa",
+    "region": "FL",
+    "postal_code": "33675",
+    "street_address": null,
+    "latitude": 27.947424,
+    "longitude": -82.45878
+  }
+}

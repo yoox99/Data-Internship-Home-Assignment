@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "With continued growth in digital data and the desire to leverage data to address problems that touch all aspects of our lives, Microsoft’s AI Platform is growing to meet these challenges! The AI Platform is hiring experienced engineers to join agile and diverse engineering teams in AI Frameworks, Azure Machine Learning, Cognitive Services, Conversational AI and the Azure Experimentation Platform. Bring the power of AI into Microsoft products, reaching millions of customers, data scientists and developers through open-source contributions in ML frameworks and inference engines.  As part of the Automated Machine Learning group, democratize Machine Learning by lowering the barrier for model development and enabling every data scientist, developer, information worker, consumer and device, anywhere in the world to leverage petabytes of data to solve their real-world problems.  Delve into business-critical problems facing Fortune-500 customers through co-engineering of ground-breaking scenarios in speech and computer vision.  Enhance the AI Platform’s core speech model training and evaluation to delivery robust, natural and scalable speech recognition experiences across a rich set of scenarios and languages  Contribute to Microsoft’s Bot Framework and Azure Bot Service, the world’s most powerful platform for creating conversational experiences -- grow expertise in platform development or NLP model development and build on the work that has already attracted over half a million developers to create bots on the framework.  Push the envelope regarding how data is leveraged and change how software is built by contributing to one of the largest experimentation platforms on the planet, used by teams across Microsoft such as Azure, Xbox, Windows, Office, and Bing.  Contribute to the open-sourced runtime and training frameworks based on ONNX (Open Neural Network Exchange), an open format built to represent machine learning models.  Tackle challenging problems in natural language, text analytics, conversational AI, and machine translation using state-of-the-art neural models such as ZCode, Turing and BERT. Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.  Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.  Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.  #AIPLAT  #AIPLATFORM  #conversationalai  #botframework",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T04:14:26.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Raleigh",
+    "region": "NC",
+    "postal_code": "27699",
+    "street_address": null,
+    "latitude": 35.781303,
+    "longitude": -78.64168
+  }
+}

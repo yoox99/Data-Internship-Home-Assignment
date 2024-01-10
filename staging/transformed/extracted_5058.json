@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Quality Engineer",
+    "industry": "Hospital &amp; Health Care",
+    "description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals, and branded generic medicines. Our 109,000 colleagues serve people in more than 160 countries.  The Senior Software Quality Engineer assures new or modified products conform to requirements and establish compliance with the quality system. They are responsible for maintaining a strong collaborative partnership with cross-functional team members that facilitates organizational success by protecting patient / user safety and meeting business needs. The Senior Software Quality Engineer position focuses primarily on software quality, but also supports other aspects of product development based on experience. Qualifications:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T23:03:45.000Z"
+  },
+  "company": {
+    "name": "Abbott",
+    "link": "https://www.linkedin.com/company/abbott-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

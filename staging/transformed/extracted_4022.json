@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "FedNow Senior Software Engineer",
+    "industry": "Banking,Capital Markets,Financial Services",
+    "description": "Federal Reserve Bank of Boston  The Federal Reserve is developing a new interbank 24x7x365 real-time gross settlement (RTGS) service with integrated clearing functionality, called the FedNow service. This service will help enable financial institutions provide their customers with the ability to send and receive payments any time, any day, and have full access to those funds within seconds. This position is a unique opportunity to be part of a new mission-critical Federal Reserve initiative that will be transformative to the payments landscape in the United States. Top level technical expert in one or more highly specialized areas of applications systems analysis and programming. Responsible for software design, coding, testing, debugging, and documentation. Has full technical knowledge of all phases of applications systems analysis and development. Provides technical leadership on complex projects. Interacts with internal project teams and work groups regularly. level of work required is considered advanced and staff must be able to work under minimal supervision. This job does not have any direct reports. You have an appetite to learn, and a passion for technology, innovation, and developing new skills on evolving technologies. Full time Regular Yes First (United States of America) Privacy Notice",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T07:45:16.000Z"
+  },
+  "company": {
+    "name": "Federal Reserve Bank of Boston",
+    "link": "https://www.linkedin.com/company/federal-reserve-bank-of-boston"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 80100,
+    "max_value": 131000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

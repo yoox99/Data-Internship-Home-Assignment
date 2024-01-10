@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Autonomy Safety Data Science Architect",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "At Aurora, we’re on a mission to deliver the benefits of self-driving technology safely, quickly, and broadly. It all starts with the Aurora Driver, a platform created from industry-leading hardware and software and designed to adapt across a variety of vehicle types and industries.  We’re led by a team of self-driving luminaries, and we’ve forged strategic partnerships with leading transportation companies—including ride-hailing network Uber, truck-manufacturers PACCAR and Volvo Trucks, and the world’s largest automaker Toyota—setting us up to deliver the Aurora Driver in both trucks and passenger vehicles. We are funded by Amazon, Uber, T Rowe Price, and some of Silicon Valley’s best venture capital firms, including Sequoia, Greylock, and Index Ventures.  Aurora is in the best position to lead the self-driving space with a team of unparalleled depth and expertise, the technology to deliver, and the partnerships to build a transformative business for the long-term.  Aurora hires talented people with diverse backgrounds who are ready to help build a transportation ecosystem that will make our roads safer, get crucial goods where they need to go, and make mobility more efficient and accessible for all. We’re searching for a Data Science Architect to lay the foundation in making data-informed decisions that impact the Autonomous Vehicle behaviors, verification and validation of Aurora's self-driving technology and business growth. While interviewing, you will be expected to intelligently reason about various applications of data science in the verification and validation of autonomous driving which include heuristics that define safe driving behavior, data adequacy requirements to address sample size issues, and data quality issues. Your role will interface with Product, Autonomy Development, Systems and Safety Engineering teams and will drive mission-critical decisions in a multi-trillion dollar industry. At Aurora, we bring together people with extraordinary talent and experience united by the strength of our values. We operate with integrity, set outrageous goals, and continue to build a culture where we win together—all without any jerks. We also offer a competitive benefits package that supports the whole you, including  We have offices in Pittsburgh, Mountain View, San Francisco, Bozeman, Dallas and Seattle. We believe that self-driving technology has broad benefits – including an increase in safety and access to transportation – and to achieve those benefits, we want and need a workforce with diverse experiences, insights, and perspectives; said another way, a workforce that reflects the communities and people our technology will benefit. Founded in 2017, Aurora was started by industry luminaries, and now we’re a team with a multitude of perspectives and experiences. Chris Urmson helped lead Carnegie Mellon’s efforts in Darpa’s Grand Challenges, then was a founding member of Google’s self-driving team. Sterling Anderson worked on the tech at MIT before leading Tesla’s Model X and Autopilot programs. Drew Bagnell, also a Carnegie Mellon alum, is a machine learning expert who helped build Uber’s autonomy effort. Regarded as the most experienced leadership team in the industry, these three bring decades of expertise, passion and focus to realizing our mission.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:38:55.000Z"
+  },
+  "company": {
+    "name": "Aurora",
+    "link": "https://www.linkedin.com/company/auroradriver"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Mountain View Estates",
+    "region": "PA",
+    "postal_code": "17070",
+    "street_address": null,
+    "latitude": 40.30342,
+    "longitude": -76.94803
+  }
+}

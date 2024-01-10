@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer",
+    "industry": "Computer Software,Information Technology and Services,Internet",
+    "description": "Products and Technology . You're fluent in commonly used design patterns and can constructively review the work of others to ensure high quality. You're familiar with services and different service-oriented architectures. You can quickly see and understand architecture and where your team fits in. You have a keen eye for quality and are a strong advocate for engineering excellence. You are familiar with Site Reliability Engineering (SRE) concepts. You treat operational issues as if they are software problems. You view software as a primary tool to manage, maintain, fix, and extend systems required to support large development environments. You promote operational excellence! . You enjoy leading, collaborating, learning from or teaching others so we can all become better developers. . You understand customer requirements and prioritize for maximum customer/user experience. You are passionate about technology and the work you do, you always want to do your best to delight the customers, help your team, and strive for excellence. Tableau hires company builders and, in this role, you will be asked to be on the constant lookout for the best talent to bring on board to help us continue to build one of the best companies in the world. If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form. At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at Salesforce and explore our benefits. and are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. and do not accept unsolicited headhunter and agency resumes. and will not pay any third-party agency or company that does not have a signed agreement with or .  Salesforce welcomes all.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:21:38.000Z"
+  },
+  "company": {
+    "name": "Salesforce",
+    "link": "https://www.linkedin.com/company/salesforce"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bellevue",
+    "region": "WA",
+    "postal_code": "98007",
+    "street_address": null,
+    "latitude": 47.6137,
+    "longitude": -122.19093
+  }
+}

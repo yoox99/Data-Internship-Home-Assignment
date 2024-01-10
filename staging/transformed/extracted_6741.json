@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Software Engineer (L4) - Twilio Standards",
+    "industry": "Information Technology and Services,Internet,Telecommunications",
+    "description": "Twilio operates over 50 different public APIs. The DX Standards team builds automated tooling and infrastructure that act as guard rails for the 100+ teams that design and implement these APIs. Our mission is to make all Twilio APIs feel familiar and consistent for developers at all stages: from the brand new developer trying out their first Twilio API to a developer who uses many different Twilio products and APIs. Twilio is looking for a Software Engineer (L4) who lives the Twilio Magic and has a demonstrated track record of delivering software at a high quality bar. As a Software Engineer on the DX Standards team, you will live the Twilio Magic values: Twilio's Engineering organization has grown orders of magnitude within a few years. In order to stay ahead of ongoing growth, the DX Standards team was formed to scale out standards of good Developer Experience in an automated way that lets us raise all ships when we make decisions about API design. Success for this team is measured in the consistency, predictability, and lovability of the APIs we ship to customers. This is a role with multiplicative impact -- you'll be building tooling that helps make every team at Twilio better.  Twilio is a company that is empowering the world’s developers with modern communication in order to build better applications. Twilio is truly unique; we are a company committed to your growth, your learning, your development, and your entire employee experience. We only win when our employees succeed and we're dedicated to helping you develop your strengths. We have a cultural foundation built on diversity, inclusion, and innovation and we want you and your ideas to thrive at Twilio. This position will be located in our Around the world, Twilio offers benefits and perks to support the physical, financial, and emotional well being of you and your loved ones. No matter where you are based, you will experience a company that believes in small teams for maximum impact; seeks well-rounded talent to ensure a full perspective on our customers’ experience, understands that this is a marathon, not a sprint; that continuously and purposefully builds an inclusive culture that empowers everyone to do their best work and be the best version of themselves. Millions of developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, video and email by virtualizing the world’s communications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer’s toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.  In accordance with applicable law, the following represents Twilio's reasonable estimate of the range of possible compensation for this role if hired in Colorado. 132,928 - 182,776 116,312 - 159,929  Additionally, this role is eligible to participate in Twilio's equity plan.  An overview of Twilio’s benefits offered is listed below: At the time of this posting, this role is eligible to participate in the following benefits, which Twilio reserves the right to modify at any time for any reason in accordance with applicable law  Twilio is committed to delivering a comprehensive benefits program that provides support needed for you and your loved ones. It’s likely that you don’t think about benefits every day; however, they are an important component of your total compensation, and we want you to understand the options available to you so that you can make the most of your benefit dollars.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:22:58.000Z"
+  },
+  "company": {
+    "name": "Twilio",
+    "link": "https://www.linkedin.com/company/twilio-inc-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

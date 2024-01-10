@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer - Full Stack",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T16:59:58.000Z"
+  },
+  "company": {
+    "name": "Treasury4",
+    "link": "https://www.linkedin.com/company/treasury4"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Spokane",
+    "region": "WA",
+    "postal_code": "99213",
+    "street_address": null,
+    "latitude": 47.659,
+    "longitude": -117.425026
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Signifyd leads the world in bringing the insights, innovation and compassion required to foster fearless commerce in a time of increasing digital threats. Working with some of the industry’s most recognizable retailers and brands, we are focused on using technology to enhance customer lifetime value and protect enterprises from fraud so they can focus on growing their business.  We process billions in ecommerce transactions annually through our Commerce Network of thousands of merchants selling in more than 100 countries. We focus every day on harnessing machine learning and artificial intelligence in more powerful ways to maximize our customers’ revenue and their security. None of that happens without the right people.  Our team’s strength is in its diversity and its acceptance of new ideas and new ways to look at old challenges. We are dedicated disruptors designing a new world of commerce at scale. We know humans are not one-dimensional and we celebrate the uniqueness each individual brings to the problems we solve and the culture we create.  The Data Science team at Signifyd builds and applies our fraud detection engine. We make fraud prevention at scale possible. Our analysis and ML models keep us one step ahead of fraudsters and their constantly evolving tactics and our research and experiments develop into new products that improve the merchant payments experience.  We expect our data scientists to be hands-on. We carry solutions from a brainstorm to experimentation and all the way to deployment. Some days you may spend doing research and designing experiments while others are spent using your analytical toolbox to surface insights into real-time fraud attacks. We’re a varied group with a diversity of strengths -- some team members came to us from academic backgrounds, others from engineering, some from big companies and some from small, but all of us are curious and collaborative.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T13:00:39.000Z"
+  },
+  "company": {
+    "name": "Signifyd",
+    "link": "https://www.linkedin.com/company/signifyd"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

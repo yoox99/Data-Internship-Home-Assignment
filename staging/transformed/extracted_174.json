@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning/Reinforcement Learning Software Engineer (Engineer Software 3) - 2633",
+    "industry": "Information Technology and Services,Defense &amp; Space,Computer Software",
+    "description": "A division of Huntington Ingalls Industries HII-Technical Solutions Division (HII-TSD) is currently seeking a Software Developer/Engineer with expertise in artificial intelligence/machine learning (AI/ML) efforts; specifically focused on Reinforcement Learning.  The project this role will support is a rapid development and deployment effort to develop counter UAS (CUAS) technology for a critical US Department of Defense customer. We are looking for a multi-skilled software developer to join the team to assist in delivering critical AI/ML/RL enabled solutions. A developer joining the project team will learn about the complex multi-disciplinary mission as well as engage with a highly-skilled engineering team delivering a cutting-edge solution to the end customer. Adequate visual acuity and manual dexterity for meeting the requirements Software Engineer family.  Huntington Ingalls Industries is America’s largest military shipbuilding company and a provider of professional services to partners in government and industry. For more than a century, HII’s Newport News and Ingalls shipbuilding divisions in Virginia and Mississippi have built more ships in more ship classes than any other U.S. naval shipbuilder. HII’s Technical Solutions division provides a wide range of professional services through its Fleet Support, Mission Driven Innovative Solutions, Nuclear & Environmental, and Oil & Gas groups. Headquartered in Newport News, Virginia, HII employs more than 42,000 people operating both domestically and internationally.  Huntington Ingalls Industries is an Equal Opportunity/Vets and Disabled Employer. U.S. Citizenship may be required for certain positions.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-24T04:19:51.000Z"
+  },
+  "company": {
+    "name": "HII Technical Solutions, a division of Huntington Ingalls Industries",
+    "link": "https://www.linkedin.com/company/hii-technical-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fairfax",
+    "region": "VA",
+    "postal_code": "22003",
+    "street_address": null,
+    "latitude": 38.847122,
+    "longitude": -77.30631
+  }
+}

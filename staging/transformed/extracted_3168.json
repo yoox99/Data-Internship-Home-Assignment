@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Machine Learning Software Engineer, Lead Software Engineer, ML/AI Engineer, Senior Software Engineer Boston, MA preferred, but remote is okay Flexible and DOE (target $150-185k base) You will have the opportunity to work on challenging Machine Learning and AI projects with the goal to improve the everyday life of our members. As a SR/Lead, you may direct a small team of engineers. You will collaborate with data science, analyst, business and IT teams to design, implement, and deploy Machine Learning and AI services using Python, PySpark, Azure services, Databricks, Terraform, and other open-source software. You will be expected to lead by example, develop plans, designs, code, and documentation, and perform code reviews, testing, and debugging. You will embrace and enforce best practices in our data science community with automated, repeatable data pipelines.  What You Will Be Doing What You Need for this Position So, if you are a Machine Learning Engineer with experience, please apply today! Looking forward to receiving your resume through our website and going over the position with you. Clicking apply is the best way to apply, but you may also:  Kyle.Martin@Optello.com Kyle Martin - Recruiting Manager - Optello  Applicants must be authorized to work in the U.S. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. - In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T15:03:44.000Z"
+  },
+  "company": {
+    "name": "Optello",
+    "link": "https://www.linkedin.com/company/optello-us"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

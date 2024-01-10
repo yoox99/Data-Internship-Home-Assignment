@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "Video Interviews 7+ Bachelors Degree or Equivalent Work Experience You will own and be responsible for developing key components of our overall system that enables our customers to bring new insights to their own businesses. You'll use the best tools for the job, whether modern and revolutionary or time tested and proven, to deliver elegant, scalable solutions that meet business and technical needs.  What you will do We are building a platform that will scale to support an ever-growing array of data providers and innovative products. You must be able to think big while still delivering on near-term requirements.  Our company challenges The infrastructure and culture we are building will provide an environment that cultivates innovation. We want to move fast knowing we can fix anything we break along the way. If a new need arises, we want to turn around a solution quickly. We want to solve our challenges in ways that create even more possibilities. We're creating a platform that lets us Client what else we might do. consultant will be able to work remotely",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-16T21:18:24.000Z"
+  },
+  "company": {
+    "name": "Turnberry Solutions",
+    "link": "https://www.linkedin.com/company/turnberry-solutions"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Philadelphia",
+    "region": "PA",
+    "postal_code": "08051",
+    "street_address": null,
+    "latitude": 39.95106,
+    "longitude": -75.16562
+  }
+}

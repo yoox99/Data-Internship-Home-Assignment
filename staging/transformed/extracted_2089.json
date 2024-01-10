@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Engineer, Embedded Software",
+    "industry": "Industrial Automation,Computer Software",
+    "description": "Rockwell Automation is doing things never before possible . We connect the imaginations of people with the potential of technology to make the world more intelligent, more connected and more productive. We help the world work better and people work smarter and are looking for bright minds to make that happen. The makers, the forward thinkers, the problem solvers. That’s where you come in.  Rockwell Automation is looking for an innovative engineer to join our global Software and Control organization in Milwaukee, WI. You will be part of a new product development team, with a focus on design, development, and test of embedded software and features for programmable logic controllers (PLCs). You will also contribute to the overall product requirements, process, and tools. An ideal candidate will exhibit the ability to flex between product software design, development, and test activities. Given tightly coupled hardware and software in our products, previous embedded software experience is a plus. We are an Equal Opportunity Employer including disability and veterans.  If you are an individual with a disability and you need assistance or a reasonable accommodation during the application process, please contact our services team at +1 (844) 404-7427.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-03T03:08:07.000Z"
+  },
+  "company": {
+    "name": "Rockwell Automation",
+    "link": "https://www.linkedin.com/company/rockwell-automation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 69000,
+    "max_value": 127000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Milwaukee",
+    "region": "WI",
+    "postal_code": "53215",
+    "street_address": null,
+    "latitude": 43.041073,
+    "longitude": -87.909424
+  }
+}

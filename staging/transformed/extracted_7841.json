@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Site Reliability Engineer",
+    "industry": "Consumer Electronics",
+    "description": "At Apple new insights have a way of becoming phenomenal products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish!   As a SRE engineer, you will be responsible to build and maintain the next generation cloud native platform that empowers various applications for Apple Corporate Engineering. Our scale and security demands outstanding opportunities for innovative and creative solutions which contribute to the best employee experience on this planet!   We are seeking an SRE who is passionate about working in a fast paced customer centric environment. In this role you will not only maintain but also build the Cloud based micro service platform in partnerships with various Cloud technology providers within Apple. In addition, you will be accountable for maintaining the “high 9s” of uptime of various systems. -  5+ years of experience in SRE or DevOps Role.   -  Experience orchestrating workloads across various systems using Cloud Native Technologies — Containers and Kubernetes.   -  Production experience in supporting sites on AWS — EC2, S3, NLB, EKS, VPC, IAM etc.   -  Automation experience with at-least one configuration management system such as Ansible, Puppet, AWS Cloud Formation, Terraform, Chef, Salt.   -  Strong fundamentals in large-scale distributed systems such as Zookeeper, Consul, Kafka, Cassandra, Hazelcast or Solr.   -  Working knowledge of network protocols and network based services, including routing and network load balancing (Layer 4 and Layer 7 Load Balancers).   -  Experience working in at-least one of the languages - Go, Python or Java.   -  Expertise with monitoring or log aggregation tools (Prometheus, Grafana, Splunk, ELK)   -  Experience with Telemetry tools such as Promethus, Nagios, DataDog, NewRelic, Sensu etc.   -  Pride in your work with a strong attitude towards continuous delivery.   -  Passionate about leading a global 24-7 engineering organization The Caffè Macs Engineering team of Apple Corporate Engineering is looking for a SRE/DevOps engineer to build a cloud native platform to host the next generation of micro service platforms so that we can deliver premier applications to Apple Employees.   -  Develop Cloud based Infrastructure on AWS to deliver micro services based platforms powering various iOS and Web Applications.   -  Maintain and guarantee high 9s of uptime across all infrastructure components.   -  Partner with internal platform teams across multiple groups to build and deliver secure continuous delivery pipelines.   -  Provide technical guidance, solving expertise, and architectural insight to development, quality, and site reliability teams.   -  Promote next generation cloud and DevOps products and processes, experiment with their implementation and bring them to fruition.   -  Strong partnership with various engineering teams of platform, services, iOS/Web UI, QA & SRE teams distributed globally. Bachelor’s degree in Computer Science or equivalent. -  A proactive approach to spotting problems, performance, and process bottlenecks and areas for improvement.   -  Excellent troubleshooting skills: ability to quickly recognize patterns in failures.   -  Self-motivated to improve efficiency and uptime of the entire technical ecosystem.   -  Strong written and verbal communication skills.    Role Number: 200282011",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-04T14:25:46.000Z"
+  },
+  "company": {
+    "name": "Apple",
+    "link": "https://www.linkedin.com/company/apple"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 127000,
+    "max_value": 219000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cupertino",
+    "region": "CA",
+    "postal_code": "95014",
+    "street_address": null,
+    "latitude": 37.319313,
+    "longitude": -122.02927
+  }
+}

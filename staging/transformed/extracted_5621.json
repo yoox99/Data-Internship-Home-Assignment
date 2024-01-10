@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Software Engineer",
+    "industry": "Financial Services",
+    "description": "TomoCredit is a fintech startup based in downtown San Francisco. We issue the smartest consumer credit card which does not require a credit score for approval. We are small, but nimble, and very passionate about opening credit markets to young generations and immigrants, with the aim to make it a cutting-edge and pleasant experience for all of our users.  We value passionate, down to earth, “can do” people who enjoy fine-tuning small details, without losing sight of the big picture. We are looking for someone who is driven to get things done and views obstacles as an exciting challenge that demands a creative solution. You are a self-starter with a high degree of rigor, organization, and discipline to get things done. Above all else, this role requires someone who takes great pride in their work and is inspired and motivated by their role in improving the way millions of people build their financial future. We're looking for an experienced Full Stack Software Engineer with strong system building skills to join our small and creative team. Being a member of a small team means you'll have many responsibilities and own multiple projects. Ideal candidate is comfortable working in a fast-paced, creative and collaborative environment.  Plus, since you would be joining us early in our journey, you will be intimately involved in every aspect of the product with a significant say when it comes to technical decisions. You'll own projects from concept to completion and be working alongside talented software engineers in executing your projects. Why TomoCredit?  Building a strong culture is extremely important to us. In order to do so, we strive to make every member of the team happy. That's why we offer a generous benefits package for a small startup. Powered by JazzHR  vSUIT4ywO7",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-23T19:23:52.000Z"
+  },
+  "company": {
+    "name": "TomoCredit",
+    "link": "https://www.linkedin.com/company/tomocredit"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

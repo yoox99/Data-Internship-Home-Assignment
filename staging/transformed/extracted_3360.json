@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Health, Wellness and Fitness,Medical Practice,Hospital &amp; Health Care",
+    "description": "Location:Alpharetta",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:51:32.000Z"
+  },
+  "company": {
+    "name": "Resume-Library",
+    "link": "https://www.linkedin.com/company/resume-library"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 71100,
+    "max_value": 110000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Alpharetta",
+    "region": "GA",
+    "postal_code": "30022",
+    "street_address": null,
+    "latitude": 34.075615,
+    "longitude": -84.29455
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Food &amp; Beverages",
+    "description": "Hungryroot is your personal grocer, powered by AI and the belief that food deeply impacts your daily life. You tell us a little about yourself, and we use proprietary predictive technology to deliver groceries and recipes that best suit your individual needs and goals. We also assist with meal planning and nutritional support, helping you save time, save money, shop sustainably, and eat what makes you feel your best.  We are a distributed team built on top talent from over 10 states across the U.S. While we have an office in NYC, we support employees creating “offices” wherever they are. We believe in fostering team connection and collaboration across all of our “offices” - so don’t expect to be online at 6 am to make a meeting if you’re on the West coast. Expect to attend regular team building events, and to be able to work from the beach every once in a while. Expect to be treated like an owner who cares about our common goal, not someone who has to clock in and out of work.  Hungryroot is on track to earn $200M in revenue this year, profitable, and rapidly growing - this is why we need you! We’re looking for a highly motivated, problem-solving Software Engineer who is excited to play an integral role in our rapidly growing Technology team. At Hungryroot, we experiment, iterate, learn, and repeat. Most importantly, we build things people love. As a member of the Technology team, you will be responsible for the development of the company's customer-facing site, including various integrations with our vendors/partners, as well as various internal tools necessary for our operations. The ideal candidate is obsessed with delivering the best possible customer experience, diligent and persistent with assigned tasks, and is willing to learn quickly to constantly better oneself.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T05:25:38.000Z"
+  },
+  "company": {
+    "name": "Hungryroot",
+    "link": "https://www.linkedin.com/company/hungryroot"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Apparel &amp; Fashion",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T22:20:45.000Z"
+  },
+  "company": {
+    "name": "REVOLVE",
+    "link": "https://www.linkedin.com/company/revolve-"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Cerritos",
+    "region": "CA",
+    "postal_code": "90703",
+    "street_address": null,
+    "latitude": 33.865784,
+    "longitude": -118.06637
+  }
+}

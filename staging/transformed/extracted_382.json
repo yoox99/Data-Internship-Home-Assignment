@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Development Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Software Development Engineer Does the thought of applying your passion for cloud development to secure the digital lives of millions around the world excite you? McAfee is looking for software engineer that can help build its trusted consumer products, web platforms and services. We dig deeper into customer problems to provide an effective solution that makes customers lives easier. You will be part of a development team that prides in striving to delight the McAfee customers. Join the customer obsessed team! From device to cloud, McAfee provides market-leading cybersecurity solutions for both business and consumers. We help businesses orchestrate cyber environments that are truly integrated, where protection, detection, and correction of security threats happen simultaneously. For consumers, McAfee secures your devices against viruses, malware, and other threats, both at home and away. We want to continue to shape the future of cybersecurity by working together to build best in class products and solutions. We work hard to embrace diversity and inclusion and encourage everyone at McAfee to bring their authentic selves to work every day. We offer a variety of social programs, flexible work hours and family-friendly benefits to all of our employees. We're serious about our commitment to diversity which is why McAfee prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T17:00:37.000Z"
+  },
+  "company": {
+    "name": "McAfee",
+    "link": "https://www.linkedin.com/company/mcafee"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Jose",
+    "region": "CA",
+    "postal_code": "95148",
+    "street_address": null,
+    "latitude": 37.334793,
+    "longitude": -121.888145
+  }
+}

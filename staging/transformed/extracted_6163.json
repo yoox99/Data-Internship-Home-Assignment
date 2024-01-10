@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "(USA) Senior Data Engineer",
+    "industry": "Information Technology and Services,Retail,Financial Services",
+    "description": "Senior Data Engineer Minimum Qualifications... Option 1: Bachelor’s degree in Computer Science and 3 years' experience in software engineering or related field. Option 2: 5 years’ experience in  software engineering or related field. Option 3: Master's degree in Computer Science and 1 year’s experience in software engineering or related  field.  2 years' experience in data engineering, database engineering, business intelligence, or business analytics. Preferred Qualifications... Data engineering, database engineering, business intelligence, or business analytics, ETL tools and working with large data sets in the cloud, Master’s degree in Computer Science or related field and 3 years' experience in software engineering Primary Location...805 SE MOBERLY LN, BENTONVILLE, AR 72712, United States of America",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-27T05:19:38.000Z"
+  },
+  "company": {
+    "name": "Walmart",
+    "link": "https://www.linkedin.com/company/walmart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Bentonville",
+    "region": "AR",
+    "postal_code": "72716",
+    "street_address": null,
+    "latitude": 36.37187,
+    "longitude": -94.20272
+  }
+}

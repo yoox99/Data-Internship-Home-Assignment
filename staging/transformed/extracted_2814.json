@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Staff Site Reliability Engineer",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "As a member of the new SRE team at Tesla Motors, you will automate away toil, help teams in AWS, and build tools to make development seamless. The SRE team is embedded amongst several developments that are responsible for some of the most trafficked applications within Tesla Motors. This role presents a prime opportunity to ensure reliability, maintainability, performance, scalability, and security are at the forefront of our teams' products. The Staff Site Reliability Engineer will partner with the application development and main infrastructure teams to architect and operate reliable, scalable, and performant services. You will have a huge impact on how we do things and help take our engineering excellence to the next level. You will report to the Senior Manager of Site Reliability Engineering.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-14T18:07:11.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 144,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 107000,
+    "max_value": 188000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

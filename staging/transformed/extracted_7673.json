@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Do you want to shape the future of retail, gaming and media and entertainment through AI innovations? We are looking for a data scientist who will develop state-of-the-art machine learning techniques to elevate user and content experience to the next level in these industries.  We are a fast-paced team within Azure Global focused on building Industry specific AI products. We are looking for an experienced data scientist with excellent problem-solving skills, and a passion to apply AI techniques to problems in the gaming domain.  You will work with a global diverse team of data scientists and engineers that apply machine learning and deep learning techniques (ranging from recommendation systems, natural language processing, reinforcement learning and more) for customers in the above industry domains. You will be involved in incubating solutions and products for infusing AI in specific industries, from design to production.  To be successful, you will need strong software skills, technical aptitude, communication skills and a collaborative work style. Preferably, you have domain expertise in one of the aforementioned industries. This is an excellent opportunity to challenge yourself and continuously grow new skills. In this role, you will collaborate with experts in machine learning and distributed systems. You will get to work on recommender systems, text and image mining & processing, forecasting and other advanced machine learning techniques. You will help develop machine learning models that will help make gaming experience more engaging and enjoyable.  You will work on all aspects of the design, development and delivery of machine learning and deep learning solutions, including problem definition, data acquisition, exploration, training, testing, and evaluating machine learning models, and creating end-to-end pipelines and solutions in production. REQUIRED QUALIFICATIONS Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.  Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-21T21:21:41.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlotte",
+    "region": "NC",
+    "postal_code": "28241",
+    "street_address": null,
+    "latitude": 35.223785,
+    "longitude": -80.84114
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "General Manager Task Force",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:27:45.000Z"
+  },
+  "company": {
+    "name": "TBC Hotels",
+    "link": "https://www.linkedin.com/company/tbchotels"
+  },
+  "education": {
+    "required_credential": ""
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Wilmington",
+    "region": "DE",
+    "postal_code": "19806",
+    "street_address": null,
+    "latitude": 39.74443,
+    "longitude": -75.5451
+  }
+}

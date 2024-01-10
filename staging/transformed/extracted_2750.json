@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Food &amp; Beverages,Food Production,Consumer Goods",
+    "description": "Is responsible for the oversight and performance of the maintenance staff and functions, engineering, and site facilities. Develop engineering plans to support current and future plant requirements and develop systems in critical areas such as preventative maintenance, spare parts inventories, and work order systems. Work closely with plant management and plant employees and serve as a liaison with DFA enterprise wide functional departments such as Quality Assurance and Compliance, Human Resources, Accounting, Engineering, Purchasing, Research and Development, and Risk Management. An Equal Opportunity Employer",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-10T06:41:04.000Z"
+  },
+  "company": {
+    "name": "Dairy Farmers of America",
+    "link": "https://www.linkedin.com/company/dairy-farmers-of-america"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Garden City",
+    "region": "KS",
+    "postal_code": "67846",
+    "street_address": null,
+    "latitude": 37.97498,
+    "longitude": -100.85864
+  }
+}

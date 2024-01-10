@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Accounting,Information Technology and Services,Management Consulting",
+    "description": "Are you an experienced, passionate pioneer in technology - a solutions builder, a roll-up-your-sleeves technologist who wants a daily collaborative environment, think-tank feel and share new ideas with your colleagues - without the extensive demands of travel? If so, consider an opportunity with our US Delivery Center - we are breaking the mold of a typical Delivery Center.  Our US Delivery Centers have been growing since 2014 with significant, continued growth on the horizon. Interested? Read more about our opportunity below ...  Work you'll do/Responsibilities The Team  Analytics & Cognitive  In this age of disruption, organizations need to navigate the future with confidence, embracing decision making with clear, data-driven choices that deliver enterprise value in a dynamic business environment.  The Analytics & Cognitive team leverages the power of data, analytics, robotics, science and cognitive technologies to uncover hidden relationships from vast troves of data, generate insights, and inform decision-making. Together with the Strategy practice, our Strategy & Analytics portfolio helps clients transform their business by architecting organizational intelligence programs and differentiated strategies to win in their chosen markets.  Analytics & Cognitive will work with our clients to:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-23T06:09:22.000Z"
+  },
+  "company": {
+    "name": "Deloitte",
+    "link": "https://www.linkedin.com/company/deloitte"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postal_code": "46203",
+    "street_address": null,
+    "latitude": 39.76845,
+    "longitude": -86.15621
+  }
+}

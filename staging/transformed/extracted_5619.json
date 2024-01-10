@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Junior Software Engineer",
+    "industry": "Nonprofit Organization Management,Financial Services,Hospital &amp; Health Care",
+    "description": "We are looking for an aspiring and motivated software engineer to join the Department of Biomedical Informatics at Harvard Medical School, to build platforms for genome analysis. Genome sequencing is becoming a routine approach for diagnosing genetic diseases. As the number of patients referred to genetic screening is increasing, there is a need to build effective solutions to manage their data for clinical applications and discovery research.  The Clinical Genomic Analysis Platform (CGAP) and the 4D Nucleome (4DN) Platform at Harvard Medical School are scalable web-based applications for analysis, annotation, visualization, and reporting of genomic data. The portals are developed by a multidisciplinary diverse team of clinical geneticists, bioinformatic scientists, and software engineers, and share the cloud-based back-end. The working environment combines the best features of a startup (fast pace, flexibility, flat hierarchies) with those of one of the leading medical schools (excellent benefits, outstanding opportunities for learning). The successful candidate will gain hands-on experience with, and master the following technologies: This is a one-year term position with strong potential for renewal.  This Staff role may start as a remote position due to the COVID-19 pandemic and while restrictions are still in place. The current remote nature of this role is considered temporary and may change as the University continues to evaluate options. While we continue to monitor the evolving COVID-19 guidelines, local on-campus work may be expected for some roles. Harvard Medical School does support flexible schedules, subject to individual departments’ business needs.  Harvard will require COVID vaccination for all Harvard community members who will have any on-campus presence. Individuals may claim exemption from the vaccine requirement for medical or religious reasons. More information regarding the University’s COVID vaccination requirement and exceptions may be found at the University’s “COVID-19 Vaccine Information” webpage: http://www.harvard.edu/coronavirus/covid-19-vaccine-information/ .  Please note that we are currently conducting a majority of interviews and onboarding remotely and virtually. We appreciate your understanding. The Harvard Medical School is not able to provide visa sponsorship for this position.  Not ready to apply? Join our Talent community to keep in touch and learn about future opportunities!  https://app.jobvite.com/TalentNetwork/action/campaign/w/NzM2NjU Information Technology USA - MA - Boston I0756P Applications Professional II Biomedical Informatics Full-time 056 00 - Non Union, Exempt or Temporary Education, Identity 35 hrs. per week | Monday - Friday | 9:00 am - 5:00 pm We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, gender identity, sexual orientation, pregnancy and pregnancy-related conditions, or any other characteristic protected by law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-29T16:22:21.000Z"
+  },
+  "company": {
+    "name": "Harvard University",
+    "link": "https://www.linkedin.com/company/harvard-university"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 63500,
+    "max_value": 95900,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Boston",
+    "region": "MA",
+    "postal_code": "02118",
+    "street_address": null,
+    "latitude": 42.358994,
+    "longitude": -71.05863
+  }
+}

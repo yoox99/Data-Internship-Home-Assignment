@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Required Technical Skills: Hands-on experience with the following: Good knowledge of: Desired Technical Skills: Required Aptitudes Educational qualification and experience: Powered by JazzHR  CTC0hhUZUw",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-09-01T19:03:02.000Z"
+  },
+  "company": {
+    "name": "Zealogics Inc",
+    "link": "https://www.linkedin.com/company/zealogics-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

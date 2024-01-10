@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior C++ Software Engineer",
+    "industry": "Financial Services",
+    "description": "ICE Data Services, the premier provider of real-time market data from around the world, is looking for a Senior C++ Software Engineer. Our team is comprised of experts in software development, network programming, performance optimizations and tools development. The individual will join the IDS News and Content team, and will be responsible for developing solutions to distribute News Headlines and Contributed Content into the ICE Connect platform. The ICE Connect platform, products and tools process and distribute market data from around the globe, servicing streaming real-time quotes and charts using cutting edge caching and time series database.  The ideal candidate should be a highly motivated individual with a proven background in system design and development. Additionally, the candidate should possess solid knowledge of server-side technologies, good experience with iterative development and SDLC tools, and the ability to work well with others. Intercontinental Exchange, Inc. is an Equal Opportunity and Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin or ancestry, age, disability or veteran status, or other protected status.  Additional Information",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-09T20:12:26.000Z"
+  },
+  "company": {
+    "name": "ICE",
+    "link": "https://www.linkedin.com/company/icemarkets"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103000,
+    "max_value": 143000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Chicago",
+    "region": "IL",
+    "postal_code": "60654",
+    "street_address": null,
+    "latitude": 41.88323,
+    "longitude": -87.6324
+  }
+}

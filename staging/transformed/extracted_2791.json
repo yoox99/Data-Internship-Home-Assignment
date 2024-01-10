@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Computer Software",
+    "description": "We are seeking a highly motivated data scientist who shares our passion for innovation to join our team within the Climate Science organization. You will have the opportunity to be on the forefront of developing novel & complex integrated agronomic models for recommendations on seeds, agronomic traits, and crop protection that farmers need today. Our team has access to rich, industry-leading data sources to drive creation of predictive and prescriptive models that will shape the future of the agriculture industry.  As part of our diverse, highly dynamic group, you will work side-by-side with a team of exceptional scientists with diverse backgrounds to deliver next-generation scientific breakthroughs, while fostering your career growth and development. If you are passionate about addressing feeding a growing planet sustainably, with a direct impact on farmers, the Climate Corporation would love to talk to you. We work on hard problems because we love the challenge! A Data Scientist plays a key role in delivering innovative scientific breakthroughs by applying predictive analytics, risk optimization, and statistics to integrated recommendations. You will work closely with interdisciplinary scientists, domain experts and stakeholders to predict the product performance and provide personalized prescriptions for growers while developing novel analytical models and best practices for complex data analyses. Our teams are composed of industry experts, top scientists, and talented engineers. The environment is extremely engaging and fast-paced, with dozens of specialties coming together to provide the best possible products and experiences for our customers.  We provide competitive salaries and some of the best perks in the industry, including: We also hinge our cultural DNA on these five values: The Climate Corporation - The Technology Behind Making A Difference https://youtu.be/c5TgbpE9UBI or visit https://climate.com/careers  Climate aims to create a welcoming and collaborative environment for our employees in which a diverse set of perspectives and voices are represented and celebrated.  As part of our dedication to the diversity of our workforce, The Climate Corporation is committed to Equal Employment Opportunity and does not discriminate based on race, religion, color, national origin, ethnicity, gender, sex (including pregnancy), protected veteran status, age, disability, sexual orientation, gender identity, gender expression, or any unlawful criterion existing under applicable federal, state, or local laws. If you need assistance or an accommodation due to a disability, you may contact us at accommodations@climate.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T01:37:16.000Z"
+  },
+  "company": {
+    "name": "The Climate Corporation",
+    "link": "https://www.linkedin.com/company/the-climate-corporation"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91200,
+    "max_value": 159000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Seattle",
+    "region": "WA",
+    "postal_code": "98133",
+    "street_address": null,
+    "latitude": 47.60323,
+    "longitude": -122.33028
+  }
+}

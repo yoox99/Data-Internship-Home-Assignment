@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Plant Accountant",
+    "industry": "",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T17:24:17.000Z"
+  },
+  "company": {
+    "name": "Aston Carter",
+    "link": "https://www.linkedin.com/company/aston-carter"
+  },
+  "education": {
+    "required_credential": "associate degree"
+  },
+  "experience": {
+    "months_of_experience": 96,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Gordon",
+    "region": "GA",
+    "postal_code": "31031",
+    "street_address": null,
+    "latitude": 32.88228,
+    "longitude": -83.33278
+  }
+}

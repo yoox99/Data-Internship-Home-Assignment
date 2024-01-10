@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer, Media Infrastructure",
+    "industry": "Internet",
+    "description": "Twitter is what’s happening and what people are talking about right now. For us, life's not about a job, it's about purpose. We feel real change starts with conversation. Here, your voice matters. Come as you are and together we'll do what's right (not what's easy) to serve the public conversation. The Media Infrastructure organization strives to push the boundaries of what media can be included in a tweet, and we own the infrastructure used to run online A/B testing and experimentation.  We work with both online and offline systems like Hadoop and with different media serving technologies and content delivery systems! We work across on-prem, and cloud-based clusters. We are looking for SREs who are passionate about highly performant user-facing services, have a desire to grow themselves and learn new technologies, love working in collaborative teams, and committed to serving their customers. You don’t need to have mastered Hadoop to join this team.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T22:02:37.000Z"
+  },
+  "company": {
+    "name": "Twitter",
+    "link": "https://www.linkedin.com/company/twitter"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

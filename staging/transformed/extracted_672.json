@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - Configuration Platform",
+    "industry": "Computer Software,Consumer Services,Information Technology and Services",
+    "description": "Uber’s Configuration Platform team, part of Core Infrastructure Engineering, is responsible for developing a self-servicing product and service configuration platform that is adopted by thousands of microservices and customers across engineering and city teams at Uber. We build the configuration platform that focuses on scaling with the business’s growth, enable new feature launches, compliances, and regulatory policies. As a Senior Software Engineer on the Configuration Platform team, you will develop a reliable and resilient platform for a self-servicing product and service configuration platform that is adopted by thousands of microservices and customers across engineering, product, and city operations teams at Uber.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T22:03:39.000Z"
+  },
+  "company": {
+    "name": "Uber",
+    "link": "https://www.linkedin.com/company/uber-com"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 165000,
+    "max_value": 225000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

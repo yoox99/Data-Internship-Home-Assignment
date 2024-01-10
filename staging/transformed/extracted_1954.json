@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Front-End Software Engineer",
+    "industry": "Financial Services",
+    "description": "( ): 10  The S&P Global Platform team is a creative team of experts collaborating across divisions and driving continuous improvements in platform usability and innovation. The Platform team is building NextGen core capabilities to drive deeper Technology transformation for S&P Global. We are now looking for a motivated engineer in this space to help grow and expand our Platform Core Services.  The front-end UI/UX engineering for Platform Core Services is a key component of S&P Global's Technology organization that provides an enriched and valuable ecosystem of core capabilities for the S&P Global platform that drive innovation for our clients, within S&P Global divisions, and globally. The S&P Global Platform team is responsible for defining the next generation of the S&P Global Platform. To do this, the front-end engineer for the Platform Front-End team needs to understand the technical challenges and apply industry best practices to create scalable capabilities. This position will report to Common Capability Approach technical product management. This position provides the opportunity to play a role in a highly involved strategic team across S&P Global. Through partnerships with divisional Technology, Data, Product, and Commercial Teams, you will work with talented individuals to help identify market and competitive influences to drive platform innovation and expansion. S&P Global states that the anticipated base salary range for this position is $68,300 to $155,900. Base salary ranges may vary by geographic location.  In addition to base compensation, this role is eligible for an annual incentive plan.  This role is eligible to receive additional S&P Global benefits. For more information on the benefits we provide to our employees, visit S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.  If you need an accommodation during the application process due to a disability, please send an email to: and your request will be forwarded to the appropriate person.  The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.  20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.1 - Middle Professional Tier I (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning) 261204 2021-06-11 New York, New York, United States",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-01T06:38:44.000Z"
+  },
+  "company": {
+    "name": "S&amp;P Global Market Intelligence",
+    "link": "https://www.linkedin.com/company/s&amp;p-global-market-intelligence"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 62300,
+    "max_value": 128000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Charlottesville",
+    "region": "VA",
+    "postal_code": "22902",
+    "street_address": null,
+    "latitude": 38.031048,
+    "longitude": -78.47416
+  }
+}

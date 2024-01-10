@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Sr. Software Engineer",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T02:16:54.000Z"
+  },
+  "company": {
+    "name": "Parker and Lynch",
+    "link": "https://www.linkedin.com/company/parker-and-lynch"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Kansas City Metropolitan Area",
+    "region": null,
+    "postal_code": "64101",
+    "street_address": null,
+    "latitude": 39.051476,
+    "longitude": -94.48047
+  }
+}

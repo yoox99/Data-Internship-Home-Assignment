@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Researcher / Simulation Software Engineer ",
+    "industry": "Information Technology and Services,Information Services,Capital Markets",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-23T10:39:51.000Z"
+  },
+  "company": {
+    "name": "NJF Global Holdings Ltd",
+    "link": "https://uk.linkedin.com/company/njfglobal"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

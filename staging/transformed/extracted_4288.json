@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Accounting,Information Technology and Services,Management Consulting",
+    "description": "In this age of disruption, organizations need to navigate the future with confidence by tapping into the power of data analytics, robotics, and cognitive technologies such as Artificial Intelligence (AI). Our Strategy & Analytics portfolio helps clients leverage rigorous analytical capabilities and a pragmatic mindset to solve the most complex of problems. By joining our team, you will play a key role in helping to our clients uncover hidden relationships from vast troves of data and transforming the Government and Public Services marketplace. Deloitte's Government and Public Services (GPS) practice - our people, ideas, technology and outcomes-is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of over 15,000+ professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.  The Strategy and Analytics Cross Consulting Group (CCG) is a cohort of client service practitioners who provide cross-functional, enterprise-level data analysis solutions needed to accomplish key policy objectives and make informed decisions. Our CCG practitioners develop advanced analytics products and apply data visualization and statistical programming tools to enterprise data to advance and enable mission outcomes. They also support all phases of analytic work product development, from the identification of key business questions through data collection and ETL and from performing analyses to delivery of insights to decision-makers. How you'll grow  At Deloitte, our professional development plan focuses on helping people at every level of their career to identify and use their strengths to do their best work every day. From entry-level employees to senior leaders, we believe there's always room to learn. We offer opportunities to help sharpen skills in addition to hands-on experience in the global, fast-changing business world. From on-the-job learning experiences to formal development programs, our professionals have a variety of opportunities to continue to grow throughout their career.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T06:09:21.000Z"
+  },
+  "company": {
+    "name": "Deloitte",
+    "link": "https://www.linkedin.com/company/deloitte"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer (United States, REMOTE)",
+    "industry": "Computer Software,Human Resources,Information Technology and Services",
+    "description": "Our mission is to empower people, businesses and communities. A culture created less by what we do and more by who we are. When people ask what our team is about, we point to our core values: champion customer success, bring our best, achieve together, get stuff done, and innovate every day. We're always on the lookout for new, curious and capable people who can help us achieve our goal and we are seeking diversity in the people who join our team. We want to make sure that our company reflects the demographic of our customers, clients, and the communities in which we operate. So if you want to work for a friendly, global, inclusive and innovative company, we'd love to meet you! Cornerstone is a premier people development company. We believe people can achieve anything when they have the right development and growth opportunities. We offer organizations the technology, content, expertise and specialized focus to help them realize the potential of their people. Featuring comprehensive recruiting, personalized learning, modern training content, development-driven performance management and holistic employee data management and insights, Cornerstone’s people development solutions are successfully used by more than 75 million people in 180+ countries and in nearly 50 languages.  Cornerstone takes special care to ensure the security and privacy of the data of its users.  Check us out on Linkedin , Comparably , Glassdoor , and Facebook !  Equal Employment Opportunity has been, and will continue to be, a fundamental commitment at Cornerstone OnDemand. All qualified applicants are given consideration regardless of race, religion, color, gender, sex, age, sexual orientation, gender identity, national origin, marital status, citizenship status, disability, veteran status, or any other protected class as provided in applicable Federal, State, or Local fair employment laws. If you have a disability or special need that requires accommodation, please contact us at careers@csod.com .",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-24T01:14:12.000Z"
+  },
+  "company": {
+    "name": "Cornerstone OnDemand",
+    "link": "https://www.linkedin.com/company/cornerstone-ondemand"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

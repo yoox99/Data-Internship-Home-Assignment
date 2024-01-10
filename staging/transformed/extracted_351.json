@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer - TrainHeroic",
+    "industry": "Marketing and Advertising,Computer Software,Internet",
+    "description": "Are you ready to work on a product impacting millions of people? TrainHeroics user base of athletes and coaches is growing rapidly. We call them Heroes. To meet their demands TrainHeroic needs innovators, collaborators, and excellent engineers like you. Together were building the worlds best training app. Join TrainHeroic today. Day-to-Day Compensation Peaksware/TrainHeroic is committed to fair and equitable compensation practices. The salary range for this role is $88,140 - $146,900. Final compensation for this role will be determined by various factors such as a candidate's relevant work experience, skills, and certifications. This role is eligible for variable compensation including bonus. and Perks Health SDL2019-1032",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-11T23:12:07.000Z"
+  },
+  "company": {
+    "name": "Peaksware Holdings, LLC",
+    "link": "https://www.linkedin.com/company/peaksware-holdings-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 91700,
+    "max_value": 199700,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Louisville",
+    "region": "CO",
+    "postal_code": "80027",
+    "street_address": null,
+    "latitude": 39.976837,
+    "longitude": -105.13214
+  }
+}

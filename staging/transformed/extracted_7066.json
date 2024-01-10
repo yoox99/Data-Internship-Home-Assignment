@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer- CTJ",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Security Clearance Requirements: Candidates must be able to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Do you have a passion for high scale services and working with some of Microsoft’s most critical customers? We’re looking for a Software Engineer with the right mix of software development, on-line services experience and passion for quality to envision, design, and deliver Office 365 government cloud service offerings.  Office 365 is at the center of Microsoft’s cloud first, devices first strategy as it brings together cloud versions of our most trusted communication and collaboration products like Exchange, SharePoint, and Teams with our cross-platform desktop suites and mobile apps. The Office 365 Enterprise Cloud team works with Microsoft’s largest enterprise and government customers to deliver features that meet their specific needs and enable cloud adoption. As you would expect, our customers have the highest expectations for feature quality, security, reliability, availability, and performance.  The Site Reliability Engineering (SRE) team provides leadership, direction and accountability for application architecture, system design, and end-to-end implementation. As a Site Reliability Engineer, you will identify and deliver software improvements using your expertise in software development, complexity analysis, and scalable system design. Strong collaboration skills will be required to work closely with other engineering teams to ensure services/systems are highly stable and performant, meeting the expectations of our government customers and users.  At Microsoft, we can offer you a strong team, exciting challenges, and a fun place to work. The work environment empowers you to have a positive impact on millions of end users. Job Responsibilities: Required Qualifications: OPGLX  Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.  Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-25T20:17:58.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

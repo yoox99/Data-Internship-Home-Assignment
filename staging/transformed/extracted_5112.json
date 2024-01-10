@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Data Scientist",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Your role as the Senior Data Scientist is to support stakeholders through data science techniques and building the solutions for the business’s key initiatives. In addition, you will synthesize and leverages the business’s dataset and data to enhance the business capabilities for overall goal achievement. You will be helping the business to continue its evolution into a data-driven culture and will apply and inspire the adoption of advanced data science across the business. You will report to Data Science Manager and working closely with the Marketing, Sales, and Customer Success organizations. PandaDoc empowers more than 27,000 growing organizations to thrive by taking the work out of document workflow. PandaDoc provides an all-in-one document workflow automation platform that helps fast scaling teams accelerate the ability to create, manage, and sign digital documents including proposals, quotes, contracts, and more. For more information, please visit https://www.pandadoc.com. We're known for our work-life balance, kind co-workers, & creative virtual team-bonding events. And although our Pandas are located across the globe, we stay connected with the help of technology and ensure that everyone on our team feels, well, like a team.  Pandas work best when they're happy. We retain our talent by upholding our values of integrity & transparency, and selling a product that changes the lives of our customers.  Check out our LinkedIn to learn more. We are committed to equal treatment of all employees without regard to race, national origin, religion, gender, age, sexual orientation, veteran status, physical or mental disability or other basis protected by law. The use of external recruiters/staffing agencies requires prior approval from our HR Team. The HR Team at PandaDoc requests that external recruiters/staffing agencies not to contact PandaDoc employees directly in an attempt to present candidates. Complying with this request will be a factor in determining future professional relationships with PandaDoc.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T20:11:02.000Z"
+  },
+  "company": {
+    "name": "PandaDoc",
+    "link": "https://www.linkedin.com/company/pandadoc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

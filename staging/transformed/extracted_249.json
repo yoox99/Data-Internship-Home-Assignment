@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning/Data Engineer- AWS - 90133515 - Washington",
+    "industry": "Construction,Information Technology and Services,Financial Services",
+    "description": "Amtrak connects businesses and communities across the country and we move America’s workforce toward the future. We employ more than 20,000 diverse, energetic professionals in a variety of career fields throughout the United States. The safety of our passengers, our employees, the public and our operating environment is our priority and the success of our railroad is the result of our employees. The Lead Data Engineer drives data transformation into formats that increase usability and analysis capability, as well as, builds data solutions that adhere to industry standards in data analytics.  The Lead Data Engineer is responsible for expanding and optimizing Amtrak’s data architecture, as well as optimizing data flow and collection for cross functional teams. This role supports multiple teams concurrently, which often include software developers, database architects, data analysts and data scientists on business initiatives, ensuring an optimal data delivery architecture is consistent throughout ongoing projects.  The Lead Data Engineer works on major projects providing subject matter expertise and technical direction and is also responsible for systems analysis, design, development, integration, and enhancement. The position works closely with customers, business analysts and team members to understand the business requirements that drive the analysis and design of quality technical solutions. These solutions must be aligned with business and IT strategies and in compliance with the organization’s architectural standards.  This role provides technical leadership coaching and mentoring to team members. Drives the data component on projects that may span a broad range of systems. Requires expertise in multiple technical environments and possesses an increased level of business knowledge. Responsibilities include, but may not be limited to, the following:",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-11T18:14:30.000Z"
+  },
+  "company": {
+    "name": "Amtrak",
+    "link": "https://www.linkedin.com/company/amtrak"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 81500,
+    "max_value": 148000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20002",
+    "street_address": null,
+    "latitude": 38.901917,
+    "longitude": -76.993774
+  }
+}

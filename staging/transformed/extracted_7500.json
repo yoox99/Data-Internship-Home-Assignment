@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Integration Engineer",
+    "industry": "Information Technology and Services",
+    "description": "Job Description for Data Integration Engineer  To develop a global lab automation data architecture for the global quality laboratory enterprise, including information system (ELN, LIMS) integration with vendor-independent laboratory work cells. Additional support is needed from industry experts in GMP laboratory information technology, automation integration, and data architecture to achieve these goals.  Global Quality Laboratories (GQL) would like to request 12-18 months of support to build a library of device drivers/edge devices for automation hardware to be able to publish/subscribe data to a message queue platform using MQTT protocol.  Activities the role will take part to develop and implement our strategy include but are not limited to: manufacturers including but not limited to; Biovia, Thermo Scientific, Hamilton Robotics, Biosero Green Button Go, Molecular Devices SoftMax Pro, Brooks SampleStores, Hamilton Work Cells, Biotek Gen5, Darwin LIMS, SmartLab, LabVantage)",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T03:52:52.000Z"
+  },
+  "company": {
+    "name": "Centraprise",
+    "link": "https://www.linkedin.com/company/centraprise"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Indianapolis",
+    "region": "IN",
+    "postal_code": "46203",
+    "street_address": null,
+    "latitude": 39.76845,
+    "longitude": -86.15621
+  }
+}

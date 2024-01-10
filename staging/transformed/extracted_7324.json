@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Developer Experience",
+    "industry": "Computer Software,Computer &amp; Network Security,Computer Networking",
+    "description": "WeWork is hiring a Senior Software Engineer to build tooling and interfaces to accelerate software delivery of thousands of services. This is a full-stack software engineering position that spans command-line, web, and automated CI/CD.  This role will be working on an established team of experienced engineers responsible for building and extending the tooling that ensures WeWork engineers can reliably deliver first-class applications with minimal downtime and maintenance cost.  Hundreds of thousands of members around the world rely on WeWork services to book spaces at WeWork locations, get support, learn about and gain entry to their buildings, invite guests, and work efficiently while in our spaces. WeWork is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon gender, sexual orientation, marital or civil status, pregnancy (or pregnancy-related conditions), gender identity or expression, transgender status or gender reassignment, race, color, national origin or ancestry, citizenship, religion or religious beliefs, age, physical or mental disability, genetic information (including genetic testing and characteristics), military or veteran status, or any other grounds or characteristic that is protected under the law.  As part of our commitment to health and safety, WeWork -- like a growing number of employers -- is requiring all U.S. employees to be fully vaccinated for COVID-19 as a condition of employment, absent a legal exception for reasonable accommodation. We provide unvaccinated new hires a 45-day grace period after their start date to get fully vaccinated or, if eligible, obtain a reasonable accommodation. If you believe that a legal exception may apply to you, please still apply for any role(s) you are interested in and, if you are hired, you will receive instructions on how to request a reasonable accommodation after your start date. Please note that roles that require in-person work -- currently, within our Community (excluding Member Experience), Facilities Management (including Security), Sales (excluding Sales Ops), and Member Technology teams -- will not be eligible for work-from-home as an accommodation because it poses an undue hardship on our business.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-08T02:07:01.000Z"
+  },
+  "company": {
+    "name": "WeWork",
+    "link": "https://www.linkedin.com/company/wework"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 48,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

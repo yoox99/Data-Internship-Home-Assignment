@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "We are experiencing incredible growth in our second year in our current business model. We have signed some of the world’s most respected brands growing over 300% in 2020, a year that has been challenging for so many others.  Verusen is a leading technology company that uses artificial intelligence to provide visibility, digitization, and prediction of materials data and inventory for complex supply chains. The company’s AI software harmonizes disparate material data across ERP instances/systems while providing accurate MDM across the enterprise to optimize inventory costs. Intelligent controls enforce inventory procedures to help prevent future inventory spikes, while predictive capabilities optimize allocation and procurement needs. The result is a data foundation you can trust to move quickly to innovate and support related Industry 4.0 initiatives.  We are venture-backed by leading investors from San Francisco to Boston and are a Signature Company at Georgia Tech’s Advanced Technology Development Center (ATDC). Partnerships including SAP and Accenture. Verusen is a portfolio company of SAP.iO. Verusen is experiencing incredible growth in our second year in our current business model. We have signed some of the world’s most respected brands growing over 300% in 2020; a year that has been challenging for so many others.  Verusen is a leading technology company that uses artificial intelligence to provide visibility, digitization, and prediction of materials data and inventory for complex supply chains. The company’s AI software harmonizes disparate material data across ERP instances/systems while providing accurate MDM across the enterprise to optimize inventory costs. Intelligent controls enforce inventory procedures to help prevent future inventory spikes, while predictive capabilities optimize allocation and procurement needs. The result is a data foundation you can trust to move quickly to innovate and support related Industry 4.0 initiatives.  Verusen is venture-backed by leading investors from San Francisco to Boston, and is a Signature Company at Georgia Tech’s Advanced Technology Development Center (ATDC). Partnerships including SAP and Accenture. Verusen is a portfolio company of SAP.iO. As a Machine learning QE engineer, you will work closely with Product Management and Data science to understand how to evaluate and monitor our ML pipelines. The successful ML-QA has a strong technical aptitude and is obsessed with continuous quality improvement in the ML field; they are experienced and highly committed to creating world-class automation for feature testing and regression for different ML models. Additional Information At Verusen, we are committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants and teammates without regard to race, color, religion, sex, national origin, age, physical and mental disability, sexual orientation, gender identity and/or expression, status as a veteran and any other characteristic protected by applicable law. We respect and seek to empower each individual and support a diverse culture, perspectives, skills, and experiences within our workforce. We believe that diversity and inclusion among our teammates are critical to our success, and we seek to recruit, develop and retain the most talented people from a diverse candidate pool.  For more information about the Company, check us out at www.verusen.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-13T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Verusen",
+    "link": "https://www.linkedin.com/company/verusen"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 77600,
+    "max_value": 142000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Automotive,Renewables &amp; Environment,Utilities",
+    "description": "THE ROLE  As an experienced Software Engineer you’ll lead the design and development of software for the current and next generation of Tesla’s Enterprise Resource Planning systems. In this role, you’ll be developing highly complex applications, while acting as a team leader and project manager, with the goal of streamlining business operations and improving overall user experience. The ideal candidate is a highly skilled engineer with proven ability to prioritize well and juggle multiple projects in a fast-paced environment, all while making an impact contributing to a cross-functional team. Your ability to creatively collaborate and execute team goals will affect scalability and directly contribute to the company mission of accelerating the world’s transition to sustainable energy.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-15T07:05:17.000Z"
+  },
+  "company": {
+    "name": "Tesla",
+    "link": "https://www.linkedin.com/company/tesla-motors"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 108000,
+    "max_value": 147000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

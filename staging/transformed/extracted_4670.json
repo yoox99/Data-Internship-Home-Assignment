@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Full Stack Engineer",
+    "industry": "Staffing and Recruiting",
+    "description": "",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T00:10:46.000Z"
+  },
+  "company": {
+    "name": "HireRising",
+    "link": "https://www.linkedin.com/company/hirerising"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Diego Metropolitan Area",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 32.71576,
+    "longitude": -117.16382
+  }
+}

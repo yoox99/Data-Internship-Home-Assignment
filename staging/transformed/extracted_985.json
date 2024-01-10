@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Data Scientist",
+    "industry": "Marketing and Advertising,Online Media,Internet",
+    "description": "YouGov is an international market research and data analytics group.  Our mission is to supply a continuous stream of accurate data and insight into what the world thinks, so that companies, governments and institutions can better serve the people and communities that sustain them.  We have the best data and the best tools. We continuously challenge conventional approaches to research, and we disrupt our industry to ensure that our clients always get the best solutions.  We are driven by a set of shared values. We are fast, fearless and innovative. We work diligently to get it right. We are guided by accuracy, ethics and proven methodologies. We respect and trust each other, and bring these values into everything that we do.  Each day, our highly engaged proprietary global panel of over 15 million people provides us with thousands of data points on consumer opinions, attitudes and behaviours. We combine this continuous stream of data with our research expertise to provide insights that enable intelligent decision-making and informed conversations.  With operations in the UK, North America, Mainland Europe, the Nordics, the Middle East, India and Asia Pacific, YouGov has one of the world’s largest research networks. Diversity and inclusion are fundamental to YouGov. We are committed to giving the world a voice by capturing the opinions of all groups, including the ones that are often under-represented in research. We are also committed to making sure that our products and tools are free from any bias, as accuracy is key to what we do. None of the above can be done without having a truly diverse workforce, in an inclusive workplace. We are very keen on attracting and retaining the best talent. And best talent also means a diverse pool of talent, with various backgrounds and perspectives.  Supporting the wellbeing of our staff, including maintaining a good work and life balance, is important to us. We support flexible working arrangements where appropriate for a role, with many locations offering a hybrid office-and-remote working approach.  As an Equal Opportunity Employer, qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, veteran status, disability status, or any other characteristic protected by law. All employment decisions are made on the basis of occupational qualifications, merit, and business need. You will help build some of the largest and most innovative research data products in the world. YouGov has 20 years of historical survey data including billions of data points across dozens of countries. In this position, you will own how we structure, standardize, process, and analyze that data internally — so that we can then build cutting edge data products for our external customers. You’ll be building data models for our users for the years to come.  If you think of yourself as a “data generalist” or a “data wrangler,” this position is a perfect fit for you. This isn’t a position for a pure statistician, data modeler, or a machine learning specialist.  Every day will be very different than the day before. An example day might be something like this: Qualifications Additional Information  This role can be 100% remote.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-19T00:00:00.000Z"
+  },
+  "company": {
+    "name": "YouGov",
+    "link": "https://uk.linkedin.com/company/yougov"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 103000,
+    "max_value": 216000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

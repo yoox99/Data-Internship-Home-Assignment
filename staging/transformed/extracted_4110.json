@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Software Engineer QA (Automated Test Writing), VA - VA Mobile (remote)",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Ad Hoc is a digital services company that helps the federal government better serve people. Our teams use modern, agile methods to design and engineer government systems that connect Veterans with services, bring affordable health care to millions of people, and support important programs like Head Start. And as we work to make critical government services intuitive, accessible and human-centered, we’re also changing how the government thinks about and uses technology. If you thrive on change, want to help close the gap between consumer expectations and government services, and can see the possibilities in ambiguity, then we want you here with us. Ad Hoc lives, acts and behaves according to our commitment to inclusivity, acceptance, accountability, and humility. We aren’t heroes. We believe in missions larger than our individual selves and leave our egos at the door, learn from our mistakes, and iterate in order to better serve the people in our country. We prioritize building teams that represent the diversity of the people our government serves. We love the challenge of government-size projects. We want to bring modern skills to our partner agencies, help them better meet the needs of their users, and close the gap between consumer expectations and government. Ad Hoc is remote-first and remote-always. We’ve designed our culture, communications, and tools to support a nationwide distributed team since the beginning. Being remote by design allows Ad Hoc to be thoughtful and intentional about creating diverse teams and supporting them with a work environment that fits their lives. With a generous PTO policy and Slack channels for every interest (from bird watching to space nerds to parenting) our culture embraces the things happening in your life. Maybe you need to adjust your schedule to care for a family member or take a bike ride. At Ad Hoc, that’s embraced. As an Ad Hoc QA Engineer, you’ll be part of a cross-functional team, working closely with stakeholders, product managers, designers, and other engineers. We’re looking for a driven and organized engineer to help our teams deliver the very best digital services for the public.  Our ideal QA Engineer knows how to test both frontend and backend code to ensure it is performant and meets business needs. They’ll need to be able to understand requirements, specifications, and design documents, and they’ll need to be able to create detailed test plans and test cases. They’ll need to be able to develop and apply testing processes to both new and legacy codebases. More than that, our ideal candidate wants to contribute to work that is bigger than themselves, and wants to make a difference collaborating with their team. They care deeply about building better products, better relationships, and better trust in each interaction people have with their government. They believe in intuitive, easy-to-use government services. They collaborate well with designers, stakeholders, and other teams. They mentor and guide more junior engineers. They’re human-centered.  And if you don’t check every box on the list? That doesn’t mean you can’t help us in our mission to deliver critical government services. Talk to us! Learn more about engineering at Ad Hoc.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T23:27:24.000Z"
+  },
+  "company": {
+    "name": "Ad Hoc LLC",
+    "link": "https://www.linkedin.com/company/ad-hoc-llc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 94800,
+    "max_value": 119000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Washington",
+    "region": "DC",
+    "postal_code": "20398",
+    "street_address": null,
+    "latitude": 38.892063,
+    "longitude": -77.01991
+  }
+}

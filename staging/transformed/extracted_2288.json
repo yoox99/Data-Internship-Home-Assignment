@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer I (SEI)",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "PDI helps convenience retailers and petroleum wholesalers thrive through digital transformation and enterprise software that enables them to grow topline revenue, optimize operations and unify their business across the entire value chain.  Over 1,500 customers in more than 200,000 locations worldwide count on our leading payments, marketing & insights cloud, ERP, logistics, fuel pricing, and security solutions to provide insights that increase volume, margin, and customer loyalty, all while connecting the digital ecosystem and protecting data. For more than 35 years, our comprehensive suite of solutions and unmatched expertise have helped customers reimagine their enterprise and deliver exceptional customer experiences. Backed by the investment of TA Associates, Genstar, and Insight Capital Partners, PDI is embarking upon an aggressive expansion strategy through internal investment in development as well as intensive M&A activity. The result will be a broader, more powerful, global company that serves customers across the entire supply chain. Do you love building software that thrills your customers? Do you insist on the highest standards for the software your team develops? Are you a progressive software engineer, an advocate of agile development practices, and a proponent of continuous improvement? Well if this is you, then join and energetic team of engineers building next-generation development applications for PDI!  You will play a key role in designing and building our market-leading software products as we drive to continuously increase our cloud maturity and mobility. You will be working as a key part of an agile team to design, build, test, and support PDI's enterprise software solutions. You will review, recommend & implement system enhancements that will improve the quality, performance, and maintainability of our products. You will be responsible for contributing to an always improving Engineering environment by ensuring all stakeholders (engineers, architects, product owners, SREs, IT Ops…) are informed of the status and supported in their roles.  With the variety of environments, platforms, technologies & languages, you must be comfortable working in both Windows & Linux environments and learning a variety of programming languages. PDI’s employee-oriented culture provides a supportive and dynamic work environment for high achievers. PDI seeks individuals who value continuous learning, hold high ethical standards, and are top performers in their respective fields. We offer competitive wages, professional development, superb culture, and a highly competitive benefits package. For more information about PDI, please visit our website at https://www.pdisoftware.com. PDI is an Equal Opportunity Employer. We verify employment eligibility for all new hires using E-Verify.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-30T15:10:10.000Z"
+  },
+  "company": {
+    "name": "PDI Software",
+    "link": "https://www.linkedin.com/company/pdi-software"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Temple",
+    "region": "TX",
+    "postal_code": "76502",
+    "street_address": null,
+    "latitude": 31.098476,
+    "longitude": -97.34374
+  }
+}

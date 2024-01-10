@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Associate Data Engineer",
+    "industry": "Construction,Entertainment,Hospitality",
+    "description": "SoFi Stadium is located at Hollywood Park and will be a year-round sports and entertainment destination located just four miles from Los Angeles International Airport. The project covers 298 acres of office, retail, and residential space with the centerpiece of the district being a 70,000-seat stadium that will be the home of NFL games for both the Los Angeles Rams and Los Angeles Chargers. SoFi Stadium and Hollywood Park will also play host to the 2022 Super Bowl, the 2023 College Football National Championship, and the Opening and Closing ceremonies of the 2028 Olympics, as well as major concerts and other entertainment year-round.  Our is Creating Extraordinary Experiences, one moment at a time.  Our is to be an iconic destination that celebrates our diverse and spirited community. We promise to exceed expectations while cultivating a fun and safe experience where lasting memories are made.  Our are as follows: : we commit to safety as a top priority. : we commit to the highest standard of cleanliness. : we commit to valuing and celebrating the diversity of our community, our team, and all that we serve. : we commit to providing an environment that promotes teamwork, mutual respect and recognizes the positive achievements of all. : we commit to innovation, inspiration and imagination in the delivery of extraordinary experiences through every interaction. SoFi Stadium and Hollywood Park is seeking an Associate Data Engineer to manage our team's GCP data pipeline, structure and development of marketing driven data models.  This person should have a team player attitude and demonstrate a flexible and adaptable work style that responds quickly and efficiently under pressure. SoFi Stadium and Hollywood Park are passionate about the guest experience for visitors and staff we support. Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee for this job. Duties, responsibilities and activities may change at any time. Hollywood Park and SoFi Stadium strongly support equal employment opportunity for all applicants regardless of race, color, religion, sex, gender identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, sexual orientation, genetic information, or any other characteristic protected by state or federal law.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-02T05:22:17.000Z"
+  },
+  "company": {
+    "name": "SoFi Stadium and Hollywood Park",
+    "link": "https://www.linkedin.com/company/sofi-stadium-and-hollywood-park"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 12,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Inglewood",
+    "region": "CA",
+    "postal_code": "90309",
+    "street_address": null,
+    "latitude": 33.961765,
+    "longitude": -118.35333
+  }
+}

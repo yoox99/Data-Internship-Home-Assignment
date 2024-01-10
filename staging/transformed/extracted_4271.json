@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data &amp; Applied Scientist",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "Microsoft’s Cloud business is experiencing explosive growth, and the Capacity, Supply Chain & Provisioning (CSCP) organization is responsible for enabling the infrastructure underlying this growth. Our mission is to deliver the world’s computer with an industry-leading supply chain. CSCP is responsible for strategic sourcing, customer demand forecasting, capacity planning and management, supply chain planning and execution, capacity provisioning, and decommissioning and dispositioning of datacenter assets worldwide.  The Cloud Services Demand Forecasting team leads the global demand forecasting for all of Microsoft’s current and future cloud services. We are looking for outstanding Forecasters to join our team. We are looking for someone who is passionate about forecast modeling and business analytics, is comfortable dealing with ambiguity and unknowns, with a track record of making data-driven decisions and recommendations to drive business value. In this role, you will get your hands dirty working with our team of Data Scientists and engineers to implement complex forecasting models using a variety of techniques (e.g., time series, regression, machine learning) to generate quality demand forecasts. You will understand drivers of demand and the complexities of the cloud business, work with primary and secondary research, and present findings to senior executives across Microsoft to support high-value and high-profile capacity investment decisions. You will solve ambiguous business problems and identify key macro and micro trends affecting the cloud industry demand. As a Demand Forecaster, you will also: Ability to meet Microsoft, customer and/or government security screening requirements are required for this role.  Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check every two years.  Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.  Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work. #CSCPJOBS",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T22:46:12.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Redmond",
+    "region": "WA",
+    "postal_code": "98073",
+    "street_address": null,
+    "latitude": 47.67491,
+    "longitude": -122.12399
+  }
+}

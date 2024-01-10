@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, Applications",
+    "industry": "Biotechnology",
+    "description": "Recursion is a clinical-stage biotechnology company decoding biology by integrating technological innovations across biology, chemistry, automation, data science and engineering to radically improve the lives of patients and industrialize drug discovery. Our team is working to solve some of the hardest, most meaningful problems facing human health today. Come join us in our mission to decode biology to radically improve lives, while doing the most impactful work of your life. You will use your experience developing machine learning-based products to build, and maintain Recursion’s high-throughput biological research platform. With treatments for hundreds of diseases in our sights, we’ve built a data science team with domain expertise in computer science, physics, biology, mathematics, applied statistics, and more. We work side-by-side with Biologists, Automation Scientists, Chemists, Software Engineers, and many others; together, we develop the tools and methods to turn our experimental data into treatments for pathologies to affect the lives of countless individuals. Whether you’re developing new ML tooling for the Data Science team, new approaches for evaluating our phenomics platform data, or improving on our production DL models, you’ll become an essential member of our effort to industrialize drug discovery and decode biology. Central to our mission is the Recursion Operating System, or Recursion OS, that combines an advanced infrastructure layer to generate what we believe is one of the world’s largest and fastest-growing proprietary biological and chemical datasets and the Recursion Map, a suite of custom software, algorithms, and machine learning tools that we use to explore foundational biology unconstrained by human bias and navigate to new biological insights which may accelerate our programs. We are a biotechnology company scaling more like a technology company. Recursion is proudly headquartered in Salt Lake City.  Learn more at www.recursion.com , or connect on Twitter and LinkedIn .  Recursion is an Equal Opportunity Employer that values diversity and inclusion. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other characteristic protected under applicable federal, state, local, or provincial human rights legislation.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T14:48:13.000Z"
+  },
+  "company": {
+    "name": "Recursion",
+    "link": "https://www.linkedin.com/company/recursion-pharmaceuticals"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Salt Lake City",
+    "region": "UT",
+    "postal_code": "84101",
+    "street_address": null,
+    "latitude": 40.758476,
+    "longitude": -111.888145
+  }
+}

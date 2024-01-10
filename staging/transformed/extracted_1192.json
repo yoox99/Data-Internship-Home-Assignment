@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (TS/SCI)",
+    "industry": "Defense &amp; Space",
+    "description": "Bachelor’s degree in software engineering or a related technical field is required (or equivalent experience), plus a minimum of 10 years of relevant experience; or Master's degree plus a minimum of 8 years of relevant experience; agile experience preferred. As a Principal Software Engineer, you will: Candidates should have demonstrated strengths and experience in the following areas: Bachelor's degree in software engineering or a related technical field is required (or equivalent experience), plus a minimum of 8 years of relevant experience; or Master's degree plus a minimum of 6 years of relevant experience.  Department of Defense Top Secret/SCI security clearance is required at time of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-21T01:47:37.000Z"
+  },
+  "company": {
+    "name": "Resiliency LLC",
+    "link": "https://www.linkedin.com/company/resiliencyllc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 120,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fairfax",
+    "region": "VA",
+    "postal_code": "22003",
+    "street_address": null,
+    "latitude": 38.847122,
+    "longitude": -77.30631
+  }
+}

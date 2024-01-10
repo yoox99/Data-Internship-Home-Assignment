@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Perception - Behavior Prediction",
+    "industry": "Information Technology and Services,Computer Software,Automotive",
+    "description": "Pony.ai is a startup co-located in Silicon Valley and China, our mission is to revolutionize the future of transportation by building the safest and most reliable technology for autonomous vehicles. Armed with the latest breakthroughs in artificial intelligence, we aim to deliver our technology at a global scale. We believe our work has the potential to transform lives and industries for the better. Pony.ai, Inc. (“Pony.ai”) is pursuing an ambitious vision for autonomous mobility. We aim to bring safe, sustainable, and accessible mobility to the entire world. We believe that autonomous technology can make our roads exponentially safer for travelers. Founded in late 2016, Pony.ai has been a pioneer in autonomous mobility technologies and services across the U.S. and China, spearheading public-facing Robotaxi pilots in both markets. The company is currently valued at $5.3B and some of its major investors include Toyota, OTPP, Sequoia Capital China, and IDG Capital.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-06-06T23:00:48.000Z"
+  },
+  "company": {
+    "name": "Pony.ai",
+    "link": "https://www.linkedin.com/company/pony-ai"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 110000,
+    "max_value": 156000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Fremont",
+    "region": "CA",
+    "postal_code": "94537",
+    "street_address": null,
+    "latitude": 37.5502,
+    "longitude": -121.98083
+  }
+}

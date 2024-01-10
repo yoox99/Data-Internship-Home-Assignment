@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Machine Learning Engineer, ML Platform",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers, removing fees, and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in. Just as we focus on our customers, we also strive to create an inclusive environment where our employees can thrive and do impactful work. Robinhood is backed by leading investors that include DST Global, Index Ventures, NEA, Ribbit Capital, Thrive Capital, and Sequoia.  Check out life at Robinhood on The Muse! Insights from data power most decisions at Robinhood. The Core Machine Learning team works with a simple mission of making it easy to use machine learning at Robinhood. The team is executing the mission by building the core infrastructure (eg. Training and serving platform, feature platform) and a number of model-as-a-service solutions (eg. Embedding service, multi-arm bandit service). The team works closely with data scientists who are applying ML in various spaces such as risk and fraud, growth, customer understanding etc. to ensure that they are able to ship their solutions to create business value.  As an MLE focused on ML Platform, you will build Robinhood’s ML platform and deploy it in stages. Depending on your expertise and interest, you will have the opportunity to work on different aspects of the platform such as distributed training, feature serving, automatic training and deployment, model monitoring and so on. You will also be responsible for making the platform highly scalable, reliable, and observable for our customers. Feeling ready to give 100% to democratizing finance for all? We’d love to have you apply, even if you feel unsure about whether you meet every single requirement in this posting. At Robinhood, we’re looking for people invigorated by our mission, not just those who simply check off all the boxes.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-04T01:08:08.000Z"
+  },
+  "company": {
+    "name": "Robinhood",
+    "link": "https://www.linkedin.com/company/robinhood"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 132000,
+    "max_value": 203000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

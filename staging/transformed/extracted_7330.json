@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer, Backend",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "Magic is an early stage, fast-growing contender to transform the antiquated user identity space by eliminating the need for passwords, with backing from top investors such as Tiger Global, Lightspeed Ventures, SV Angel, Social Capital, Northzone, Placeholder, Naval Ravikant, Alexis Ohanian, Ryan Hoover, and Balaji Srinivasan.  Our mission is to safeguard the trust between users and Internet services by establishing a secure and authentic digital identity. Magic's vision is to build the passport of the internet. We are looking for team members who are not afraid to push beyond the status quo and create the most straightforward, most secure, and most long-term sustainable identity solution for app developers and end-users. This is a unique opportunity to help us disrupt the world of authentication.  We are looking for a Backend Engineer that is able to implement software solutions that are tested, maintainable, reliable, and scalable. They’ll be alternating between building out high performant, scalable APIs and improving deployment processes, operations procedures, and systems metrics. In this role, you will We are looking for someone who has Bonus Magic is fully remote, though we would prefer this role specifically to be in a timezone where we can have more hours overlap with the North American team members due to the need for frequent communication and collaboration.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-08T06:06:10.000Z"
+  },
+  "company": {
+    "name": "Magic",
+    "link": "https://www.linkedin.com/company/magiclabs-inc"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist - Instagram Youth",
+    "industry": "Internet",
+    "description": "Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.  The Youth team at Instagram is focused on building a safe and fun Instagram experience for kids 13 and under. The new generation of kids are growing up as digital natives, and in a post-pandemic world they increasingly rely on online apps for a variety of needs - connecting with friends, being entertained, expressing themselves, etc. So, we want to reimagine the Instagram experience for young kids in way that it provides a safe space for them to get a first taste of social media and experience its wonders - whether it is to connect with their close friends or to discover and explore their interests & identity.This is a brand new team within Instagram, and the role offers incredible breadth - you will get an opportunity to interface with a number of teams within Instagram and touch multiple parts of the IG product. Some of the problems we are currently working on include establishing appropriate content standards to ensure that the content that U13s see on Instagram is age-appropriate, protecting young people from potentially unsafe interactions on Instagram and creating compelling experiences that can be added to the current Instagram product, that young people are more likely to find fun & innovative.If you are excited about 0→1 product efforts, passionate about building a safe social networking experience for young people, and want to partake in a first-of-its kind effort within the industry and get in at ground zero and shape it end-to-end, this is the right role for you! Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-04T06:20:24.000Z"
+  },
+  "company": {
+    "name": "Instagram",
+    "link": "https://www.linkedin.com/company/instagram"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 72,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": "USD",
+    "min_value": 88000,
+    "max_value": 209000,
+    "unit": "YEAR"
+  },
+  "location": {
+    "country": "US",
+    "locality": "Menlo Park",
+    "region": "CA",
+    "postal_code": "94029",
+    "street_address": null,
+    "latitude": 37.45322,
+    "longitude": -122.18322
+  }
+}

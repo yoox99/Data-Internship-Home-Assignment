@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Data Scientist",
+    "industry": "Information Technology and Services",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-05T12:38:39.000Z"
+  },
+  "company": {
+    "name": "Bridge Technical Talent",
+    "link": "https://www.linkedin.com/company/bridge-technical-talent"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 60,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Connecticut",
+    "region": "United States",
+    "postal_code": "06450",
+    "street_address": null,
+    "latitude": 41.575153,
+    "longitude": -72.73828
+  }
+}

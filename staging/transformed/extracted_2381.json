@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Financial Services",
+    "description": "is providing traditional staffing services, professional and technical staffing and management services to some of the country's leading companies with highest quality of service.  Due to our expertise across multi-platform technologies and skill-sets, provides services to a wide spectrum of customers across verticals such as Banking, Financial Services, Healthcare, Human Resources, Telecom, Insurance, Hospitality, Retail & Distribution and Manufacturing. Serving multinational customers, Inc has gained vast experience and competence to deliver quality services at competitive prices. Additional Information  All your information will be kept confidential according to EEO guidelines.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-02T00:00:00.000Z"
+  },
+  "company": {
+    "name": "Centraprise",
+    "link": "https://www.linkedin.com/company/centraprise"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "New York",
+    "region": "NY",
+    "postal_code": "10132",
+    "street_address": null,
+    "latitude": 40.713047,
+    "longitude": -74.00723
+  }
+}

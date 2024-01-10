@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "",
+    "description": "Partner Software is seeking a Mid-Level Full Stack Developer/Engineer for the Map Platform team. We are looking for a motivated developer who wants to own the design and development of an application used to process, analyze, and display geographic data.  If you have a desire to take lead on a project and build simple yet powerful programs, you will be a great fit. You will also enjoy the benefits of working in a small and fast paced business that is backed with the necessary resources to enhance your career and have your efforts play a key role in the success of the company.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-01T15:30:51.000Z"
+  },
+  "company": {
+    "name": "Partner Software",
+    "link": "https://www.linkedin.com/company/partner-software"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Athens",
+    "region": "GA",
+    "postal_code": "30605",
+    "street_address": null,
+    "latitude": 33.957413,
+    "longitude": -83.3768
+  }
+}

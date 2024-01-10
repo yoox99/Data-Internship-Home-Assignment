@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Computer Hardware,Computer Software,Information Technology and Services",
+    "description": "If you love the pursuit of excellence and are inspired by the challenges that come through driving innovations that impact how the world lives, works and plays, then we invite you to learn more about Microsoft Operations - and the value we deliver across Microsoft and to our customers and partners. We offer unique opportunities to work on interesting global projects in an environment that appreciates diversity, focuses on talent development and recognizes and rewards great work.  We make doing business with Microsoft easy. The Microsoft Business Operations Data Engineering team is looking for a talented Site Reliability Engineer to design, build & operate business oriented services for Microsoft.  The successful candidate will be at ease leading the architecture for the next generation of Data Engineering Platform as we move into PaaS, Performance Tuning SQL, and SSAS, Troubleshooting across complex distributed systems, and leading incident investigations & capable of identifying root cause in a complex, distributed environment. It is desirable that you have one or more of the following MSFT certifications; Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.  Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-20T02:43:13.000Z"
+  },
+  "company": {
+    "name": "Microsoft",
+    "link": "https://www.linkedin.com/company/microsoft"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Atlanta",
+    "region": "GA",
+    "postal_code": "30355",
+    "street_address": null,
+    "latitude": 33.748547,
+    "longitude": -84.3915
+  }
+}

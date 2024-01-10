@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer",
+    "industry": "Insurance,Health, Wellness and Fitness",
+    "description": "",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-07-27T18:41:21.000Z"
+  },
+  "company": {
+    "name": "Sana",
+    "link": "https://www.linkedin.com/company/sana-benefits"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "Texas Metropolitan Area",
+    "postal_code": "78723",
+    "street_address": null,
+    "latitude": 30.276316,
+    "longitude": -97.70931
+  }
+}

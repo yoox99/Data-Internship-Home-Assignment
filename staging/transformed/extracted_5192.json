@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "",
+    "description": "Position: Site Reliability Engineer Location: Remote Job Type: 12 Months  Job Responsibilities: •\tWork in a cross-functional team to design and implement the next generation of CI/CD •\tplatform as a service in-house product. •\tLeverage Kubernetes operators, Tekton and Spinnaker pipelines to automate the •\tdeployment and administration of applications across multiple environments on-prem •\tand in the cloud. •\tDefine workflows and processes to meet Infrastructure-as-Code objectives. •\tActively facilitate continuous improvement. •\tMonitor various systems capacity and health indicators and trends. •\tProvide 24x7 tier-3 troubleshooting and break-fix support for production services. •\tDesign and build RESTful microservices enabling the application of role-based access •\tcontrol, network policies, and service registration.  Required Qualifications: •\t2-5 years of relevant work experience. •\tStrong software engineering skills, preferably working in multiple programming •\tlanguages (Java, Go, Python). •\tProficiency in cloud-native technologies and architectures (Docker, Kubernetes, •\tOpenShift). •\tProficiency in revision control and DevOps best practices (Git). •\tExpert Linux experience (Red Hat, CentOS).  Preferred Qualifications: •\tExperience with public or private cloud services (AWS, Azure, Google Cloud, •\tOpenStack). •\tFamiliarity with continuous integration/deployment tools and platforms (Spinnaker, •\tDrone, Jenkins, Ansible). •\tFamiliarity with Application Performance Monitoring (APM or tracing) •\tContributions to open-source projects.  Regards, Justeen Technical Recruiter VDart Inc Email: Justeen.d@vdartinc.com",
+    "employment_type": "CONTRACTOR",
+    "date_posted": "2021-08-20T17:59:58.000Z"
+  },
+  "company": {
+    "name": "VDart",
+    "link": "https://www.linkedin.com/company/vdart"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}

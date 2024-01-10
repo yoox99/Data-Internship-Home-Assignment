@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Site Reliability Engineer",
+    "industry": "Marketing and Advertising,Information Technology and Services,Computer Software",
+    "description": "Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.  We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours! Adobe’s Commerce Customer Engineering team is looking for a Site Reliability Engineer to join our Cloud Operations team.  As a high-growth, e-commerce company, we are looking for an experienced SRE with a heavy emphasis on backend operations support. We define, create, and operate Adobe’s e-commerce platform that includes client experience, build and deploy analysis, production applications, and infrastructure.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-10-16T04:05:15.000Z"
+  },
+  "company": {
+    "name": "Adobe",
+    "link": "https://www.linkedin.com/company/adobe"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 36,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Austin",
+    "region": "TX",
+    "postal_code": "78746",
+    "street_address": null,
+    "latitude": 30.264978,
+    "longitude": -97.7466
+  }
+}

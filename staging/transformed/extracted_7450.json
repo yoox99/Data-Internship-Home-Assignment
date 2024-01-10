@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Advanced Software Development Engineer - Remote",
+    "industry": "Telecommunications,Computer Networking",
+    "description": "The Advanced Software Development Engineer will be a member of a team responsible for designing, analyzing requirements, developing, implementing, testing, debugging, and maintaining software solutions for ADTRAN products including but not limited to the following: application development, system software architecture, software test development, and customer assistance.  This Advanced Software Engineer is an Advanced Level professional Engineer. This position expects the individual to have a broad knowledge base within a design specialization and act as a technical authority in area of specialty on assigned projects. The position requires prior experience in all aspects of a project in the full product development cycle: conceptualizing, developing prototypes, testing, and perfecting designs. The individual will be expected to provide technical guidance to other members of the team. It takes people to connect with people. At, ADTRAN we hire the best and brightest individuals who share our passion for meeting customer expectations the first time, every time. Employment is based not only on professional qualifications but also on the character and personal attributes we deem essential for the continued growth and success of the company. ADTRAN adheres to the highest ethical standards. This bar is set by our leadership and strengthened by our employees. Our employees are truly our most valued resource and are the reason for the company’s continued success.  For more than three decades, ADTRAN has been a leader in the telecommunications industry. We are enabling communities and connecting lives as we equip service providers around the globe to deliver Gigabit broadband. These services are transforming the way people live, work and play. As an innovator, the company is also focused on the future. We are defining the future network with cloud-based software solutions developed with an open, scalable and programmable approach.  We invite you to explore our current job opportunities and apply for those you deem fit your skills and qualifications.  ADTRAN is an Equal Opportunity/Affirmative Action Employer of all individuals. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disabilities, age, protected military or veteran status, or any other characteristic or status protected by federal, state or local laws.  Thank you for your interest in ADTRAN careers.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-09-12T05:18:34.000Z"
+  },
+  "company": {
+    "name": "ADTRAN",
+    "link": "https://www.linkedin.com/company/adtran"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 108,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "Portland",
+    "region": "OR",
+    "postal_code": "97268",
+    "street_address": null,
+    "latitude": 45.516018,
+    "longitude": -122.68143
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Software Engineer (Backend)",
+    "industry": "Computer Software,Internet,Financial Services",
+    "description": "We are looking for brilliant software engineers who have a passion for consumer products and want to join an energetic team that is changing the way people think about travel. We ship code daily, A/B test extensively, and have a primary role in creating the product from inception to implementation. There’s much to do, and you’ll be responsible for making some real cool stuff happen.  Our APIs, internal services, and web app are at the core of our stable of software that’s reinventing mobility. Be a member of a small team of talented engineers and designers and play a major role in shaping an exciting app that’s changing how people travel and think about car ownership. Turo is the world’s largest car sharing marketplace where you can book any car you want, wherever you want it, from a vibrant community of trusted hosts across the US, Canada, and the UK. Guests choose from a totally unique selection of nearby cars, while hosts earn extra money to offset the costs of car ownership. A pioneer of the sharing economy and the travel industry, Turo is a safe, supportive community where the car you book is part of a story, not a fleet. Discover Turo at https://turo.com, the App Store, and Google Play, and check out our blog, Field Notes.  Turo has raised $450M to date from top-tier investors, including IAC, Daimler AG, Kleiner Perkins, GV, Canaan Partners, August Capital, and Shasta Ventures.  Turo cultivates a tight-knit team of smart, critical thinkers who care about their work and their colleagues. Our recruiting team is always on the lookout for supportive, down-to-earth, pioneering, and efficient candidates to grow our team's talent and enrich our culture.  Read more about the Turo culture according to Turo CEO, Andre Haddad.  We're an equal opportunity employer and value diversity at our company. We don't discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, or disability status. When in doubt, please apply!",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-10T04:09:05.000Z"
+  },
+  "company": {
+    "name": "Turo",
+    "link": "https://www.linkedin.com/company/turo"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 24,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "San Francisco",
+    "region": "CA",
+    "postal_code": "94121",
+    "street_address": null,
+    "latitude": 37.78008,
+    "longitude": -122.42016
+  }
+}

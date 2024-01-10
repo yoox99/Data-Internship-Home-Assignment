@@ -1,0 +1,35 @@
+{
+  "job": {
+    "title": "Senior Site Reliability Engineer",
+    "industry": "Information Technology and Services,Computer Software,Internet",
+    "description": "SentinelOne is defining the future of cybersecurity through our XDR platform that automatically prevents, detects, and responds to threats in real-time. Singularity XDR ingests data and leverages our patented AI models to deliver autonomous protection. With SentinelOne, organizations gain full transparency into everything happening across the network at machine speed – to defeat every attack, at every stage of the threat lifecycle.  We are a values-driven team where names are known, results are rewarded, and friendships are formed. Trust, accountability, relentlessness, ingenuity, and OneSentinel define the pillars of our collaborative and unified global culture. We're looking for people that will drive team success and collaboration across SentinelOne. If you’re enthusiastic about innovative approaches to problem-solving, we would love to speak with you about joining our team! We are looking for a Site Reliability Engineer - Senior to join the platform team inside SentinelOne’s SRE organization. SRE organization’s mission is to keep our uptime promise to our customers by ensuring we meet our SLOs/SLAs, help our engineering teams ship software to our customers fast and with quality and ensure our customers are successful. In this job, you will have an amazing opportunity to drive outcomes that improve reliability, stability and cost efficiency of SentinelOne’s Singularity platform. We are looking to add a Senior SRE with prior extensive operations experience for a SaaS product, who can drive deployment re-architecture with focus on self-service and automation. Someone who has delivered SaaS products on multi-cloud, on-prem and air gapped environments, driven continuous delivery of software, has run incident post-mortems, has provided feedback to engineering architecture decisions and has automated repetitive operational tasks would be a great fit. You will join a like minded team of awesome SRE engineers who help run our operations smoothly at scale by building a platform on which SentinelOne’s services can run. If the thought of running a large scale cybersecurity platform on various cloud providers, on-prem and air gapped environments excite you, you’ve found the right place!  We value good written communication skills, data driven decisions and a keen eye for continuous improvements. You’ll help simplify, have a passion for new ideas and know how to execute iteratively towards the final goal. We value candor and collaboration.  SRE and DevOps are two titles loosely used in the industry. A SRE engineer at SentinelOne defines and provisions the common set of tools the engineering teams use to facilitate dev <-> ops collaboration by consulting and driving best practices. SRE at SentinelOne is also responsible for uptime and providing feedback to engineering on architecture/software resiliency. A DevOps engineer operates as the last mile consultant/accelerator to help engineering teams onboard on SRE’s platform and processes. Apart from the above technical skills, following soft skills are desired: You will work on real-world problems and make an impact by protecting our customers from cyber threats. You will join a cutting-edge project and will be able to influence the architecture, design and structure of our core platform. You will tackle extraordinary challenges and work with the very BEST in the industry. SentinelOne is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.  SentinelOne participates in the E-Verify Program for all U.S. based roles.",
+    "employment_type": "FULL_TIME",
+    "date_posted": "2021-08-17T02:28:57.000Z"
+  },
+  "company": {
+    "name": "SentinelOne",
+    "link": "https://www.linkedin.com/company/sentinelone"
+  },
+  "education": {
+    "required_credential": "bachelor degree"
+  },
+  "experience": {
+    "months_of_experience": 84,
+    "seniority_level": " "
+  },
+  "salary": {
+    "currency": " ",
+    "min_value": 0,
+    "max_value": 0,
+    "unit": " "
+  },
+  "location": {
+    "country": "US",
+    "locality": "United States",
+    "region": null,
+    "postal_code": "99999",
+    "street_address": null,
+    "latitude": 39.50355,
+    "longitude": -99.0183
+  }
+}
